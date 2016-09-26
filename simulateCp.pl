@@ -22,11 +22,11 @@ if (-e $ARGV[1] && -s $ARGV[1]) {
   chop($choice);
 
   if ($choice eq "y" || $choice eq "yes") {
-    print("Overwriting the file...\n");
+    print("Overwriting the file ...\n");
     &writeToFile;
   }
   else {
-    print("Exiting...\n");
+    print("Exiting ...\n");
   }
 }
 else
