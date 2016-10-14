@@ -4,24 +4,27 @@
 use LWP::Simple;
 use HTML::Strip;
 use HTML::LinkExtor;
-use WWW::Mechanize;
+#use WWW::Mechanize;
 
+$mainUrl = "http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/";
 $mainPageContent = get("http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/"); # get the content of the website enlosed in html marker.
 
 die "Couldn't get content!" unless defined $mainPageContent;
 
 # parse the mainPageContent and get the links in the website
-$LinkExtor = HTML::LinkExtor->new(\&getLinks);
+$LinkExtor = HTML::LinkExtor->new(\&getLinks, "http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/");
 $LinkExtor->parse($mainPageContent);
 
 # parse the "mainPageContent" and strip off the HTML marker
 $hs = HTML::Strip->new();
 $page_text = $hs->parse($mainPageContent);
 
-@links = &getLinks;
-
+@links = $LinkExtor->links;
+#@links = getLinks();
+print(@links);
 foreach $link (@links) {
-  #print $link, "\n";
+  print $link, "here\n";
+  if(false) {
   my $pageContent = get($link);
   die "Couldn't get content!" unless defined $pageContent;
   my $hs = HTML::Strip->new();
@@ -49,14 +52,15 @@ foreach $link (@links) {
         else {
           $wordFrequency{$words[$w]}++;
           $wordCount++;
-        }
+        }ch
       }
       $w++;
     } # while
   } # foreach
+  }
 }
 
-print("\nTotal number of words: ", $wordCount, "\n");
+#print("\nTotal number of words: ", $wordCount, "\n");
 
 sub getLinks {
   ($tag, %allLinks) = @_;
