@@ -1,0 +1,534 @@
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+  
+    
+      
+      
+      
+      
+      
+      
+      
+      
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+
+
+
+  
+    
+      
+      Information Retrieval and Web Search
+      
+      Prof. Vasile Rus
+       Course # COMP/PSYC7/8130 -
+Fall 2016 
+      Announcements | Course Information | Schedule
+      
+      
+      
+      
+      
+    
+  
+
+
+
+
+
+Announcements
+
+09/15/16 Check this out: chatbot disruption .
+09/13/16 Assignment #3 has been issued.
+08/30/16 PhD students, i.e. those enrolled in the 8000-level section must send me their presentation topic via email by Sept 6, 2016.
+08/23/16 Syllabus is here .
+08/23/16
+Welcome to the Information Retrieval and Web Search course.
+
+
+
+Welcome!
+  The Information Retrieval and Web Search course addresses one of the major problem of our times. Today, one of the major problems is not lack of information but too much information. We need intelligent ways to organize the vast amount of information available at our fingertips and to effectively search for what we want. We are faced with an Information Overload problem. The Information Retrieval and Web Search class presents the major challenges posed by this problem and solutions to these challenges.
+  The course introduces computational techniques to search for information in static collections of documents and in dynamic collections, e.g. web. Students will be exposed to text processing algorithms, classical information retrieval models (e.g., Boolean and Vectorial models), and web search techniques. The course is closely related to the Natural Language Processing course.
+
+
+Course catalog
+entry :
+
+ 
+Advanced current research topics in database and information management, with emphasis on nontraditional data and applications. PREREQUISITE: COMP 7116 or permission of instructor. 
+
+
+  
+    
+      
+      Lectures:
+      
+      
+      T-R 11:20AM-12:45 PM, DH119
+      
+    
+    
+      
+      Prof:
+      
+      
+      Vasile
+Rus -  
+      
+    
+    
+      
+      TA: Shanshan Gao 
+      
+      
+      TA - sgao  AT memphis D-_O-T  edu 
+      
+    
+    
+      
+      Office hrs:
+      
+      
+      For Prof: T-R 10:00AM-11:00AM, or by
+appt, in DH323
+      For TA: 10:30-11:30AM on MW, or by appointment, in DH217 
+      
+    
+    
+      
+      Web page:
+      
+      
+      http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/
+      
+    
+    
+      
+      Textbook:
+      
+      
+      Baeza-Yates, Ribeiro-Neto Modern Information Retrieval  (required)
+      
+Manning, Raghavan, Schutze Introduction to Information
+Retrieval  (recommended) 
+      
+
+      
+    
+    
+      
+      Policies:
+      
+      
+      Grading: assignments - 35%, project -
+30%, midterm - 15%, final - 15%, 5% - Participation/Interaction&Presentations 
+      Submission: see first lecture 
+      Lateness: see first lecture 
+      Plagiarism: see first lecture 
+      Intellectual engagement: see first lecture 
+      Announcements: Come to class and read this page!
+      
+    
+    
+      
+      Similar IR courses:
+      
+      
+      
+        
+          
+            
+            Some of the course slides are more or less
+ adapted from the courses below.
+            
+            
+          
+        
+      
+      
+      
+    
+  
+
+ 
+
+
+
+Assignments: In general, you
+get 50% of the grade for correctness and robustness and 50% for
+quality of the solution, documentation and style. Assignments should be
+written clearly and if code is required the code shoud follow at least
+the Recommended standard below.
+
+
+  
+    
+      Code Style Standard
+      Recommended
+      
+    
+  
+
+
+
+
+ Plagiarism/Cheating Policy:
+Plagiarism or cheating behavior in any form is
+unethical and detrimental to proper education and will not be
+tolerated. All work submitted by student (projects, programming
+assignments, lab assignments, quizzes, tests etc.) is expected to be a
+student's own work. The plagiarism is incurred when any part of
+anybody else's work is passed as your own (no proper credit is listed
+to the sources in your own work) so the reader is led to believe it is
+therefore your own effort. Students are allowed and encouraged to
+discuss with each other and look up resources in the literature
+(including the internet) on their assignments, but appropriate
+references must be included for the materials consulted, and
+appropriate citations made when the material is taken verbatim.
+
+
+If plagiarism
+or cheating occurs, the student will receive a failing grade on the
+assignment
+and (at the instructor discretion) a failing grade in the course.The
+course
+instructor may also decide to forward the incident on to University
+Judicial
+Affairs Office for further disciplinary action.
+
+
+For further
+information on U of M code of student conduct and academic
+discipline
+procedures, please refer to:  http://www.people.memphis.edu/~jaffairs/ .
+
+
+
+
+Tentative
+Schedule
+You may find
+lectures and assignments here! Lectures are compiled from different
+sources including personal notes, textbooks, materials
+used in related classes on Information Retrieval and Natural Language Processing at famous
+universities (primarily from UT Austin - Dr. Ray Mooney and UNT - Dr. Rada Mihalcea) and other materials.
+
+  
+    
+ 
+      Week
+      
+      
+      Monday
+      
+      
+      Wednesday
+      
+      
+      Readings & Assignments
+      
+    
+    
+  08/23,08/25
+      
+      
+Introduction [PPT]
+      
+      
+       
+Introduction [PPT]
+      
+      
+      
+      Chapter 1
+      Assignment 1
+      
+      
+    
+    
+  08/30,09/01
+      
+      
+Introduction to Perl [PPT]
+      
+      
+       
+Introduction to Perl [PPT]
+      
+      
+      
+      Perl Tutorial
+      
+      
+    
+    
+  09/06,09/08
+      
+      
+IR Models [PPT]
+      
+      
+       
+Retrieval Evaluation [PPT]
+      
+      
+      
+      Assignment 02
+      
+      
+    
+    
+  09/13,09/15
+      
+      
+Retrieval Evaluation [PPT]
+      
+      
+       
+Query Languages [PPT]
+      
+      
+      
+      Chapter 2
+      Assignment 03
+      
+      
+    
+    
+  09/20,09/22
+      
+      
+Query Operations [PPT]
+      
+      
+       
+Text Properties [PPT]
+      
+      
+      
+      Chapter 2, 3
+      
+      Assignment 04
+      
+    
+    
+  09/27,09/29
+      
+      
+Text Operations [PPT]
+      
+      
+       
+Indexing and Searching [PPT]
+      
+      
+      
+      Chapter 4, 5
+      
+      
+    
+    
+  10/04,10/06
+      
+      
+Indexing and Searching [PPT]
+      
+      
+       
+Indexing and Searching [PPT]
+      
+      
+      
+      Chapter 7
+      Porter's stemmer is here .
+      Porter's stemmer slides available here .
+      Assignment 05
+      
+      
+    
+    
+  10/11,10/13
+      
+      
+ NO CLASS - FALL BREAK
+      
+      
+Question Answering [PPT] , Review
+      
+      
+      
+      
+      
+      
+    
+    
+  10/18,10/20
+      
+      
+MIDTERM
+      
+      
+       
+Web Search Intro  [PPT] 
+      
+      
+      
+      Chapters 8, 13
+      MapReduce paper
+      
+      
+    
+    
+  10/25,10/27
+      
+       
+Web Search Intro  [PPT] 
+      
+      
+       
+Web Search  [PPT] 
+      
+      
+      Assignment 06
+      PageRank paper
+      Chapters 13
+      
+      
+    
+    
+  11/01,11/03
+      
+       Text Categorization [PPT]
+      
+      
+       
+Text Categorization  [PPT] 
+      
+      
+      
+      
+      
+    
+    
+  11/08,11/10
+      
+       Text Clustering [PPT]
+      
+      
+       
+Text Clustering  [PPT] 
+      
+      
+      Chapters 5
+      Assignment 07
+      
+      
+    
+    
+  11/15,11/17
+      
+       
+Advanced IR Models [PPT]
+      
+      
+Advanced IR Models [PPT]
+	
+      
+      
+      Assignment 8
+      
+      
+      
+    
+    
+  11/22,11/24
+      
+       
+Advanced IR Models [PPT]
+      
+      
+      THANKSGIVING HOLIDAY - NO CLASS!
+      
+      
+      
+       
+      
+      
+    
+    
+  11/29,12/01
+      
+       Review, Project Presentations
+      
+      
+       Review, Project Presentations 
+      
+      
+      
+       
+      
+      
+    
+    
+ 
+      12/06,12/08
+      
+      
+       
+      
+      
+       
+      
+      
+      Final exam is on R 12/08, 8:00AM-10:00AM.
+      
+    
+  
+
+ 
+
+
+
+Department of
+ Computer Science
+The University
+of Memphis
+Dunn Hall Room
+320
+Memphis, TN
+38120
+(901) 678-5259
+(phone)
+(901) 678-2480
+(fax)
+
+Page
+maintainer: 
+
+
+

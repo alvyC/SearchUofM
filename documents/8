@@ -1,0 +1,33 @@
+
+Assignment #3
+Due Date: Sept 22, 2016
+
+*************************************************************************
+Remember: Assignments must be turned electronically (via email to the TA). 
+In case of a programming assignment, you must be careful about what to 
+turn in. If some parts of the assignment are too large, e.g. the output,
+then you only need to print your assignment report and source code. Each 
+assignment must have a cover page with your name, assignment number, and due
+date. Also, please include the statements of all the problems. A
+report which summarizes your solution and results, in the form of a MS
+Word document or equivalent, must accompany an assignment submission.
+
+Any questions? Contact Dr. Vasile Rus at vrus@memphis.edu or by phone
+at 678-5259.
+
+*************************************************************************
+
+-------------------------------------------------------------------------
+
+Problem 1 [20 points]. Design an extension of the basic Boolean model that 
+would allow for ranking of the retrieved documents. Be as detailed as possible.
+
+Problem 2 [30 points]. Write a Perl script that displays the vocabulary
+and frequency of each word in the main page of the class' website and
+on all other documents directly linked from the main page. For each
+word, also compute in how many different documents it occurs in this
+small collection. You must use hashes.
+
+-------------------------------------------------------------------------
+
+

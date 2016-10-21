@@ -4,34 +4,53 @@
 use LWP::Simple;
 use HTML::Strip;
 use HTML::LinkExtor;
-#use WWW::Mechanize;
+use WWW::Mechanize;
 
-$mainUrl = "http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/";
-$mainPageContent = get("http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/"); # get the content of the website enlosed in html marker.
+my $baseUrl = 'http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/';
+my $fileLocation = "./documents/";
+my $fileExtension = ".txt";
 
-die "Couldn't get content!" unless defined $mainPageContent;
+#get all the one-click url (in the baseUrl) and push to $one_click_links
+my @one_click_links = ();
+push(@one_click_links, $baseUrl);
+my $mechanize = WWW::Mechanize->new();
+$mechanize->get($baseUrl);
 
-# parse the mainPageContent and get the links in the website
-$LinkExtor = HTML::LinkExtor->new(\&getLinks, "http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/");
-$LinkExtor->parse($mainPageContent);
+# get only links which are not in the same page,
+my $documentNo = 1;
+my @allLinks = $mechanize->links();
+foreach my $link (@allLinks) {
+  if (!($link->url =~ /\#/) and ($link->url ne "")
+      and (index($link->url, "ppt") == -1)
+      and (index($link->url, "pdf") == -1)) { # don't add the links which are in the same page, empty line and ppt file
+    push(@one_click_links, $link->url);
+  }
+}
 
-# parse the "mainPageContent" and strip off the HTML marker
-$hs = HTML::Strip->new();
-$page_text = $hs->parse($mainPageContent);
+foreach $link (@one_click_links) {
+  #print $link, "\n";
+  my $content;
+  my $linkType = "absolute";
+  if (($link !~ /^http/)) { # if $link is a relative path
+    if ($link =~ /txt/ or $link =~ /html/) { # if $link contains the substring ".txt", it is a text document
+      $linkType = "relative";
+    }
+  }
 
-@links = $LinkExtor->links;
-#@links = getLinks();
-print(@links);
-foreach $link (@links) {
-  print $link, "here\n";
-  if(false) {
-  my $pageContent = get($link);
-  die "Couldn't get content!" unless defined $pageContent;
-  my $hs = HTML::Strip->new();
-  my $page_text = $hs->parse($pageContent);
+  $content = &getContent($link, $linkType);
+  if (defined($content)) {
+    #print("Success");
+    #print($content)
+    &saveContent($content, $documentNo);
+    $documentNo++;
+  }
+  else {
+    #print ("Failure");
+    next;
+  }
 
   $wordCount = 0;
-  foreach $line (split /\n/, $page_text) {
+  foreach $line (split /\n/, $content) {
     @words = split(/[\s\t]+/, $line);
     $w = 0;
     while($w < @words) {
@@ -52,25 +71,41 @@ foreach $link (@links) {
         else {
           $wordFrequency{$words[$w]}++;
           $wordCount++;
-        }ch
+        }
       }
       $w++;
-    } # while
-  } # foreach
+    } # while - word
+  } # foreach - line
+} # foreach - link
+
+# print("\nTotal number of words: ", $wordCount, "\n");
+
+sub getContent {
+  my ($link, $isAbsolute) = @_;
+  if($isAbsolute ne "absolute") {
+    $link = $baseUrl . $link;
+  }
+
+  my $mechanize = WWW::Mechanize->new(autocheck => 0);
+  my $content = $mechanize->get($link);
+  if ($content->is_success) { # if the content retrieval is successful
+    print("Success: This is link to text/html file (relative path): ", $baseUrl . $link, "\n");
+    $content = $mechanize->content();
+    $hs = HTML::Strip->new();
+    $page_text = $hs->parse($content);
+    return $page_text;
+  }
+  else {
+    print("Failure: ", $baseUrl . $link, "\n");
+    return undef;
   }
 }
 
-#print("\nTotal number of words: ", $wordCount, "\n");
-
-sub getLinks {
-  ($tag, %allLinks) = @_;
-  if ($tag eq "a") {
-    foreach $key (keys %allLinks) {
-      if ($key eq "href") {
-        #print "$allLinks{$key}\n";
-        push(@links, $allLinks{$key});
-      }
-    }
-  }
-  @links;
+sub saveContent {
+  my ($content, $documentNo) = @_;
+  $fileAbsolutePath = $fileLocation . $documentNo . $fileExtension;
+  open(WRITEFILE, ">", $fileAbsolutePath);
+  print WRITEFILE $content;
 }
+
+

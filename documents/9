@@ -1,0 +1,39 @@
+
+Assignment #4
+Due Date: Oct 13, 2016
+
+*************************************************************************
+Remember: Assignments must be turned in electronically (via email to the TA). 
+In case of a programming assignment, you must be careful about what to 
+turn in. If some parts of the assignment are too large, e.g. the output, 
+then you only need to print your assignment report and source code. Each 
+assignment must have a cover page with your name, assignment number, and due
+date. Also, please include the statements of all the problems. A
+report which summarizes your solution and results, in the form of a MS
+Word document or equivalent, must accompany an assignment submission.
+
+Any questions? Contact Dr. Vasile Rus at vrus@memphis.edu or by phone
+at 678-5259.
+
+*************************************************************************
+
+-------------------------------------------------------------------------
+
+Problem 1 [30 points]. Write a Perl program that preprocesses a 
+collection of documents using the recommendations given in the 
+Text Operations lecture. The input to the program will be a directory
+containing a list of text files. Use the files from assignment #3 as
+test data as well as 10 documents (manually) collected from news.yahoo.com . 
+The yahoo documents must be converted to text before using them.
+
+Remove the following during the preprocessing:
+- digits
+- punctuation
+- stop words (use the generic list available at ...ir-websearch/papers/english.stopwords.txt)
+- urls and other html-like strings
+- uppercases
+- morphological variations
+
+-------------------------------------------------------------------------
+
+

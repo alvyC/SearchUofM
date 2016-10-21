@@ -24,7 +24,7 @@ foreach my $link (@allLinks) {
 #&printArray(@one_click_links);
 $fileCount = 1;
 foreach my $link (@one_click_links) {
-  #print($link, "\n");
+  print($link, "\n");
   if (index($link, "txt") != -1) { # if "link" leads to a text document, retrieve the text documents
     my $textContent = get($baseUrl.$link); # get the content from the text
     if ($textContent ne "") { # if "textContent is not empty"
@@ -78,7 +78,7 @@ foreach my $link (@one_click_links) {
     }
     $fileCount++;
   }
-}
+} # for-each
 
 # helper method for printing arrays
 sub printArray {

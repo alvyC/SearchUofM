@@ -1,0 +1,735 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=ISO-8859-1"
+ http-equiv="content-type">
+  <title>Information Retrieval at Institute for Intelligent Systems/The University of Memphis</title>
+  <meta content="Vasile Rus" name="author">
+  <meta content="Information Retrieval" name="description">
+</head>
+<body>
+<p class="MsoNormal"><br>
+</p>
+<table style="width: 45%; text-align: left;" border="0" cellpadding="2"
+ cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;"><span
+ style="font-family: Helvetica;"><img src="img/header-UofM.gif"
+ v:shapes="_x0000_i1035" border="0" height="16" width="166"></span></td>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;"><span
+ style="font-family: Helvetica;"><img src="img/header-cas.gif"
+ v:shapes="_x0000_i1036" border="0" height="16" width="210"></span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+      <h3><span style="font-family: Helvetica;"><span
+ style="text-decoration: underline;"><img
+ alt="Institute for Intelligent Systems" src="img/logo-iis.jpg"
+ style="width: 288px; height: 95px;"></span></span></h3>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;">
+      <h3><span style="font-family: Helvetica;"><span
+ style="text-decoration: underline;"><img
+ alt="Department of Computer Science" src="img/cs_logo.jpg"
+ style="width: 182px; height: 127px;"></span></span></h3>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br style="font-family: times new roman,times,serif;">
+<table class="MsoNormalTable"
+ style="width: 100%; font-family: times new roman,times,serif;"
+ border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr style="">
+      <td style="padding: 0in;" valign="top">
+      <h2><span style="text-transform: uppercase;"><!--BEGIN PAGE CONTENT
+  HERE--><span
+ style="color: rgb(204, 0, 0);">Information Retrieval and Web Search</span><br style="color: rgb(204, 0, 0);">
+      </span></h2>
+      <h3><span style="text-transform: uppercase;"><span
+ style="color: rgb(204, 0, 0);">Prof. Vasile Rus</span></span></h3>
+      <h3><span style="text-transform: uppercase;"> <span
+ style="color: rgb(204, 0, 0);">Course # COMP/PSYC7/8130 -
+Fall 2016</span> <o:p></o:p></span></h3>
+      <p class="footer"><a
+ href="http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/#announcements"><span
+ style="">Announcements</span></a> | <a
+ href="http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/#courseinfo"><span
+ style="">Course Information</span></a> | <a
+ href="http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/#schedule"><span style="">Schedule</span></a>
+      </p>
+      </td>
+      <td style="padding: 0in;" valign="top">
+      <p class="MsoNormal"><img src="img/tiger.jpg" border="0" height="105"
+ width="123"></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p style="font-family: times new roman,times,serif;" class="MsoNormal"><o:p><br>
+</o:p></p>
+<div class="MsoNormal"
+ style="text-align: center; font-family: times new roman,times,serif;"
+ align="center">
+<hr align="center" color="#aca899" noshade="noshade" size="2"
+ width="100%"></div>
+<h3 style="font-family: times new roman,times,serif;"><a
+ name="announcements"></a><span style="text-transform: uppercase;"><span
+ style="color: rgb(204, 0, 0);">Announcements</span><o:p></o:p></span></h3>
+<ul style="font-family: times new roman,times,serif;" type="disc">
+<li class="MsoNormal" style="color: black;"><span style="color: black;">09/15/16</span> Check this out: <a href="http://venturebeat.com/2016/09/07/the-200-billion-chatbot-disruption-part-two/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20venturebeat/SZYF%20%28VentureBeat%29">chatbot disruption</a>.</li>
+<li class="MsoNormal" style="color: black;"><span style="color: black;">09/13/16</span> Assignment #3 has been issued.</li>
+<li class="MsoNormal" style="color: black;"><span style="color: black;">08/30/16</span> PhD students, i.e. those enrolled in the 8000-level section must send me their presentation topic via email by Sept 6, 2016.</li>
+<li class="MsoNormal" style="color: black;"><span style="color: black;">08/23/16</span> Syllabus is <a href="syllabus.COMP78130.pdf">here</a>.</li>
+<li class="MsoNormal" style="color: black;"><span style="color: black;">08/23/16</span>
+Welcome to the Information Retrieval and Web Search course.</li>
+</ul>
+<div class="MsoNormal"
+ style="text-align: center; font-family: times new roman,times,serif;"
+ align="center">
+<hr align="center" color="#aca899" noshade="noshade" size="2"
+ width="100%"></div>
+<p style="font-family: times new roman,times,serif;"><a
+ name="courseinfo"></a><b style="color: rgb(255, 102, 102);">Welcome!</b>
+  The Information Retrieval and Web Search course addresses one of the major problem of our times. Today, one of the major problems is not lack of information but too much information. We need intelligent ways to organize the vast amount of information available at our fingertips and to effectively search for what we want. We are faced with an Information Overload problem. The Information Retrieval and Web Search class presents the major challenges posed by this problem and solutions to these challenges.
+  The course introduces computational techniques to search for information in static collections of documents and in dynamic collections, e.g. web. Students will be exposed to text processing algorithms, classical information retrieval models (e.g., Boolean and Vectorial models), and web search techniques. The course is closely related to the Natural Language Processing course.
+
+</p>
+<p style="font-family: times new roman,times,serif;"><b
+ style="color: rgb(255, 102, 102);">Course catalog
+entry</b><span style="color: rgb(255, 102, 102);">:</span>
+
+ <span
+ style="">
+Advanced current research topics in database and information management, with emphasis on nontraditional data and applications. PREREQUISITE: COMP 7116 or permission of instructor. 
+</span></p>
+<table class="MsoNormalTable"
+ style="border: 1pt outset ; font-family: times new roman,times,serif;"
+ border="1" cellpadding="0">
+  <tbody>
+    <tr style="">
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><b>Lectures:</b><o:p></o:p></p>
+      </td>
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal">T-R 11:20AM-12:45 PM, DH119<o:p></o:p></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><b>Prof:</b><o:p></o:p></p>
+      </td>
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><a href="http://www.cs.memphis.edu/~vrus">Vasile
+Rus</a> - <img src="img/email.gif" border="0" height="16" width="123"> <o:p></o:p></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><b>TA: Shanshan Gao </b><o:p></o:p></p>
+      </td>
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal">TA - sgao  AT memphis D-_O-T  edu <o:p></o:p></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><b>Office hrs:</b><o:p></o:p></p>
+      </td>
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><i>For Prof:</i> T-R 10:00AM-11:00AM, or by
+appt, in DH323<br>
+      For TA:</i> 10:30-11:30AM on MW, or by appointment, in DH217 <o:p></o:p></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><b>Web page:</b><o:p></o:p></p>
+      </td>
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><a
+ href="http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/">http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/</a><o:p></o:p></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><b>Textbook:</b><o:p></o:p></p>
+      </td>
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><a href="">Baeza-Yates, Ribeiro-Neto <i style="">Modern Information Retrieval</i> </a> (required)
+      <br>
+Manning, Raghavan, Schutze <i style="">Introduction to Information
+Retrieval </i> (recommended) <o:p></o:p>
+      <br>
+</p>
+      </td>
+    </tr>
+    <tr style="">
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><b>Policies:</b><o:p></o:p></p>
+      </td>
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><i>Grading:</i> assignments - 35%, project -
+30%, midterm - 15%, final - 15%, 5% - Participation/Interaction&Presentations <br>
+      <i>Submission:</i> see first lecture <br>
+      <i>Lateness:</i> see first lecture <br>
+      <i>Plagiarism:</i> see first lecture <br>
+      <i>Intellectual engagement:</i> see first lecture <br>
+      <i>Announcements:</i> Come to class and read this page!<o:p></o:p></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td style="padding: 2.25pt;" valign="top">
+      <p class="MsoNormal"><b>Similar<br>IR courses:</b><o:p></o:p></p>
+      </td>
+      <td style="padding: 2.25pt;" valign="top">
+      <table class="MsoNormalTable" style="" border="0" cellpadding="0">
+        <tbody>
+          <tr style="">
+            <td style="padding: 2.25pt;" valign="top">
+            <p class="MsoNormal">Some of the course slides are more or less
+ adapted from the courses below.<br><a
+            </td>
+            <td style="padding: 2.25pt;" valign="top">
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="MsoNormal"><o:p></o:p></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p style="font-family: times new roman,times,serif;" class="MsoNormal"><a
+ name="footnote-1"></a><o:p>&nbsp;</o:p></p>
+<div class="MsoNormal"
+ style="text-align: center; font-family: times new roman,times,serif;"
+ align="center">
+<hr align="center" color="#aca899" noshade="noshade" size="2"
+ width="100%"></div>
+
+<span style="font-weight: bold;">Assignments:</span> In general, you
+get 50% of the grade for correctness and robustness and 50% for
+quality of the solution, documentation and style. Assignments should be
+written clearly and if code is required the code shoud follow at least
+the Recommended standard below.<br>
+<br>
+<table style="width: 76.68%; text-align: left;" border="0"
+cellpadding="2"
+ cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; background-color:
+ rgb(255, 204, 204);">Code Style Standard</td>
+      <td style="vertical-align: top; background-color: rgb(255, 204, 204);"><a
+ href="papers/codingStyle.html">Recommended</a><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr align="center" color="#aca899" noshade="noshade" size="2"
+ width="100%"></div>
+
+<br style="font-weight: bold;"> <span style="font-weight:
+ bold;">Plagiarism/Cheating Policy:</span><big><b><u><font
+ face="Times New Roman" size="2"><big><span
+ style=""></span></big></font></u></b></big>
+Plagiarism or cheating behavior in any form is
+unethical and detrimental to proper education and will not be
+tolerated. All work submitted by student (projects, programming
+assignments, lab assignments, quizzes, tests etc.) is expected to be a
+student's own work. The plagiarism is incurred when any part of
+anybody else's work is passed as your own (no proper credit is listed
+to the sources in your own work) so the reader is led to believe it is
+therefore your own effort. Students are allowed and encouraged to
+discuss with each other and look up resources in the literature
+(including the internet) on their assignments, but appropriate
+references must be included for the materials consulted, and
+appropriate citations made when the material is taken verbatim.
+<font face="Times New Roman" size="3"><span
+style=""></span></font><br>
+<div class="Section1"><font face="Times New Roman" size="3"><span
+ style=""><br>
+If plagiarism
+or cheating occurs, the student will receive a failing grade on the
+assignment
+and (at the instructor discretion) a failing grade in the course.The
+course
+instructor may also decide to forward the incident on to University
+Judicial
+Affairs Office for further disciplinary action.</span></font><big>
+
+<br>
+</big><font face="Times New Roman" size="3"><span style="">For further
+information on U of M code of student conduct and academic
+</span></font><font
+ face="Times New Roman" size="3"><span style="">discipline
+procedures, please refer to:&nbsp; </span></font><a
+ href="http://www.people.memphis.edu/%7Ejaffairs/">http://www.people.memphis.edu/~jaffairs/</a>.<br>
+</div>
+
+<hr align="center" color="#aca899" noshade="noshade" size="2"
+ width="100%"></div>
+
+<h3 style="font-family: times new roman,times,serif;"><a name="schedule"></a><span
+ style="text-transform: uppercase; color: rgb(255, 102, 102);">Tentative
+Schedule<o:p></o:p></span></h3>
+<p style="font-family: times new roman,times,serif;">You may find
+lectures and assignments here! Lectures are compiled from different
+sources including personal notes, textbooks, materials
+used in related classes on Information Retrieval and Natural Language Processing at famous
+universities (primarily from UT Austin - Dr. Ray Mooney and UNT - Dr. Rada Mihalcea) and other materials.<o:p></o:p></p>
+<table class="MsoNormalTable"
+ style="width: 76.68%; font-family: times new roman,times,serif;"
+ border="0" cellpadding="0" cellspacing="1" width="76%">
+  <tbody>
+    <tr style="height: 13.7pt;">
+<!-- Row 1 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p style="background-color: rgb(153, 0, 0);" class="MsoNormal"><span
+ style="color: white;">Week</span><o:p></o:p></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%">
+      <p class="MsoNormal"><span style="color: white;">Monday</span><o:p></o:p></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"><span style="color: white;">Wednesday</span><o:p></o:p></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal"><st1:city w:st="on"><st1:place w:st="on"><span
+ style="color: white;">Readings &amp; Assignments</span></st1:place></st1:city><o:p></o:p></p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 2 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">08/23,08/25</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%">
+Introduction <a href="lectures/IR.intro.session-1.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"> 
+Introduction <a href="lectures/IR.intro.session-2.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      Chapter 1<br>
+      <a href="assignments/assignment-01.txt">Assignment 1</a>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 3 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">08/30,09/01</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%">
+Introduction to Perl <a href="lectures/IR.perl.session-3&4.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"> 
+Introduction to Perl <a href="lectures/IR.perl.session-3&4.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      <a href="papers/perlTutorial.pdf">Perl Tutorial</a><br>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 3 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">09/06,09/08</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%">
+IR Models <a href="lectures/IR.models.session-5&6.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"> 
+Retrieval Evaluation <a href="lectures/IR.eval.session-7&8.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      <a href="assignments/assignment-02.txt">Assignment 02</a>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 4 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">09/13,09/15</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%">
+Retrieval Evaluation <a href="lectures/IR.eval.session-7&8.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"> 
+Query Languages <a href="lectures/IR.queryLang.session-9.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      Chapter 2<br>
+      <a href="assignments/assignment-03.txt">Assignment 03</a>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 5 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">09/20,09/22</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%">
+Query Operations <a href="lectures/IR.queryOps.session-10.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"> 
+Text Properties <a href="lectures/IR.textProperties.session-11.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      Chapter 2, 3<br>
+      </p>
+      <a href="assignments/assignment-04.txt">Assignment 04</a>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 6 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">09/27,09/29</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%">
+Text Operations <a href="lectures/IR.textOperations.session-12.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"> 
+Indexing and Searching <a href="lectures/IR.indexingANDsearching.session-13.ppt">[PPT]</a>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      Chapter 4, 5<br>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 7 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">10/04,10/06</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%">
+Indexing and Searching <a href="lectures/IR.indexingANDsearching.session-13.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"> 
+Indexing and Searching <a href="lectures/IR.indexingANDsearching.session-13.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      Chapter 7<br>
+      Porter's stemmer is <a href="http://tartarus.org/~martin/PorterStemmer/">here</a>.<br>
+      Porter's stemmer slides available <a href="lectures/IR.session-extra.stemming.ppt">here</a>.<br>
+      <a href="assignments/assignment-05.txt">Assignment 05</a><br>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 8 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">10/11,10/13</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%">
+ NO CLASS - FALL BREAK</p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+Question Answering <a href="lectures/IR.QA.session-19.ppt">[PPT]</a>, Review</p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      <br>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 9 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">10/18,10/20</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%">
+MIDTERM
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"> 
+Web Search Intro <a href="lectures/IR.WebSearchIntro.session-14.ppt"> [PPT] </a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      Chapters 8, 13<br>
+      <a href="papers/mapReduce.pdf">MapReduce paper</a>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 10 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">10/25,10/27</span><br>
+      </td>
+      <td style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%"> 
+Web Search Intro <a href="lectures/IR.WebSearchIntro.session-14.ppt"> [PPT] </a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"> 
+Web Search <a href="lectures/IR.WebSearchTech.session-15.ppt"> [PPT] </a></p>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      <a href="assignments/assignment-06.txt">Assignment 06</a><br>
+      <a href="papers/PageRankFranceschet.pdf">PageRank paper</a><br>
+      Chapters 13<br>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 10 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">11/01,11/03</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%"> Text Categorization <a href="lectures/IR.textCategorization.session-16.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"> 
+Text Categorization <a href="lectures/IR.textCategorization-2.session-17.ppt"> [PPT] </a></     </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      <br>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 11 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">11/08,11/10</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%"> Text Clustering <a href="lectures/IR.textClustering.session-18.ppt">[PPT]</a></p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"> 
+Text Clustering <a href="lectures/IR.textClustering.session-18.ppt"> [PPT] </a></     </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      Chapters 5<br>
+      <a href="assignments/assignment-07.txt">Assignment 07</a><br>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 10 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">11/15,11/17</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%"> 
+Advanced IR Models<a href="lectures/IR.advancedIRModels.session-20.ppt">[PPT]</a>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+Advanced IR Models<a href="lectures/IR.advancedIRModels.session-20.ppt">[PPT]</a>
+	</td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+      <a href="assignments/assignment-08.txt">Assignment 8</a><br>
+      <br>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 12 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">11/22,11/24</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%"> 
+Advanced IR Models<a href="lectures/IR.advancedIRModels.session-20.ppt">[PPT]</a>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      THANKSGIVING HOLIDAY - NO CLASS!
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+       <br>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 13 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top"> <span style="color: rgb(255, 255, 255);">11/29,12/01</span><br>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23.5%; height: 13.7pt;"
+ valign="top" width="23%"> Review, Project Presentations</p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 204, 204) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"> Review, Project Presentations </p>
+      </td>
+      <td
+ style="padding: 3pt; background: rgb(255, 102, 102) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal">
+       <br>
+      </p>
+      </td>
+    </tr>
+    <tr style="height: 13.7pt;">
+<!-- Row 15 --> <td
+ style="padding: 3pt; background: rgb(153, 0, 0) none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; height: 13.7pt;"
+ valign="top">
+      <p class="MsoNormal"><span style="color: 
+white;">12/06,12/08<o:p></o:p></span></p>
+      </td>
+      <td style="padding: 3pt; none; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+      </td>
+      <td style="padding: 3pt; none; width: 26.92%; height: 13.7pt;"
+ valign="top" width="26%">
+      <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+      </td>
+      <td style="padding: 3pt; height: 13.7pt;" valign="top">
+      <span style="color: green;"><a href="http://www.memphis.edu/registrar/calendars/exams/16f-final.php">Final exam</a> is on R 12/08, 8:00AM-10:00AM.</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p style="font-family: times new roman,times,serif;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<!-- Row -->
+<div class="MsoNormal"
+ style="text-align: center; font-family: times new roman,times,serif;"
+ align="center">
+<hr align="center" color="#aca899" noshade="noshade" size="2"
+ width="100%"></div>
+<p class="footer"><span
+ style="font-family: times new roman,times,serif;">Department of
+ Computer Science</span><br
+ style="font-family: times new roman,times,serif;" clear="all">
+<span style="font-family: times new roman,times,serif;">The University
+of Memphis</span><br style="font-family: times new roman,times,serif;">
+<span style="font-family: times new roman,times,serif;">Dunn Hall Room
+320</span><br style="font-family: times new roman,times,serif;">
+<span style="font-family: times new roman,times,serif;">Memphis, TN
+38120</span><br style="font-family: times new roman,times,serif;">
+<span style="font-family: times new roman,times,serif;">(901) 678-5259
+(phone)</span><br style="font-family: times new roman,times,serif;">
+<span style="font-family: times new roman,times,serif;">(901) 678-2480
+(fax)</span><br style="font-family: times new roman,times,serif;">
+<br style="font-family: times new roman,times,serif;">
+<span style="font-family: times new roman,times,serif;">Page
+maintainer: </span><a style="font-family: times new roman,times,serif;"
+ href="mailto:CHANGE-HERE@memphis.edu"><span style=""><img
+ src="img/email.gif"></span></a><br
+ style="font-family: times new roman,times,serif;">
+</p>
+</body>
+</html>
