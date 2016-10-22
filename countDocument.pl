@@ -6,11 +6,17 @@ use HTML::Strip;
 use HTML::LinkExtor;
 use WWW::Mechanize;
 
+#make directories for saving web document and processed web documents
+mkdir("documents", 0755);
+mkdir("processed_documents", 0755);
+
 my $baseUrl = 'http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/';
 my $fileLocation = "./documents/";
+my $processedFileLocation = "./processed_documents/";
 my $fileExtension = ".txt";
+my $totalDocument;
 
-#get all the one-click url (in the baseUrl) and push to $one_click_links
+#get all the one-click links (in the baseUrl) and push to $one_click_links
 my @one_click_links = ();
 push(@one_click_links, $baseUrl);
 my $mechanize = WWW::Mechanize->new();
@@ -38,16 +44,16 @@ foreach $link (@one_click_links) {
   }
 
   $content = &getContent($link, $linkType);
-  if (defined($content)) {
-    #print("Success");
-    #print($content)
+  if (defined($content)) { # if content retrieval is successful
     &saveContent($content, $documentNo);
     $documentNo++;
   }
-  else {
+  else { # if content cannot be retrieved
     #print ("Failure");
     next;
   }
+
+  $totalDocument = $documentNo;
 
   $wordCount = 0;
   foreach $line (split /\n/, $content) {
@@ -74,11 +80,11 @@ foreach $link (@one_click_links) {
         }
       }
       $w++;
-    } # while - word
+    } # while - words
   } # foreach - line
 } # foreach - link
 
-# print("\nTotal number of words: ", $wordCount, "\n");
+print("\nTotal number of words: ", $wordCount, "\n");
 
 sub getContent {
   my ($link, $isAbsolute) = @_;
@@ -108,4 +114,7 @@ sub saveContent {
   print WRITEFILE $content;
 }
 
+sub processContent {
+  my $totalDocument = @_;
 
+}

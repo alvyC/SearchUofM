@@ -171,7 +171,7 @@ READ MORE (fa fa-angle-right)
                               
                               
                               
-"Being the first one in my family to attend college."
+"Most proud of my accomplishment of graduating with a degree in accounting in three years with Summa Cum Laude and Honors."
 READ MORE (fa fa-angle-right)
 
 
@@ -234,8 +234,8 @@ READ MORE (fa fa-angle-right)
                               
                               
                               
-"Most proud of my accomplishment of graduating with a degree in accounting in three years with Summa Cum Laude and Honors."
-READ MORE (fa fa-angle-right)
+"To work with a non-profit organization that will allow me to utilize my servant leadership skills and caring ability to further enhance the socioeconomic needs of both domestic and foreign citizens."
+READ MORE  (fa fa-angle-right)
 
 
                               
@@ -794,10 +794,11 @@ Development Office
             
              
                   
-	              
+                      
                   
                
-               
+      
+         
       
    
 
