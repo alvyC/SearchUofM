@@ -1,0 +1,137 @@
+news l  l 
+channels
+gamesbeat
+arvr
+big data
+bots
+business
+cloud
+deals
+dev
+enterprise
+entrepreneur
+esports
+media
+mobile
+marketing
+pc gaming
+security
+small biz
+social
+got a news tip
+press releases
+newsletters
+webinars
+multimedia
+advertise
+events l  l 
+vb events
+upcoming events
+get involved
+sponsor
+speaker
+media partner
+volunteer
+got a news tip
+press releases
+newsletters
+webinars
+multimedia
+advertise
+research l  l 
+categories
+marketing tech
+mobile
+gaming
+miscellaneous
+learn more
+vb top ten
+subscription
+got a news tip
+press releases
+newsletters
+webinars
+multimedia
+advertise
+go
+‹
+news
+›
+channels
+gamesbeat
+entrepreneur
+arvr
+esports
+big data
+marketing
+bots
+media
+business
+mobile
+cloud
+pc gaming
+deals
+security
+dev
+small biz
+enterprise
+social
+‹
+events
+›
+vb events
+upcoming events
+get involved
+sponsor
+media partner
+speaker
+volunteer
+‹
+research
+›
+categories
+marketing tech
+gaming
+mobile
+miscellaneous
+learn more
+vb top ten
+subscription
+‹
+venturebeat
+›
+about
+advertise
+careers
+contact
+multimedia
+got a news tip
+press releases
+newsletters
+webinars
+follow us on social
+guest
+the  billion dollar chatbot disruption part two
+matt swanson silicon valley software group					september    pm
+tags bots  chatbots  disruption  silicon valley software group				
+in the last post  we highlighted the disruption that chatbot technologies are poised to make in call centers to recap we are seeing the trend that generation x and y have now shown a preference for textbased communication over voice this results in consumers increasingly wanting to talk with brands via messaging platforms like whatsapp and facebook messenger simultaneously there has been an explosion of conversational ai technology tools and frameworks in which natural language processing can be used to automate customer support inquiries as the last installment discussed this trend provides a compelling opportunity for companies to drastically reduce the costs of running their call centers
+above credit mary meeker  internet trends report
+unifying voice
+but the disruption goes further as customerbrand conversations increasingly start taking place via text and increased datasets allow nlp bots to start handling more and more of the conversations we are going to see the consolidation of “voice” within the brand rather than having hundreds or thousands of lowpaid customer support agents each with their own personalities and susceptible to human emotions the call center staff will be greatly reduced to expert bot managers see below the nlp engines that replace the workforce will be trained with a common dataset and in that dataset will be a consistent corpus of creative content representing how the brand wants to project itself to its consumers
+let’s explore this concept through an example consider progressive  the insurance company the first thing that comes to mind to the american consumer when thinking about progressive is not its mission statement of “reducing the human trauma and economic costs associated with automobile accidents” rather the immediate recall to the consumer is flo the sassy insurance agent who helps customers make the right decision when purchasing an insurance package there are countless commercials starring flo and an extensive marketing budget behind the persona applying the above concept to progressive’s call center no longer will consumers be interacting with becky from dallas or richard from manila when conversing with progressive over messaging platforms — they’ll be able to talk with flo overseen by a much smaller set of highly trained customer support agents
+have a question about a particular insurance package flo can answer your question want to get price comparisons between progressive and geico again flo can help with the same sassy personality that the consumer has come to expect when thinking about the progressive brand this will extend throughout the entire customer journey starting from the top of the funnel with marketing campaigns tv commercials digital advertising continuing to the sale of product ecommerce checkout reducing shopping cart abandonment and maintaining the customer relationship through support automating call center inquiries which ultimately comes full circle and leads into the next customer journey cycle
+every brand will be able to capitalize on this trend think of any notable brand and its corresponding marketing persona disney and mickey mouse priceline and shatner the emotions these personas evoke are incredibly powerful and brands are just touching the surface of the possibilities they can leverage with these personas chatbots will allow any brand to create or purchase a recognizable persona that can take the customer through not just the tv commercial but the entire customer journey  all of this is made possible by the shift in media that consumers are going through in which the preferred interaction is not in a retail store or on the phone it’s through text
+executing at scale
+there are many adjustments that brands will need to make in order to keep pace with the changing customer support landscape four of the most important are as follows
+creative content writers there is an intractable number of permutations that exist in written conversation machine learning and nlp aim to manage this through pattern recognition but there will still need to be building blocks of content in the beginning these building blocks will need to be numerous as nlp technology advances this will reduce over time in the immediate future brands will need to invest heavily in creating rich content that represents their brand persona referring again to the progressive example there will need to be creative writers emulating the conversation that flo will have with consumers about the progressive product line
+establishing identity in messaging media when twitter emerged it created a new medium in which consumers could discourse publicly with brands messaging platforms take the conversation into a more granular and more intimate interaction as such brands will need to establish their identities in these new media replete with pervasive broadcasting of how to reach the brand with their new messaging handles and proper brand etiquette in these new media
+data science machine learning technology will be increasingly utilized in the enterprise over the next decade companies will need to get access to data science specialists who can help to customize the technology for their particular datasets and use cases
+bot managers as with most disruption coming from automation chatbots will not completely automate the call center workforce rather a subset of much higher skilled and much higher paid workers will be needed who can oversee the nlp bots these bot managers will be responsible for ensuring quality results as well as providing feedback into the nlp engine to increase accuracies over time companies will need to invest in training these workers since there are currently no formal educational or vocational programs for these skills
+there are many other implications of chatbots and brands to be explored in future posts in the next post we will look into the “goldmine in the call center” where we will illustrate how brands can capture new sales and marketing opportunities through messaging mediums stay tuned
+about
+contact
+careers
+advertise
+terms of service
+privacy policy
+©  venturebeat  all rights reserved

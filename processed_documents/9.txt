@@ -1,0 +1,25 @@
+assignment 
+due date oct  
+remember assignments must be turned in electronically via email to the ta 
+in case of a programming assignment you must be careful about what to 
+turn in if some parts of the assignment are too large eg the output 
+then you only need to print your assignment report and source code each 
+assignment must have a cover page with your name assignment number and due
+date also please include the statements of all the problems a
+report which summarizes your solution and results in the form of a ms
+word document or equivalent must accompany an assignment submission
+any questions contact dr vasile rus at vrus or by phone
+at 
+problem   points write a perl program that preprocesses a 
+collection of documents using the recommendations given in the 
+text operations lecture the input to the program will be a directory
+containing a list of text files use the files from assignment  as
+test data as well as  documents manually collected from   
+the yahoo documents must be converted to text before using them
+remove the following during the preprocessing
+digits
+punctuation
+stop words use the generic list available at irwebsearchpapersenglishstopwordstxt
+urls and other htmllike strings
+uppercases
+morphological variations

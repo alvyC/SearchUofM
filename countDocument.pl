@@ -38,7 +38,7 @@ foreach $link (@one_click_links) {
   my $content;
   my $linkType = "absolute";
   if (($link !~ /^http/)) { # if $link is a relative path
-    if ($link =~ /txt/ or $link =~ /html/) { # if $link contains the substring ".txt", it is a text document
+    if ($link =~ /txt/ or $link =~ /html/) { # if $link contains the subline ".txt", it is a text document
       $linkType = "relative";
     }
   }
@@ -60,10 +60,10 @@ foreach $link (@one_click_links) {
     @words = split(/[\s\t]+/, $line);
     $w = 0;
     while($w < @words) {
-      if ($words[$w] !~ /^\s*$/) { # if the string is not only consist of spaces.
+      if ($words[$w] !~ /^\s*$/) { # if the line is not only consist of spaces.
         if($words[$w] =~ /[[:punct:]]$/) { # if the word contains a punctuation at the end, only count the original word without punctuation
           #print(substr($words[$w], 0, @words[$w]-1), "\n"); # print the punctuated word
-          $temp = substr($words[$w], 0, @words[$w]-1); # # if the string is a punctuation, then getting rid of it will leave us with whitespace
+          $temp = substr($words[$w], 0, @words[$w]-1); # # if the line is a punctuation, then getting rid of it will leave us with whitespace
           if ($temp !~ /^\s*$/) { # if "temp" is not only whitespaces
             $wordFrequency{substr($words[$w], 0, @words[$w]-1)}++;
             $wordCount++;
@@ -127,18 +127,19 @@ sub preProcessContent {
     }
     close(INFILE);
 
+    # print(@array);
     if (open(OUTFILE, ">", $writefileName) || die("Can't open ", $writefileName, " for writing.")) {
       my $i = 0;
       while ($i < @array) {
-        $string = $array[i];
-        $string =~ s/((?<=[^a-zA-Z0-9])(?:https?\:\/\/|[a-zA-Z0-9]{1,}\.{1}|\b)(?:\w{1,}\.{1}){1,5}(?:com|org|edu|gov|uk|net|ca|de|jp|fr|au|us|ru|ch|it|nl|se|no|es|mil|iq|io|ac|ly|sm){1}(?:\/[a-zA-Z0-9]{1,})*)//g; # Remove HTML/HTTP or any kind of URL type strings.
-        $string =~ s/[[:punct:]]//g; # Remove punctuations
-        $string =~ s/\d//g;          # Remove digits
-        $string =~ s/^\s+//;         # Remove leading and lagging whitespaces
-        $string = lc $string;        # Convert uppercases to lowercases
+        my $line = $array[$i];
+        $line =~ s/((?<=[^a-zA-Z0-9])(?:https?\:\/\/|[a-zA-Z0-9]{1,}\.{1}|\b)(?:\w{1,}\.{1}){1,5}(?:com|org|edu|gov|uk|net|ca|de|jp|fr|au|us|ru|ch|it|nl|se|no|es|mil|iq|io|ac|ly|sm){1}(?:\/[a-zA-Z0-9]{1,})*)//g; # Remove HTML/HTTP or any kind of URL type lines.
+        $line =~ s/[[:punct:]]//g; # Remove punctuations
+        $line =~ s/\d//g;          # Remove digits
+        $line =~ s/^\s+//;         # Remove leading and trailing whitespaces
+        $line = lc $line;          # Convert uppercases to lowercases
 
-        print OUTFILE $string;
-        $i++
+        print OUTFILE $line;
+        $i++;
       }
     }
     close(OUTFILE);

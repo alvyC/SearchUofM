@@ -1,0 +1,16 @@
+assignment 
+due date sept  
+remember assignments must be turned in electronically via email 
+in case of a programming assignment you must be careful about what 
+to turn in if some parts of the assignment are too large eg the output 
+then you only need to print your assignment report and source code 
+each assignment must have a cover page with your name assignment number 
+and due date also please include the statements of all the problems a
+report which summarizes your solution and results in the form of a ms
+word document or equivalent must accompany an assignment submission
+any questions contact dr vasile rus at vrus or by phone
+at 
+problem   points describe two of the most frustrating
+experiences you have had recently with a major search engine think of
+possible ways to solve these problems you only need to describe conceptually
+the solutions

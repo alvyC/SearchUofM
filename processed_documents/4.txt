@@ -1,0 +1,154 @@
+information retrieval and web search
+prof vasile rus
+course  comppsyc 
+fall  
+announcements  course information  schedule
+announcements
+check this out chatbot disruption 
+assignment  has been issued
+phd students ie those enrolled in the level section must send me their presentation topic via email by sept  
+syllabus is here 
+welcome to the information retrieval and web search course
+welcome
+the information retrieval and web search course addresses one of the major problem of our times today one of the major problems is not lack of information but too much information we need intelligent ways to organize the vast amount of information available at our fingertips and to effectively search for what we want we are faced with an information overload problem the information retrieval and web search class presents the major challenges posed by this problem and solutions to these challenges
+the course introduces computational techniques to search for information in static collections of documents and in dynamic collections eg web students will be exposed to text processing algorithms classical information retrieval models eg boolean and vectorial models and web search techniques the course is closely related to the natural language processing course
+course catalog
+entry 
+advanced current research topics in database and information management with emphasis on nontraditional data and applications prerequisite comp  or permission of instructor 
+lectures
+tr am pm dh
+prof
+vasile
+rus   
+ta shanshan gao 
+ta  sgao  at memphis dot  edu 
+office hrs
+for prof tr amam or by
+appt in dh
+for ta am on mw or by appointment in dh 
+web page
+vrusteachingirwebsearch
+textbook
+baezayates ribeironeto modern information retrieval  required
+manning raghavan schutze introduction to information
+retrieval  recommended 
+policies
+grading assignments   project 
+midterm   final     participationinteractionpresentations 
+submission see first lecture 
+lateness see first lecture 
+plagiarism see first lecture 
+intellectual engagement see first lecture 
+announcements come to class and read this page
+similar ir courses
+some of the course slides are more or less
+adapted from the courses below
+ 
+assignments in general you
+get  of the grade for correctness and robustness and  for
+quality of the solution documentation and style assignments should be
+written clearly and if code is required the code shoud follow at least
+the recommended standard below
+code style standard
+recommended
+plagiarismcheating policy
+plagiarism or cheating behavior in any form is
+unethical and detrimental to proper education and will not be
+tolerated all work submitted by student projects programming
+assignments lab assignments quizzes tests etc is expected to be a
+students own work the plagiarism is incurred when any part of
+anybody elses work is passed as your own no proper credit is listed
+to the sources in your own work so the reader is led to believe it is
+therefore your own effort students are allowed and encouraged to
+discuss with each other and look up resources in the literature
+including the internet on their assignments but appropriate
+references must be included for the materials consulted and
+appropriate citations made when the material is taken verbatim
+if plagiarism
+or cheating occurs the student will receive a failing grade on the
+assignment
+and at the instructor discretion a failing grade in the coursethe
+course
+instructor may also decide to forward the incident on to university
+judicial
+affairs office for further disciplinary action
+for further
+information on u of m code of student conduct and academic
+discipline
+procedures please refer to  jaffairs 
+tentative
+schedule
+you may find
+lectures and assignments here lectures are compiled from different
+sources including personal notes textbooks materials
+used in related classes on information retrieval and natural language processing at famous
+universities primarily from ut austin  dr ray mooney and unt  dr rada mihalcea and other materials
+week
+monday
+wednesday
+readings  assignments
+introduction ppt
+introduction ppt
+chapter 
+assignment 
+introduction to perl ppt
+introduction to perl ppt
+perl tutorial
+ir models ppt
+retrieval evaluation ppt
+assignment 
+retrieval evaluation ppt
+query languages ppt
+chapter 
+assignment 
+query operations ppt
+text properties ppt
+chapter  
+assignment 
+text operations ppt
+indexing and searching ppt
+chapter  
+indexing and searching ppt
+indexing and searching ppt
+chapter 
+porters stemmer is here 
+porters stemmer slides available here 
+assignment 
+no class  fall break
+question answering ppt  review
+midterm
+web search intro  ppt 
+chapters  
+mapreduce paper
+web search intro  ppt 
+web search  ppt 
+assignment 
+pagerank paper
+chapters 
+text categorization ppt
+text categorization  ppt 
+text clustering ppt
+text clustering  ppt 
+chapters 
+assignment 
+advanced ir models ppt
+advanced ir models ppt
+assignment 
+advanced ir models ppt
+thanksgiving holiday  no class
+review project presentations
+review project presentations 
+ 
+ 
+final exam is on r  amam
+ 
+department of
+computer science
+the university
+of memphis
+dunn hall room
+memphis tn
+phone
+fax
+page
+maintainer 
