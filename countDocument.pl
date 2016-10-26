@@ -5,7 +5,8 @@ use LWP::Simple;
 use HTML::Strip;
 use HTML::LinkExtor;
 use WWW::Mechanize;
-use porter;
+use Lingua::Stem::En;
+
 #make directories for saving web document and processed web documents
 # 0755 = permisson level
 mkdir("documents", 0755);
@@ -126,13 +127,15 @@ sub initStopWordHash {
   }
 }
 
-sub removeStopWords {
+sub removeStopWordsAndStem {
   my ($line) = @_;
   my @words = split(" ", $line);
 
+  my $stemmed_words = Lingua::Stem::En::stem({-words => \@words,
+                                              -locale => 'en',
+                                              -exceptions => \%exceptions});
   my $processedLine = "";
-  foreach my $word(@words) {
-    #$word = porter($word); # TODO: stemming
+  foreach my $word(@$stemmed_words) {
     if ($stopWordHash{$word} == 0) {
       $processedLine = $processedLine . " " . $word;
     }
@@ -163,8 +166,8 @@ sub preProcessContent {
         $line =~ s/^\s+//;         # Remove leading whitespaces
         $line = lc $line;          # Convert uppercases to lowercases
 
-        $line = &removeStopWords($line); # Remove stopwords
-        #$line = $line . " ";
+        $line = &removeStopWordsAndStem($line); # Remove stopwords and do stemming
+
         print OUTFILE $line;
         $i++;
       }
