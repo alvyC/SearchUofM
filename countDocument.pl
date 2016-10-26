@@ -5,8 +5,9 @@ use LWP::Simple;
 use HTML::Strip;
 use HTML::LinkExtor;
 use WWW::Mechanize;
-
+use porter;
 #make directories for saving web document and processed web documents
+# 0755 = permisson level
 mkdir("documents", 0755);
 mkdir("processed_documents", 0755);
 
@@ -14,6 +15,7 @@ my $baseUrl = 'http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/';
 my $fileLocation = "./documents/";
 my $processedFileLocation = "./processed_documents/";
 my $fileExtension = ".txt";
+my %stopWordHash;
 my $totalDocument;
 
 #get all the one-click links (in the baseUrl) and push to $one_click_links
@@ -85,7 +87,7 @@ foreach $link (@one_click_links) {
 } # foreach - link
 
 #print("\nTotal number of words: ", $wordCount, "\n");
-
+&initStopWordHash;
 &preProcessContent;
 
 sub getContent {
@@ -116,6 +118,29 @@ sub saveContent {
   print WRITEFILE $content;
 }
 
+sub initStopWordHash {
+  my $stopWords = get("http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/papers/english.stopwords.txt") || die "Cannot get stopwordSite" ;
+  my @stopWordList = split("\n", $stopWords);
+  foreach my $stopWord (@stopWordList) {
+    $stopWordHash{$stopWord} = 1;
+  }
+}
+
+sub removeStopWords {
+  my ($line) = @_;
+  my @words = split(" ", $line);
+
+  my $processedLine = "";
+  foreach my $word(@words) {
+    #$word = porter($word); # TODO: stemming
+    if ($stopWordHash{$word} == 0) {
+      $processedLine = $processedLine . " " . $word;
+    }
+  }
+
+  return $processedLine;
+}
+
 sub preProcessContent {
   my $documentNo = 1;
   while ($documentNo <= $totalDocument) {
@@ -135,9 +160,11 @@ sub preProcessContent {
         $line =~ s/((?<=[^a-zA-Z0-9])(?:https?\:\/\/|[a-zA-Z0-9]{1,}\.{1}|\b)(?:\w{1,}\.{1}){1,5}(?:com|org|edu|gov|uk|net|ca|de|jp|fr|au|us|ru|ch|it|nl|se|no|es|mil|iq|io|ac|ly|sm){1}(?:\/[a-zA-Z0-9]{1,})*)//g; # Remove HTML/HTTP or any kind of URL type lines.
         $line =~ s/[[:punct:]]//g; # Remove punctuations
         $line =~ s/\d//g;          # Remove digits
-        $line =~ s/^\s+//;         # Remove leading and trailing whitespaces
+        $line =~ s/^\s+//;         # Remove leading whitespaces
         $line = lc $line;          # Convert uppercases to lowercases
 
+        $line = &removeStopWords($line); # Remove stopwords
+        #$line = $line . " ";
         print OUTFILE $line;
         $i++;
       }
