@@ -12,17 +12,22 @@ use Lingua::Stem::En;
 mkdir("documents", 0755);
 mkdir("processed_documents", 0755);
 
-my $baseUrl = 'http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/'; # where the crawling will start
+my $baseUrl = "http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/"; # where the crawling will start
 my $fileLocation = "./documents/";                                      # web documents will be stored in this directory
 my $processedFileLocation = "./processed_documents/";                   # processed web documents will be stored in this directory
 my $fileExtension = ".txt";                                             # web documents will be stored as text files
 my %stopWordHash;                                                       # hash for stop words
 my $totalDocument;                                                      # total # of web documents stored
+my @fileList;
+my %invertedIndex;
 
 
 &crawlBaseUrl($baseUrl);
 &initStopWordHash;
 &preProcessContent;
+&createInvertedIndex;
+&printInvertedIndex;
+
 
 # crawl the links found the $baseUrl and save the contents
 sub crawlBaseUrl {
@@ -153,6 +158,42 @@ sub preProcessContent {
     }
     close(OUTFILE);
 
+    push(@fileList, $writefileName);
     $documentNo++;
+  }
+}
+
+sub createInvertedIndex {
+  my $documentNo = 1;
+  foreach my $file (@fileList) {
+    my $docName = "Documnent#";
+    $docName = $docName . $documentNo;
+    if (open(INFILE, $file) || die("Can't open ", $file, " for reading")) {
+      @array = <INFILE>;
+    }
+    close(INFILE);
+
+    my $i = 0;
+    while($i < @array) {
+      my @words = split(" ", $array[$i]);
+      foreach my $word (@words) {
+        $invertedIndex{$word}{$docName}++;
+      }
+      $i++;
+    } # while @array
+    $documentNo++;
+  } # foreach @fileList
+}
+
+sub printInvertedIndex {
+  open(OUTFILE, ">inverted-index.txt");
+  print OUTFILE ("Word --> Document No | Term Frequency\n");
+  print OUTFILE ("-----------------------------------------\n");
+  foreach my $word (sort keys %invertedIndex) {
+    print OUTFILE ($word, " --> ");
+    foreach my $doc (keys %invertedIndex{$word}) {
+      print OUTFILE ($doc, "|", $invertedIndex{$word}{$doc}, "; ");
+    }
+    print OUTFILE ("\n");
   }
 }
