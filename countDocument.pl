@@ -12,84 +12,63 @@ use Lingua::Stem::En;
 mkdir("documents", 0755);
 mkdir("processed_documents", 0755);
 
-my $baseUrl = 'http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/';
-my $fileLocation = "./documents/";
-my $processedFileLocation = "./processed_documents/";
-my $fileExtension = ".txt";
-my %stopWordHash;
-my $totalDocument;
+my $baseUrl = 'http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/'; # where the crawling will start
+my $fileLocation = "./documents/";                                      # web documents will be stored in this directory
+my $processedFileLocation = "./processed_documents/";                   # processed web documents will be stored in this directory
+my $fileExtension = ".txt";                                             # web documents will be stored as text files
+my %stopWordHash;                                                       # hash for stop words
+my $totalDocument;                                                      # total # of web documents stored
 
-#get all the one-click links (in the baseUrl) and push to $one_click_links
-my @one_click_links = ();
-push(@one_click_links, $baseUrl);
-my $mechanize = WWW::Mechanize->new();
-$mechanize->get($baseUrl);
 
-my $documentNo = 0;
-my @allLinks = $mechanize->links();
-foreach my $link (@allLinks) {
-  # don't add the links which lead to the same page or are empty line or ppt/ pdf file
-  if (!($link->url =~ /\#/) and ($link->url ne "")
-      and (index($link->url, "ppt") == -1)
-      and (index($link->url, "pdf") == -1)) {
-    push(@one_click_links, $link->url);
-  }
-}
+&crawlBaseUrl($baseUrl);
+&initStopWordHash;
+&preProcessContent;
 
-foreach $link (@one_click_links) {
-  #print $link, "\n";
-  my $content;
-  my $linkType = "absolute";
-  if (($link !~ /^http/)) { # if $link is a relative path
-    if ($link =~ /txt/ or $link =~ /html/) { # if $link contains the subline ".txt", it is a text document
-      $linkType = "relative";
+# crawl the links found the $baseUrl and save the contents
+sub crawlBaseUrl {
+  #get all the one-click links (in the baseUrl) and push to $one_click_links
+  my ($url) = @_;
+  my @one_click_links = ();
+  push(@one_click_links, $url);
+  my $mechanize = WWW::Mechanize->new();
+  $mechanize->get($url);
+
+  my $documentNo = 0;
+  my @allLinks = $mechanize->links();
+  foreach my $link (@allLinks) {
+    # don't add the links which lead to the same page or are empty line or ppt/ pdf file
+    if (!($link->url =~ /\#/) and ($link->url ne "")
+        and (index($link->url, "ppt") == -1)
+        and (index($link->url, "pdf") == -1)) {
+      push(@one_click_links, $link->url);
     }
   }
 
-  $content = &getContent($link, $linkType);
-  if (defined($content)) { # if content retrieval is successful
-    &saveContent($content, $documentNo+1);
-    $documentNo++;
-  }
-  else { # if content cannot be retrieved
-    #print ("Failure");
-    next;
-  }
+  foreach $link (@one_click_links) {
+    #print $link, "\n";
+    my $content;
+    my $linkType = "absolute";
 
-  $totalDocument = $documentNo;
-
-  $wordCount = 0;
-  foreach $line (split /\n/, $content) {
-    @words = split(/[\s\t]+/, $line);
-    $w = 0;
-    while($w < @words) {
-      if ($words[$w] !~ /^\s*$/) { # if the line is not only consist of spaces.
-        if($words[$w] =~ /[[:punct:]]$/) { # if the word contains a punctuation at the end, only count the original word without punctuation
-          #print(substr($words[$w], 0, @words[$w]-1), "\n"); # print the punctuated word
-          $temp = substr($words[$w], 0, @words[$w]-1); # # if the line is a punctuation, then getting rid of it will leave us with whitespace
-          if ($temp !~ /^\s*$/) { # if "temp" is not only whitespaces
-            $wordFrequency{substr($words[$w], 0, @words[$w]-1)}++;
-            $wordCount++;
-            if (exists($words[$key])) {
-              if (undef($wordFrequency{$words[$w]})) {
-                $documentFrequency{$words[$w]}++;
-              }
-            }
-          }
-        }
-        else {
-          $wordFrequency{$words[$w]}++;
-          $wordCount++;
-        }
+    if (($link !~ /^http/)) { # if $link is a relative path
+      if ($link =~ /txt/ or $link =~ /html/) { # if $link contains  ".txt", it is a text document
+        $linkType = "relative";
       }
-      $w++;
-    } # while - words
-  } # foreach - line
-} # foreach - link
+    }
 
-#print("\nTotal number of words: ", $wordCount, "\n");
-&initStopWordHash;
-&preProcessContent;
+    $content = &getContent($link, $linkType);
+
+    if (defined($content)) { # if content retrieval is successful
+      &saveContent($content, $documentNo + 1);
+      $documentNo++;
+    }
+    else { # else content cannot be retrieved, go to the next link
+      #print ("Failure");
+      next;
+    }
+
+    $totalDocument = $documentNo;
+  } # foreach - link
+}
 
 sub getContent {
   my ($link, $isAbsolute) = @_;
