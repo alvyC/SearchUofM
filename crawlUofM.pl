@@ -9,7 +9,7 @@ use Lingua::Stem::En;
 
 use open ':std', ':encoding(UTF-8)';
 
-#make directories for saving web document and processed web documents
+# make directories for saving web document and processed web documents
 # 0755 = permisson level
 mkdir("documents", 0755);
 mkdir("processed_documents", 0755);
@@ -22,7 +22,7 @@ my %stopWordHash;                                             # hash for stop wo
 my $totalDocument;                                            # total # of web documents stored
 my @fileList;                                                 # it has name of all the preprocessed files/ documents
 my %invertedIndex;                                            # word to document matrix
-my $maxNoOfWebDocs = 10000;                                   # maximum number of documents that will be crawled by the crawler
+my $maxNoOfWebDocs = 7000;                                     # maximum number of documents that will be crawled by the crawler
 
 &crawlBaseUrl($baseUrl);
 &initStopWordHash;
@@ -34,7 +34,6 @@ print("Crawling completed for memphis.edu domain.\n");
 # Start Crawling from the url provided in the parameter
 # First get all the links (using getAllLinks())
 # Then, get content from each link (using getContent())
-
 sub crawlBaseUrl {
   my ($url) = @_;
   my @one_click_links = ();
@@ -79,8 +78,8 @@ sub getAllLinks {
   print("Crawling ....\n");
   my ($url) = @_;
 
-  my @urlQueue = ();                                    # Queue for visiting the urls in BFS order
-  my %urlIsVisited;                                     # if a url is visited give it value of 1, otherwise 0
+  my @urlQueue = ();              # Queue for visiting the urls in BFS order
+  my %urlIsVisited;               # if a url is visited give it value of 1, otherwise 0
   my @allUrls = ();
 
   push(@urlQueue, $url);
