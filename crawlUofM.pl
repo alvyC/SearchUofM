@@ -22,7 +22,7 @@ my %stopWordHash;                                             # hash for stop wo
 my $totalDocument;                                            # total # of web documents stored
 my @fileList;                                                 # it has name of all the preprocessed files/ documents
 my %invertedIndex;                                            # word to document matrix
-my $maxNoOfWebDocs = 10000;
+my $maxNoOfWebDocs = 10000;                                   # maximum number of documents that will be crawled by the crawler
 
 &crawlBaseUrl($baseUrl);
 &initStopWordHash;
@@ -72,7 +72,9 @@ sub crawlBaseUrl {
   } # foreach - link
 } # crawlBaseUrl
 
-
+# visit the links in BFS manner
+# Put them in an array of links
+# Return the array
 sub getAllLinks {
   print("Crawling ....\n");
   my ($url) = @_;
@@ -121,6 +123,9 @@ sub getAllLinks {
   return @allUrls;
 } #getAllLinks
 
+# retrieve content of the $link.
+# if the retrieval is successful, return the content
+# otherwise, return undefined.
 sub getContent {
   my ($link, $isAbsolute) = @_;
   if($isAbsolute ne "absolute") {
@@ -142,6 +147,7 @@ sub getContent {
   }
 } # getContent
 
+# save $content in file named $documentNo.txt (located in $fileAbsolutePath)
 sub saveContent {
   my ($link, $content, $documentNo) = @_;
   my $fileAbsolutePath = $fileLocation . $documentNo . $fileExtension;
@@ -151,6 +157,9 @@ sub saveContent {
   print WRITEFILE $content;
 } # saveContent
 
+# initialize stop-word hash with $stopwords.
+# "key" is a stopword
+# "value" is 1, meaning the word is a stopword.
 sub initStopWordHash {
   my $stopWords = get("http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/papers/english.stopwords.txt") || die "Cannot get stopwordSite" ;
   my @stopWordList = split("\n", $stopWords);
@@ -159,6 +168,8 @@ sub initStopWordHash {
   }
 } # initStopWordHash
 
+# remove stopword from $line
+# stem the $line
 sub removeStopWordsAndStem {
   my ($line) = @_;
   my @words = split(" ", $line);
@@ -242,6 +253,7 @@ sub createInvertedIndex {
   } # foreach @fileList
 } # createInvertedIndex
 
+# save invertedIndex in "inverted-index.txt"
 sub printInvertedIndex {
   open(OUTFILE, ">inverted-index.txt");
   print OUTFILE ("Word --> Document No | Term Frequency\n");
