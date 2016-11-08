@@ -7,6 +7,7 @@ sub crawler {
 
   my @urlQueue = ();                                    # Queue for visiting the urls in BFS order
   my %urlIsVisited;                                     # if a url is visited give it value of 1, otherwise 0
+  my @allUrls = ();
 
   push(@urlQueue, $url);
   $urlIsVisited{$url} = 1;
@@ -23,7 +24,7 @@ sub crawler {
     my $mechanize = WWW::Mechanize->new(autocheck => 0);
     $mechanize->get($currentUrl);
 
-    if ($mechanize->res->is_success) {                    # if $mechanize->get($currentUrl) is successful
+    if ($mechanize->res->is_success) {                   # if $mechanize->get($currentUrl) is successful
       my @childrenLinks = $mechanize->links();
 
       foreach my $link (@childrenLinks) {
@@ -34,6 +35,7 @@ sub crawler {
           if ($urlIsVisited{$childUrl} != 1) {           # if the childUrl is not visited
                 push(@urlQueue, $childUrl);              # push the child url in the queue
                 $urlIsVisited{$childUrl} = 1;            # mark the child url as visited
+                push(@allUrls, $childUrl);
           }
         }
       }
@@ -43,12 +45,13 @@ sub crawler {
 
 
       #print($currentUrl, "\n");
-      # if ($i == 10) { # get the first 500 links
+      # if ($i == 100) { # get the first 500 links
       #   last;
       # }
       # $i++;
     }
   } # while - url queue
+  return @allUrls;
 }
 
 sub show_progress {

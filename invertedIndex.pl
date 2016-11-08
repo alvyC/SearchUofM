@@ -73,7 +73,7 @@ sub crawlBaseUrl {
 
     $totalDocument = $documentNo;
   } # foreach - link
-}
+} #crawlBaseUrl
 
 sub getContent {
   my ($link, $isAbsolute) = @_;
@@ -128,6 +128,7 @@ sub removeStopWordsAndStem {
   return $processedLine;
 }
 
+#preprocess content and save the processed content to a file
 sub preProcessContent {
   my $documentNo = 1;
   while ($documentNo <= $totalDocument) {
