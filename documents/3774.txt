@@ -1,0 +1,22 @@
+http://blogs.memphis.edu/provost/wp-content/mu-plugins/campus-files/plugins-mods/ultimate-branding/assets/admin-bar-public.css?ver=20150323
+=======================================================================================
+#wp-admin-bar-wdcab_root {
+	display:block !important;
+}
+#wp-admin-bar-wdcab_root > a > img {
+	position: relative;
+	padding: 0;
+	vertical-align: middle;
+	margin: -4px 0 0 6px;
+	float: none;
+	display: inline !important;
+	width:24px;
+	line-height:24px;
+	margin:-4px 0 0 6px;
+}
+
+@media screen and (max-width:782px) {
+	#wp-admin-bar-wdcab_root > a > img {
+		width:28px;
+	}
+}http://blogs.memphis.edu/provost/wp-content/mu-plugins/campus-files/plugins-mods/ultimate-branding/assets/admin-bar-public.css?ver=20150323

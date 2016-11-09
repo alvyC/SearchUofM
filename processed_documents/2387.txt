@@ -1,0 +1,3 @@
+http://events.memphis.edu
+=======================================================================================
+ master calendar requir javascript support enabl em master calendar

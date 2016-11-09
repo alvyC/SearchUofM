@@ -1,0 +1,276 @@
+https://umwa.memphis.edu/campusmap/css/style2.css
+=======================================================================================
+@charset "UTF-8";
+/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
+#skip, #skip a, #skip a:hover, #skip a:visited {
+    position: absolute;
+    left: 0px;
+    top: -500px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+.container2, #container2 {
+	text-align: center ;
+	border: none ;
+	margin: 0 ;
+	padding: 0 ;
+}
+
+.pagetable, #pagetable {
+    position: relative;
+    width: 975px;
+    border: medium none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.centerAll {
+    width: 975px;
+    border: medium none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.lightcolor, .grayBack {
+    color: rgb(0, 0, 0);
+    background: none repeat scroll 0% 0% rgb(231, 235, 244);
+}
+
+.left {
+    text-align: left;
+}
+.Header, .fullWidth {
+    width: 973px;
+    vertical-align: middle;
+}
+
+.noWrapLeft {
+    text-align: left;
+    vertical-align: top;
+    white-space: nowrap;
+    padding-right: 6px;
+}
+
+.center {
+	text-align: center;
+}
+
+/*  new CSS navigation menu */
+#divNav {
+	position: relative;
+	left: 0px;
+	right: -1px;
+	width: 972px ;
+	/*background: #949494;*/
+	background: #878787;
+	z-index:1;
+	text-align: center;
+border-right: solid 1px #252525;
+border-left: solid 1px #252525;
+	margin: 0;
+	padding: 0;
+}
+#nav li {
+	font-size: 9pt;
+	border-top: solid 1px #252525;
+	border-left: solid 1px #252525;
+	position: relative;
+	left: -7px;
+	right: -5px;
+	margin: 0; 
+	padding: 4px;
+	list-style-type: none;
+	text-align: left;
+}
+li.first {
+	border-bottom: solid 1px #252525;
+}
+li.last {
+	position: relative;
+	right: 2px;
+}
+li.firstlast {
+	border-bottom: solid 1px #252525;
+}
+li.bottom {
+	border-bottom: solid 1px #252525;
+	margin: 0;
+	padding: 0;
+}
+#nav { /* all lists */
+	border: none;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+ 	line-height: 120%;
+}
+#nav a {
+	display: block;
+	width: 152px;
+}
+#nav li { /* all list items */
+	float: left;
+	left: 0px;
+	/*background: #949494;*/
+	background: #878787;
+	width: 161px; /* width needed or else Opera goes nuts */
+	/*border-right: solid 1px #252525;*/
+}
+
+#nav li ul { /* second-level lists */
+	position: absolute;
+	top: 24px;
+	bottom: 22px;
+	/*background: #949494;*/
+	background: #878787;
+
+	width: 9.1em;
+	left: -999em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
+}
+#nav li ul ul { /* third-and-above-level lists */
+	position: absolute;
+	top: -7px;
+	margin: -1em 0 0 10.0em;
+}
+#nav li ul li ul li {
+	position: relative ;
+	top: 0px;
+	left: 42px;
+	right: 13px;
+	list-style-type: none;
+	/*background: #a0a0c4;*/
+	background: #4F6CA6;
+	padding: 4px;
+}
+#nav li:hover ul ul, #nav li:hover ul ul ul, #nav li.sfhover ul ul, #nav li.sfhover ul ul ul {
+	margin-top: 6px;
+	left: -999em;
+}
+#nav li:hover ul, #nav li li:hover ul, #nav li li li:hover ul, #nav li.sfhover ul, #nav li li.sfhover ul, #nav li li li.sfhover ul { /* lists nested under hovered list items */
+	left: auto;
+	left: -1px;
+	background: transparent;
+}
+#content {
+	clear: left;
+	color: #ccc;
+}
+.nl { position:relative; width:152px;}
+.nl, .nl:link, .nl:visited {
+	color: #fff ;
+	background: transparent ;
+	text-decoration: none ;
+	font-size: 9pt;
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+.nl:hover, .nl:visited:hover {
+	color: #252525 ;
+	background: transparent ;
+	text-decoration: none ;
+}
+.nl:active {
+	color: #fff ;
+	background: transparent ;
+	text-decoration: none ;
+}
+
+.nls { position:absolute; top:3px; left:140px; background: transparent; }
+.nls, .nls:link, .nls:visited {
+	color: #fff ;
+	background: transparent ;
+	text-decoration: none ;
+	font-size: 9pt;
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+.nls:hover, .nls:visited:hover {
+	color: #f00 ;
+	background: transparent ;
+	text-decoration: none ;
+}
+.nls:active {
+	color: #f00 ;
+	background: transparent ;
+	text-decoration: none ;
+}
+
+.nleft {
+	top:3px; left:-40px; width:162px; border-right:solid 1px black;
+}
+
+#norm, ol.sitemap { list-style: square inside; text-align: left; }
+/*ol.sitemap, li {
+	list-style-type: square;
+	margin: 0 0 0 20px;
+	padding: 0px;
+}*/
+
+.dept-indent {font-size:85%;font-weight:normal;margin-left:36px;}
+.boldit {font-weight:700;}
+.topimage { border: 1px solid #000; }
+.sortBy {
+    color: rgb(255, 0, 0);
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.fullWidth {
+    width: 975px;
+    padding-top: 0.8em;
+}
+
+.Content {
+    width: 100%;
+    text-align: center;
+}
+
+.bname {
+	font-size: 120% ; 
+	text-align: center ; 
+	font-weight: 700 ; 
+	border: none; 
+	margin: 0px ; 
+	padding: 0px ;
+}
+
+.bname h1 {
+	margin-bottom: 0.2em;
+}
+
+.bnamesm {
+	font-size: 120% ; 
+	text-align: center ; 
+	font-weight: 700 ; 
+	border: none; 
+	margin: 0px ;
+	padding: 0px ;
+}
+
+.tablewide, .thwide, .tdwide {
+	width: 100%;
+}
+
+.tablewidecenter, .thwidecenter, .tdwidecenter {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.tablehalfwide, .thhalfwide, .tdhalfwide {
+	width: 50%;
+}
+
+.tablehalfwidecenter, .thhalfwidecenter, .tdhalfwidecenter {
+	width: 50%;
+	text-align: center;
+}https://umwa.memphis.edu/campusmap/css/style2.css

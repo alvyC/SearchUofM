@@ -1,0 +1,3 @@
+https://umwa.memphis.edu/effort/effort_login.php
+=======================================================================================
+ httpsloginphp

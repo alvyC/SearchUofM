@@ -1,0 +1,339 @@
+http://blogs.memphis.edu/cio/2014/08/
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+			
+
+        
+
+
+
+
+
+
+    
+        Main menu
+        Skip to content
+        
+        Home Sample Page
+        
+    
+
+	
+    
+	
+	    
+    
+      
+		
+			Office of the CIO
+			News from Information Technology Services
+			
+				
+					Search for:
+					
+					
+				
+					
+      
+	
+    
+        
+        
+
+			
+				
+					
+						Monthly Archives: August 2014					
+				
+
+				
+								
+					
+
+		
+    	
+            Aug
+            26
+            2014
+        
+		Welcome!  Important Information from Information Technology
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		Dear Students,
+Information Technology Services (ITS) welcomes you to the University of Memphis, and wishes you a successful academic year.  We understand this is a hectic time for everyone as the semester begins. However, we wanted to take a brief moment to provide you with these important reminders.
+We encourage you to review tips for protecting your personal information by clicking this link:  http://www.memphis.edu/itd/security/personal-information-security.php .  Additional security information is accessible by clicking links on the right-hand side of that page.  If you receive any suspicious email, you may forward it to  abuse@memphis.edu  for analysis.
+Please continue using the Service Desk to request technical assistance. For your convenience, you may use  http://umhelpdesk.memphis.edu  to submit your requests on-line or you may call the helpdesk at 901.678.8888. Once your helpdesk ticket is submitted, someone will follow-up with you as soon as possible.
+If you have any questions or concerns, please don’t hesitate to contact me!
+Regards,
+Ellen Watson
+Chief Information Officer and Vice Provost for  Information Technology Services
+ 
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+					
+
+		
+    	
+            Aug
+            22
+            2014
+        
+		Students – Exciting Opportunities for Technology Coaching
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		The Center for Teaching and Learning in IT Services recently published a newsletter with valuable information on tools, resources and workshops to provide students and faculty with the latest teaching technology.
+Read all about these exciting opportunities here .
+IT Services is committed to providing these tools to make things easier for you!
+If you need help, please contact the IT Service Desk at 678-8888.
+Have a great semester!
+ 
+Ellen
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+					
+
+		
+    	
+            Aug
+            20
+            2014
+        
+		Payroll Theft Scheme Targeting Universities
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		The University has been made aware of phishing attempts that target university employees.  These malicious activities are usually carried out via email messages that may contain enticing subjects such as mailbox warnings, offers of salary increases, etc.  The email messages may contain links that trick employees into visiting fake websites. These websites appear very similar to the institution’s real web sites and solicit information such as user names and passwords.  The goal, of course, is to trick victims into thinking they are logging into authentic websites.
+Employees are urged to use caution when visiting any website that solicits your University of Memphis user name and/or password. University employees should visit the following website for additional information regarding email scams and related security topics: http://www.memphis.edu/its/security/e-mail-scams.php .
+Employees who receive suspicious email may forward it to abuse@memphis.edu to confirm whether it is legitimate.
+Regards,
+Ellen
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+					
+
+		
+    	
+            Aug
+            11
+            2014
+        
+		eCourseware Issues on August 10, 2014
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		On Sunday, August 10, there was an unexpected outage on the eCourseware  (Design2Learn or D2L) system from approximately 2:00 p.m. to 11:30 p.m.  This prevented access for many users.  According to D2L, the cause was due to a power outage at their hosting facility.  Once power was restored, application and storage servers were verified and reconnected.
+D2L is a third-party, cloud-based vendor that provides eCourseware to the University.  As such, ITS can work with them on expediting solutions, but unfortunately, cannot prevent such emergencies.
+D2L is also contracted through the Tennessee Board of Regents, which limits our ability to affect service improvements.  However, there is currently a TBR committee exploring alternative course management providers through a formal request for proposal process.
+Please note that the UofM MyMemphis portal does have a channel available in which ITS posts notices about potential service impacts.  You can also check here for service status “reminders”.
+We regret any inconvenience that this may have caused users, and will continue to monitor service levels with D2L.  Thank you for your patience.
+Ellen
+ 
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+				
+			
+         
+
+        		
+        
+        	            
+            
+				                
+                 
+                   
+                                                			
+            
+			
+				
+					Search for:
+					
+					
+				
+							Recent Posts		
+					
+				The University of Memphis Boosts Cybersecurity with Duo
+						
+					
+				Welcome!  An Important Message about IT Services and Security
+						
+					
+				ITS Service Catalog
+						
+					
+				ITS Strategic Planning
+						
+					
+				Ransomware
+						
+				
+				Archives		
+			October 2016
+	August 2016
+	March 2016
+	February 2016
+	January 2016
+	December 2015
+	November 2015
+	October 2015
+	August 2015
+	July 2015
+	June 2015
+	April 2015
+	March 2015
+	January 2015
+	December 2014
+	November 2014
+	September 2014
+	August 2014
+	July 2014
+	June 2014
+	May 2014
+	April 2014
+	March 2014
+	February 2014
+	January 2014
+	December 2013
+	November 2013
+	October 2013
+	September 2013
+	August 2013
+		
+		Categories		
+	Uncategorized
+
+		
+Meta			
+						Log in
+			Entries RSS
+			Comments RSS
+			blogs.memphis.edu
+						
+		
+
+     
+        
+
+	
+		
+			
+			© Office of the CIO                        
+		
+	
+
+
+	
+	
+        
+
+        
+
+
+
+
+		
+							Skip to toolbar
+						
+				
+		University of Memphis
+		University Home		
+		Memphis Blogs		
+		Blogging Help				
+		Log In		
+		Search					
+					
+
+		
+
+http://blogs.memphis.edu/cio/2014/08/

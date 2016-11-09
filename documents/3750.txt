@@ -1,0 +1,401 @@
+http://policies.memphis.edu/UM1762.htm
+=======================================================================================
+The University of Memphis Payment Card Industry (PCI) Compliance POLICIES
+
+Issued:  January 21, 2016 Responsible Official:  Vice President for Business & Finance Responsible Office:  Bursar's Office Purpose   In order to accept credit cards for payment, the University of Memphis is required to comply with standards set forth by the Payment Card Industry Data Security Standard (PCI-DSS) and global payment brands. Failure to comply with these standards will jeopardize the University of Memphis’s ability to accept credit card payments and could result in substantial fines.
+
+This policy establishes authority and responsibility for protecting credit card account information at the University of Memphis and applies to all University employees, students, contractors, consultants, guests, and any other users who process, transmit, or access credit card information on behalf of the University of Memphis. It is the University’s Policy not to store credit card data for any reason in any manner. This policy should be used in conjunction with the Cash Handling Guide-Processing Credit Card Transactions , Cash Receipting Training , ITS Data Security Policy , and the Red Flag Policy .
+
+ 
+
+
+	
+		
+			PCI Data Security Standard – High Level Overview
+		
+		
+			Build and Maintain a Secure Network and Systems
+			1.
+			Install and maintain a firewall configuration to protect cardholder data
+		
+		
+			2.
+			Do not use vendor-supplied defaults for system passwords and other security parameters
+		
+		
+			Protect Cardholder Data
+			3.
+			Protect stored cardholder data
+		
+		
+			4.
+			Encrypt transmission of cardholder data across open, public networks
+		
+		
+			Maintain a Vulnerability Management Program
+			5.
+			Protect all systems against malware and regularly update anti-virus software or programs
+		
+		
+			6.
+			Develop and maintain secure systems and applications
+		
+		
+			Implement Strong Access Control Measures
+			7.
+			Restrict access to cardholder data by business need to know
+		
+		
+			8.
+			Identify and authenticate access to system components
+		
+		
+			9.
+			Restrict physical access to cardholder data
+		
+		
+			Regularly Monitor and Test Networks
+			10.
+			Track and monitor all access to network resources and cardholder data
+		
+		
+			11.
+			Regularly test security systems and processes
+		
+		
+			Maintain an Information Security Policy
+			12.
+			Maintain a policy that addresses information security for all personnel
+		
+	
+
+
+ 
+Definitions Acquirer Also referred to as “merchant bank,” “acquiring bank,” or “acquiring financial institution”. Entity, typically a financial institution, that processes payment card transactions for merchants and is defined by a payment brand as an acquirer. Acquirers are subject to payment brand rules and procedures regarding merchant compliance. ASV Acronym for “Approved Scanning Vendor.” Company approved by the PCI SSC to conduct external vulnerability scanning services. Cardholder Data/Information Personal Account Number (or credit card number), name on the card, expiration date, and Card Validation Code. This information can also be considered any information stored on the magnetic stripe or chip of a payment card that could potentially be used for fraudulent activities.
+
+
+    
+        
+            Cardholder Data Includes:
+            Sensitive Authentication Data Includes:
+        
+        
+            Primary Account Number (PAN)
+            Full magnetic stripe data or equivalent on a chip
+        
+        
+            Cardholder Name
+        
+        
+            Expiration Date
+            CAV2/CVC2/CVV2/CID
+        
+        
+            Service Code
+            PINs/PIN blocks
+        
+    
+
+CVSS Acronym for "Common Vulnerability Scoring System."  Open industry standard for assessing the severity of computer system security vulnerabilities.    Designated Personnel University of Memphis technical staff that provide support for faculty, staff and students.  Technical support includes, but is not limited to, computer hardware, computer software, network connectivity and mobile device support.
+Encryption Process of converting information into an unintelligible form except to holders of a specific cryptographic key. Use of encryption protects information between the encryption process and the decryption process (the inverse of encryption) against unauthorized disclosure. Firewall Hardware and/or software technology that protects network resources from unauthorized access. A firewall permits or denies computer traffic between networks with different security levels based upon a set of rules and other criteria. Global Payment Brands American Express, Discover Financial Services, JCB International, MasterCard Worldwide, and VISA Inc. Merchant For the purpose of the PCI DSS, a merchant is defined as any entity that accepts payment cards bearing the logos of any of the five members of PCI SSC (American Express Discover, JCB, MasterCard or Visa) as payment of goods and/or services. A merchant that accepts payment cards as payment for goods and/or services can also be a service provider, if the services sold result in storing, processing, or transmitting cardholder data on behalf of other merchants or service providers. PCI Committee The Committee, composed of representatives from ITS, the Bursar's Office and some receipting departments, charged with coordinating the implementation of this policy.
+PCI DSS Acronym for "Payment Card Industry Data Security Standards".  Comprehensive standards and supporting materials to enhance payment card data security.  The standards provide a robust security process including prevention, detection and appropriate reaction to security incidents. PCI SSC Acronym for "Payment Card Industry Security Standards Council."  The PCI SSC is led by a policy setting Executive Committee, composed of representatives from the five founding global payment brands and strategic members.  The council provides a variety of tools, questionnaires, guidance, FAQ's, training resources and other materials and information to assist organizations seeking to achieve compliance with its standards. QSA Acronym for “Qualified Security Assessor."  Company approved by the PCI SSC to conduct PCI DSS on-site assessments. SAQ Acronym for “Self Assessment Questionnaire.” Tool used by any entity to validate its own compliance with PCI DSS. Scope All system components, people, and processes to be included in a PCI DSS assessment. The first step of a PCI DSS assessment is to accurately determine the scope of the review.
+Secure Network Isolated and protected network utilized for the processing of credit card data. Service Provider Business entity that is not a payment brand, directly involved in the processing, storage, or transmission of cardholder data. This also includes companies that provide services that control or could impact the security of cardholder data. Examples include managed service providers that provide managed firewalls, IDS and other services as well as hosting providers and other entities. Entities such as telecommunications companies that only provide communication links without access to the application layer of the communication link are excluded. SNMP Acronym for “Simple Network Management Protocol.” Supports monitoring of network attached devices for any conditions that warrant administrative attention. System Administrator (Department) An individual(s) responsible for the administration and maintenance of their service provider system and user access. Two Factor Authentication Method of authenticating a user, whereby two or more factors are verified. These factors include something the user has (such as hardware or software token), something the user knows (such as a password, passphrase, or PIN) or something the user is or does (such as fingerprints or other forms of biometrics). University “University” refers to the University of Memphis as a whole and includes all units. Un-trusted Network Any network not necessary for the processing and security of credit card data, and maintenance of devices performing those operations. Vulnerability Scan Scan that detects flaws or weaknesses which, if exploited, may result in an intentional or unintentional compromise of a system. Procedures PCI Scope The PCI Committee will review the University's scope, at a minimum annually and upon any credit card payment process change, any request from the University’s acquirer and any changes to PCI regulations. The PCI scope review is based on PCI DSS, *VISA and MasterCard Payment Card Merchant Level as outlined below and the appropriate Self Assessment Questionnaire (SAQ). Upon completion of the SAQ, any remediation will be acted upon immediately and the SAQ will be reevaluated. The University may at any time contract with a QSA to perform a Gap Analysis to determine any compliance gaps that will need to be included in the University PCI scope and any remediation for PCI compliance. The University’s Policy not to store credit card data for any reason in any manner will significantly reduce the University's scope.  All credit card information should be thought of as highly sensitive and "need to know only" information and should be treated as such. Merchants that store, process or transmit cardholder data must be PCI compliant. Each merchant will fall into four merchant levels based on transaction volume. Level 1, Level 2, or Level 3 merchant is required to report its compliance status directly to its acquiring bank. The University of Memphis current acquirer has defined the University as a Level 3 merchant.
+
+*Based on the global payment brands standards, VISA and MasterCard have the most stringent requirements for determining Merchant Level. Links to current VISA and MasterCard levels criteria are below:
+
+VISA: https://usa.visa.com/support/small-business/data-security.html/
+
+ 
+
+
+	
+		
+			Merchant Level
+			Merchant Criteria
+			Requirements
+		
+		
+			3
+			Merchants processing 20,000 to 1 million VISA/MC e-commerce transactions annually
+			
+			Annual SAQ
+			Quarterly network scans by ASV
+			Attestation of Compliance Form
+			
+		
+	
+
+
+MasterCard: https://www.mastercard.us/en-us/merchants/safety-security/security-recommendations/merchants-need-to-know.html
+
+ 
+
+
+	
+		
+			Merchant Level
+			Merchant Criteria
+			Requirements
+		
+		
+			3
+			
+			Level 3-Any merchant with more than 2,000 combined MasterCard and Maestro e-commerce transactions annually but less than or equal to 1 million total combined MasterCard and Maestro e-commerce transactions annually
+
+			Any merchant meeting Level 3 criteria of Visa
+			
+			
+			Annual Self-Assessment
+			Quarterly network scans by ASV 2
+			 
+
+			Two Quarterly network scans must be conducted by a PCI SSC Approved Scanning Vendor (ASV)
+			
+		
+	
+
+
+PCI DSS Self-Assessment Questionnaire (SAQ) S cope:
+
+ 
+
+ 
+
+
+	
+		
+			SAQ
+			Description
+		
+		
+			A
+			
+			Card-not-present merchants (e-commerce or mail/telephone-order) that have fully outsourced all cardholder data functions to PCI DSS validated third-party service providers, with no electronic storage, processing, or transmission of any cardholder data on the merchant’s systems or premises.
+
+			Not applicable to face-to-face channels.
+			
+		
+		
+			A-EP*
+			
+			E-commerce merchants who outsource all payment processing to PCI DSS validated third parties, and who have a website(s) that doesn’t directly receive cardholder data but that can impact the security of the payment transaction. No electronic storage, processing, or transmission of any cardholder data on the merchant’s systems or premises.
+
+			 
+			Applicable only to e-commerce channels.
+		
+		
+			B
+			
+			Merchants using only:
+
+			
+				Imprint machines with no electronic cardholder data storage; and/or
+			
+
+			 
+
+			
+				Standalone, dial-out terminals with no electronic cardholder data storage.
+			
+
+			Not applicable to e-commerce channels.
+			
+		
+		
+			C-VT
+			
+			Merchants who manually enter a single transaction at a time via a keyboard into an Internet-based virtual terminal solution that is provided and hosted by a PCI DSS validated third-party service provider. No electronic cardholder data storage.
+
+			 
+			Not applicable to e-commerce channels. 
+		
+		
+			C
+			
+			Merchants with payment application systems connected to the Internet, no electronic cardholder data storage.
+
+			Not applicable to e-commerce channels.
+			
+		
+		
+			P2PE-HW
+			
+			Merchants using only hardware payment terminals that are included in and managed via a validated, PCI SSC-listed P2PE solution, with no electronic cardholder data storage.
+
+			Not applicable to e-commerce channels.
+			
+		
+		
+			D
+			
+			SAQ D for Merchants: All merchants not included in descriptions for the above SAQ types.
+
+			SAQ D for Service Providers:  All service providers defined by a payment brand as eligible to complete an SAQ.
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Section 1 - Install and Maintain a Firewall Configuration to Protect Data A. Electronic Communication and Access
+Traffic is restricted to that which is necessary for the cardholder environment – all other traffic is denied.
+
+    Allowed traffic is restricted to the following:
+
+
+    TLS encrypted web traffic to credit card processors (Elavon, First Data, or any other authorized credit card processing 3rd party)
+    Anti-virus and security updates
+
+     2.    Access to credit card processing services will be restricted from all other on-campus networks.
+B. Connectivity
+
+    Wireless connectivity will not be used for credit card processing.
+    Connectivity between the card holder environment and all other locations not specified in Section 1.A Electronic Communication and Access is restricted via a stateful firewall.
+Section 2  Do Not Use Vendor-Supplied Defaults for System Passwords and Other Security Parameters A. Vendor Defaults
+Vendor supplied defaults must be changed before installing systems on the secure network. This includes, but is not limited to, passwords, SNMP community strings, and elimination of unnecessary accounts.
+B. Authorized Connectivity, Services, Protocols, and Devices
+
+    Wireless connectivity is denied. See Section 1 - Install and Maintain a Firewall Configuration to Protect Data -1.B Connectivity above.
+    Only services, protocols, daemons, hardware devices, etc. necessary for credit card processing will be enabled.
+
+C. Remote Access
+
+    Administrative remote access will be restricted to UofM Information Technology Services (ITS) personnel.
+    All non-encrypted remote access must be disabled.
+    All non-console administrative access to any devices in the secure network must be strongly encrypted prior to password exchange.
+Section 3  Protect Stored Cardholder Data A. Storage of Cardholder Data
+
+Cardholder data may not be stored in any University system, server, personal computer, e-mail account, portable electronic device (laptop, flash drive, CD/DVD, PDA, cell-phone, tablet, portable hard-drive, etc.) or on paper documents. 
+
+B. Protecting Cardholder Data
+
+
+	Departments/activities must be approved by the Bursar’s Office to accept credit card payments and are required to be PCI-DSS compliant at all times. 
+	Only approved cash handling staff may receive and process credit card payments.
+	Approved cash handling staff, supervisors and managers are required to attend annual training and complete the “Credit Card Security Agreement” form. If both of these requirements are not met then the employee cannot accept any form of payments on behalf of the University.
+	Written credit card data must be secured following appropriate departmental/PCI procedures and must be shredded with a crosscut shredder after payment is processed.
+	Approved departments/activities and their staff must follow procedures approved for their work area to secure any cardholder data in their possession and must adhere to the University’s Cash Handling Guide, Cashier Training Guide and PCI procedures.
+
+
+C. Masking Data
+
+Any PAN displayed or printed must be masked to display no more than the last four digits.
+
+D. Scanning for Credit Card Data
+
+The University has deployed a software auditing package to perform quarterly scans of University owned systems to ensure that no credit card data is retained on those systems. The software is required to be installed on all local computers and perform scans searching for possible credit card numbers and any results of the scan are logged to a central management console supported by ITS. At no time are the entire contents of any files directly accessible from the management console. The only data stored in the software console are the reported match and the location and name of the file. The following is an overview of the procedures once the quarterly scan has completed.
+
+
+	Designated personnel will perform a payment card data audit on a quarterly basis.
+	Designated personnel will parse the data with a manual review conducted to help eliminate false positives. 
+	The designated personnel will provide the results to responsible data stewards, system owners or departments for mitigation of identified risks and will request  the data be reviewed and appropriate action taken within 30 days. 
+	The designated personnel will follow up at the end of 30 days if notification of completion has not been received.  If not completed the designated personnel will forward the initial audit discovery to the PCI Compliance Team who will then escalate to the appropriate department leaders for action. 
+	After 7 days of escalation and no response will result in the following actions: 
+	
+		Encryption of file with 256bit AES cypher OR deletion using force methods from ID Finder console
+		Notification to VP of Business and Finance, AVP of Finance, Chief Security Officer and CIO of action taken
+	
+	
+
+
+Bursar's Office is responsible for monitoring and reviewing quarterly scans and remediation in the PCI network environment.
+
+ 
+Section 4  Encrypt Transmission of Cardholder Data Across Open, Public Networks A. Security Protocols
+Strong cryptography and security protocols, such as TLS, SSH, or IPSEC, will be used to protect all cardholder data transmitted over the network.
+B. Unacceptable Transmission Methods
+Cardholder data may not be transmitted via end-user messaging systems, such as but not limited to, chat/instant messaging, text messages, or e-mail.  It is the University's policy not to accept any credit card data via any of these methods. Section 5  Protect All Systems Against Malware and Regularly Update Anti-virus Software or Programs Anti-virus Software
+Industry standard anti-virus and anti-malware protection software will be installed on all devices in the secure network.
+
+    Automatic updating of software and anti-virus definitions will be enabled.
+    Periodic scans will be enabled on all devices in the secure network.
+    Audit logs will be enabled and retained for one year.
+Section 6  Develop and Maintain Secure Systems and Applications Security Patches
+All system components and software within the secure network will have the latest vendor-supplied security patches installed within one month of release. Section 7  Restrict Access to Cardholder Data by Business Need to Know A. Limited Access
+
+    Access to system components and cardholder data will be limited to those individuals whose jobs require such access and must be approved by the Bursar’s Office.
+    Access rights will be restricted to the least privilege necessary to perform job responsibilities based on job classification and function. Written procedures/policy must be in place to ensure data control and specify required privileges and the purpose for the access privileges.
+    Departments/activities with access privileges must review their procedure/policy annually and submit to the Bursar's Office along with the list of staff with access to secure data. The list should state the reason needed for the access, job classification and function.
+
+B. Access Authorization and De-authorization
+
+    Access will be authorized and de-authorized by the Bursar’s Office. Each year, during required annual cash receipting training, departments/activities’ approved cash handling staff, supervisors and managers will be required to fill out the “Credit Card Security Agreement” form.
+    New cash handling employees will be required to complete training and the “Credit Card Security Agreement” form prior to performing cash receipting duties.
+    The Bursar’s Office must approve departments/activities utilizing temporary employees, student workers, volunteers and non-customary cashiers. Upon approval, the individual must sign the “Credit Card Security Agreement” form prior to accepting credit card payments on behalf of the department/activity. Example: volunteers for an auction phone- a-thon.
+    In the event any user should be de-authorized from credit card processing, the respective department supervisor should contact the Bursar’s Office. The Bursar’s Office will document the de-authorization and remove cash receipting access if applicable.
+Section 8  Identify and Authenticate Access to System Components Local Access Accounts
+
+    All users accessing resources within the secure network will do so using individually assigned accounts. Account credentials will not be shared among individuals, and these credentials will be changed on a communicated interval.
+
+Remote Access Accounts
+
+    Two-factor authentication is required for all users for remote access to the secure network. 
+    There will be no remote access granted to vendors.
+Section 9  Restrict Physical Access to Cardholder Data A. Credit Card Data Storage
+Credit card data is not stored either electronically or hard copy. Credit card data must be secured at all times prior to the processing of payment. Hard copy credit card data is crosscut shredded upon completion of processing payment.
+B. Credit Card Data Controls
+All access to cardholder data in non-electronic formats will be handled in accordance with the University's Cash Handling Guide , Training Guide and Department/Activity Internal Procedures.
+C. Credit Card Devices
+Credit card swipe devices will be protected against tampering and will be required for the department/activity with the device to inspect the device for tampering or substitution. Staff training for the inspection of the devices is part of the annual cash receipting training.  A list of all devices as required by 9.9.1 (a) will be maintained by the PCI Committee.  Departments/activities that purchase new equipment are required to notify the Bursar’s Office prior to purchasing and upon receiving the new equipment must notify their Technical Support to verify the equipment and update the Device Log. Section 10  Track and Monitor All Access to Network Resources and Cardholder Data   Logging
+
+    All activity on the secure network, both by internal and external access, will be logged to a central management point and be protected against unauthorized access.
+    Audit logs will be monitored and retained for 1 year.   
+Section 11  Regularly Test Security Systems and Processes A. Inspection of In Scope Environment
+On a quarterly basis, all components in the secure network will be inspected to verify no unauthorized wireless devices are present.
+B. Vulnerability Scans
+
+    External and internal network vulnerability scans will be run quarterly and after any significant changes in network topology, firewall rule modifications, and product upgrades.
+    External scans will be performed by an approved scanning vendor and repeated until no vulnerabilities rated higher than a 4.0 by the CVSS are found.
+    Internal scans will be performed by ITS and repeated until requirements for PCI DSS Requirement 6.2 are met.
+
+C. Penetration Testing
+Penetration testing will be performed by an approved scanning vendor to meet PCI DSS requirements. Section 12  Maintain an Information Security Policy A. PCI Related Policies
+
+
+	A Data Security Policy is in effect and is published, maintained, and disseminated to all relevant personnel. This policy will be reviewed annually and updated as needed.
+	Incident Response Plan - The Incident Response Plan will be maintained by the University's PCI Committee's Incident Response Team.
+	All personnel involved in maintaining and using the credit card processing environment are responsible for the security of the environment and data in their respective job functions. Each department/activity must have detailed internal procedures for cash handling, including the security and processing of credit card data.
+
+
+B. Acceptable Use of Technology
+
+Critical technologies, including but not limited to, desktop and laptop computers, thin-clients, removable electronic media, and remote access technology will be limited to the minimum requirements necessary to process credit card data.
+
+
+	Use of critical technologies and their configuration requires explicit approval from the Bursar’s Office and ITS.
+	Authentication is required to use critical technologies in the PCI secure network.
+	A list of authorized users, critical technologies, and network locations will be maintained by ITS and the Bursar's Office and/or Department System Administrator.
+	Automatic disconnect of sessions for remote-access technologies after a specified period of inactivity will be enabled.
+
+
+C. PCI Training
+
+A formal cash receipting training including security awareness is required to be completed annually by all personnel involved in cash handling including, but not limited to, credit card processing.
+
+D. Service Providers
+
+
+	A list of compliant service providers will be maintained, reviewed, and updated annually.
+	Any agreement with applicable service providers will include an acknowledgement of the provider’s data security responsibility and PCI DSS compliance requirements.
+
+
+ 
+Revision Dates  
+UM1762 - January 21, 2016
+UM1762 - Issued: October 2, 2013
+Subject Areas: Academic Finance General Human Resources Information Technology Research Student Affairs        
+
+
+
+
+
+ 
+http://policies.memphis.edu/UM1762.htm

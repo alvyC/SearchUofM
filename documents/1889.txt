@@ -1,0 +1,268 @@
+http://cybersummit.memphis.edu/2015
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+Mid-South  
+ 
+    Cyber Security Summit | October 16, 2015
+   
+   
+    
+     
+      Home
+      Speakers
+      Sponsors
+      Agenda
+      
+     
+      Arrival
+      Gallery
+     
+    
+   
+
+  
+  
+
+   
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+    
+    
+     
+     
+     
+     
+     
+    
+     
+     
+    
+	
+	
+    
+
+
+  
+  
+
+
+  
+  
+
+home This year's theme: Social Engineering Attacks
+The University of Memphis Center for Information Assurance * will
+
+
+be hosting the 8 th Annual Cyber Security Summit at the FedEx
+Institute of Technology on October 16th, 2015. Information
+Assurance and Cyber Security experts will be onsite for presentations
+and networking to address current issues of cyber security.
+
+
+
+Note: * A nationally designated Center of Academic Excellence in Cyber Defense Research and a nationally designated Center 
+of Academic Excellence in Cyber Defense Education.
+
+
+
+
+
+
+Topics may include:
+
+Cybersecurity Training
+Cyber-Physical Environments
+Cyber Risk Management
+Digital Social Engineering
+Cyber Security Recovery
+Cyber Law
+
+
+
+Door Prizes Include:
+
+USB Storage
+Wireless Mouse
+Android Media Player
+And More...
+
+
+
+
+
+
+
+The speakers include:
+
+
+        
+                
+                Wiam Younes
+                Information Security Training and Awareness Coordinator
+                Adjunct Faculty, Carnegie Mellon University Heinz College
+                Title of Talk: Cybersecurity Education for K-12 Faculty
+        
+        
+                Bio
+                
+Wiam Younes, Ph.D.  is an Information Security Training and Awareness Coordinator at Carnegie Mellon University Information Security Office. In this role, she manages the training and awareness program by building and managing information security online courses (Security 101, HIPAA, FERPA, PCI), publishing awareness content, conducting workshops, holding training events and managing the Information Security web content. Wiam holds a PHD in Instructional Management and Leadership from Robert Morris University. Her research focus was on Cybersecurity education, staff development and instructional technology. Her dissertation was on "Cybersecurity Education (Training and Awareness) for K-12 Faculty and Staff in Allegheny County."
+
+	
+
+
+        
+                
+                Frederick T. Sheldon
+                Professor and Chair of Computer Science, University of Idaho
+                Title of Talk: Quantifying the Impact of Unavailability in Cyber-Physical Environments
+        
+        
+                Bio
+		Sheldon has 29+ years in the fields of software engineering and computer science engaged as an engineer, principal investigator, research scientist, business developer and conference chair. He is professor and chair of computer science at the University of Idaho, and holds a visiting professorship at the Int'l School of Software, WHU, China. He's held faculty appointments (U. Colorado CS, Wash. State U., U. Memphis) and R&D positions at Oak Ridge National Laboratory and three fortune 100 companies (LMCO, GD and Raytheon/TI) including a National Academy NRC postdoc at NASA Langley, and Visiting Scholar at NASA Ames and Stanford University. He's published 130+ articles, 12 editorships and 4 US Patents. He's chaired, facilitated and participated in National R&D venues including invited speaker, panelist and moderator. His research interests are currently focused on cyber and information security. He enjoys teaching Senior and Graduate level topics. 
+	
+
+
+
+	
+		
+		Michael Duren
+		President and Owner of Cyber Moxie, LLC
+		Title of Talk: An Auditor's Perspective on Risk Management in our Cyber Programs
+	
+	
+		Bio
+		Michael is the President and owner of Cyber Moxie, LLC, a Cyber Security company headquartered in Clearwater, Florida that specialized in encryption technologies and cyber security program development.  Michael is a technologist and entrepreneur with extensive experience in security technology and advanced research and development.  Prior to founding Cyber Moxie, LLC, Michael co-founded WetStone Technologies, Inc., a successful security technology company that specializes in security research and development and in digital forensic technologies.  Michael has also worked in both defense and commercial industries throughout his career.  He is a practicing Certified Information Systems Security Professional (CISSP).
+
+	
+
+
+	
+		
+		Suzanne H. Miller
+		Partner with Vaco Risk Solutions
+		Title of Talk: Hackers Tool Box: #1 Most Effective Tool - Digital Social Engineering
+	
+	
+		Bio
+		Dr. Suzanne Miller is a recognized international expert in information privacy and security assurance with more than 25 years of experience. 
+		She has provided regulatory compliance mentoring and consulting services for the banking, hospitality, logistics and healthcare industry
+		as well as state and local governments, and fortune 100 companies. Dr. Miller is a Partner with Vaco Risk Solutions. 
+		She is also a member of Credit Union Internal Auditors Association, American College of Forensic Examiners Institute and Payment Card Industry Security Standards
+		Council Community Group.
+
+	
+
+
+
+	
+		
+		Christina Kubecka
+		CEO of HypaSec Security
+		Title of Talk: How to Implement IT Security After a Cyber Meltdown
+	
+	
+		Bio
+
+		Christina Kubecka, Private Researcher SecurityEvangelistEU, and CEO of HypaSec Security, an IT Security consulting company operating out of Europe and East Africa.  Chris previously headed the Security, Network Operations Centre and Information Protection Unit as Group Leader for Aramco Overseas Company for EMEA. She holds degrees in Engineering and Information Technology. Chris holds an alphabet soup of certifications such as MCSE, MCDBA, CISSP, etc and GCIA,GCIH, GPEN trained. Her hobbies include research of smartphone/Android OS exploitation, cyber warfare, process and automated control systems, DNS and IPv6 protocols, cryptography, SIEM's/correlation engines and cyber-intelligence. Chris has over 20 years of extensive experience in the field of information security. Her career has spanned from the US Air Force, Space Command, private and public sector.
+
+	
+
+
+
+        
+                
+                Vincent Perryman
+                The Law Offices of J. Vincent Perryman
+		http://www.midsouthattorneys.com/about.aspx
+                Title of Talk: Cyber Law: Be Prepared Because the Plaintiff's Attorneys are Coming
+        
+        
+                Bio
+                TBA
+	
+
+
+        
+                
+                Natalie Sjelin
+                Associate Director of Training
+		University of Texas at San Antonio - CIAS
+                Title of Talk: Community Cyber Security
+        
+        
+                Bio
+                Ms. Sjelin is the Associate Director of Training at the Center for Infrastructure Assurance and Security at the University of Texas at San Antonio. The past thirteen years, Ms. Sjelin has played a key role in training and exercise initiatives assisting communities across the nation to develop viable and sustainable Community Cyber Security Programs for their jurisdictions. Ms. Sjelin managed, coordinated and facilitated Community Cyber Security exercises and led the training team in building a robust training capability delivering Information Security training, workshops, seminars and conferences aimed at a national audience for the Department of Homeland Security, military and industry partners. This cyber training addresses whole community response and other national objectives. 
+	
+
+
+
+	
+		
+		Timothy Marsh
+		FBI, Memphis
+		Title of Talk: The Cyber Threat
+	
+	
+		Bio
+		
+		Timothy S. Marsh was selected as the Unit Chief of the Cyber Division's Guardian Victim Analysis Unit in April 2013. In this position, he is responsible for ensuring the FBI successfully implements the Guardian for Cyber program enterprise wide. 
+
+Mr. Marsh began his career as a special agent with the FBI in 2004, where he was assigned to the New Orleans Field Office. Mr. Marsh investigated a variety of counterintelligence matters, and in 2009 was transferred to the Los Angeles Field Office where he continued his work with counterintelligence. In 2011, he was named supervisory special agent of the cyber program in the New Orleans Field Office.
+
+In 2012, Mr. Marsh was requested to assist the National Cyber Investigative Joint Task Force with an outreach initiative focused on extracting cyber-related victim and actor threat information from FBI holdings and to determine the best method of disseminating said information to the appropriate field offices along with impacted victims. Mr. Marsh was instrumental in Cyber Division's redevelopment and use of the Guardian for Cyber tracking program. Additionally, Mr. Marsh has been working to implement the Guardian for Cyber program throughout the USIC and other government agencies associated with the implantation Executive Order 13636.
+
+Before entering the FBI, Mr. Marsh worked as an engineer with an emphasis in the computer field. He received a Bachelor of Science degree from Memphis University in 1999. 
+		
+	
+
+
+
+
+
+
+
+Questions?
+University of Memphis Cyber Summit
+(901) 678-5440 OR (901) 678-3916
+cybersummit@memphis.edu
+
+Thank you for your support!
+
+
+  
+  
+
+
+Copyright © 2015 by the University of Memphis.
+ Important Notice
+  
+
+ 
+ 
+ 
+
+
+
+http://cybersummit.memphis.edu/2015

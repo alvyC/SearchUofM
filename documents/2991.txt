@@ -1,0 +1,155 @@
+http://bf.memphis.edu/spectrum/hr/troubleshooting.php
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+CODES
+
+data standards manual
+deduction codes	
+e-classes
+earnings codes
+suffix list
+soc codes
+
+EMPLOYEE SELF SERVICE
+
+accessing your info
+pay stub info
+troubleshooting
+
+TRAINING
+
+learning curve
+
+reference cards
+
+UTILITIES
+
+eContracts
+position lookup
+web time entry
+    by organization
+    by name
+org chart search
+
+REPORTS
+
+e~Print
+
+FORMS
+
+direct deposit
+hr
+payroll
+student employment
+system access
+
+
+FI PROGRAM GUIDE
+TIGERBUY WEB SITE
+
+
+
+
+
+
+
+ 
+
+
+Print Version
+
+
+
+ 
+
+Employee Self Service: Troubleshooting 
+ How do I access Employee Self Service ?
+Employee Self Service can be accessed via the myMemphis portal on the Internet at http://my.memphis.edu . Login to the portal using your UUID and ph password.
+
+What are the system requirements ?
+Any PC or Macintosh with Internet connectivity, and using Internet Explorer  5.01 or higher or Netscape  4.1 or higher can access Employee Self Service. If you need assistance upgrading and/or installing your browser, contact your Local Technical Support Provider or contact the ITD Helpdesk.
+
+
+List of Local Technical Support Providers 
+IS Helpdesk Phone: (901) 678-8888
+
+ When can I access Employee Self Service? 
+Employee Self Service is available 24 hours a day.
+
+What is my password for opening the pay stub that was e-mailed to me?  
+Your password is your last name in lowercase letters AND the last four digits of your social security number. For example, if your name is John Doe and your social security number is 123-45-6789 , your password would be doe6789 .
+How safe is it to use Employee Self Service?  
+Employee Self Service uses the latest Internet security software. All information transmitted to your browser is encrypted. 
+ What do I do if I find a mistake in my information?
+If there is an error with data, click the Help link within Employee Self Service for instructions on correcting the error. 
+ Can I print the information I am looking at?
+Yes. Printing is supported within the browser you are using. Select the Print  options under your File  menu.
+
+
+
+
+
+
+
+
+  Comments & Suggestions
+   | 
+  Important Notice
+   | 
+  U of M Home
+
+Site maintained by Division of Business & Finance
+Last update: 08/12/2010
+
+
+
+
+
+
+
+
+
+http://bf.memphis.edu/spectrum/hr/troubleshooting.php

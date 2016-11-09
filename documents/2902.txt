@@ -1,0 +1,62 @@
+http://policies.memphis.edu/UM1691.htm
+=======================================================================================
+The University of Memphis Campus Data Security Policy POLICIES
+
+Issued:  October 9, 2014 Responsible Official:  Vice President for Information Technology Responsible Office:  Information Technology Services Policy Statement Policy In the course of its operations, the University of Memphis collects and maintains restricted data about students, employees, donors, vendors, and others.  This policy governs the use, control, and access to restricted data defined by statute, regulation, contract, license, or definitions within this policy.  The  Data Classification document differentiates the types of University data.
+
+University data must be protected against threats such as malicious misuse, unauthorized intrusions, and/or inadvertent compromise.  Activities outsourced to off-campus entities must comply with the same security requirements as in-house activities.  Each University of Memphis department and employee is responsible for the integrity and security of University data used, controlled, or accessed within their area.  This policy establishes parameters for protection of University data, not the medium or application that the data resides in.  This policy aligns with other established policies and procedures for data security in Institutional Research and the University of Memphis Foundation.
+
+Prior to use of restricted University data via laptop computer or other electronic portable data device, employees are responsible for obtaining appropriate protections for such computers or portable devices, or for verifying that such protections are already in place.  The use of unprotected equipment to access or store University data is prohibited, whether or not the equipment is owned or controlled by the University, unless an exception has been granted by the CIO.
+        
+  Responsibilities The Vice Provost for Information Technology/Chief Information Officer (VP/CIO) is responsible for implementing appropriate data security policies, procedures, and technology standards (i.e. hardware and software) for the University.
+
+Employees, in cooperation with their Local Support Provider (LSP), are responsible for protecting restricted University data to which they have access.  In areas not supported by a LSP, Information Technology Services (ITS) will work in cooperation with employees to secure University computers.
+
+ITS is responsible for communicating current security standards and procedures to the University community.  These standards and procedures are posted at the IT Security web page . 
+Department heads, in cooperation with their LSP and ITS, are responsible for insuring their employees have adequate technical support to understand and implement security standards and procedures.  This responsibility extends to data accessed on University office equipment, as well as personally owned equipment on which restricted University data is stored or manipulated.  Each unit of the University instructs employees about the "safe and protected" storage space for saved University data.  In the event of an audit, each unit of the University would be responsible for providing the location of the unit's "safe and protected" storage.
+    
+  Purpose   The University of Memphis is committed to maintaining the confidentiality of all restricted University data.  The purpose of this policy is to establish classifications for University data and a framework to preserve the integrity of all University data, regardless of the hardware, systems, etc. where the data may reside or from which it is accessed. Definitions Data Steward University officials and agents of the University who have designated duties for collection, input, and maintenance responsibilities for data within their functional area. Encryption
+
+
+
+Programs and measures to encode information such that it cannot be decoded and read without knowing an appropriate key. Transforming information using a secret key so that the information is unintelligible to unauthorized parties.   Enterprise Information System Any centralized data storage or distribution system on campus.  Enterprise Information Systems are managed by ITS. Internal/Limited Access University Data Data that would not expose the University to loss if disclosed, but should be protected.  Internal/Limited access University data includes, but is not limited to, operational data likely to be distributed across organizational units within the University. Network Any number of computers and portable devices joined together by a physical or wireless communications link that allows information to be passed between computers, irrespective of where those computers are located.  Networks provide the pathways for information traffic and allow employees to access databases and share applications residing on servers.       Personally Identifiable Information (PII) Data that can be used to uniquely identify an individual. Portable Devices or Media Portable devices include laptops, Personal Digital Assistants (PDA), or any other portable technology hardware.  Media includes technology storage mediums such as CDs, DVDs, magnetic tapes, floppy disks, external hard drives, and universal serial bus (USB) drives, or any other portable data storage media. Public University Data Data available within the University community and to the general public. Restricted University Data Data protected by federal or state law or regulations, or by contract.  Restricted University data includes, but is not limited to, data that is protected by the Family Educational Rights and Privacy Act (FERPA), the Health Insurance Portability and Accountability Act (HIPAA), or the Gramm-Leach Bliley Act (GLBA). Server An application or hardware that performs services for connected clients as part of a client server architecture.   Procedures General Security In coordination with the Office of Legal Counsel and the Department of Internal Audit, ITS will develop appropriate specific procedures for compliance with this policy and provide education to the University community on the implementation of this policy and such procedures.  Procedures, technology standards, and Best Practices can be found at the IT Security web page .
+Restricted and Internal University data must be saved to a University-owned, protected server, except for the rare instances approved by the Information Security Advisory Committee (ISAC).  Data Stewards may request to store data on local machines through the CIO office, and the request will be forwarded to ISAC for approval.  The request acceptance or denial will be noted in the minutes of the ISAC meeting following the request.  Access to saved and stored University data while on campus must be through the University network.
+If ISAC grants permission for University data to be saved and stored on a University-owned destop or laptop or a personal computer, faculty and staff are personally responsible for encrypting the data with the current ITS standard and for remembering their password. 
+Employees are responsible for insuring that appropriate security controls in accordance with published University standards are installed on their office and personal/home computers or any portable devices or media on which restricted University data is stored or accessed.
+
+Restricted University data must be protected against physical theft or loss, electronic invasion, or unintentional exposure through a variety of personal and technical means.
+
+All University computers must have recommended operating system patches and updates installed, updated antivirus and antispyware tools installed, and firewalls turned on.  Personal passwords are established and secured by employees.  Passwords are not to be disclosed or shared.
+
+ITS is responsible for the security of all Enterprise Information Systems throughout campus, including but not limited to, myMemphis enterprise resource planning and associated systems, Active Directory, and the UMmail e-mail system.
+
+ITS will audit servers, computers, and portable devices or media with restricted data for compliance with policies and standards and will deny network access for servers, computers, and portable devices or media out of compliance.
+     
+   Remote Access Remote access to restricted University data is available only to authorized employees.  Employees must be authenticated to access restricted University data remotely.  Data must be encrypted during transit.  
+Access from off-campus must be via VPN.  Home Computers Home computers that are used to access, store, or transmit restricted University data should use current security patches, updated antivirus and antispyware software, and encryption.  In instances where standard security precautions are not free, the employee will incur all costs for security of their home computer. Employees are responsible for deleting all restricted University data from their computer upon termination of employment.   Portable Devices or Media Each user in the possession of restricted University data is responsible for protecting the data, regardless of the portable devices or media the data resides on.
+
+Restricted University data may not be loaded onto any portable device or media unless protective measures are implemented that safeguard the confidentiality and integrity of the data in the event of theft or loss.  Protective measures must be implemented before restricted University data is installed.
+
+
+Restricted University data cannot be saved and stored on mobile devices that cannot be encrypted with the current ITS standard. 
+   Equipment Disposal University-owned computers and portable devices or media must have all confidential and official university data erased from the computer or portable device or media prior to its transfer out of University control, and/or destroyed, using current best practices . Failure to Comply with this Policy Failure to comply with current data security procedures may result in limiting or denying access to University data resources.  If, upon investigation by the appropriate University officials, the lack of compliance appears to have been willful and deliberate or if there is repeated lack of compliance, disciplinary action may be taken. The IT Security web page should be reviewed at the beginning of each academic semester by all users who have access to restricted University data.   FAQs FAQs The UofM Knowledge Base for security frequently asked questions may be viewed here . Links Data Classification Document https://umdrive.memphis.edu/g-itgovernance/ISAC/FY09/Classification%20of%20University%20Data%20Final.docx
+ 
+  Family Educational Rights and Privacy Act (FERPA) www.ed.gov/policy/gen/guid/fpco/ferpa/index.html Health Insurance Portability and Accountability Act (HIPAA) www.hhs.gov/ocr/hipaa/ Gramm-Leach Bliley Act (GLB) www.ftc.gov/privacy/privacyinitiatives/glbact.html State of Tennessee Data Security Law state.tn.us/sos/acts/105/pub/pc0688.pdf Tennessee Board of Regents Policy on Information Technology 
+
+www.tbr.edu/policies/default.aspx?id=1114
+
+UoM Policy - Acceptable Use of Information Technology Resources policies.memphis.edu/UM1535.htm   UoM Policy - Use of  Copyrighted Materials policies.memphis.edu/UM1483.htm   UoM Policy - Security and Protection of Electronic Information Resources policies.memphis.edu/UM1566.htm   UoM Policy - Data Access policies.memphis.edu/UM1337.htm   UoM - TigerLAN Lab Guidelines umtech.memphis.edu/TigerLAN_Guidelines.htm UoM - ITD Security Procedures and Best Practices itd.memphis.edu/security/ Red Flag Policy http://policies.memphis.edu/UM1714.htm Revision Dates  
+UM1691 - Revised - October 9, 2014
+UM1691 - Revised - April 26, 2014
+UM1691 - Revised - April 17, 2013
+UM1691 Rev.1 -- updated November 10, 2009
+UM1691 - Issued: November 5, 2008 supercedes policy number 1:2A:03:05
+
+Subject Areas: Academic Finance General Human Resources Information Technology Research Student Affairs          
+
+
+
+
+
+ 
+http://policies.memphis.edu/UM1691.htm

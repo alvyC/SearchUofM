@@ -1,0 +1,783 @@
+http://www.memphis.edu/step/research/research_resources.php
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+   
+   
+   
+   
+   
+
+
+   
+   
+   
+
+
+                              
+                                                      
+                           
+                              
+                                  
+                                    
+                                    
+                                 
+                                                            
+                              
+                                 
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"To work with a non-profit organization that will allow me to utilize my servant leadership skills and caring ability to further enhance the socioeconomic needs of both domestic and foreign citizens."
+READ MORE  (fa fa-angle-right)
+
+
+                              
+                              
+                           
+                        
+                                          
+                     
+                        
+                           
+                              
+                                 eNews and Signup 
+                                 Stay up-to-date with the UofM.
+                              
+                              
+                                 Parent and Family Events 
+                                 Join us for events held just for you!
+                              
+                              
+                                 FAQs 
+                                 Have a question? We have answers!
+                              
+                              
+                                 Connect With Us 
+                                 We are here to help you help your student.
+                              
+                           
+                           
+                              
+                                 Scholarships & Financial Aid 
+                                 We can help your student attend the UofM.
+                              
+                              
+                                 Student Services 
+                                 Resources to help your student succeed.
+                              
+                              
+                                 Campus Card 
+                                 Add money to your student's card for books and food.
+                              
+                              
+                                 Give to UofM 
+                                 Your gift to the Parent Fund makes the UofM a better place.
+                              
+                           
+
+                           
+                              
+                                  
+                                 
+                              
+                              
+                                  
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"Most proud of my accomplishment of graduating with a degree in accounting in three years with Summa Cum Laude and Honors."
+READ MORE (fa fa-angle-right)
+
+
+                              
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              
+							     Join Now 
+                                 Be True Blue and join the Alumni Association.
+                              
+                              
+                                 Update Your Information 
+                                 Receive University updates and the Memphis magazine.
+                              
+                              
+                                 Clubs and Chapters 
+                                 Get involved and stay connected to the UofM.
+                              
+                              
+                                 Make a Gift 
+                                 Your contribution can make a difference.
+                              
+                           
+                           
+                              
+                                 Lambuth Chapter 
+                                 Lambuth Graduates: Reconnect with fellow alumni.
+                              
+                              
+                                 Upcoming Events 
+                                 Mark your calendar for these upcoming events.
+                              
+                              
+                                 Photo Gallery 
+                                 View annual collections of the Alumni Association Photo Gallery.
+                              
+                              
+                                 News 
+                                 Stay up-to-date with Memphis Matters.
+                              
+                                                      
+                           
+                           
+                              
+                                  
+                                    
+                                    
+                                 
+                              
+                               
+                                  
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"Continue to positively impact American education so every student recieves optimal teaching and learning, every day."
+READ MORE (fa fa-angle-right)
+
+
+
+
+                              
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              
+                                 Veterans Resource Center 
+                                 Supporting the transition from military life to civilian life.
+                              
+                              
+                                 Veterans Benefits and Certifications 
+                                 Learn about Veterans Educational Benefits and Certifications.
+                              
+                              
+                                 Get Credits Toward your Degree 
+                                 Receive college credit for military experience, skills, and training.
+                              
+                              
+                                 Online Degree Programs 
+                                 Top provider of more than 50 online degree programs.
+                              
+                           
+                           
+                              
+                                 
+                                    
+                                       
+                                          
+                                          
+                                          
+                                          See his story: Vietnam veteran Michael Sasseen completed his degree by earning Experiential Learning Credit (ELC) from his past experiences authoring a book and working with war veterans with PTSD.
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+   
+
+      
+      
+         
+   
+      
+         
+            
+               
+                  
+                     
+                           			Systems Testing Excellence Program
+                           	
+                  
+               
+            
+         
+      
+      
+         
+            
+               
+                  
+                     
+                        Research
+                        Programs
+                        Events
+                     
+                     
+                        
+                           Research
+                           
+                              
+                                 
+                                 About Us
+                                 Call for Proposals
+                                 Publications
+                                 Research Advisors
+                                 Research Resources
+                                 Research Team
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     
+                        Home
+                        
+                              	STEP
+                              	
+                        
+                              	Research
+                              	
+                        Research Resources
+                     
+                  
+                  
+                     
+                     
+                     
+                     		
+                     
+                     
+                     Research Resources
+                     
+                     Jump to:  Workshop Papers | MIS Quarterly | Information Systems Research | Software Testing | System Testing
+                     
+                     
+                     
+                       Workshop Papers (.pdf)
+                     
+                     
+                     
+                        
+                         Transforming Software Testing with Function Extraction - Alan R. Hevner, Richard C. Linger, and Mark G. Pleszkoch
+                        
+                         A Tool for Risk-Based Testing - Linda Sherrell, Sarah Bowen, and Hima Puppala
+                        
+                         A General Framework for Information Processing with Application to Quantitative Software
+                              Testing - Vasile Rus and Sajjan Shiva
+                        
+                         Hercules: An Environment for Large-Scale Enterprise Infrastructure Testing - Lan Wang, Charles Ellis, Wei Yin, and Dung Dinh Luong
+                        
+                         Fault Injection: A Method for Validating Fault-Tolerant System - Salahuddin Mohammad Masum, Bhanu Chander Reddy Vanteru, and Mohammed Yeasin
+                        
+                         Automated Unit Testing with AgitarOne - Eamon McCormick
+                        
+                         A Framework for Aligning Testing and Software Development - Colin Onita and Jasbir Dhaliwal
+                        
+                         Generating Test Inputs for Fault-Tree Analyzers using Imperative Predicates - Sasa Misailovic, Aleksandar Milicevic, Sarfraz Khurshid, and Darko Marinov
+                        
+                         The Division Of Knowledge: Knowledge Transfer Practices in Outsourcing - Thomas F. Stafford, Mark Gillenson, and Sandra Richardson
+                        
+                         Applying Knowledge Management Approach for Software Testing - Ted Lee
+                        
+                         Can Employees' Personality and Cultural Characteristics Be Used to Predict their
+                              Best Fit With Software Testing Job Tasks? - Judith C. Simon, Judith C. Brown, Charles J. Campbell, and Sandra Richardson
+                        
+                         Knowledge Partitioning and Knowledge Transfer Mechanisms in Software Testing: An
+                              Empirical Investigation - Radhika Jain and Sandra Richardson
+                        
+                         The CollegeCareerCorps Model - Laurie Craig, Kevin Avent, and Jeff Brittain
+                        
+                         Managing Offshore Outsourcing of Software Testing - Robin S. Poston, Judith C. Simon, and Radhika Jain
+                        
+                         Importance of Test Automation in System Testing - Sudheer Mamadapur
+                        
+                         Interpersonal Conflict Between Developers and Testers in Software Development - Xihui Zhang, Jasbir Dhaliwal, and Mark Gillenson
+                        
+                         Generalization of MOPS for Software Testing using Finite State Machine - Mohammad S. Sorower, Mohammad F. Ahmed, and Mohammed Yeasin
+                        
+                         Service Oriented Architecture (SOA) Testing - Khais Khan, Satheesh Kumar, and Prabahakran Sundaram
+                        
+                         Testing in the Early Phases of the Software Development Life Cycle - Sarah B. Lee, Linda B. Sherrell, Hima Puppala, and Sajjan Shiva
+                        
+                         Engaging Testers Early and Throughout the SDLC - Mark L. Gillenson, Xihui Zhang, and Sandra Richardson
+                        
+                         Development of Decision Models for Best Use of Software Testing Resources - Charles J. Campbell, Judith C. Simon, and Ronald B. Wilkes
+                        
+                     
+                     
+                     
+                       MIS Quarterly
+                     
+                     
+                     
+                        
+                         A Multiple criteria for evaluating Information systems. By John S. Chandler. MIS quarterly, Mar82, Vol. 6 Issue 1, p61-74, 14p, 3 charts,
+                           1 diagram, 1 graph; ( AN 4679371 )  
+                        
+                        
+                        Evaluating Information system effectiveness – Part 1 Comparing evaluation approaches . By Scott Hamilton, Norman L. Chervany  MIS Quarterly , Sep81, Vol. 5 Issue 3, p55-69, 15p; ( AN 9267656 )  
+                        
+                        
+                        Measuring Information system Performance: Experience with the management by results system at security Pacific bank. By: Singleton, John P.; Mclean, Ephraim R.; Altman, Edward N MIS Quarterly , Jun88, Vol. 12 Issue 2, p324, 14p, 4 charts, 1 diagram; ( AN 4680431 )
+                        
+                        
+                     
+                     
+                     
+                       Information Systems Research
+                     
+                     
+                     
+                        
+                        A Decision Model for Software Maintenance . By: Krishnan, M. S.; Mukhopadhyay, Tridas; Kriebel, Charles H.. Information Systems Research , Dec2004, Vol. 15 Issue 4, p396-412, 17p  
+                        
+                        
+                        A Fault Threshold Policy to Manage Software Development Projects . By: Chiang, I. Robert; Mookerjee, Vijay S.. Information Systems Research , Mar2004, Vol. 15 Issue 1, p3-21, 19p  
+                        
+                        
+                        Enabling Software Development Team Performance During Requirements Definition: A Behavioral
+                                 Versus Technical Approach . By: Guinan, Patricia J.; Cooprider, Jay G.; Faraj, Samer. Information Systems Research , Jun98, Vol. 9 Issue 2, p101-125, 25p  
+                        
+                        
+                        Modeling Coordination in Software Construction: An Analytical Approach . By: Koushik, Murlidhar V.; Mookerjee, Vijay S.. Information Systems Research , Sep95, Vol. 6 Issue 3, p220-254, 35p  
+                        
+                        
+                        Optimal Software Development: A Control Theoretic Approach . By: Yonghua Ji; Mookerjee, Vijay S.; Sethi, Suresh P.. Information Systems Research , Sep2005, Vol. 16 Issue 3, p292-306.  
+                        
+                        
+                        Portfolios of Control in Outsourced Software Development Projects . By: Choudhury, Vivek; Sabherwal, Rajiv. Information Systems Research , Sep2003, Vol. 14 Issue 3, p291-314, 24p  
+                        
+                        
+                        The Effects of Time Pressure on Quality in Software Development : An Agency Model. By: Austin, Robert D.. Information Systems Research , Jun2001, Vol. 12 Issue 2, p195, 13p
+                        
+                        
+                     
+                     
+                     
+                       Software Testing
+                     
+                     
+                     
+                        
+                        An introduction to the testing and test control notation (TTCN-3) Computer Networks: By: Jens Grabowski, Dieter Hogrefe, and György Réthy, the International
+                           Journal of Computer and Telecommunications Networking, June 2003,Volume 42, Issue
+                           3, Pages: 375 - 403, ISSN: 1389-1286  
+                        
+                        
+                        An Approach to Testing COTS Software for Robustness to Operating System Exceptions
+                              and Errors.  By: Anup K. Ghosh and Matthew Schmid,Proceedings of the 10th International Symposium on
+                           Software Reliability Engineering , Year of Publication: 1999 ,Page: 166, ISBN:0-7695-0443-4  
+                        
+                        
+                        Inoculating software for survivability  Communications of the ACM . By: Anup K. Ghosh, Jeffrey M. Voas, July 1999,Volume
+                           42 , Issue 7,Pages: 38 – 44, ISSN:0001-0782  
+                        
+                        
+                        Inspecting and Asserting Intelligently. By: J.Voas, K.Miller  
+                        
+                        
+                        From Testing to Trading. By:Murray Ruggiero and Angela Vigliotti, October 1999, Technology & Trading, Futures  
+                        
+                        
+                        Factors That Affect Software Testability. By: Voas Jeffrey M,Technical Report: NASA-91-9pnsqc-jmv ,Year of Publication: 1991  
+                        
+                        
+                        Long-Term Testing in a Short-Term World Long-Term Testing in a Short-Term World, By: Vaughn T. Rokosz, IEEE Software, May 2003, Volume 20, Issue 3, Pages: 64 – 67, ISSN:
+                           0740-7459  
+                        
+                        
+                        Six thinking hats to improve testing , By: Julian Harty, 2nd June 2006, six thinking hats tutorial at CAST 2006, Page 16
+                           of 18.  
+                        
+                        
+                        Testing the Robustness of Windows NT Software.  By: Ghosh, M. Schmid and V. Shah,Proceedings of the the Ninth International Symposium
+                           on Software Reliability Engineering , Year of Publication: 1998, Page: 231, ISBN:0-8186-8991-9  
+                        
+                        
+                        T esting and verification of network management and design tools. By: Mansoor Alicherry 1 , Randeep Singh Bhatia 2 , Harsha Nagesh 1 , Chitra Phadke 3 , Vishy Poosala, Bell Labs Technical Journal, 9 Dec 2003, Volume 8, Issue 3 , Pages 3 – 13 
+                        
+                     
+                     
+                     
+                       System Testing
+                     
+                     
+                     
+                        
+                        Employees and High-Performance Work Systems: Testing inside the Black Box by Harvie Ramsay, Dora Scholarios & Bill Harley;  British Journal of Industrial Relations; Volume 38 Page 501 - December 2000  
+                        
+                        
+                        Rapid Embedded System Testing Using Verification Patterns  by  Wei-Tek Tsai Lian Yu Feng Zhu Ray Paul ; IEEE Software Volume 22 , Issue 4 (July 2005) Pages: 68 - 75  
+                        
+                        
+                        System Testing by Gail Hagen  
+                        
+                        
+                        System testing for an online world by James T. Holter  
+                        
+                        
+                        System Testing via Monte Carlo by Wolf Ron Ronik  
+                        
+                        
+                        Test Statistics for System Design Failure by   John May ,  Silke Kuball and Gordon Hughes; Technical Report CSTR-98-006; Department of Computer Science,
+                           University of Bristol, April 1998  
+                        
+                        
+                        Test, Measurement and management by Bob Shine, Kathy Li-Dessau, And Steve Cason  
+                        
+                        
+                        Testing intersystem functionality: the relationships between systems can be complex,
+                              but there's still room to simplify by  Rebecca Ellis ;  Engineered Systems ,  July, 2005
+                        
+                     
+                     
+                     
+                     	
+                     
+                  
+               
+               
+                  
+                     
+                        Research
+                        
+                           
+                              
+                              About Us
+                              Call for Proposals
+                              Publications
+                              Research Advisors
+                              Research Resources
+                              Research Team
+                           
+                        
+                     
+                     
+                     
+                        
+                           
+                              About Us
+                              What does STEP do? Discover the answer here!
+                           
+                           
+                              CAST
+                              Learn more about the Cluster to Advance Security & Testing.
+                           
+                           
+                              Contact Us
+                              Do you have questions? Please feel free to contact us!
+                           
+                        
+                     
+                  
+                  
+               
+               
+            
+            
+         
+         
+      
+   
+   
+   
+      
+      
+      
+
+   
+      
+         
+            
+               Full sitemap 
+            
+            
+               
+                  
+                     Admissions
+                     
+                        
+                           Prospective Students
+                           Undergraduate
+                           Graduate
+                           Law School
+                           International
+                           Parents
+                           Scholarship & Financial Aid
+                           Tuition & Fee Payment
+                           FAQs
+                           About UofM
+                        
+                     
+                  
+                  
+                     Academics
+                     
+                        
+                           Provost's Office
+                           Libraries
+                           Transcripts
+                           Undergraduate Catalog
+                           Graduate Catalog
+                           Academic Calendar
+                           Course Schedule
+                           Financial Aid
+                           Graduation
+                           Honors Program
+						   eCourseware
+                        
+                     
+                  
+                  
+                     Athletics
+                     
+                        
+                           Gotigersgo.com
+                           Ticket Information
+                           Intramural Sports
+                           Recreation Center
+                           Athletic Academic Support
+                           Former Tigers
+                           Facilities
+                           Tiger Scholarship Fund
+                           Media
+                        
+                     
+                  
+				  
+                  
+                     Research
+                     
+                        
+                           Sponsored Programs
+                           Research Resources
+                           Centers & Institutes
+                           Chairs of Excellence
+                           FedEx Institute of Technology
+                           Libraries
+                           Grants Accounting
+                           Environmental Health
+                           Office of Institutional Research
+                        
+                     
+                  
+                  
+                     Support UofM
+                     
+                        
+                           Make a Gift
+                           Alumni Association
+                           Year of Service
+                        
+                     
+                  
+                  
+                     Administrative Support
+                     
+                        
+                           President's Office
+                           Academic Affairs
+                           Business & Finance
+                           Career Opportunities
+                           Conference & Event Services
+                           Corporate Partnerships
+Development Office
+                           Government Relations
+                           Information Technology Services
+                           Media and Marketing
+                           Student Affairs
+                        
+                     
+                  
+               
+            
+         
+         
+            
+               
+                  
+                  
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+               
+            
+            
+               
+                  Follow UofM Online
+                  Facebook Twitter YouTube
+                  
+                  
+                  Instagram Pinterest LinkedIn
+               
+            
+             
+                  
+                      
+                  
+               
+      
+         
+      
+   
+
+
+      
+      
+      
+      
+         
+            
+               
+                  
+                     
+                        
+                           
+                              
+                                 
+                                 
+                                 
+Print
+Got a Question? Ask TOM
+Copyright 2016 University of Memphis
+Important Notice
+
+                                 
+                                 
+                                 
+                                 
+                                    Last Updated: 5/5/16
+                                 
+                                 
+                                 
+                                 
+University of Memphis
+Memphis, TN 38152
+Phone: 901.678.2000
+
+The University of Memphis does not discriminate against students, employees, or applicants for admission or employment on the basis of race, color, religion, creed, national origin, sex, sexual orientation, gender identity/expression, disability, age, status as a protected veteran, genetic information, or any other legally protected class with respect to all employment, programs and activities sponsored by the University of Memphis. The following person has been designated to handle inquiries regarding non-discrimination policies: Michael Washington, Director for Institutional Equity.  For more information see University of Memphis Equal Opportunity and Affirmative Action .
+
+Title IX of the Education Amendments of 1972 protects people from discrimination based on sex in education programs or activities which receive Federal financial assistance. Title IX states: "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance..." 20 U.S.C. § 1681 - To Learn More Click Here .
+
+
+ 
+
+                                 
+                                 
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+http://www.memphis.edu/step/research/research_resources.php

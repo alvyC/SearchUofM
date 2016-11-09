@@ -1,0 +1,32 @@
+http://blogs.memphis.edu/president/wp-content/mu-plugins/campus-files/css/campus-public.css?ver=8
+=======================================================================================
+/*Missing admin bar button fix on mobile*/
+#wp-admin-bar-abm-login {
+	display: block !important;
+}
+
+/*Addthis aligment fix for iframe*/
+.addthis_toolbox iframe {
+	margin: 0 !important;
+}
+
+/*fix for html5 video wp shortcode being broken by theme */
+body video.wp-video-shortcode, body .wp-video-shortcode video {
+	margin: 0;
+	padding: 0;
+	background: transparent;
+	border: none;
+	box-shadow: none;
+	min-width: 0;
+	height:auto;
+	min-height: 0;
+}
+
+/* compatiblity with WP default screen reader class */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}http://blogs.memphis.edu/president/wp-content/mu-plugins/campus-files/css/campus-public.css?ver=8

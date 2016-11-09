@@ -1,0 +1,503 @@
+https://oirs.memphis.edu/FacultyTableGenerator/FacultyTGCMS.html
+=======================================================================================
+
+
+
+
+
+
+      
+      
+
+
+
+
+
+
+
+-->
+
+
+
+ 
+  
+
+
+
+
+    
+    Step 1:  Layout your report in rows and columns.
+  
+
+  
+    
+      Separate Tables by:
+      
+		Optional
+		Age
+		Age at Tenure
+		College (Administrative Home)
+		Contract Type
+		Department (Administrative Home)
+		Division (Administrative Home)
+		Ethnicity
+		Faculty Rank
+		Full Time/Part Time Status
+		Gender
+		Graduate Assistantship Type
+		Highest Degree Awarded
+		Occupational Classification (EEO Skill Code)
+		Standard Occupational Classification (SOC)
+		Primary Function (Faculty)
+		Semester
+		Tenure Status
+		Visa Type
+ 		Years of Service
+      
+      Select Column Variables:
+       
+		Optional
+		Age
+		Age at Tenure
+		College (Administrative Home)
+		Contract Type
+		Department (Administrative Home)
+		Division (Administrative Home)
+		Ethnicity
+		Faculty Rank
+		Full Time/Part Time Status
+		Gender
+		Graduate Assistantship Type
+		Highest Degree Awarded
+		Occupational Classification (EEO Skill Code)
+		Standard Occupational Classification (SOC)
+		Primary Function (Faculty)
+		Semester
+		Tenure Status
+		Visa Type
+ 		Years of Service
+      
+      
+		Optional
+		Age
+		Age at Tenure
+		College (Administrative Home)
+		Contract Type
+		Department (Administrative Home)
+		Division (Administrative Home)
+		Ethnicity
+		Faculty Rank
+		Full Time/Part Time Status
+		Gender
+		Graduate Assistantship Type
+		Highest Degree Awarded
+		Occupational Classification (EEO Skill Code)
+		Standard Occupational Classification (SOC)
+		Primary Function (Faculty)
+		Semester
+		Tenure Status
+		Visa Type
+ 		Years of Service
+      
+          
+      
+      Nest Columns
+    
+    
+      Select Row Variables: 
+      
+		Optional
+		Age
+		Age at Tenure
+		College (Administrative Home)
+		Contract Type
+		Department (Administrative Home)
+		Division (Administrative Home)
+		Ethnicity
+		Faculty Rank
+		Full Time/Part Time Status
+		Gender
+		Graduate Assistantship Type
+		Highest Degree Awarded
+		Occupational Classification (EEO Skill Code)
+		Standard Occupational Classification (SOC)
+		Primary Function (Faculty)
+		Semester
+		Tenure Status
+		Visa Type
+ 		Years of Service
+      
+      
+        
+      
+		Optional
+		Age
+		Age at Tenure
+		College (Administrative Home)
+		Contract Type
+		Department (Administrative Home)
+		Division (Administrative Home)
+		Ethnicity
+		Faculty Rank
+		Full Time/Part Time Status
+		Gender
+		Graduate Assistantship Type
+		Highest Degree Awarded
+		Occupational Classification (EEO Skill Code)
+		Standard Occupational Classification (SOC)
+		Primary Function (Faculty)
+		Semester
+		Tenure Status
+		Visa Type
+ 		Years of Service
+      
+        
+        
+     
+      Nest Rows
+      
+        Select Report Content:
+          (hold down CTRL for multiple selections)
+     
+		Headcount
+		Mean Teaching Hours
+		Total Teaching Hours
+		Mean Graduate Level Teaching Hours
+		Mean Student Credit Hours
+		Total Student Credit Hours
+		Total Instructional FTE (Faculty)
+     
+      
+    
+  
+
+
+
+  
+    
+ 	
+ 	
+ 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+ 	
+ 	
+    
+
+  
+ 	
+	
+	
+
+
+
+
+    
+    Step 2: (Optional Filter) Only include these faculty and staff:
+    (Hold down CTRL for multiple selections)
+  
+
+  
+    
+      
+        Select Term(s):
+          
+	Fall 2015 
+         	Fall 2014 
+		Fall 2013 
+		Fall 2012 
+		Fall 2011 
+		Fall 2010 
+		Fall 2009 
+  	  
+      
+      Select Employee Group : 
+
+       
+		all employees
+		faculty and staff teaching this term (including TAs)
+		faculty
+		current graduate faculty
+		faculty and staff (excluding GAs)
+		staff (not including GAs)
+		graduate assistants
+    
+
+	
+    
+   
+ 
+
+  
+    What group of employees do you want to report?    
+    
+      all employees : Everyone employed by the university
+      faculty and staff teaching this term (including TAs) : Every employee teaching a class including full-time and part-time, faculty, administrators, staff and graduate teaching assisants (except  Lipman School, Campus School, and Community Music faculty)
+      faculty : anyone whose primary job is teaching (except at Lipman School, Campus School, and Community Music faculty)
+      current graduate faculty : faculty who are teaching a graduate level course this semester
+      faculty and staff (excluding GAs) : anyone who is not graduate assistant
+      staff (not including GAs) : anyone who is not a faculty or a graduate research assistant
+      graduate  assistant : any graduate assistant performing research, teaching, or public service
+    
+  
+
+
+
+  
+    
+      College(s):
+        
+          All
+          Arts and Sciences 
+          Business and Economics 
+          Communication and Fine Arts 
+          Communication Sciences and Disorders 
+          Education
+          Engineering 
+          Law 
+          Nursing 
+          School of Public Health 
+          School of Hospitality Resort Mgmt 
+          University College 
+          University Libraries 
+      
+      Faculty Rank(s):
+        
+			All
+			Professor 
+			Associate Professor 
+			Assistant Professor 
+			Instructor 
+			Lecturer 
+
+      
+      Gender:
+        
+          All
+          Female 
+          Male 
+      
+    
+    
+      Dept(s):
+        
+		All
+		Accounting Office
+		Admissions
+		Anthropology 
+		Architecture 
+		Art 
+		Art Museum 
+		Athletic Administration 
+		Audiology and Speech Pathology 
+		Biology 
+		Biomedical Engineering 
+		BBER 
+		Bursar 
+		CERI 
+		Campus Recreation 
+		Campus School 
+		Center for Higher Education 
+		Center for Community Health 
+		Center for Counsel Learn Testing 
+		Chemistry 
+		Civil Engineering 
+		Communication 
+		Computer Science 
+		Counseling Education Psych and Research 
+		Criminal Justice 
+		Earth Sciences 
+		Economics 
+		Elecrical Computer Engineering 
+		Engineering Technology 
+		English 
+		Enrollment Services 
+		Family and Consumer Sciences 
+		Finance Insurance and Real Estate 
+		Foreign Languages 
+		Health Administration 
+		Health Center 
+		History 
+		Health and Sport Sciences 
+		History 
+		Hospitality and Resort Mgmt 
+		Human Resources 
+		Instruction and Curriculum Leadership 
+		Intensive English for Internationals 
+		Interdisciplinary Studies 
+		International Programs 
+		Journalism 
+		Law Library 
+		Leadership 
+		Lipman School 
+		Management 
+		MIS 
+		Marketing and Supply Chain Mgt 
+		Mathematics 
+		Mechanical Engineering 
+		Physics 
+		Philosophy 
+		Police Services 
+		Political Science 
+		Psychology 
+		Public Administration 
+		REDC 
+		Registrar Office 
+		Residence Life 
+		School of Accountancy 
+		School of Comm Sci and Disorders 
+		School of Law 
+		School of Music 
+		School of Nursing 
+		School of Public Health 
+		SUAPP 
+		Social Work 
+		Sociology 
+		Student Disability Services 
+		Student Financial Aid 
+		Student Leadership 
+		Theatre and Dance 
+		Vice President Advancement 
+		Vice President Bus and Fin 
+		Vice President Comm and Mktg 
+		Vice President Inf Tech 
+		Vice President Student Affairs 
+		Vice President Extended Programs 
+		Vice President Research 
+      
+
+      Tenure Status(s):
+        
+		All
+		Tenure 
+		On Tenure Track 
+		Non Tenure Track 
+		Ineligible 
+      
+
+       Age(s):
+	          
+	            All
+	            Under 20 
+	            20 to 24 
+	            25 to 29 
+	            30 to 34 
+	            35 to 39 
+	            40 to 44 
+	            45 to 49 
+	            50 to 54 
+	            55 to 59 
+	            60 and older 
+      
+
+
+    
+    
+      Ethnicity(s):
+        
+		All
+		Alaskan Native 
+		American Indian 
+		Asian 
+		Black 
+		Hispanic 
+		Native Hawaiian or Pacific Islander 
+		White 
+		Multiple Races 
+		Non-Resident Alien 
+      
+
+     Highest Degree(s):
+	         
+	 		All
+	 		Less than Bachelors Degree
+	 		Bachelors Degree
+	 		Non Terminal Masters Degree
+	 		Masters of Fine Arts
+	 		Master of Architecture
+	 		Master of Laws
+	 		Education Specialist
+	 		PhD or Equivalent
+	 		Juris Doctorate
+	 		Doctorate of Medicine
+      
+
+      Status:
+        
+          All
+          Full Time 
+          Part Time 
+       
+    
+  
+
+
+
+
+
+  
+    
+	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+
+
+
+    
+    
+               
+   
+   	
+   	
+   	
+	  
+	
+	
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://oirs.memphis.edu/FacultyTableGenerator/FacultyTGCMS.html

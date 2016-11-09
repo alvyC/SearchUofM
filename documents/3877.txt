@@ -1,0 +1,414 @@
+http://libguides.memphis.edu/technology/touchscreens
+=======================================================================================
+
+
+	
+        
+        
+        
+        
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+        
+        
+            
+        
+        
+        
+            
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	   
+		        
+        	
+    
+	
+		Skip to main content                
+                
+        
+  		
+            
+                
+			
+				
+					
+						University of Memphis Libraries
+						
+					
+					
+						LibGuides
+						
+					
+					
+						Technology @ University Libraries
+						
+					
+					Touch Screens
+					
+			            
+			
+				
+					
+				
+					
+						
+							
+							Search this Guide
+							
+								Search
+							
+						
+					
+								
+							
+            
+                Technology @ University Libraries
+                
+                    Find information about the technology lending program @ University Libraries.
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                        
+                            
+				
+					
+						Welcome
+					
+				
+				
+					
+						Breadboard
+					
+				
+				
+					
+						Flip Camera
+					
+				
+				
+					
+						GoPro Camera
+					
+				
+				
+					
+						Gaming
+					
+				
+				
+					
+						Microsoft Bands
+					
+				
+				
+					
+						Multimeter
+					
+				
+				
+					
+						Oculus Rift
+					
+				
+				
+					
+						Sensors
+					
+				
+				
+					
+						Soldering
+					
+				
+				
+					
+						Touch Screens
+					
+				
+				
+					
+						Zoom H4n Recorder
+					
+				
+                            
+				
+					
+						
+						
+							
+					
+						
+							Changing Mode
+                                
+							
+								
+									
+			
+				Notes on Changing Mode:
+
+
+	Button to change mode is circled in image
+	Default Screen is HDMI 1
+	Computer 1 and Computer 2 are VGA ports
+	HDMI 2 is HDMI port
+	Several other outputs are available, please  DO NOT  use these
+
+
+
+		   
+								
+								
+							
+						
+					
+							
+						
+					
+				                        
+                    
+                
+                
+                    
+                        
+                            
+    
+                
+					
+						
+							The Screens
+                                
+							
+								
+									
+			
+				General Policies for the Touchscreens
+
+
+	Currently enrolled U of M students, faculty and staff may use the touch screens without reservation.
+	If the Fishbowl is reserved, use of the touch screen defers to reserving group. The kit must be checked back in.
+	Users may use the display with their personal PC’s. Students must provide their own connecting cables; the library does not currently circulate these.
+	Users are asked to use the styluses in the Touchscreen Kit if using touch capabilities.
+	Community members  MAY NOT  use the screen or borrow the kit.
+
+
+Touchscreen Kit Policy
+
+
+	Includes:
+	
+		1 wireless keyboard
+		1 wireless mouse
+		2 felt-tipped touch screen styluses
+		1 television remote control
+	
+	
+	Touchscreen kits may be checked out from the circulation desk
+	
+		There is 4 Hour  time limit
+		Upon return of kit, circulation staff inventories kit using checklist on bag (listed above)
+	
+	
+	Remote, keyboard, and mouse run on batteries. See circulation desk staff for assistance.
+	Users  MUST  be students or faculty at the University of Memphis
+	​If you need sound, please use the Fishbowl screen
+
+		   
+								
+								
+							
+						
+					
+					
+						
+							Steps to Using 3D Feature
+                                
+							
+								
+									
+			
+				
+	Press "3D" on remote control (see image to left)
+	Select 3DMode
+	Use remote control arrows and select 2D to 3D
+	
+		Display should change to 3D
+		There are several settings in 3D, choose the one that looks correct
+	
+	
+
+
+To TURN OFF 3D, follow same steps but select AUTO instead of 2Dto3D
+		   
+								
+								
+							
+						
+					
+					
+						
+							To Access Your Device
+                                
+							
+								
+									
+			
+				Touch Screen Monitors work with VGA and HDMI -ready devices.
+
+In order to use your own device you must check out a Skyworth Kit from Circulation
+
+Steps to Using Your Own Device
+
+
+	Press "Mode" on remote control (see image to left).
+	Select your output.
+	Plug your device into the screen. Ports are located on the left side of the screen.
+
+
+ 
+		   
+								
+								
+							
+						
+					
+					
+						
+							Kit Contents
+                                
+							
+								
+									
+			
+				
+
+The Kit Includes:
+
+
+	1 Skyworth Remote Control
+	1 Wireless Keyboard
+	1 Wireless Mouse
+	2 Touch Screen Styluses
+
+		   
+								
+								
+							
+						
+					
+					
+						
+							Kit Notes
+                                
+							
+								
+									
+			
+				Here are some things to keep in mind:
+
+
+	Each Kit must be used with the corresponding screen
+	Mouse, keyboard, and remote need batteries. Available at the RIS desk.
+	Screens in rooms that can be reserved (i.e. Fishbowl) may be used without reservation, but you will be asked to leave if a reservation arrives. Ask Reference Desk about room schedule. 
+	Styluses are provided to help keep screens clean. Please refrain from using fingers on the screens.
+	Keyboard/mouse has a range of ~10 feet.
+
+		   
+								
+								
+							
+						
+					
+        
+    
+                        
+                    
+                    
+				
+					
+					<< Previous: Soldering
+					
+					
+					Next: Zoom H4n Recorder >>
+					
+				                
+            
+        
+        
+        
+            
+                
+                    
+                        Last Updated: Oct 18, 2016 10:28 AM                    
+                    
+                        URL: http://libguides.memphis.edu/technology                    
+                    
+                    	 Print Page                    	
+                    
+                
+                    Login to LibApps                
+            
+            
+                
+                    Report a problem 
+                
+                
+                    
+                    Subjects: 
+                    Help/How-To Guides , Technology
+                                    
+                
+                    
+                    Tags: 
+                    emerging technology
+                                    
+            
+        
+        
+        
+			
+				
+					
+					  
+					  
+					
+				
+			        
+                            
+                               
+                
+                
+
+		
+	
+
+http://libguides.memphis.edu/technology/touchscreens

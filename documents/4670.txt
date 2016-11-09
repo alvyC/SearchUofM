@@ -1,0 +1,34 @@
+http://wems.memphis.edu/
+=======================================================================================
+﻿
+
+
+    
+    
+    
+    
+    
+
+
+    
+        
+            
+        
+
+        EMS Desktop Client Installation Instructions
+
+        
+            
+            Download and Install the EMS Desktop Client
+        
+
+        Please note:  The EMS Desktop Client files (EMSApplication.exe and emswebdeployconfiguration.cfg) may not download properly if you have a popup blocker enabled.
+        To begin the installation process, double-click EMSApplication.exe.
+        When the installation is complete, a shortcut to the EMS Desktop Client will appear on your desktop. You will also be able to start the EMS Desktop Client via your Start menu.
+        © 2016 EMS Software, LLC. All Rights Reserved.
+
+    
+
+    
+
+http://wems.memphis.edu/

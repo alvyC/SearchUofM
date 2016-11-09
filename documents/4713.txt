@@ -1,0 +1,728 @@
+http://www.memphis.edu/its/security/best-practices.php
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+   
+   
+   
+   
+   
+
+
+   
+   
+   
+
+
+                              
+                                                      
+                           
+                              
+                                  
+                                    
+                                    
+                                 
+                                                            
+                              
+                                 
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"To work with a non-profit organization that will allow me to utilize my servant leadership skills and caring ability to further enhance the socioeconomic needs of both domestic and foreign citizens."
+READ MORE  (fa fa-angle-right)
+
+
+                              
+                              
+                           
+                        
+                                          
+                     
+                        
+                           
+                              
+                                 eNews and Signup 
+                                 Stay up-to-date with the UofM.
+                              
+                              
+                                 Parent and Family Events 
+                                 Join us for events held just for you!
+                              
+                              
+                                 FAQs 
+                                 Have a question? We have answers!
+                              
+                              
+                                 Connect With Us 
+                                 We are here to help you help your student.
+                              
+                           
+                           
+                              
+                                 Scholarships & Financial Aid 
+                                 We can help your student attend the UofM.
+                              
+                              
+                                 Student Services 
+                                 Resources to help your student succeed.
+                              
+                              
+                                 Campus Card 
+                                 Add money to your student's card for books and food.
+                              
+                              
+                                 Give to UofM 
+                                 Your gift to the Parent Fund makes the UofM a better place.
+                              
+                           
+
+                           
+                              
+                                  
+                                 
+                              
+                              
+                                  
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"Most proud of my accomplishment of graduating with a degree in accounting in three years with Summa Cum Laude and Honors."
+READ MORE (fa fa-angle-right)
+
+
+                              
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              
+							     Join Now 
+                                 Be True Blue and join the Alumni Association.
+                              
+                              
+                                 Update Your Information 
+                                 Receive University updates and the Memphis magazine.
+                              
+                              
+                                 Clubs and Chapters 
+                                 Get involved and stay connected to the UofM.
+                              
+                              
+                                 Make a Gift 
+                                 Your contribution can make a difference.
+                              
+                           
+                           
+                              
+                                 Lambuth Chapter 
+                                 Lambuth Graduates: Reconnect with fellow alumni.
+                              
+                              
+                                 Upcoming Events 
+                                 Mark your calendar for these upcoming events.
+                              
+                              
+                                 Photo Gallery 
+                                 View annual collections of the Alumni Association Photo Gallery.
+                              
+                              
+                                 News 
+                                 Stay up-to-date with Memphis Matters.
+                              
+                                                      
+                           
+                           
+                              
+                                  
+                                    
+                                    
+                                 
+                              
+                               
+                                  
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"Most proud of my accomplishment of graduating with a degree in accounting in three years with Summa Cum Laude and Honors."
+READ MORE (fa fa-angle-right)
+
+
+                              
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              
+                                 Veterans Resource Center 
+                                 Supporting the transition from military life to civilian life.
+                              
+                              
+                                 Veterans Benefits and Certifications 
+                                 Learn about Veterans Educational Benefits and Certifications.
+                              
+                              
+                                 Get Credits Toward your Degree 
+                                 Receive college credit for military experience, skills, and training.
+                              
+                              
+                                 Online Degree Programs 
+                                 Top provider of more than 50 online degree programs.
+                              
+                           
+                           
+                              
+                                 
+                                    
+                                       
+                                          
+                                          
+                                          
+                                          See his story: Vietnam veteran Michael Sasseen completed his degree by earning Experiential Learning Credit (ELC) from his past experiences authoring a book and working with war veterans with PTSD.
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+   
+
+      
+      
+         
+   
+      
+         
+            
+               
+                  
+                     
+                           			Information Technology Services
+                           	
+                  
+               
+            
+         
+      
+      
+         
+            
+               
+                  
+                     
+                        About
+                        umTech
+                        Security
+                        Governance
+                        Resources
+                     
+                     
+                        
+                           Security
+                           
+                              
+                                 
+                                 Report a Security Incident
+                                 Alerts and Warnings
+                                       Phishing
+                                       Personal Information Security
+                                       FTC Phone Call Scams Site
+                                       FBI Internet Fraud Site
+                                    
+                                 
+                                 Duo Account Security
+                                 Policies and Guidelines
+                                 Security Best Practices
+                                 Security Awareness
+                                 Web Security Guidelines
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     
+                        Home
+                        
+                              	ITS
+                              	
+                        
+                              	Security
+                              	
+                        Security Best Practices 
+                     
+                  
+                  
+                     
+                     
+                     
+                     		
+                     
+                     
+                     Security Best Practices
+                     
+                     Passwords
+                     
+                     Maintain a complex password that only you know.  Do not share passwords.  Sharing
+                        your University passwords is a violation of University policy  UM1535 - Acceptable Use of Information Technology Resources .  Guidelines and additional information can be found on ITS's Password Security website .
+                     
+                     
+                     Anti-Virus Software
+                     
+                     Viruses can corrupt data and slow down entire computer networks. To protect your computer
+                        from infection, install anti-virus software, and update when prompted.
+                     
+                     
+                     SafeConnect, the University's Network Access Control (NAC) system, requires anti-virus
+                        software to be installed and up-to-date in order to run on the University's network.
+                        SafeConnect recognizes a variety of Anti-Virus software .
+                     
+                     
+                     University owned computers/laptops can get anti-virus software installed at no cost.
+                        Contact the umTech Service Desk at 901.678.8888 to request this service by your Local
+                        Support Provider (LSP).
+                     
+                     
+                     Spyware and Malware
+                     
+                     Spyware or malware (malicious software) is software installed on your computer without
+                        your knowledge. It may be installed while you are downloading an application, browsing
+                        websites, reading emails, opening email attachments, or using a file sharing program
+                        online. It is recommended to use an approved SafeConnect Anti-Spyware product as mentioned above.
+                     
+                     
+                     Operating Systems
+                     
+                     New security concerns develop frequently. The best way to protect your computer's
+                        operating system is to install updates to the operating system. Mac and Microsoft
+                        updates are FREE to download.
+                     
+                     
+                     Windows: http://update.microsoft.com/ Mac: http://www.apple.com/support/downloads/
+                     
+                     SafeConnect, the University's Network Access Control (NAC) system, requires a supported
+                        operating system in order to run on the University's network. 
+                     
+                     
+                     Report a security Incident 
+                     
+                     Individuals should report potential security issues such as lost/stolen devices, potential
+                        data breach or exposure, compromised University account credentials, and malicious
+                        network activity. Fill out the Security Incident Report Form and provide as much information as possible for appropriate follow-up.
+                     
+                     
+                     REPORT INTERNET/SECURITY ABUSE
+                     
+                     ITS will never ask you to send personal information such as usernames, passwords or
+                        social security numbers via email. Additionally, you may occasionally receive unsolicited
+                        emails (spam) or phishing emails specifically designed to trick you into clicking
+                        inappropriate links. These types of emails may be forwarded to the University of Memphis
+                        Internet/Security Abuse group via email at  abuse@memphis.edu .
+                     
+                     
+                     Confidential Data Best Practices
+                     
+                     Storage
+                     
+                     Encrypt all confidential data that is stored on a laptop or other portable media.
+                        You can encrypt the entire hard drive of your laptop or an entire USB drive to ensure
+                        that the data cannot be viewed by anyone else.
+                     
+                     
+                     University owned laptops and portable media devices must be encrypted. Local Support
+                        Providers (LSPs) in each department are responsible for assisting faculty and staff
+                        with this process. See the ITS Security Policies and Guidelines page for more information.
+                     
+                     
+                     Delete/Erase
+                     
+                     Deleting files from your computer, portable laptop or electronic storage media does
+                        not permanently remove the data. The data must be overwritten before disposal. See
+                        the ITS Security Policies and Guidelines page for more information.
+                     
+                     
+                     Data Encryption STANDARDS
+                     
+                     ITS has developed standards for encryption to ensure confidential data is protected
+                        from disclosure. Local Support Providers (LSPs) are responsible for assisting their
+                        users in encrypting University owned laptop hard drives and portable devices or media
+                        used to store University confidential data.
+                     
+                     
+                     Additional information can be found within the University of Memphis Campus Data Security Policy .
+                     
+                     
+                     ITS has the following recommendations for encryption software:
+                     
+                     
+                        
+                        Windows 7 Enterprise : Microsoft Bitlocker (part of Windows 7 Enterprise) or Veracrypt .
+                        
+                        
+                        MAC OS X : Apple File Vault
+                        
+                        
+                        Android : Android Device Encryption
+                        
+                        iOS : iOS Data Protection
+                        
+                     
+                     
+                     
+                     	
+                     
+                  
+               
+               
+                  
+                     
+                        Security
+                        
+                           
+                              
+                              Report a Security Incident
+                              Alerts and Warnings
+                                    Phishing
+                                    Personal Information Security
+                                    FTC Phone Call Scams Site
+                                    FBI Internet Fraud Site
+                                 
+                              
+                              Duo Account Security
+                              Policies and Guidelines
+                              Security Best Practices
+                              Security Awareness
+                              Web Security Guidelines
+                           
+                        
+                     
+                     
+                     
+                        
+                           
+                              Security Information
+                              Learn more about IT security policies and guidelines.
+                           
+                           
+                              Need Help with Technology?
+                              Request technical support via UMhelpdesk.
+                           
+                           
+                              Service Catalog 
+                              Browse a collection of ITS services offered, learn how to access them and what Information
+                                 is needed to fulfill service requests.
+                              
+                           
+                           
+                              Welcome
+                              Welcome! An Important Message about IT Services and Security
+                           
+                        
+                     
+                  
+                  
+               
+               
+            
+            
+         
+         
+      
+   
+   
+   
+      
+      
+      
+
+   
+      
+         
+            
+               Full sitemap 
+            
+            
+               
+                  
+                     Admissions
+                     
+                        
+                           Prospective Students
+                           Undergraduate
+                           Graduate
+                           Law School
+                           International
+                           Parents
+                           Scholarship & Financial Aid
+                           Tuition & Fee Payment
+                           FAQs
+                           About UofM
+                        
+                     
+                  
+                  
+                     Academics
+                     
+                        
+                           Provost's Office
+                           Libraries
+                           Transcripts
+                           Undergraduate Catalog
+                           Graduate Catalog
+                           Academic Calendar
+                           Course Schedule
+                           Financial Aid
+                           Graduation
+                           Honors Program
+						   eCourseware
+                        
+                     
+                  
+                  
+                     Athletics
+                     
+                        
+                           Gotigersgo.com
+                           Ticket Information
+                           Intramural Sports
+                           Recreation Center
+                           Athletic Academic Support
+                           Former Tigers
+                           Facilities
+                           Tiger Scholarship Fund
+                           Media
+                        
+                     
+                  
+				  
+                  
+                     Research
+                     
+                        
+                           Sponsored Programs
+                           Research Resources
+                           Centers & Institutes
+                           Chairs of Excellence
+                           FedEx Institute of Technology
+                           Libraries
+                           Grants Accounting
+                           Environmental Health
+                           Office of Institutional Research
+                        
+                     
+                  
+                  
+                     Support UofM
+                     
+                        
+                           Make a Gift
+                           Alumni Association
+                           Year of Service
+                        
+                     
+                  
+                  
+                     Administrative Support
+                     
+                        
+                           President's Office
+                           Academic Affairs
+                           Business & Finance
+                           Career Opportunities
+                           Conference & Event Services
+                           Corporate Partnerships
+Development Office
+                           Government Relations
+                           Information Technology Services
+                           Media and Marketing
+                           Student Affairs
+                        
+                     
+                  
+               
+            
+         
+         
+            
+               
+                  
+                  
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+               
+            
+            
+               
+                  Follow UofM Online
+                  Facebook Twitter YouTube
+                  
+                  
+                  Instagram Pinterest LinkedIn
+               
+            
+             
+                  
+                      
+                  
+               
+      
+         
+      
+   
+
+
+      
+      
+      
+      
+         
+            
+               
+                  
+                     
+                        
+                           
+                              
+                                 
+                                 
+                                 
+Print
+Got a Question? Ask TOM
+Copyright 2016 University of Memphis
+Important Notice
+
+                                 
+                                 
+                                 
+                                 
+                                    Last Updated: 10/13/16
+                                 
+                                 
+                                 
+                                 
+University of Memphis
+Memphis, TN 38152
+Phone: 901.678.2000
+
+The University of Memphis does not discriminate against students, employees, or applicants for admission or employment on the basis of race, color, religion, creed, national origin, sex, sexual orientation, gender identity/expression, disability, age, status as a protected veteran, genetic information, or any other legally protected class with respect to all employment, programs and activities sponsored by the University of Memphis. The following person has been designated to handle inquiries regarding non-discrimination policies: Michael Washington, Director for Institutional Equity.  For more information see University of Memphis Equal Opportunity and Affirmative Action .
+
+Title IX of the Education Amendments of 1972 protects people from discrimination based on sex in education programs or activities which receive Federal financial assistance. Title IX states: "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance..." 20 U.S.C. § 1681 - To Learn More Click Here .
+
+
+ 
+
+                                 
+                                 
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+http://www.memphis.edu/its/security/best-practices.php

@@ -1,0 +1,584 @@
+http://www.memphis.edu/data_standards/
+=======================================================================================
+
+
+
+
+
+
+
+
+
+ 
+  
+
+       
+         
+      
+       
+          Data Standards
+      
+       
+         
+           
+          
+        
+      
+    
+     Contents
+    
+    
+    
+       
+         
+           
+          
+               
+                1.0   Data 
+                  Integrity
+              
+               
+                1.1     Administrative 
+                  Responsibilities
+              
+               
+                1.2      Information 
+                  Access 
+              
+               
+                1.3      Data 
+                  Stewards 
+              
+               
+                1.4      Information 
+                  Users 
+              
+          
+            
+            
+               
+                2.0   Confidential 
+                  Indicator/Use
+              
+               
+                2.1     Students
+              
+               
+                -
+                >
+                Directory 
+                  Information 
+              
+               
+                2.2      Releasing 
+                  Students' Confidential Information
+              
+               
+                2.3     Employees
+              
+            
+            
+            
+               
+                3.0   Creating 
+                  and Managing Records
+              
+               
+                3.1     Rules 
+                  for Clean and Accurate Records
+              
+               
+                3.2     Multiple 
+                  PIDMs Management
+              
+               
+                3.3      Offices 
+                  Authorized to Create Records
+              
+            
+            
+            
+               
+                4.0   Data 
+                  Entry Standards
+              
+               
+                4.1      Identification 
+                  Numbers
+              
+               
+                4.2      Name 
+                  Standards
+              
+               
+                -
+                >
+                Person 
+                  Names:
+              
+               
+                -
+                -
+                [  Formatting  ] 
+                  [  Case  ] 
+                  [  Initials  ] 
+                  [  One Name 
+                  Only  ] 
+              
+               
+                -
+                -
+                [  Punctuation  ] 
+                  [  Long Names  ] 
+                  [  Legal Name  ]
+              
+              
+                -
+                -
+                [  Multiple First, Middle, or Last Names  ] [  Preferred 
+                Name  ]
+              
+              
+                - -
+                - -
+                [  Prefix 
+                  or Title  ] [  Suffix  ] 
+                  [  Alternate 
+                Names  ] 
+              
+              
+               
+                -
+                >
+                Non-Person 
+                  (Vendor) Names:
+              
+               
+                -
+                -
+                [  Abbreviations  ] 
+                  [  Doing Business 
+                  As...  ] [  Case  ] 
+                  
+              
+               
+                -
+                -
+                [  Punctuation  ] 
+                  [  Acronyms  ] 
+                  [  Numerals 
+                  as Part of a Name  ]
+              
+               
+                4.3     Address 
+                  Standards
+              
+               
+                -
+                >
+                Address 
+                  Types
+              
+               
+                -
+                >
+                Sources 
+                  of Information
+              
+               
+                -
+                >
+                Street 
+                  Standards:
+              
+               
+                -
+                -
+                [  Case  ] 
+                  [  Punctuation  ] 
+                  [  Address 
+                  Lines  ] [  Street 
+                  Number  ] 
+              
+               
+                -
+                -
+                [  Street 
+                  Name  ] [  Street 
+                  Designators and Postal Abbreviations  ]
+              
+               
+                -
+                -
+                [  Secondary 
+                  Address Unit Indicators/Postal Abbreviations  ]
+              
+               
+                -
+                -
+                [  Compass 
+                  Directions and Postal Abbreviations  ] 
+              
+               
+                -
+                -
+                [  Special 
+                  Characters  ] [  Business/Organization 
+                  Address Lines  ]
+              
+               
+                -
+                -
+                [  Department 
+                  or "In Care of" for Business Addresses  ]
+              
+               
+                -
+                >
+                City 
+                  Standards
+              
+               
+                -
+                >
+                State 
+                  Standards:
+              
+               
+                -
+                -
+                [  Military 
+                  Destinations  ] [  Canadian 
+                  Provinces/Territories  ]
+              
+               
+                -
+                >
+                County 
+                  Standards 
+              
+               
+                -
+                >
+                Zip 
+                  Code Standards
+              
+               
+                -
+                >
+                Canadian 
+                  Addresses
+              
+               
+                -
+                >
+                International 
+                  Addresses (other than Canadian) 
+              
+               
+                -
+                >
+                Nation 
+                  Standards
+              
+               
+                -
+                >
+                Updating 
+                  Addresses
+              
+               
+                4.4     Telephone 
+                  Standards
+              
+               
+                -
+                >
+                Telephone 
+                  Types
+              
+               
+                -
+                >
+                Domestic 
+                  Telephone Numbers
+              
+               
+                -
+                >
+                North 
+                  American Numbering Plan (NANP)
+              
+               
+                -
+                >
+                International 
+                  Telephone Numbers
+              
+               
+                -
+                >
+                Updating 
+                  Telephone Numbers
+              
+               
+                4.5     Standards 
+                  for Various Shared Tables
+              
+               
+                -
+                >
+                College
+              
+               
+                -
+                >
+                Dates:
+              
+               
+                -
+                -
+                [  Calendar 
+                  Dates  ] [  Date 
+                  of Birth  ]
+              
+               
+                -
+                >
+                Deceased 
+                  Indicator
+              
+               
+                -
+                >
+                Deceased 
+                  Date
+              
+               
+                -
+                >
+                Degrees
+              
+               
+                -
+                >
+                Degree 
+                  Award Category Type
+              
+               
+                -
+                >
+                Degree 
+                  Level
+              
+               
+                -
+                >
+                Email 
+                  Addresses
+              
+               
+                -
+                >
+                Employment 
+                  Type
+              
+               
+                -
+                >
+                Ethnicity
+              
+               
+                -
+                >
+                Gender
+              
+               
+                -
+                >
+                Legacy
+              
+               
+                -
+                >
+                Majors/Minors/Concentrations
+              
+               
+                -
+                >
+                Marital 
+                  Status
+              
+               
+                -
+                >
+                Relationship
+              
+               
+                -
+                >
+                Religion
+              
+               
+                -
+                >
+                Social 
+                  Security Number
+              
+               
+                -
+                >
+                Veteran 
+                  Information
+              
+               
+                -
+                >
+                International 
+                  Information:
+              
+               
+                -
+                -
+                [  Citizenship  ] 
+                  [  Country 
+                  of Citizenship  ] [  Language 
+                  Codes  ]                
+              
+               
+                -
+                -
+                [  Port 
+                  of Entry  ] 
+                  [  Sponsor 
+                  Codes  ]
+              
+               
+                -
+                >
+                VISA
+              
+            
+            
+            
+               
+                5.0   Data 
+                  Policies and Procedures
+              
+               
+                5.1     Multiple 
+                  PIDMs
+              
+               
+                5.2      Name 
+                  Change Form
+              
+               
+                5.3     Address 
+                  and Telephone Number Changes
+              
+               
+                5.4     Deceased 
+                  Information Policy
+              
+               
+                5.5     Social 
+                  Security Number Change Policy
+              
+               
+                5.6     Changing 
+                  Data Standards Manual
+              
+            
+            
+            
+               
+                Appendices
+              
+               
+                A        Name/ID 
+                  Search Methods
+              
+               
+                -
+                >
+                Search 
+                  by Social Security Number
+              
+               
+                -
+                >
+                Name 
+                  Searches 
+              
+               
+                -
+                >
+                Search 
+                  by Partial Name
+              
+               
+                -
+                >
+                Search 
+                  by Full Name
+              
+               
+                -
+                >
+                Search 
+                  by Partial ID
+              
+               
+                -
+                >
+                Search 
+                  by Full ID
+              
+               
+                -
+                >
+                ID 
+                  and Name Extended Search
+              
+               
+                B        UM 
+                  Table: Prefix/Title Abbreviations 
+              
+               
+                C        UM 
+                  Table: Common Abbreviations for Vendors
+              
+               
+                D        UM 
+                  Table: General Abbreviations
+              
+               
+                E        UM 
+                  Table: Street Designators and Postal Abbreviations
+              
+               
+                F        UM 
+                  Table: Banner Shared Tables
+              
+            
+            
+          
+           
+        
+      
+    
+    
+    
+    Last Updated: 
+      11/27/07
+    
+     
+     
+    
+
+
+
+
+
+http://www.memphis.edu/data_standards/

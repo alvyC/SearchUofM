@@ -1,0 +1,408 @@
+http://bf.memphis.edu/tigermaps/tigermaps.css
+=======================================================================================
+
+body {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	width: 976px; 
+	margin: 0px auto 0px auto;
+	padding: 0px 0px 0px 0px;
+	font-size: 10pt; 
+	font-weight: normal; 
+}
+
+.smalltext {
+	font-size: 8pt;
+}
+
+html {
+     overflow-y: scroll;
+}
+
+
+a{
+	color: #00247e;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #00247e;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #00247e;
+	text-decoration: underline;
+}
+
+h1{
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 14pt;
+	color: #00247e;
+	margin: 0;
+	padding: 3px 3px 3px 10px;
+}
+
+h2{
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12pt;
+	color: #7f91be;
+	margin: 6px 0px 6px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+h3{
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 10pt;
+	color: #555;
+	margin: 6px 0px 6px 0px;
+	padding: 0px 0px 0px 0px;  
+}
+
+h4{
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 9pt;
+	font-weight: normal;
+	color: #333333;
+	margin: 6px 0px 6px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+h5{
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 8pt;
+	color: #0A1691;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+li{
+	padding: 0px 0px 10px 0px;
+}
+
+ul{
+	list-style-type: square;
+}
+
+ul ul{
+	list-style-type: disc;
+}
+
+ul ul ul {
+	list-style-type: none;
+}
+
+ol{
+}
+
+ol ol{
+}
+
+ol ol ol {
+}
+
+td { vertical-align:top; }
+
+img {
+	font-size: 8pt;
+	padding: 0;
+	margin: 0;
+}
+
+a img { border: none; }
+
+.icon	{
+	vertical-align:middle;
+}
+
+/************* layout containers ***************/
+#body_field {
+	position:absolute;
+	left:50%;
+	width:976px;
+	margin-top:0px;
+	margin-left:-488px;
+	padding:0;
+	background-color:transparent;
+	border: 0 solid #7F91BE;
+} 
+#header_container {
+	width:976px;
+	background-color:none;
+	background-image:url(images/stripes.jpg);
+	background-repeat:repeat-x;
+	/* font-size necessary to render div correctly in ie */
+	font-size: 10pt;
+	height:94px;
+	padding:10px 0 0 0;
+	margin-top:10px;
+}
+#left_box {
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	/* font-size necessary to render div correctly in ie */
+	font-size: 1pt;
+	float:left;
+}
+#center_box {
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	/* font-size necessary to render div correctly in ie */
+	font-size: 1pt;
+	float:left;
+}
+#right_box {
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	/* font-size necessary to render div correctly in ie */
+	font-size: 1pt;
+	float:right;
+}
+#menu_container {
+	width:176px;
+	float:left;
+}
+#header_img_container {
+	width:800px;
+	height:247px;
+	margin:0;
+	padding:0 0 0 0;
+	float:right;
+	background-color:#eee;
+}
+#title_bar {
+	width:800px;
+	height:30px;
+	margin:0;
+	padding:0;
+	background-color:#bbb;
+	border-top:1px solid #FFFFFF;
+	border-bottom:1px solid #FFFFFF;
+	float:right;
+}
+#body_container {
+	width:976px;
+	background-color:#d7d7d7;
+	/* font-size necessary to render div correctly in ie */
+	font-size: 10pt;
+	padding:0;
+	margin:0;
+}
+#body_text {
+	width:600px; /* padding and width must total 650 */
+	background-color:#FFFFFF;
+	padding:10px 15px 20px 15px;
+	float:left;
+}
+#caption_box {
+	width:166px;
+	margin:0;
+	padding-top:12px;;
+	float:right;
+	color:#555;
+	text-align:center;
+}
+#footer_container {
+	width:976px;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	/* font-size necessary to render div correctly in ie */
+	font-size: 1pt;
+	clear:both;
+	background-color:#FFFFFF;
+}
+
+/************* #left menu styles ***************/
+#main_menu {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	background-color:#00247E;
+	width:176px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-size:90%;
+	font-weight:bold;
+}
+#main_menu ul{
+	list-style-type:none;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+#main_menu li{
+	vertical-align:middle;
+	margin: 0px 0px 0px 0px;
+	padding: 2px 0px 2px 0px;
+	border-bottom:1px solid #FFFFFF;
+}
+#main_menu a {
+	display:block;
+	margin: 0px 0px 0px 0px;
+	padding: 2px 0px 2px 6px;
+	color:#FFFFFF;
+}
+#main_menu a:hover {
+	margin: 0px 0px 0px 0px;
+	padding: 2px 0px 2px 6px;
+	text-decoration:none;
+	color:#ffecb0;
+}
+#sub_menu1 {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	background-color:#7f91be;	
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-weight:bold;
+}
+#sub_menu1 ul{
+	list-style-type:none;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+#sub_menu1 li{
+	vertical-align:middle;
+	margin: 0px 0px 0px 0px;
+	padding: 2px 0px 2px 0px;
+	border-bottom:1px solid #FFFFFF;
+}
+#sub_menu1 a {
+	display:block;
+	margin: 0px 0px 0px 0px;
+	padding: 2px 0px 2px 6px;
+	color:#FFFFFF;
+}
+#sub_menu1 a:hover {
+	margin: 0px 0px 0px 0px;
+	padding: 2px 0px 2px 6px;
+	text-decoration:none;
+}
+#flash_display {
+	width:800px;
+	text-align:right;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	float:right;
+}
+/************* #map styles ***************/
+#framelinks {
+	color: #FFFFFF;
+	text-decoration: none;
+	font: bold 10pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+	background-color: #091151;
+	margin: 0px 0px 0px 0px;
+	padding: 6px 0px 6px 0px;
+}
+
+#framelinks a{
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+
+#framelinks ul{
+	list-style: disc outside;
+	margin: 0px 0px 0px 20px;
+	padding: 0px 0px 0px 0px;
+}
+
+#framelinks li{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 20px 0px;
+}
+
+/************* #search styles ****************/
+#search {
+	font-size: 8pt; 
+	font-weight: normal; 
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	vertical-align:middle;
+	text-align: right;
+	color:#000000;
+	width:28em;
+	text-decoration:none;
+	margin: 2px 0px 0px auto;
+	padding: 0;
+	clear:both;
+}
+
+#searchboxlabel {
+	position:relative;
+	right:83px;
+	color:#000;
+}
+
+#search input {
+	font-size:8pt; 
+	font-weight: normal; 
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	color:#999999;
+	text-decoration:none;
+	margin: 0;
+	padding: 0;
+}
+
+#search #go{
+	padding:0;
+	margin: 0;
+	font-weight:bold;
+	color: #00247E;
+	text-decoration: none;
+	position:relative;
+	bottom:0px;
+}
+
+/************* #Quicklinks Menu styles ***************/
+
+#qm {
+	margin: 0px 0px 0px 0px;
+	padding: 6px 0px 6px 4px;
+	float: left;
+	clear: left;
+}
+
+#qm select {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-size: 7pt; 
+	font-weight: normal; 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#00247E;
+	text-decoration:none;
+	text-align:left;
+}
+
+#qm a         { color: #00247E;	text-decoration: none; }
+#qm a:hover   { color: #00247E; text-decoration: underline; }
+
+/************* #footer styles ***************/
+
+#footer_txt{
+	font-size: 8pt; 
+	font-weight: normal; 
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	vertical-align:top;
+	color:#000000;
+	text-decoration:none;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 10px 0px;
+}
+
+#footer a { color:#555; text-decoration:underline;}
+#footer a:hover { color:#0A1691; text-decoration:underline; }
+
+#footer_txt ul{
+	padding:0;
+	margin:0;
+}
+
+#footer_txt li{
+	display: inline;
+	background-image:none;
+	padding:0;
+	margin:0;
+}
+
+#footer_bar {
+	background-image:url(http://bf.memphis.edu/tigermaps/images/stripes.jpg);
+	background-repeat:repeat-x;
+	height:5px;
+	padding:0;
+}http://bf.memphis.edu/tigermaps/tigermaps.css

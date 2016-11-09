@@ -1,0 +1,599 @@
+http://libguides.memphis.edu/technology/microsoft_bands
+=======================================================================================
+
+
+	
+        
+        
+        
+        
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+        
+        
+            
+        
+        
+        
+            
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	   
+		        
+        	
+    
+	
+		Skip to main content                
+                
+        
+  		
+            
+                
+			
+				
+					
+						University of Memphis Libraries
+						
+					
+					
+						LibGuides
+						
+					
+					
+						Technology @ University Libraries
+						
+					
+					Microsoft Bands
+					
+			            
+			
+				
+					
+				
+					
+						
+							
+							Search this Guide
+							
+								Search
+							
+						
+					
+								
+							
+            
+                Technology @ University Libraries
+                
+                    Find information about the technology lending program @ University Libraries.
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                        
+                            
+				
+					
+						Welcome
+					
+				
+				
+					
+						Breadboard
+					
+				
+				
+					
+						Flip Camera
+					
+				
+				
+					
+						GoPro Camera
+					
+				
+				
+					
+						Gaming
+					
+				
+				
+					
+						Microsoft Bands
+					
+				
+				
+					
+						Multimeter
+					
+				
+				
+					
+						Oculus Rift
+					
+				
+				
+					
+						Sensors
+					
+				
+				
+					
+						Soldering
+					
+				
+				
+					
+						Touch Screens
+					
+				
+				
+					
+						Zoom H4n Recorder
+					
+				
+                            
+				
+					
+						
+						
+						
+					
+				                        
+                    
+                
+                
+                    
+                        
+                            
+    
+                
+					
+						
+							Microsoft Bands In McWherter Library
+                                
+							
+								
+									
+			
+		   
+								
+								
+							
+						
+					
+					
+						
+							What is a Microsoft band
+                                
+							
+								
+									
+			
+		   
+			
+				A Microsoft Band is a wrist bracelet that allows you to capture biometric data about your daily activities. This data can be exported to a Microsoft health account and downloaded.
+
+In order to use a Microsoft band you must have a Microsoft Health account . Click here for instructions on setting up an account. 
+		   
+								
+								
+							
+						
+					
+					
+						
+							Microsoft Health
+                                
+							
+								
+									
+			
+				In order to use the Microsoft Band you must have a smartphone and a Microsoft Health application. Use the links below to download the application.  For IOS  ; For Android
+
+When connecting to a mobile phone, be sure to use the application to pair.  If you are connecting to a second band, be sure to remove the previous band from your bluetooth settings
+		   
+								
+								
+							
+						
+					
+					
+						
+							Circulation Policies
+                                
+							
+								
+									
+			
+				CHECK OUT AT THE MCWHERTER LIBRARY CIRCULATION DESK
+
+Microsoft bands may be borrowed for  3 Days and may not be renewed.
+
+There's a 24-hour wait period before you can check the band out.
+
+You must fill out a form each time you borrow
+		   
+								
+								
+							
+						
+					
+					
+						
+							MD2K
+                                
+							
+								
+									
+			
+				
+
+The Microsoft Bands are provided in conjunction with the research of the University of Memphis MD2K NIH Center for Excellence. For more information on the research of the center, click on the icon above. 
+		   
+								
+								
+							
+						
+					
+					
+						
+							Important Information!
+                                
+							
+								
+									
+			
+				These notes are included for the benefit of users:
+
+USER NOTE:  Band  is water resistant but not waterproof; do not immerse in liquids of any kind nor wear while swimming or in the shower.
+
+USER NOTE: In most cases, a full  Microsoft Band  battery will provide two days of use. This is based on one hour of exercise tracking and eight hours of sleep tracking per day. Battery life will vary depending on how the  Microsoft Band  is used, as some features use more battery than others like GPS.
+
+USER NOTE:  Microsoft Band  will reach a full charge in approximately 90 minutes, and can reach nearly 80% within 30 minutes of charging. It’s recommend that the user charge the  Microsoft Band  during routine periods of downtime.
+
+USER NOTE: If using Cortana on a Windows Phone 8.1 mobile device, notifications for voice texts and notes, calendar scheduling, email configuration, weather, reminders, and more will show up on the  band .
+
+Microsoft Band  provides cross-platform functionality, and works with Windows Phone 8.1 update, iOS 7.1, 8 and Android 4.3-4.4 phones with Bluetooth.
+
+Band  features include an Optical heart rate sensor, 3-axis accelerometer, Gyrometer, GPS, Ambient light sensor, Skin temperature sensor, UV sensor, Capacitive sensor, Galvanic skin response.
+
+To get the full  Microsoft Band  experience, user must pair the device with a smartphone. However, even without a paired mobile phone, the user can still enjoy some of the fitness functionality of  Microsoft Band  such as: steps, calories burned, heart rate measurement, basic running, exercise, and sleep summaries. The  Microsoft Band ’s watch functionality also works independent of a smartphone, including stopwatch, timers, and alarms. Other Microsoft Band ’s features, such as access to Cortana (when paired to a Windows Phone 8.1 device) and guided workouts, can only be experienced when paired to a smartphone. User must pair the device with a smartphone at least once to complete setup via the mobile app.
+
+Download the free  Microsoft  Health app from the Windows Store, Play Store, or App Store.
+
+Box includes  band  with rechargeable Lithium ion battery, USB charging cable, Safety and Warranty Guide, and Quick Start Guide.
+
+Microsoft band  (fitness tracker)
+
+Activity tracker
+
+Fitness & activity monitor
+
+ 
+
+View the Item Record
+		   
+								
+								
+							
+						
+					
+					
+						
+							How to Delete Data
+                                
+							
+								
+									
+			
+				
+Step 1: Unregister your Microsoft Band from your phone   
+
+Step 2: Remove your Microsoft Band from your phone’s list of paired Bluetooth devices
+
+Step 3: Reset your Microsoft Band
+
+Step 4: Set up your Microsoft Band again
+
+
+      
+
+Step 1:
+On your phone, tap the Microsoft Health app, and tap  Expand .
+
+
+Step 2:
+Tap Sync  .
+
+Step 3:
+Tap My Microsoft Band , tap unregister this band , and then tap ok .
+
+
+            
+  
+    
+    
+            
+            
+                    
+                        
+                                                         
+                    
+            
+  
+    
+    
+                     
+            Note        
+            
+                If you try to do anything with your Microsoft Band after you tap ok in Step 2 , you’ll see a device error. This is normal. Tap ok , and return to the Microsoft Health app Home screen.
+
+
+
+
+            
+  
+    
+    
+            
+ Step 2: Remove your Microsoft Band from your phone’s list of paired Bluetooth devices             
+                On your phone, remove Microsoft Band from the list of paired Bluetooth ® devices. If you aren’t sure where to find this, check the info that came with your phone or go the manufacturer’s website.
+            
+  
+    
+    
+            
+ Step 3: Reset your Microsoft Band             
+                
+
+Step 1:
+On your phone, tap the Microsoft Health app, and tap Expand  . 
+
+Step 2:
+ Tap Sync  .
+
+
+Step 3:
+On your Microsoft Band, tap the Settings Tile , and tap Power .
+
+
+Step 4:
+Swipe left, and under Factory Reset , tap Reset Device .
+
+
+
+Step 5:
+Under Erase All Data , tap Yes .
+
+
+
+            
+
+ 
+            
+ Step 4: Set up your Microsoft Band again             
+                As soon as you’ve completed the three-step above, the setup sequence begins. You can pair Microsoft Band to the Microsoft Health app on your phone again immediately, or turn off the Microsoft Band and pair it later. 
+            
+  
+    
+    
+                     
+            Important        
+            
+                Always use this Microsoft Band setup process to set up and pair your Microsoft Band with your phone, rather than only using your phone’s Bluetooth settings to pair them. 
+
+Why? Bluetooth settings in your phone only pair your band, but don’t register your band to the Microsoft Health app on your phone and don’t associate it with your Microsoft account in the cloud. Microsoft Band needs these things to work correctly.
+
+            
+  
+    
+    
+            
+            
+                
+
+From the Home screen in the Microsoft Health app, tap Add , tap ok , and follow the on-screen instructions. 
+
+            
+  
+    
+    
+            
+            
+                
+                
+                    
+                            
+    
+
+                    
+                    
+    
+            
+                    
+                        
+                        
+                    
+                    
+            
+            
+                    
+                        
+                        
+                    
+                    
+            
+    
+                    
+                
+		   
+								
+								
+							
+						
+					
+					
+						
+							Small, Medium, or Large
+                                
+							
+								
+									
+			
+				Microsoft Band is available in sizes small, medium, or large. The sizing is not a matter of fashion or personal comfort. It is important for proper device  functionality.  Features such as heart rate tracking are designed to work with the best accuracy under the condition of a good fit.  The band should be snug but not too tight.
+		   
+								
+								
+							
+						
+					
+					
+						
+							Development Options
+                                
+							
+								
+									
+			
+				BAND SDK
+
+The Microsoft Band SDK gives developers access to the sensors available on the band, as well as the ability to create and send notifications to tiles. Enhance and extend the experience of your applications to your customers' wrists. Click Here
+
+WEB TILE PREVIEW
+
+Microsoft Band web tile preview allows developers to deliver information to Microsoft Band from virtually any data source on the web, in just a few easy steps!
+
+Write tile code once in simple JSON code and let the Microsoft Health app do the rest for you – adding web tiles to Microsoft Band, periodically fetching web resources and delivering it to the web tile on the Band. Click Here.
+
+CLOUD API
+
+Microsoft Health Cloud API Preview allows you to enhance the experiences of your apps and services with real-time user data. The RESTful APIs provide comprehensive user fitness and health data in an easy-to-consume JSON format. Click Here.
+		   
+								
+								
+							
+						
+					
+					
+						
+							Start Here-Create your Health Dashboard ID
+                                
+							
+								
+									
+                            
+                            
+			
+				Health Dashboard 
+				In order to use the Microsoft Band, you must have a Health Dashboard account. This is where you will log your information and keep track of your results.
+			
+                            
+                                
+                                
+			
+				You will need to set up your account. In order to do that, you will use an email address, create a password and have a code texted to your phone in order to verify that you have included your correct information. This is a security measure.
+
+ 
+
+Once you have set up your account and logged in, you will go to your Dashboard. That will look like this:
+
+
+		   
+								
+								
+							
+						
+					
+        
+    
+                        
+                    
+                    
+				
+					
+					<< Previous: Gaming
+					
+					
+					Next: Multimeter >>
+					
+				                
+            
+        
+        
+        
+            
+                
+                    
+                        Last Updated: Oct 18, 2016 10:28 AM                    
+                    
+                        URL: http://libguides.memphis.edu/technology                    
+                    
+                    	 Print Page                    	
+                    
+                
+                    Login to LibApps                
+            
+            
+                
+                    Report a problem 
+                
+                
+                    
+                    Subjects: 
+                    Help/How-To Guides , Technology
+                                    
+                
+                    
+                    Tags: 
+                    emerging technology
+                                    
+            
+        
+        
+        
+			
+				
+					
+					  
+					  
+					
+				
+			        
+                            
+                               
+                
+                
+
+		
+	
+
+http://libguides.memphis.edu/technology/microsoft_bands

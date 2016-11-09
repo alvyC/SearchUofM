@@ -1,0 +1,37 @@
+http://bf.memphis.edu/forms/equi/equi01.htm
+=======================================================================================
+
+
+
+
+
+
+ 
+ 
+   
+     
+     Equipment
+            Transaction Form  
+   
+
+
+Equipment transfers are now made through the Fixed Asset  Workflow.
+
+   Log  into the myMemphis portal with your UUID and password.
+  Select  the workflow tab:
+  
+    Equipment Location Change workflow (changing  location within the same org)
+    Equipment Transfer Workflow
+    
+      Transfer to another org
+      Surplus
+      Zero Value
+      Cannibalize
+    
+  
+
+See instructions on the workflow at http://bf.memphis.edu/spectrum/fahelp.php . 
+ 
+
+
+http://bf.memphis.edu/forms/equi/equi01.htm

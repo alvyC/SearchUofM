@@ -1,0 +1,879 @@
+http://www.memphis.edu/logo/web-guidelines/
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+   
+   
+   
+   
+   
+
+
+   
+   
+   
+
+
+                              
+                                                      
+                           
+                              
+                                  
+                                    
+                                    
+                                 
+                                                            
+                              
+                                 
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"Most proud of my accomplishment of graduating with a degree in accounting in three years with Summa Cum Laude and Honors."
+READ MORE (fa fa-angle-right)
+
+
+                              
+                              
+                           
+                        
+                                          
+                     
+                        
+                           
+                              
+                                 eNews and Signup 
+                                 Stay up-to-date with the UofM.
+                              
+                              
+                                 Parent and Family Events 
+                                 Join us for events held just for you!
+                              
+                              
+                                 FAQs 
+                                 Have a question? We have answers!
+                              
+                              
+                                 Connect With Us 
+                                 We are here to help you help your student.
+                              
+                           
+                           
+                              
+                                 Scholarships & Financial Aid 
+                                 We can help your student attend the UofM.
+                              
+                              
+                                 Student Services 
+                                 Resources to help your student succeed.
+                              
+                              
+                                 Campus Card 
+                                 Add money to your student's card for books and food.
+                              
+                              
+                                 Give to UofM 
+                                 Your gift to the Parent Fund makes the UofM a better place.
+                              
+                           
+
+                           
+                              
+                                  
+                                 
+                              
+                              
+                                  
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"To work with a non-profit organization that will allow me to utilize my servant leadership skills and caring ability to further enhance the socioeconomic needs of both domestic and foreign citizens."
+READ MORE  (fa fa-angle-right)
+
+
+                              
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              
+							     Join Now 
+                                 Be True Blue and join the Alumni Association.
+                              
+                              
+                                 Update Your Information 
+                                 Receive University updates and the Memphis magazine.
+                              
+                              
+                                 Clubs and Chapters 
+                                 Get involved and stay connected to the UofM.
+                              
+                              
+                                 Make a Gift 
+                                 Your contribution can make a difference.
+                              
+                           
+                           
+                              
+                                 Lambuth Chapter 
+                                 Lambuth Graduates: Reconnect with fellow alumni.
+                              
+                              
+                                 Upcoming Events 
+                                 Mark your calendar for these upcoming events.
+                              
+                              
+                                 Photo Gallery 
+                                 View annual collections of the Alumni Association Photo Gallery.
+                              
+                              
+                                 News 
+                                 Stay up-to-date with Memphis Matters.
+                              
+                                                      
+                           
+                           
+                              
+                                  
+                                    
+                                    
+                                 
+                              
+                               
+                                  
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"To work with a non-profit organization that will allow me to utilize my servant leadership skills and caring ability to further enhance the socioeconomic needs of both domestic and foreign citizens."
+READ MORE  (fa fa-angle-right)
+
+
+                              
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              
+                                 Veterans Resource Center 
+                                 Supporting the transition from military life to civilian life.
+                              
+                              
+                                 Veterans Benefits and Certifications 
+                                 Learn about Veterans Educational Benefits and Certifications.
+                              
+                              
+                                 Get Credits Toward your Degree 
+                                 Receive college credit for military experience, skills, and training.
+                              
+                              
+                                 Online Degree Programs 
+                                 Top provider of more than 50 online degree programs.
+                              
+                           
+                           
+                              
+                                 
+                                    
+                                       
+                                          
+                                          
+                                          
+                                          See his story: Vietnam veteran Michael Sasseen completed his degree by earning Experiential Learning Credit (ELC) from his past experiences authoring a book and working with war veterans with PTSD.
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+   
+
+      
+      
+         
+   
+      
+         
+            
+               
+                  
+                     
+                           			Brand Standards
+                           	
+                  
+               
+            
+         
+      
+      
+         
+            
+               
+                  
+                     
+                        The Brand
+                        Brand Elements
+                        Stationery
+                        Templates
+                        Resources
+                        Web Guidelines
+                     
+                     
+                        
+                           Web Guidelines
+                           
+                              
+                                 
+                                 Content
+                                 Design
+                                 Navigation
+                                 Social Media
+                                 Meta Content
+                                 Accessibility
+                                 Web Content Security
+                                 Violations
+                                 Resources
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     
+                        Home
+                        
+                              	Brand Standards
+                              	
+                        
+                           	Web Guidelines
+                           	
+                        
+                     
+                  
+                  
+                     
+                     
+                     
+                     		
+                     
+                     
+                       Web Guidelines
+                     
+                     
+                     The University of Memphis web site is a major vehicle for presenting our campus to
+                        the world. It is part marketing tool, part information source, and is accessible to
+                        anyone in the world, anytime, anyplace. As such, official University web sites must
+                        present professional, relevant content in a consistently designed, easily navigable
+                        context.
+                     
+                     
+                     Following the guidelines presented here will:
+                     
+                     
+                        
+                        Build a strong, unified image for the University;
+                        
+                        Ensure that the content provided on University web sites is relevant and appropriate;
+                        
+                        Assist in making the user experience pleasant; and
+                        
+                        Help campus web sites communicate more effectively with their audiences.
+                        
+                     
+                     
+                       Content
+                     
+                     
+                     Content is the most important part of a web site — a site's reason for existing. Content
+                        on University of Memphis web sites should adhere to the following guidelines.
+                     
+                     
+                     Text Optimization
+                     
+                     Content displayed on web sites should be written specifically for the web as a medium.
+                        Content that has been written for print does not always translate well to the web.
+                        The following are some ways to optimize your text for web:
+                     
+                     
+                     
+                        
+                        Keep it brief. Short sentences without extraneous words work best. If the topic warrants,
+                           use the pyramid structure by keeping summary information on primary pages, then linking
+                           to pages with in-depth information.
+                        
+                        
+                        "Chunk" content into categories, and display the different content chunks on separate
+                           pages or clearly separate them on one page.
+                        
+                        
+                        Make text scannable by breaking text out into bulleted lists, bolding important terms
+                           and using headings.
+                        
+                        
+                     
+                     
+                     Relevance
+                     
+                     Web users are on a mission to find information. Make it as easy as possible for your
+                        users to find information on your site—keep content on an individual web page relevant
+                        to its page title. Avoid including additional information that is unrelated to a page's
+                        main topic—create a new page and link to it.
+                     
+                     
+                     Do not include links to pages that have not yet been constructed or upload pages that
+                        are "under construction." Every page should contain useful information, and pages
+                        should be fully formed before they are uploaded and linked.
+                     
+                     
+                     Timeliness
+                     
+                     Keep your web pages up to date. Remove time sensitive information promptly after it
+                        expires. Where applicable, use a date of last update mark so users will know that
+                        content on your page is fresh.
+                     
+                     
+                     Appropriateness
+                     
+                     Remember, your document will be accessible to anyone on the Internet. Your document
+                        represents you, your department and the University of Memphis, and it should be professional
+                        and consistent with the rest of the University's web sites.
+                     
+                     
+                     On UofM web sites, do not post material that might be reasonably considered abusive,
+                        profane, harassing, or sexually offensive. Please see the violations section for information
+                        pertaining to consequences.
+                     
+                     
+                     Multimedia (sound, video, animations, Flash)
+                     
+                     Multimedia on University web sites should be used as a content element, not as a design
+                        element.
+                     
+                     
+                     Examples of multimedia as content include:
+                     
+                     
+                        
+                        Sound files for instructional purposes
+                        
+                        Podcasts
+                        
+                        Interactive training sites
+                        
+                        Instructional video
+                        
+                     
+                     
+                     Examples of multimedia as design include:
+                     
+                     
+                        
+                        Introductory Flash "splash" pages
+                        
+                        Background music embedded in a page
+                        
+                     
+                     
+                     Photography
+                     
+                     UofM web developers are encouraged to use photography on their sites.
+                     
+                     Optimize your photographs for web viewing by sizing them to the exact height and width
+                        at which they will be displayed. Setting size parameters within the HTML code or through
+                        a program like Dreamweaver will most likely distort the photograph, increase load
+                        time for the page, and could result in your page not displaying as expected.
+                     
+                     
+                     Photography should be appropriate to the subject matter of your web site.
+                     
+                     If you have photography needs, please contact the University Photographer at rgcsntno@memphis.edu.
+                     
+                       Design
+                     
+                     
+                     A web site's design can enhance or hinder the user experience. In addition, the design
+                        assists in bringing continuity across the entirety of the University's web sites.
+                     
+                     
+                     Color
+                     
+                     Blue and gray are the official colors of the University of Memphis. The closest HTML
+                        code approximations for the official colors are #0D3182 for blue and #888C8F for gray.
+                     
+                     
+                     Logo Usage
+                     
+                     When the University of Memphis wordmark appears on a web site, it must do so in accordance
+                        with Brand Standards .
+                     
+                     
+                     The wordmark is the only official University mark approved for non-athletic and non-alumni
+                        web sites. The University seal and the secondary logo must not appear on any web site.
+                        The only exception is on the Brand Standards web sites where both marks are shown
+                        for illustrative purposes.
+                     
+                     
+                     Fonts
+                     
+                     The University's web sites use Trebuchet MS as the default font.
+                     
+                       Navigation
+                     
+                     
+                     While content is the most important part of the web, visitors will not be able to
+                        easily access content if the site has poor navigation. To ensure a positive user experience,
+                        the following steps are recommended:
+                     
+                     
+                     
+                        
+                        Use a menu that directs users to the main topics of your site.
+                        
+                        Do not include every page on your site in the menu, unless your site has a small number
+                           of pages. Too many links can overwhelm users.
+                        
+                        
+                        Include clearly marked links to the unit's home page and to the University's home
+                           page.
+                        
+                        
+                     
+                     
+                       Social Media
+                     
+                     
+                     View the UofM Social Media Handbook
+                     
+                       Meta Content
+                     
+                     
+                     Meta content is vitally important to web sites as this is a primary tool that search
+                        engines use to gather results.
+                     
+                     
+                     Examples of meta content are:
+                     
+                     
+                        
+                        page title
+                        
+                        keywords
+                        
+                        page description
+                        
+                        alt parameters within <img> tags for images
+                        
+                        
+                     
+                     
+                     Page titles are required for UofM web sites, and alt parameters within <img> tags are an accessibility requirement. Use keywords and page descriptions in the
+                        header sections of web pages to ensure proper indexing and classification by search
+                        engines.
+                     
+                     
+                       Accessibility
+                     
+                     
+                     Widely accepted standards exist for making web content accessible, primarily for disabled
+                        users. Accessibility allows for people to visit your site with devices other than
+                        a web browser, such as a screen reader.
+                     
+                     
+                     For a good summary of things you can do to ensure your site is accessible, visit the
+                        Tennessee.gov Accessibility Guidelines site or the web Accessibility Initiative's Quick Tips to Make Accessible Web Sites .
+                     
+                     
+                       Web Content Security
+                     
+                     
+                     Web pages containing or collecting sensitive or confidential information must be hosted
+                        on a secure web server (https). The content of web pages viewed on normal, unsecured
+                        web server URLs (http) transmit information in clear text and could be intercepted
+                        and read by an intermediate party. Examples of University information that must use
+                        secure, encrypted web URLs include student IDs, passwords, and credit card information.
+                     
+                     
+                       Violations
+                     
+                     
+                     If it comes to the University's attention that a web page violates University policy
+                        (see policies in resources section), then the page's webmaster or author will be notified
+                        and asked to remedy the problem. If the problem is not remedied, the University will
+                        sever the link between the problem page and the UofM main pages. In some instances,
+                        this may entail severing the complete unit link.
+                     
+                     
+                       Resources
+                     
+                     
+                     
+                        
+                        TBR 1-08-00-00: Use of Technology Resources
+                        
+                        UofM Policy 1483: Use of Copyrighted Materials
+                        
+                        UofM Policy 1535: Acceptable Use of Information Technology Resources
+                        
+                        UofM Policy 1419: Use of University Seal, Logos, and Indicia
+                        
+                        Brand Standards Guide
+                        
+                        Web Security Guidelines
+                        
+                        Important Notice
+                        
+                        World Wide Web Consortium (W3C)
+                        
+                        Section 508 Accessibility Requirements
+                        
+                        Data Security Policy
+                        
+                     
+                     
+                     
+                     	
+                     
+                  
+               
+               
+                  
+                     
+                        Web Guidelines
+                        
+                           
+                              
+                              Content
+                              Design
+                              Navigation
+                              Social Media
+                              Meta Content
+                              Accessibility
+                              Web Content Security
+                              Violations
+                              Resources
+                           
+                        
+                     
+                     
+                     
+                        
+                           
+                              Marketing Toolkit
+                              Tools for Your Marketing Needs
+                           
+                           
+                              FAQ
+                              Frequently Asked Questions
+                           
+                           
+                              Contact Us
+                              Contact Information
+                           
+                        
+                     
+                  
+                  
+               
+               
+            
+            
+         
+         
+      
+   
+   
+   
+      
+      
+      
+
+   
+      
+         
+            
+               Full sitemap 
+            
+            
+               
+                  
+                     Admissions
+                     
+                        
+                           Prospective Students
+                           Undergraduate
+                           Graduate
+                           Law School
+                           International
+                           Parents
+                           Scholarship & Financial Aid
+                           Tuition & Fee Payment
+                           FAQs
+                           About UofM
+                        
+                     
+                  
+                  
+                     Academics
+                     
+                        
+                           Provost's Office
+                           Libraries
+                           Transcripts
+                           Undergraduate Catalog
+                           Graduate Catalog
+                           Academic Calendar
+                           Course Schedule
+                           Financial Aid
+                           Graduation
+                           Honors Program
+						   eCourseware
+                        
+                     
+                  
+                  
+                     Athletics
+                     
+                        
+                           Gotigersgo.com
+                           Ticket Information
+                           Intramural Sports
+                           Recreation Center
+                           Athletic Academic Support
+                           Former Tigers
+                           Facilities
+                           Tiger Scholarship Fund
+                           Media
+                        
+                     
+                  
+				  
+                  
+                     Research
+                     
+                        
+                           Sponsored Programs
+                           Research Resources
+                           Centers & Institutes
+                           Chairs of Excellence
+                           FedEx Institute of Technology
+                           Libraries
+                           Grants Accounting
+                           Environmental Health
+                           Office of Institutional Research
+                        
+                     
+                  
+                  
+                     Support UofM
+                     
+                        
+                           Make a Gift
+                           Alumni Association
+                           Year of Service
+                        
+                     
+                  
+                  
+                     Administrative Support
+                     
+                        
+                           President's Office
+                           Academic Affairs
+                           Business & Finance
+                           Career Opportunities
+                           Conference & Event Services
+                           Corporate Partnerships
+Development Office
+                           Government Relations
+                           Information Technology Services
+                           Media and Marketing
+                           Student Affairs
+                        
+                     
+                  
+               
+            
+         
+         
+            
+               
+                  
+                  
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+               
+            
+            
+               
+                  Follow UofM Online
+                  Facebook Twitter YouTube
+                  
+                  
+                  Instagram Pinterest LinkedIn
+               
+            
+             
+                  
+                      
+                  
+               
+      
+         
+      
+   
+
+
+      
+      
+      
+      
+         
+            
+               
+                  
+                     
+                        
+                           
+                              
+                                 
+                                 
+                                 
+Print
+Got a Question? Ask TOM
+Copyright 2016 University of Memphis
+Important Notice
+
+                                 
+                                 
+                                 
+                                 
+                                    Last Updated: 5/26/16
+                                 
+                                 
+                                 
+                                 
+University of Memphis
+Memphis, TN 38152
+Phone: 901.678.2000
+
+The University of Memphis does not discriminate against students, employees, or applicants for admission or employment on the basis of race, color, religion, creed, national origin, sex, sexual orientation, gender identity/expression, disability, age, status as a protected veteran, genetic information, or any other legally protected class with respect to all employment, programs and activities sponsored by the University of Memphis. The following person has been designated to handle inquiries regarding non-discrimination policies: Michael Washington, Director for Institutional Equity.  For more information see University of Memphis Equal Opportunity and Affirmative Action .
+
+Title IX of the Education Amendments of 1972 protects people from discrimination based on sex in education programs or activities which receive Federal financial assistance. Title IX states: "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance..." 20 U.S.C. § 1681 - To Learn More Click Here .
+
+
+ 
+
+                                 
+                                 
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+http://www.memphis.edu/logo/web-guidelines/

@@ -1,0 +1,74 @@
+https://iam.memphis.edu/reset/identify.jsf
+=======================================================================================
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+		
+	
+		 
+				The University of Memphis 
+		
+				 iAM: Identity Management 
+	
+		
+
+		
+		
+			This site requires javascript but your browser does not support it. Please enable javascript, or use a browser that
+			has javascript support.
+		
+	
+
+			
+		
+		
+			This site requires javascript but your browser does not support it. Please enable javascript, or use a browser that
+			has javascript support.
+		
+	
+
+		Learn Your UUID / Reset Your Password
+
+		If you have forgotten your password, you can reset your
+			password by answering your Security Questions. You can also use this
+			menu to display your Universal UserID (UUID).
+
+		If you need assistance, contact the University of Memphis
+			Helpdesk at (901) 678-8888.
+
+		To begin the process, please enter your first name, last name,
+			and birthday.
+			
+				
+					First Name
+					
+				
+				
+					Last Name
+					
+					
+				
+				
+					Birthday  (MM/DD/YYYY)
+					
+				
+			
+
+			
+			
+			
+			
+		
+	Need Help? Contact the ITS Service Desk at (901)
+		678-8888.
+
+	
+https://iam.memphis.edu/reset/identify.jsf

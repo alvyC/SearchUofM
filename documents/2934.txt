@@ -1,0 +1,84 @@
+http://www.memphis.edu/bcpeditor
+=======================================================================================
+	
+	Your browser does not support Javascript. This page requires a secure connection, please use the following URL: https://umwa.memphis.edu/bcp/loginbcp.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+   
+        
+        
+        
+    
+  
+
+
+
+
+
+
+Note: The BCP Editor has been tested and functions properly with IE and Firefox web browsers on Windows systems.  Macintosh users can use the Safari web browser.
+
+
+
+
+  User ID
+
+
+
+
+  Password
+
+
+
+
+
+
+
+
+
+
+
+Feedback/Suggestions | 
+Business Continuity Plan Home |
+ Logout
+
+
+
+Wednesday November 09, 2016
+University of Memphis Business Continuity Plan Editor V1.13 ( Last Updated: June 8, 2007 )
+
+Site designed by
+IT Web Services
+and maintained by the University Crisis Management Team
+
+
+
+
+
+http://www.memphis.edu/bcpeditor

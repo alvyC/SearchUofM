@@ -1,0 +1,443 @@
+http://bf.memphis.edu/spectrum/rules.php
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+ 
+
+
+
+
+
+
+FOAPALs
+
+search by index
+search by fund
+search by organization
+search by program
+search by activity
+search by multiple fields
+search by orgn title
+search by index title
+
+SIGNATURES
+
+signatures by org
+signatures by name
+approval queues by org
+approval queues by name
+
+EQUIPMENT REPS
+
+  assign equipment reps
+  view equipment reps
+  fixed asset workflow help
+
+CODES
+
+account code list
+rule code list
+location code search
+program code list
+data standards manual
+
+TRAINING
+
+learning curve
+
+
+UTILITIES & REPORTS
+
+budget overexpenditures
+e~Print
+
+FORMS
+
+accounting 
+budget 
+direct deposit 
+procurement 
+system access
+
+
+HR PROGRAM GUIDE
+TIGERBUY WEB SITE
+
+
+
+
+
+
+
+
+
+
+
+Print Version
+
+
+
+Banner Finance Rule Codes & Titles 382 Records Found.
+			
+			
+			
+			
+			
+			Rows per page: 
+			25
+			50 100 200 500 1 2 3 4 RUCL Code   Rule Code Title  
+					A01
+					AVP Finance Interfund Transfer Rule
+					
+					A05
+					AVP Finance Cash Receipts Entry
+					
+					A16
+					AVP Finance Journal Entry
+					
+					ACDC
+					Cancel Addl Charges on Credit Memo
+					
+					ACDI
+					Cancel Addl Charges on Invoice
+					
+					ACEC
+					Cancel Addl Chrg on C/M w/ Encumb
+					
+					ACEI
+					Cancel Addl Chrg on Inv w/Encumb
+					
+					ACII
+					Cancel Addl Chrgs on Inv w/G/L Acct
+					
+					ADDC
+					Additional Charges on Credit Memo
+					
+					ADDI
+					Additional Charges on an Invoice
+					
+					ADEC
+					Addl Chrg on Credit Memo w/ Encumb
+					
+					ADEI
+					Addl Charges on Invoice w/Encumb
+					
+					ADII
+					Addl Charges on Invoice w/G/L Acct
+					
+					ADJC
+					Adjustment to Inventory Value
+					
+					ADPR
+					Adjust depreciation(up or down)
+					
+					AL01
+					ProAlloc for perm. adopt budget
+					
+					AL02
+					ProAlloc for perm. adj budget
+					
+					AL04
+					ProAlloc. for encumbrance
+					
+					AL05
+					ProAlloc. for budget reservation
+					
+					ALE3
+					ProAlloc for year to data actv
+					
+					ALR3
+					ProAlloc. for year to date revenue
+					
+					AP1
+					AP APPL CHG Like
+					
+					AP2
+					AP APPL CHG Diff
+					
+					APS1
+					Banner Student - APPL CHG-Like
+					
+					APS2
+					Banner Student - APPL CHG - Diff
+					
+					APS3
+					Banner Student - APPL PAY - Like
+					
+					APS4
+					Banner Student - APPL PAY - Diff
+					
+					ASCS
+					Banner Alumni Cash Receipt
+					
+					ASDE
+					Banner Alumni Gift (Payroll Deduct)
+					
+					ASLN
+					Banner Alumni Gift of Land/Property
+					
+					B01
+					Bursar Interfund Transfer Rule
+					
+					B05
+					Bursar Cash Receipt Entry
+					
+					B16
+					Bursar Journal Entry
+					
+					BD01
+					Permanent Adopted Budget
+					
+					BD02
+					Permanent Budget Adjustments
+					
+					BD03
+					Temporary Adopted Budget
+					
+					BD04
+					Temporary Budget Adjustment
+					
+					BD10
+					Budget Development Request
+					
+					BD4
+					Dept Temporary Budget Adjustment
+					
+					BD5
+					Interfund Budget Revision
+					
+					BD6
+					Current Yr Budget Revision FUPLOAD
+					
+					BD7
+					YE Temp Budget Adjustment
+					
+					BD8
+					YE Permanent Budget Adjustment
+					
+					BDG1
+					Permanent Adopted Budget G&C
+					
+					BDG2
+					Permanent Budget Adjustments G&C
+					
+					BDG4
+					Temporary Budget Ajustment G&C
+					
+					BG1
+					Permanent Adopted Budget G&C
+					
+					BG2
+					Permanent Budget Adjustments G&C
+					
+					BG4
+					Temporary Budget Adjustment G&C
+					
+					BG6
+					Temporary Budget Adjustment Grants
+					
+					BILE
+					Bill Expense Acct w/enc in Cost Act
+					
+					BILI
+					Bill Income Acct in Cost Accounting
+					
+					BILL
+					Bill Cost Acctg. Job, no encumbranc
+					
+					BLM
+					Bursar Loan Mgmt Journal Feed
+					
+					BRA
+					Budget roll adjustment
+					
+					CAEC
+					Cancel Check C/M Addl w/Encumb
+					
+					CAEI
+					Cancel check invoice addl w/encumb
+					
+					CAII
+					Cancel Check Invtry Invoice Taxes
+					
+					CAXC
+					Cancel Check - C/M tax
+					
+					CAXI
+					Cancel Check - Invoice tax
+					
+					CC01
+					Interchart Credits
+					
+					CD01
+					Interchart Charges
+					
+					CDDC
+					Cancel Check C/M addl chgs
+					
+					CDDI
+					Cancel check invoice addl charges
+					
+					CDEC
+					Cancel check C/M disc w/emcumb
+					
+					CDEI
+					Cancel Check Invoice disc w/encumb
+					
+					CDII
+					Cancel Check Invtry Inv Addl Chrgs
+					
+					CDWI
+					Federal Witholding on Cancel Check
+					
+					CH1
+					AP Charges Non Cash Pay
+					
+					CHS1
+					Banner Student Charges/Non-Cash Pay
+					
+					CIIC
+					Cancel Check Inv Valuation Adj
+					
+					CIII
+					Cancel Check Inventory Inv Discount
+					
+					CISC
+					Cancel Check - C/M discount
+					
+					CISI
+					Cancel Check - Invoice discount
+					
+					CNEC
+					Cancel Check - C/M w encumbrance
+					
+					CNEI
+					Cancel Check - Invoice w encumbranc
+					
+					CNEP
+					Cancel Check CY, Invoice w/encum PY
+					
+					CNII
+					Cancel Check Inventory Invoice
+					
+					CNNC
+					Cancel check - C/M w/o encumbrance
+					
+					CNNI
+					Cancel Check - Invoice w/o encumb
+					
+					CNT
+					Cash Net
+					
+					COAD
+					Additional Charge on Change Order
+					
+					CODS
+					Discount on Change Order
+					
+					CORD
+					Establish Change Order
+					
+					COTX
+					Tax on Change Order
+					
+					CR05
+					Cash Receipt Entry
+					
+					CSS1
+					Banner Student - Cash Payments
+					
+					CSS2
+					Banner Student Payment/Release Dep.
+					
+					CTEC
+					Can Chk-NonVend Tx CM w/encumbrance
+					
+					CTEI
+					Cancel tax for CXEI
+					
+					CTII
+					Cancel non-vend-tax for checks
+					
+					CTWI
+					State Witholding on Cancel Check
+					
+					CTXC
+					Cancel tax w/CAXC
+					
+					CTXI
+					Cancel tax for CAXI
+					
+					CXEC
+					Cancel check C/M tax w/encumnb
+					
+					CXEI
+					Cancel check invoice tax w/encumb
+					
+					DAEC
+					Check C/M Addl w/Encumb
+					
+					DAEI
+					Check invoice Add'l Chgs/encumb
+					
+					DAII
+					Check - Inventory Invoice Tax
+					
+					DAXC
+					Check - C/M tax
+					
+
+
+
+
+  Comments & Suggestions
+   | 
+  Important Notice
+   | 
+  U of M Home
+
+Site maintained by Division of Business & Finance
+Last update: 08/19/2013
+
+
+
+
+
+
+
+
+
+http://bf.memphis.edu/spectrum/rules.php

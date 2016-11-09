@@ -1,0 +1,367 @@
+http://blogs.memphis.edu/cio/2014/06/
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+			
+
+        
+
+
+
+
+
+
+    
+        Main menu
+        Skip to content
+        
+        Home Sample Page
+        
+    
+
+	
+    
+	
+	    
+    
+      
+		
+			Office of the CIO
+			News from Information Technology Services
+			
+				
+					Search for:
+					
+					
+				
+					
+      
+	
+    
+        
+        
+
+			
+				
+					
+						Monthly Archives: June 2014					
+				
+
+				
+								
+					
+
+		
+    	
+            Jun
+            13
+            2014
+        
+		Redefining the University Library  Committee – Report to the President
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		On February 4, 2014, President David Rudd issued invitations to members of the Redefining the University Library Committee, with the charge:
+“Today’s University Libraries must face a rapidly evolving landscape from the changes surrounding information and technology that have occurred over recent decades. Managing the migration to digital information systems raises numerous challenges, and considerations requiring the collected wisdom of various constituents. The library’s traditional role as a repository for physical books and periodicals is changing, with important implications for space utilization, resource acquisition, and deployment of staffing.”
+The purpose of the Redefining the University Library Committee was to propose a plan for how the University Library will flourish on that new landscape, and how to best position future directions for the programs, services and physical configuration of the University libraries. The committee’s recommendations for the library of the 21st century has considered best practices for serving the University community and for meeting both ideal configuration and realistic support models.
+The committee’s substantive and visionary recommendations may be seen here in the final report presented to the President on May 30, 2014.
+As chair of the committee, I would like to thank all of the committee members for their diligence, research, and thoughtfulness in the preparation of this report.  The members included:
+
+
+
+Cody
+Behles
+University Libraries
+
+
+Jamie
+Corson
+University Libraries
+
+
+Eugene
+Eckstein
+Herff College of Engineering
+
+
+Bob
+Hetherington
+Office of the Provost
+
+
+Tom
+Hrach
+College of Communication and Fine Arts
+
+
+Bob
+Johnson
+Rhodes College, Student and Information Services
+
+
+D. R.
+Jones
+Law Library
+
+
+Trey
+Martindale
+College of Education, Health and Human Services
+
+
+Susan
+O’Donovan
+College of Arts and Sciences
+
+
+Jennifer
+Schnabel
+University Libraries
+
+
+Sue Reid
+Williams
+Community Membe
+
+
+
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+					
+
+		
+    	
+            Jun
+            09
+            2014
+        
+		Important Update: Password Change Policy
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		Colleagues,
+We have received questions about the change in the password policy, which takes effect today, June 9.
+Please note that you will not be required to change your password until your current expiration is reached .  Information Technology Services (ITS) will send  automated email reminders 14 days and 7 days prior to your password expiration.
+Remember: ITS will never ask for your password.  When in doubt, please contact the ITS Service Desk at 901-678-8888.
+Thank you,
+Ellen
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+					
+
+		
+    	
+            Jun
+            03
+            2014
+        
+		Important Information – Password Change Policy
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		As a part of our ongoing examination of campus processes, the University is implementing a policy change to enhance the overall strength and security of account passwords.  These changes address both the frequency and complexity of password changes.
+Beginning June 9, 2014 , all University of Memphis students, faculty and staff will be required to change their UofM UUID password every 180 days .  This policy change will take effect with all passwords changed on or after June 9, 2014.
+In addition to the change in frequency, changes are also being implemented in the minimum requirements for passwords.  These changes will provide additional security by increasing password strength and making passwords more resistant to attack.  The new minimum requirements for passwords are:
+Must be at least twelve (12) characters in length.
+Must contain characters from at least three of the following categories:
+
+lowercase letter (e.g. a, b, c),
+uppercase letter (e.g. A, B, C),
+number (e.g. 1, 2, 3), and
+special character (e.g. _ ! $ % ^ * + – ).
+
+Remember:  ITS will never ask you for your password.  When in doubt, send suspicious emails to abuse@memphis.edu .
+If you have any questions about the change in policy or need further assistance, please contact the ITS Service Desk at 901-678-8888 .
+Thank you,
+Ellen
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+				
+			
+         
+
+        		
+        
+        	            
+            
+				                
+                 
+                   
+                                                			
+            
+			
+				
+					Search for:
+					
+					
+				
+							Recent Posts		
+					
+				The University of Memphis Boosts Cybersecurity with Duo
+						
+					
+				Welcome!  An Important Message about IT Services and Security
+						
+					
+				ITS Service Catalog
+						
+					
+				ITS Strategic Planning
+						
+					
+				Ransomware
+						
+				
+				Archives		
+			October 2016
+	August 2016
+	March 2016
+	February 2016
+	January 2016
+	December 2015
+	November 2015
+	October 2015
+	August 2015
+	July 2015
+	June 2015
+	April 2015
+	March 2015
+	January 2015
+	December 2014
+	November 2014
+	September 2014
+	August 2014
+	July 2014
+	June 2014
+	May 2014
+	April 2014
+	March 2014
+	February 2014
+	January 2014
+	December 2013
+	November 2013
+	October 2013
+	September 2013
+	August 2013
+		
+		Categories		
+	Uncategorized
+
+		
+Meta			
+						Log in
+			Entries RSS
+			Comments RSS
+			blogs.memphis.edu
+						
+		
+
+     
+        
+
+	
+		
+			
+			© Office of the CIO                        
+		
+	
+
+
+	
+	
+        
+
+        
+
+
+
+
+		
+							Skip to toolbar
+						
+				
+		University of Memphis
+		University Home		
+		Memphis Blogs		
+		Blogging Help				
+		Log In		
+		Search					
+					
+
+		
+
+http://blogs.memphis.edu/cio/2014/06/

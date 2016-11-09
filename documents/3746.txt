@@ -1,0 +1,247 @@
+http://bf.memphis.edu/forms/payr/payr06.htm
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+        
+      
+    
+    
+      Name
+          
+          UID  
+          
+           Organization Code  
+           
+           
+      Two Week Period Beginning (Sat)    
+      Ending (Fri)      Instructions
+        
+      
+    
+    
+      Week 1
+        In / Out/Total Hrs
+      Reg
+        Hrs
+      Str
+        OT
+        (033)
+      Prm
+        OT
+        (034)
+      Tot
+        Hrs
+      
+        Week 2
+        In / Out/Total Hrs
+      Reg
+        Hrs
+      Str
+ OT
+ (033)
+      Prm
+ OT
+ (034)
+      Tot
+        Hrs
+    
+    
+      SAT
+  
+  
+      
+      
+      
+      
+      SAT
+         
+  
+      
+      
+        
+      
+      
+      
+    
+    
+      SUN
+  
+  
+      
+      
+      
+      
+      SUN
+         
+  
+      
+      
+        
+      
+      
+      
+    
+    
+      MON
+  
+  
+      
+      
+      
+      
+      MON
+         
+  
+      
+      
+      
+      
+    
+    
+      TUE
+  
+  
+      
+      
+      
+      
+      TUE
+         
+  
+      
+      
+      
+      
+    
+    
+      WED
+  
+  
+      
+      
+      
+      
+      WED
+         
+  
+      
+      
+      
+      
+    
+    
+      THU
+  
+  
+      
+      
+      
+      
+      THU
+         
+  
+      
+      
+      
+      
+    
+    
+      FRI
+  
+  
+      
+      
+      
+      
+      FRI
+         
+  
+      
+      
+      
+      
+    
+    
+      
+        WEEK 1 TOTAL
+      
+      
+      
+      
+      
+      
+        WEEK 2 TOTAL
+      
+        
+      
+      
+        
+      
+      
+        
+      
+        
+      
+    
+
+    
+      
+        TOTALS FOR PAY PERIOD
+      
+        TOT PAY PERIOD
+        
+      
+        
+         REG HRS  
+      
+      
+        
+        STR OT HRS  
+      
+        
+        PRM OT HRS  
+      
+        
+        TOT HRS
+    
+  
+  
+    
+      (Timekeeper use
+      only)
+      CLICK HERE FOR ONLINE HELP
+          
+        
+      PAYROLL NO. ________ ECLS  __________ POSITION___ _____
+        SUFFIX__________ ORGANIZATION_______________
+      ENT'D _________DATE__________
+    
+    
+      I certify that hours worked as
+      reported above are true and accurate in accordance with University policies &
+      procedures. All work assignments for Federal Work and Study students have been performed
+      in a satisfactory manner. 
+      Employee
+      Signature_________________________________Date___________
+    
+    
+      Supervisor
+      Signature________________________________Date___________
+    
+  
+
+
+
+http://bf.memphis.edu/forms/payr/payr06.htm

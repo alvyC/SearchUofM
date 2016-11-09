@@ -1,0 +1,285 @@
+http://blogs.memphis.edu/cio/2014/05/
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+			
+
+        
+
+
+
+
+
+
+    
+        Main menu
+        Skip to content
+        
+        Home Sample Page
+        
+    
+
+	
+    
+	
+	    
+    
+      
+		
+			Office of the CIO
+			News from Information Technology Services
+			
+				
+					Search for:
+					
+					
+				
+					
+      
+	
+    
+        
+        
+
+			
+				
+					
+						Monthly Archives: May 2014					
+				
+
+				
+								
+					
+
+		
+    	
+            May
+            05
+            2014
+        
+		Important Information Re: Phishing Emails and Scams
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		Colleagues,
+As a matter of information security, the Internet Crime Complaint Center (IC3) has made the University aware of multiple scams targeting universities, university employees, and students across the nation. The scams range from Internet fraud to intrusions. The following are common scenarios:
+
+Spear phishing e-mails are being sent to university employees that appear to be from their employer. The e-mail contains a link and claims some type of issue has risen requiring them to enter their log-in credentials. Once employees provide their user name and password, the perpetrator accesses the university’s computer system to redirect the employees’ payroll allocation to another bank account. The university employees’ payroll allocations are being deposited into students’ accounts. These students were hired through online advertisements for work-at-home jobs, and provided their bank account information to the perpetrators to receive payment for the work they performed.
+Scammers are posting online advertisements soliciting college students for administrative positions in which they would receive checks via the mail or e-mail. Students are directed to deposit the checks into their accounts, and then print checks and/or wire money to an individual. Students are never asked to provide their bank account information to the perpetrators.
+
+
+Perpetrators are compromising students’ credential resulting in the rerouting of their reimbursement money to other bank accounts. The reimbursement money is from student loans and used to pay tuition, books, and living expenses.
+Perpetrators are obtaining professors’ Personally Identifiable Information (PII) and using it to file fraudulent income tax returns.
+Some universities have been victims of intrusions, resulting in the perpetrators being able to access university databases containing information on their employees and students.
+
+If you have been a victim of one of these scams or any other Internet related scam, we encourage you to file a complaint with the IC3 at www.ic3.gov   and to notify your university police.
+Please note:  the University will never ask you to provide personal information via email.
+			
+	
+	
+					
+					
+				2 Comments
+		 | 
+		
+			
+
+
+				
+					
+
+		
+    	
+            May
+            01
+            2014
+        
+		Microsoft Internet Explorer – Important Information
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		To the campus community:
+By now, you may have seen reports from media and other sources announcing a new vulnerability in Microsoft’s Internet Explorer web browser.  The vulnerability could allow a malicious website to take control of a user’s computer through a flaw in the way Internet Explorer renders certain kinds of Adobe Flash code.  Microsoft has reported that this vulnerability is beginning to be used in the wild, but has not announced a date for when the vulnerability will be fixed.
+ITS has taken steps to secure our campus PCs from this vulnerability.  Our network Intrusion Detection System has been updated to block attempts from outside campus to exploit this vulnerability.  Our Desktop Application Services team is continuing to research additional security measures that can be deployed to desktops to help block this flaw.
+Given that a fix has still not been announced by Microsoft, it is the recommendation of ITS that all users restrict usage of Internet Explorer to trusted internal sites only.  For all other web browsing, please consider using an alternative web browser, such as Mozilla Firefox, Google Chrome, or Apple Safari until Microsoft patches Internet Explorer.
+To protect your home or other personal machines running Microsoft’s Windows operating system, you may wish to consider taking some of the following actions:
+
+Use an alternative browser, such as Mozilla Firefox or Google Chrome, for day to day browsing until Microsoft patches Internet Explorer.
+Disable Adobe Flash within Internet Explorer. Newer versions of Windows (such as Windows 8) include Adobe Flash by default whether you install it or not.  See Microsoft’s website ( http://windows.microsoft.com/en-us/internet-explorer/manage-add-ons#ie=ie-11 ) for further details on disabling add-ons within Internet Explorer.
+Enable Internet Explorer’s “Enhanced Protection Mode” (EPM), a feature which became available in newer versions of Internet Explorer.  While providing additional protection, this may break other legitimate add-ons and plugins.  See Microsoft’s website ( http://windows.microsoft.com/en-us/internet-explorer/manage-add-ons#ie=ie-11 ) for further details on enabling EPM within Internet Explorer.
+If you have not already upgraded from Windows XP, do so as soon as possible.  Microsoft will not release a patch for this flaw, as they are no longer supporting the Windows XP operating system.
+
+For additional technical information regarding this vulnerability, please see:
+
+https://technet.microsoft.com/en-US/library/security/2963983
+h ttp://www.fireeye.com/blog/uncategorized/2014/04/new-zero-day-exploit-targeting-internet-explorer-versions-9-through-11-identified-in-targeted-attacks.html
+
+We appreciate your help, and we are committed to protecting campus systems.
+Thank you,
+Ellen
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+				
+			
+         
+
+        		
+        
+        	            
+            
+				                
+                 
+                   
+                                                			
+            
+			
+				
+					Search for:
+					
+					
+				
+							Recent Posts		
+					
+				The University of Memphis Boosts Cybersecurity with Duo
+						
+					
+				Welcome!  An Important Message about IT Services and Security
+						
+					
+				ITS Service Catalog
+						
+					
+				ITS Strategic Planning
+						
+					
+				Ransomware
+						
+				
+				Archives		
+			October 2016
+	August 2016
+	March 2016
+	February 2016
+	January 2016
+	December 2015
+	November 2015
+	October 2015
+	August 2015
+	July 2015
+	June 2015
+	April 2015
+	March 2015
+	January 2015
+	December 2014
+	November 2014
+	September 2014
+	August 2014
+	July 2014
+	June 2014
+	May 2014
+	April 2014
+	March 2014
+	February 2014
+	January 2014
+	December 2013
+	November 2013
+	October 2013
+	September 2013
+	August 2013
+		
+		Categories		
+	Uncategorized
+
+		
+Meta			
+						Log in
+			Entries RSS
+			Comments RSS
+			blogs.memphis.edu
+						
+		
+
+     
+        
+
+	
+		
+			
+			© Office of the CIO                        
+		
+	
+
+
+	
+	
+        
+
+        
+
+
+
+
+		
+							Skip to toolbar
+						
+				
+		University of Memphis
+		University Home		
+		Memphis Blogs		
+		Blogging Help				
+		Log In		
+		Search					
+					
+
+		
+
+http://blogs.memphis.edu/cio/2014/05/

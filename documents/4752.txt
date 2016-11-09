@@ -1,0 +1,268 @@
+http://blogs.memphis.edu/cio/2016/10/12/the-university-of-memphis-boosts-cybersecurity-with-duo/
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+			
+
+        
+
+
+
+
+
+
+    
+        Main menu
+        Skip to content
+        
+        Home Sample Page
+        
+    
+
+	
+    
+	
+	    
+    
+      
+		
+			Office of the CIO
+			News from Information Technology Services
+			
+				
+					Search for:
+					
+					
+				
+					
+      
+	
+    
+        
+        
+
+			
+				
+
+	
+    	
+            Oct
+            12
+            2016
+        
+		The University of Memphis Boosts Cybersecurity with Duo
+
+		
+			Posted by  Bambi Lange		
+	
+
+	
+		Information Technology Services has partnered with Duo Security to provide Multi-factor Authentication for U of M computer account holders. Duo offers a method for you to protect your account by requiring a secondary means (or factor) of authentication in addition to your password. Duo is convenient because it allows you to leverage your phone and mobile devices as the second factor.
+ 
+As cybersecurity tools have matured, bad actors have increasingly shifted from directly targeting computer systems to launching sophisticated phishing attacks against the people who access these systems. While simple password-based authentication has become increasingly vulnerable, Duo substantially reduces the threat of unauthorized access to your account. Use of Duo protects your sensitive personal information, as well as that of your colleagues and students, from illegitimate disclosure or alteration.
+ 
+Who is Eligible?
+ 
+All members of the University of Memphis community —  including faculty, staff, and students — are eligible to take advantage of Duo.
+ 
+How Do I Enable Duo?
+ 
+To enable Duo for your account, login to iAM and select “Duo Account Security.” You will then be guided through the process of registering your phones. Once you have enabled Duo, you will be prompted to authenticate with your second factor the next time you log in to any campus web resource.
+ 
+How Do I Get Help?
+ 
+Further information regarding Duo can be found at ( http://www.memphis.edu/its/security/duo.php ). For assistance, please contact the Service Desk at 901.678.8888.
+ 
+Regards,
+Robert
+ 
+			
+
+	
+		Bookmark the permalink .
+			
+
+
+					
+		Post navigation
+
+	
+		← Previous		
+	
+	
+	
+					
+	
+	
+	
+	
+					
+			Leave a Reply Cancel reply				
+					Your email address will not be published. Required fields are marked * Comment Name * 
+Email * 
+Website 
+ 
+
+
+
+	
+	
+	Notify me of followup comments via e-mail
+	
+
+
+				
+					
+		
+
+
+			
+         
+
+        		
+        
+        	            
+            
+				                
+                 
+                   
+                                                			
+            
+			
+				
+					Search for:
+					
+					
+				
+							Recent Posts		
+					
+				The University of Memphis Boosts Cybersecurity with Duo
+						
+					
+				Welcome!  An Important Message about IT Services and Security
+						
+					
+				ITS Service Catalog
+						
+					
+				ITS Strategic Planning
+						
+					
+				Ransomware
+						
+				
+				Archives		
+			October 2016
+	August 2016
+	March 2016
+	February 2016
+	January 2016
+	December 2015
+	November 2015
+	October 2015
+	August 2015
+	July 2015
+	June 2015
+	April 2015
+	March 2015
+	January 2015
+	December 2014
+	November 2014
+	September 2014
+	August 2014
+	July 2014
+	June 2014
+	May 2014
+	April 2014
+	March 2014
+	February 2014
+	January 2014
+	December 2013
+	November 2013
+	October 2013
+	September 2013
+	August 2013
+		
+		Categories		
+	Uncategorized
+
+		
+Meta			
+						Log in
+			Entries RSS
+			Comments RSS
+			blogs.memphis.edu
+						
+		
+
+     
+        
+
+	
+		
+			
+			© Office of the CIO                        
+		
+	
+
+
+	
+	
+        
+
+        
+
+
+
+
+
+		
+							Skip to toolbar
+						
+				
+		University of Memphis
+		University Home		
+		Memphis Blogs		
+		Blogging Help				
+		Log In		
+		Search					
+					
+
+		
+
+http://blogs.memphis.edu/cio/2016/10/12/the-university-of-memphis-boosts-cybersecurity-with-duo/

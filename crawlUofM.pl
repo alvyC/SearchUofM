@@ -22,7 +22,7 @@ my %stopWordHash;                                             # hash for stop wo
 my $totalDocument;                                            # total # of web documents stored
 my @fileList;                                                 # it has name of all the preprocessed files/ documents
 my %invertedIndex;                                            # word to document matrix
-my $maxNoOfWebDocs = 7000;                                     # maximum number of documents that will be crawled by the crawler
+my $maxNoOfWebDocs = 5000;                                     # maximum number of documents that will be crawled by the crawler
 
 &crawlBaseUrl($baseUrl);
 &initStopWordHash;

@@ -1,0 +1,92 @@
+http://blogs.memphis.edu/provost/wp-login.php?redirect_to=http%3A%2F%2Fblogs.memphis.edu%2Fprovost&action=shibboleth
+=======================================================================================
+
+
+  	
+		
+    		
+		
+		
+    		
+    		
+                
+  	
+  	
+
+
+
+
+
+   
+
+        
+
+	
+	
+
+	
+	
+
+
+      
+		
+         
+
+          
+
+	     
+                
+	     
+
+          
+            
+
+                                                                        
+                  Login to UM Blogs
+                
+              
+              
+                UUID
+                
+              
+
+              
+                Password
+                
+              
+
+              
+                Login
+              
+            
+          
+          
+            
+              › Forgot your username?
+              › Reset your password?
+              › Initialize your account?
+              › Need help?
+            
+          
+
+          
+
+		
+			By using this service, you acknowledge that you have read and agree to the terms and conditions of the Acceptable Use of Information Technology Resources Policy ( UM1535 )
+		 
+
+          
+
+       
+
+    
+
+ 
+
+	
+    			Need help?  Contact the ITS Service Desk: (901) 678-8888
+	
+
+	
+
+http://blogs.memphis.edu/provost/wp-login.php?redirect_to=http%3A%2F%2Fblogs.memphis.edu%2Fprovost&action=shibboleth

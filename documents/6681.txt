@@ -1,0 +1,243 @@
+https://umdrive.memphis.edu/jlwllm17/www/John%20L%20Williams.htm
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+John
+L. Williams
+
+Professor
+
+Department of Biomedical Engineering 
+
+University of Memphis
+
+
+
+
+
+
+
+E-mail:
+john.williams@memphis.edu
+Mail: University of Memphis
+Department of Biomedical Engineering
+330 Engineering Technology Building
+Memphis, TN 38152-3210
+Voice: (901) 678-5485
+Fax: (901) 678-5281
+
+
+
+
+
+
+
+Research Interests
+
+My
+current research interests include biophysical properties of bone and
+cartilage, musculoskeletal and dental biomechanics, kinematic and kinetic
+analysis of human motion and
+computational biomechanical modeling.
+
+Recent
+publications:
+
+Sanford BA, Williams JL, Huffman KD, Zucker-Levin
+AR, Mihalko WM: Tibiofemoral Rotation During
+Sit-to-Stand Activity After TKA. Orthopedics. 2016; 39(3):S43-S46.
+
+Gao J, Roan E, Williams JL: Regional Variations in Growth Plate Chondrocyte
+Deformation as Predicted By Three-Dimensional Multi-Scale Simulations. PLoS ONE (2015) 10(4): e0124862.
+doi:10.1371/journal.pone.0124862 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0124862
+
+Huffman KD, Sanford BA, Williams JL, Zucker-Levin
+AR, Mihalko WM: Increased Hip Abduction in High Body
+Mass Index Subjects in Sit-to-Stand. Gait & posture, 41(2), 640-645, 2015. http://dx.doi.org/10.1016/j.gaitpost.2015.01.014
+
+Mihalko WM, Hebert CT, Woodard E, Crockarell J, Williams JL: Biomechanical Validation of
+Medial Pie Crusting for Soft-Tissue Balancing in Knee Arthroplasty. J. Arthroplasty , 2015 http://dx.doi.org/10.1016/j.arth.2014.09.005 .
+
+Gao J, Williams JL, Roan E:
+On the state of stress in the growth plate under physiologic compressive
+loading. Open Journal of Biophysics ,
+4, 13-21, 2014, http://dx.doi.org/10.4236/ojbiphy.2014.41003 .
+
+Sanford BA, Williams JL, Zucker-Levin, AR, Mihalko
+WM: Hip, knee and ankle joint forces in healthy weight, overweight and obese
+individuals during walking. In: Computational
+Biomechanics for Medicine - Fundamental Science and Patient-specific
+Applications . Doyle B, Miller, K, Wittek A, Nielsen PMF (Eds.) Springer NY,
+ISBN 978-1-4939-0744-1, pp. 101-111. May 2014. Springer Best Paper Award.
+
+Goodhart J.M, Cooper JO, Smith RA, Williams JL, Haggard WO, Bumgardner JD: Design
+and Validation of a Cyclic Strain Bioreactor to Condition Spatially-Selective
+Scaffolds in Dual Strain Regimes. Processes
+2:345-360, 2014. http://dx.doi.org/10.3390/pr2020345 .
+
+Sanford BA, Williams JL, Zucker-Levin, AR, Mihalko WM: Tibiofemoral joint forces during the stance
+phase of gait after ACL reconstruction. Open
+Journal of Biophysics , 3, 277-284, 2013 http://dx.doi.org/10.4236/ojbiphy.2013.34033 .
+
+Williams JL, Gomaa ST: Using multibody dynamics to design total
+knee replacement implants. In: Computational Biomechanics for Medicine –
+Models, Algorithms and Implementation . Eds. Wittek A, Miller K, Nielsen
+PMF. Springer. ISBN 978-1-4614-6350-4, May, 2013.
+
+Mihalko
+WM, Conner DJ, Benner R, Williams JL: How Does TKA
+Kinematics Vary With Transverse Plane Alignment Changes in a Contemporary
+Implant? Clin Orthop Relat Re s 470:186–192, 2012.
+
+Sanford
+BA, Zucker-Levin AR, Williams JL, Mihalko WM, Jacobs EL: Principal
+component analysis of knee kinematics and kinetics after anterior cruciate
+ligament reconstruction. Gait &
+Posture. 2012 Jul ;36 (3):609-13. Epub 2012 Jul 6.
+
+Mihalko
+WM, Williams JL: Total knee arthroplasty kinematics may be assessed using
+computer modeling: a feasibility study. Orthopedics ; 35(10):40-4, 10/2012 ( PDF ).
+
+ 
+
+Other publications
+
+Courses Taught
+
+
+ BIOM
+     2810 : Introduction to Biomechanics and Mechanics of Materials
+ BIOM
+     4760 : Biomedical Engineering
+     Design Principles
+ BIOM
+     4/6150 : Engineering Design Tools for Medical Devices
+
+
+Recent
+Student Theses and Dissertations
+
+·         
+Huffman, Kyle D: Kinematics and
+Kinetics of Sit-to-Stand Activity in Normal and High BMI Subjects. MS Thesis, Dept Biomedical Engineering, 2014 ( PDF )
+
+·         
+Palumbo, Tyler R: Static and
+Dynamic Postural Stability of High BMI Subjects during Single Leg Stance and
+Stair Descent, MS Thesis, Dept Biomedical
+Engineering, 2014.
+
+·         
+Sanford, Brooke A: An Assessment of Tibiofemoral
+Kinematics and Kinetics Following Anterior Cruciate Ligament Reconstruction, PhD
+Dissertation, Dept Biomedical Engineering, 2013 ( PDF )
+
+·         
+Conner, Devin J: Using
+Computer Assisted Tomography to Acquire More Detailed Subject Specific
+Information for Kinematic Analysis , MS Thesis, Dept
+Biomedical Engineering, 2012 ( PDF )
+
+·         
+Knox, David Alderson: Correlation Between Computed Contact
+Parameters and Wear Patterns on a Retrieved UHMWPE Tibial Insert , MS Thesis, Dept Biomedical Engineering,
+2011 ( PDF )
+
+·         
+Connor, John M: Experimental Kinematic Analysis of Cadaver Knees Using a Knee Simulator
+and Surgical Navigation System , 2011 ( PDF )
+
+Professional Associations/Involvements
+
+
+ American
+     Society of Mechanical Engineers (ASME)
+ Orthopaedic
+     Research Society (ORS)
+ Journal
+     of Prosthodontics       Member
+     Editorial Review Board
+ Advances
+     in Biomechanics and Applications (ABA)     Member
+     Editorial Board
+
+
+ 
+
+Patents:
+
+•         US7981159B2 Issued: July 19, 2011; EP
+2145605B1. Issued Sept 9, 2011; JP5410181B2 Issued Feb 5, 2014; CN101627930B
+Issued June 6 2014, AU2009202848B2 Issued Aug 20, 2015.
+
+•         US8187335B2 Issued: May 29, 2012;
+CN101683290B Issued Sept 11, 2013; JP5442333B2 Issued March 12, 2014;
+EP2149353B1 Issued March 4, 2015; AU2009202626B8 Issued July 9, 2015.
+
+•         US8202323B2 Issued: June 19, 2012;
+JP5512178B2 Issued June 4, 2014; EP2145606B1 Issued Feb 25, 2015;
+AU2009202847B2 Issued Aug 6, 2015; CN101664347B Issued Aug 19, 2015.
+
+•         US8192498B2 Issued: June 5, 2012;
+CN101669844B Issued March 26, 2014; JP5631561B2 Issued Nov 26, 2014; EP 2147660
+B1 Issued: Feb 24, 2016.
+
+•         US8236061B2 Issued: August 7, 2012;
+EP2324798B1. Issued: Aug 22, 2012; CN 101642394B Issued April 9, 2014;
+JP5465476B2 Issued April 9, 2014; AU2009202631B2 Issued July 16, 2015.
+
+•         US8828086B2 Issued Sept 9, 2014;
+CN101675901B Issued April 30, 2014; JP5547915B2 Issued July 16, 2014;
+EP2450009B1 Issued July 22, 2015; AU2009202634B2 Issued August 6, 2015.
+
+•         US8834575B2 Issued Sept 16, 2014;
+CN101683290B Issued Sept 11, 2013; AU 2009202626 B8 Issued July 30, 2015.
+
+•         US8784496B2 Issued July 22, 2014;
+CN101669844B Issued March 26, 2014.
+
+•         US8795380B2 Issued Aug 5, 2014;
+EP2140839B1 Issued: Nov 16, 2011; EP2324798B1 Issued Aug 22, 2012; CN101642394B
+Issued April 9, 2014; JP5465476B2 Issued April 9, 2014; AU2009202631 B2 Issued
+July 16, 2015.
+
+•         US9220601B2 Issued Dec 29, 2015;
+CN101675901B issued April 30, 2014; EP2450009B1 Issued July 22, 2015.
+
+•         AU 2009202632 B2 Granted Nov 5, 2015.
+
+•         EP 2158878 B1 Issued April 13, 2016.
+
+•         US 9326864 Issued May 3, 2016.
+
+Page
+last updated 1 June 2016
+
+ 
+
+
+
+
+
+
+https://umdrive.memphis.edu/jlwllm17/www/John%20L%20Williams.htm

@@ -1,0 +1,16344 @@
+http://bf.memphis.edu/spectrum/codes.php
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+ 
+
+
+Print Version
+
+
+
+
+
+
+
+
+
+FOAPALs
+
+search by index
+search by fund
+search by organization
+search by program
+search by activity
+search by multiple fields
+search by orgn title
+search by index title
+
+SIGNATURES
+
+signatures by org
+signatures by name
+approval queues by org
+approval queues by name
+
+EQUIPMENT REPS
+
+  assign equipment reps
+  view equipment reps
+  fixed asset workflow help
+
+CODES
+
+account code list
+rule code list
+location code search
+program code list
+data standards manual
+
+TRAINING
+
+learning curve
+
+
+UTILITIES & REPORTS
+
+budget overexpenditures
+e~Print
+
+FORMS
+
+accounting 
+budget 
+direct deposit 
+procurement 
+system access
+
+
+HR PROGRAM GUIDE
+TIGERBUY WEB SITE
+
+
+
+
+
+
+
+
+
+Banner Finance Account Code Lists
+             Expand All
+             Collapse All
+             Export to Excel
+          10000
+					CODE
+					TITLE
+					AP
+					ATC
+					AP
+					DE
+					NB
+					CA
+					
+					110
+					Cash and Cash Equivalents
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					1100
+					Claim on Cash
+					110
+					11
+					 
+					N
+					D
+					 
+					
+					11000
+					Claim on Cash
+					1100
+					11
+					 
+					N
+					D
+					 
+					
+					11001
+					Cash in Bank General Operation
+					1100
+					11
+					 
+					Y
+					D
+					 
+					
+					11002
+					Cash in Bank UOM Disbursement
+					1100
+					11
+					 
+					Y
+					D
+					 
+					
+					11003
+					Cash in Bank Bursar Disbursement
+					1100
+					11
+					 
+					Y
+					D
+					 
+					
+					11004
+					Cash in Bank Payroll
+					1100
+					11
+					 
+					Y
+					D
+					 
+					
+					11005
+					Cash in Bank - Bursar Clearing
+					1100
+					11
+					 
+					Y
+					D
+					 
+					
+					11006
+					Cash in Bank Touchnet
+					1100
+					11
+					 
+					Y
+					D
+					 
+					
+					11099
+					Cash in Bank-UofM Disb FRS account
+					1100
+					11
+					 
+					Y
+					D
+					 
+					
+					1120
+					Cash in Savings
+					110
+					11
+					 
+					N
+					D
+					 
+					
+					11200
+					Cash in Savings
+					1120
+					11
+					 
+					Y
+					D
+					 
+					
+					1130
+					Petty Cash and Change Funds
+					110
+					11
+					 
+					N
+					D
+					 
+					
+					11300
+					Petty Cash Bursar
+					1130
+					11
+					 
+					Y
+					D
+					 
+					
+					11301
+					Petty Cash Fund 1
+					1130
+					11
+					 
+					Y
+					D
+					 
+					
+					11302
+					Petty Cash Fund 2
+					1130
+					11
+					 
+					Y
+					D
+					 
+					
+					11303
+					Petty Cash Fund 3
+					1130
+					11
+					 
+					Y
+					D
+					 
+					
+					1140
+					Cash on Deposit With Others
+					110
+					11
+					 
+					N
+					D
+					 
+					
+					11400
+					Cash on Deposit With St Treasurer
+					1140
+					11
+					 
+					Y
+					D
+					 
+					
+					11401
+					Cash on Deposit With TSSBA
+					1140
+					11
+					 
+					Y
+					D
+					 
+					
+					1150
+					Local Government Investment Pool
+					110
+					11
+					 
+					N
+					D
+					 
+					
+					11500
+					Local Government Investment Pool
+					1150
+					11
+					 
+					Y
+					D
+					 
+					
+					1190
+					Other Cash
+					110
+					11
+					 
+					N
+					D
+					 
+					
+					11900
+					Other Cash
+					1190
+					11
+					 
+					Y
+					D
+					 
+					
+					11A
+					Noncurrent Cash and Cash Equivalent
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					11B
+					Deposit with Trustees
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					120
+					Investments
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					1200
+					US Government Securities
+					120
+					11
+					 
+					N
+					D
+					 
+					
+					12000
+					US Government Securities
+					1200
+					11
+					 
+					Y
+					D
+					 
+					
+					1210
+					Corporate Stocks
+					120
+					11
+					 
+					N
+					D
+					 
+					
+					12100
+					Corporate Stocks
+					1210
+					11
+					 
+					Y
+					D
+					 
+					
+					1220
+					Corporate Bonds
+					120
+					11
+					 
+					N
+					D
+					 
+					
+					12200
+					Corporate Bonds
+					1220
+					11
+					 
+					Y
+					D
+					 
+					
+					1240
+					Commercial Paper
+					120
+					11
+					 
+					N
+					D
+					 
+					
+					12400
+					Commercial Paper
+					1240
+					11
+					 
+					Y
+					D
+					 
+					
+					12401
+					Commercial Paper Cash Eq
+					1240
+					11
+					 
+					Y
+					D
+					 
+					
+					1250
+					Equity Mutual Funds
+					120
+					11
+					 
+					N
+					D
+					 
+					
+					12500
+					Equity Mutual Funds
+					1250
+					11
+					 
+					Y
+					D
+					 
+					
+					1260
+					Bond Mutual Funds 
+					120
+					11
+					 
+					N
+					D
+					 
+					
+					12600
+					Bond Mutual Funds 
+					1260
+					11
+					 
+					Y
+					D
+					 
+					
+					1270
+					Certificates of Deposit
+					120
+					11
+					 
+					N
+					D
+					 
+					
+					12700
+					Certificates of Deposit
+					1270
+					11
+					 
+					Y
+					D
+					 
+					
+					1290
+					Other Investments
+					120
+					11
+					 
+					N
+					D
+					 
+					
+					12900
+					Other Investments
+					1290
+					11
+					 
+					Y
+					D
+					 
+					
+					12A
+					Noncurrent Investments
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					130
+					Receivables
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					1300
+					Appropriation Receivable
+					130
+					11
+					 
+					N
+					D
+					 
+					
+					13000
+					Appropriation Receivable
+					1300
+					11
+					 
+					Y
+					D
+					 
+					
+					13001
+					Due from Primary Government
+					1300
+					11
+					 
+					Y
+					D
+					 
+					
+					13002
+					Due from UOM Foundation
+					1300
+					11
+					 
+					Y
+					D
+					 
+					
+					1310
+					Notes Receivable
+					130
+					11
+					 
+					N
+					D
+					 
+					
+					13100
+					Notes Receivable
+					1310
+					11
+					 
+					Y
+					D
+					 
+					
+					1320
+					Student Receivables 
+					130
+					11
+					 
+					N
+					D
+					 
+					
+					13200
+					Student Receivables 
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13201
+					AR Regist Prior Yrs
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13202
+					AR Regis Summer
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13203
+					AR Regis Fall
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13204
+					AR Regis Spring
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13205
+					AR Other Student Fees
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13206
+					AR Def Registration
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13207
+					AR Returned Checks
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13208
+					AR Returned Ck Fine
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13209
+					AR Library Fines
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13210
+					AR PO Box Rent Res
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13211
+					AR Bookstore 3rd Party
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13212
+					AR Fogelman MBA Prog
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13213
+					AR Written Off
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13214
+					Fed Title IV Student Aid
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13215
+					Title IV Dept Education
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13216
+					AR PC191 UM Employee
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13217
+					AR Employee DiscUM
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13218
+					AR Employee DiscOther
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13219
+					AR Employe Disc UT
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13220
+					AR Direct Loan DOE
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13221
+					AR Staff Scholarship
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13222
+					AR Child Care
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13223
+					AR Penalties
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13224
+					AR Executive MSN Program Fee
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13225
+					AR Study Abroad
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13226
+					AR Dining-Vending Spending Plan
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					13227
+					AR Bookstore Financial Aid
+					1320
+					11
+					 
+					Y
+					D
+					 
+					
+					1330
+					Non Student Receivables
+					130
+					11
+					 
+					N
+					D
+					 
+					
+					13300
+					Non Student Receivables
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13301
+					AR Fedex Institute
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13302
+					AR Employee Nonbilled
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13303
+					AR Manual Checks Pr
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13304
+					AR Other A Billed
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13305
+					AR Salary Overpayments
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13306
+					AR Wilson Conference Center Group
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13307
+					AR Continuing Education
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13308
+					AR Internships
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13309
+					AR Neuropsych Lab
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13310
+					AR Law Review
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13311
+					AR Children School
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13312
+					AR Helmsman
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13313
+					AR Psychological Service Center
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13314
+					AR Speech and Hearing Center
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					13315
+					AR Cobra Subsidy
+					1330
+					11
+					 
+					Y
+					D
+					 
+					
+					1340
+					Grant and Contract Receivables
+					130
+					11
+					 
+					N
+					D
+					 
+					
+					13400
+					Grant and Contract Receivables
+					1340
+					11
+					 
+					Y
+					D
+					 
+					
+					13401
+					UMF Grant and Contract Receivables
+					1340
+					11
+					 
+					Y
+					D
+					 
+					
+					13402
+					UMRF Grant and Contract Receivables
+					1340
+					11
+					 
+					Y
+					D
+					 
+					
+					13420
+					Grant and Contract Rcvb Unbilled
+					1340
+					11
+					 
+					Y
+					D
+					 
+					
+					13421
+					UMF Grant & Contract Rcvb Unbilled
+					1340
+					11
+					 
+					Y
+					D
+					 
+					
+					13422
+					UMRF Grant & Contract Rcvb Unbilled
+					1340
+					11
+					 
+					Y
+					D
+					 
+					
+					13430
+					Grant and Contract Rcvb Billed
+					1340
+					11
+					 
+					Y
+					D
+					 
+					
+					13431
+					UMF Grant and Contract Rcvb Billed
+					1340
+					11
+					 
+					Y
+					D
+					 
+					
+					13432
+					UMRF Grant and Contract Rcvb Billed
+					1340
+					11
+					 
+					Y
+					D
+					 
+					
+					13499
+					Grant and Contract Rcvb FRS Conv
+					1340
+					11
+					 
+					Y
+					D
+					 
+					
+					1350
+					Travel Advances Receivables
+					130
+					11
+					 
+					N
+					D
+					 
+					
+					13500
+					Travel Advances Receivables
+					1350
+					11
+					 
+					Y
+					D
+					 
+					
+					1380
+					Other Receivables
+					130
+					11
+					 
+					N
+					D
+					 
+					
+					13800
+					Other Receivables
+					1380
+					11
+					 
+					Y
+					D
+					 
+					
+					13810
+					Supply Advances Receivables
+					1380
+					11
+					 
+					Y
+					D
+					 
+					
+					13820
+					Rents Receivables
+					1380
+					11
+					 
+					Y
+					D
+					 
+					
+					13830
+					New Faculty Emergency Receivable
+					1380
+					11
+					 
+					Y
+					D
+					 
+					
+					1390
+					Allowance for Doubtful Accounts
+					130
+					11
+					 
+					N
+					C
+					 
+					
+					13900
+					Allowance for Doubtful Accounts
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13901
+					Allowance Registration Prior Yrs
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13902
+					Registration Fees - Current Year
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13905
+					Allowance Deferred Registration
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13906
+					Allowance Returned Checks
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13907
+					Allowance Returned Ck Fine
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13908
+					Allowance Other Student Fees
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13909
+					Allowance Library Fines
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13910
+					Allowance PO Box Rent Res
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13911
+					Allowance Bookstore 3rd Party
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13912
+					Allowance Fogelman MBA Prog
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13913
+					Allowance Fedex Institute
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13914
+					Allowance Other A Billed
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13915
+					Allowance Salary Overpayments
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13916
+					Allowance Wilson Conf Center
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13917
+					Allowance Continuing Education
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13918
+					Allowance Internships
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13919
+					Allowance Neuropsych Lab
+					1390
+					11
+					 
+					Y
+					C
+					 
+					
+					13A
+					Noncurrent Receivables
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					140
+					Loan Receivables
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					1400
+					Loan Receivables
+					140
+					11
+					 
+					N
+					D
+					 
+					
+					14000
+					Loan Receivables
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14110
+					Loan Receivable Advances
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14120
+					Principal Receivable
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14150
+					Loans Receivable Nursing
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14170
+					Perkins Deferred 40 pct Adjusted
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14180
+					Perkins Assigned to US Dept of Ed
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14181
+					Perkins Refunded to US Dept of Ed
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14210
+					Accrued Interest Receivable
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14310
+					Nursing 10 pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14320
+					Nursing 15 pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14330
+					Nursing 20 pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14360
+					Nursing Death Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14370
+					Nursing Disability Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14380
+					Nursing Bankruptcy Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14410
+					Defense Teaching 10pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14420
+					Defense Teaching 15pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14430
+					Defense Military 12pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14510
+					Perkins Teaching 15pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14520
+					Perkins Teaching 20pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14530
+					Perkins Teaching 30pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14540
+					Perkins Military 12pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14610
+					Perkins Death Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14620
+					Perkins Disability Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14630
+					Perkins Bankruptcy Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14640
+					Perkins Other Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14650
+					Perkins Law Enforcement 15pct Cncl
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14660
+					Perkins Law Enforcement 20pct Cncl
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14670
+					Perkins Law Enforcement 30pct Cncl
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14680
+					Perkins Military 12.5 pct Cancel
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14710
+					Perkins Med Tech 15pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14720
+					Perkins Med Tech 20pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14730
+					Perkins Med Tech 30pct Cancellation
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14740
+					Special Educ Teaching 15pct Cncl
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14750
+					Special Educ Teaching 20pct Cncl
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14760
+					Special Educ Teaching 30pct Cncl
+					1400
+					11
+					 
+					Y
+					D
+					 
+					
+					14990
+					Loan Allowance for Doubtful Account
+					1400
+					11
+					 
+					Y
+					C
+					 
+					
+					14991
+					Interest Allow for Doubtful Account
+					1400
+					11
+					 
+					Y
+					C
+					 
+					
+					150
+					Inventories
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					1500
+					Inventories
+					150
+					11
+					 
+					N
+					D
+					 
+					
+					15000
+					Inventories
+					1500
+					11
+					 
+					Y
+					D
+					 
+					
+					15010
+					Inv Stand By Oil Supply
+					1500
+					11
+					 
+					Y
+					D
+					 
+					
+					15020
+					Physical Plant
+					1500
+					11
+					 
+					Y
+					D
+					 
+					
+					155
+					Net Pension Asset
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					1550
+					Net Pension Asset
+					155
+					11
+					 
+					N
+					D
+					 
+					
+					15500
+					Net Pension Asset
+					1550
+					11
+					 
+					Y
+					D
+					 
+					
+					160
+					Prepaid Exp and Deferred Charges
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					1600
+					Prepaid Expense 
+					160
+					11
+					 
+					N
+					D
+					 
+					
+					16000
+					Prepaid Expense 
+					1600
+					11
+					 
+					Y
+					D
+					 
+					
+					16010
+					MCO Travelennium
+					1600
+					11
+					 
+					Y
+					D
+					 
+					
+					16020
+					Prepaid Expense Other
+					1600
+					11
+					 
+					Y
+					D
+					 
+					
+					16030
+					Restricted Prepaid
+					1600
+					11
+					 
+					Y
+					D
+					 
+					
+					16040
+					Deposits with Others
+					1600
+					11
+					 
+					Y
+					D
+					 
+					
+					1640
+					Suspense
+					160
+					11
+					 
+					N
+					D
+					 
+					
+					16400
+					Suspense
+					1640
+					11
+					 
+					Y
+					D
+					 
+					
+					16401
+					Suspense Development
+					1640
+					11
+					 
+					Y
+					D
+					 
+					
+					16402
+					One Time Payment Suspense
+					1640
+					11
+					 
+					Y
+					D
+					 
+					
+					16403
+					Benefits and Deductions Suspense
+					1640
+					11
+					 
+					Y
+					D
+					 
+					
+					1650
+					Clearing Accounts
+					160
+					11
+					 
+					N
+					D
+					 
+					
+					16500
+					Unapplied Payments Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16501
+					Payroll Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16502
+					Undistributed Salary Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16503
+					3rd Party Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16504
+					Cash Reimbursement Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16505
+					Returned Check Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16506
+					Cash Net AR Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16507
+					Student Services Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16508
+					Athletic Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16509
+					Installment Payment Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16510
+					Cash Net Payment Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16511
+					Travel Advance Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16512
+					Travel Reimbursement Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16513
+					FRS Conversion Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16514
+					Tiger Club Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16515
+					Annual Fund Gift Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16516
+					Campus Recreation Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16517
+					University Parking Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16518
+					Advancement Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16519
+					Alternative Loan Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16520
+					Unapplied Financial Aid Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16521
+					Bursar AP Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16522
+					Bursar AR Refunds
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16523
+					Touchnet Payment Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16524
+					AR Conversion Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16525
+					Deposit Payable Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16526
+					Fringe Benefits Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16527
+					Supply Advance Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16528
+					Supply Reimbursement Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16529
+					911 Credit Card Payment
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16530
+					TCS POP/ARC Checks Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16531
+					902 Web Credit Card Pmt Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16532
+					Web Check Payment Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16533
+					903 Marketplace Charge Pmt Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16534
+					Marketplace Check Payment Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16535
+					Admissions Check Payment Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16536
+					New Employee AR Payment Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16537
+					Speech and Hearing Center Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16550
+					HHS Letter Of Credit
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16551
+					NSF Letter Of Credit
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16552
+					ED Letter Of Credit
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16553
+					USGS Ltr Of Credit
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16554
+					NARC Letter Of Cred
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16555
+					DOE Letter Of Credit
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16556
+					NGSC Letter Credit
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16557
+					Invoice Clearing Account
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16558
+					Misc Adjustment Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16559
+					GA Waiver Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16560
+					TBR UT Dependent Waiver Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16561
+					Unidentified Traffic Fines
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16562
+					Internship Clearing
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					16599
+					Banner Grants Conversion
+					1650
+					11
+					 
+					Y
+					D
+					 
+					
+					1660
+					Default Accounts
+					160
+					11
+					 
+					N
+					D
+					 
+					
+					16600
+					Default Accounts
+					1660
+					11
+					 
+					Y
+					D
+					 
+					
+					1690
+					Other
+					160
+					11
+					 
+					N
+					D
+					 
+					
+					16900
+					Other
+					1690
+					11
+					 
+					Y
+					D
+					 
+					
+					170
+					Pledges Receivable
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					1700
+					Pledges Receivable
+					170
+					11
+					 
+					N
+					D
+					 
+					
+					17000
+					Pledges Receivable
+					1700
+					11
+					 
+					Y
+					D
+					 
+					
+					17050
+					Pledges Allow for Doubtful Account
+					1700
+					11
+					 
+					Y
+					C
+					 
+					
+					171
+					Capital Assets
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					1710
+					Land
+					171
+					11
+					 
+					N
+					D
+					 
+					
+					17100
+					Land
+					1710
+					11
+					 
+					Y
+					D
+					 
+					
+					1720
+					Improvements and Infrastructure
+					171
+					11
+					 
+					N
+					D
+					 
+					
+					17200
+					Improvements and Infrastructure
+					1720
+					11
+					 
+					Y
+					D
+					 
+					
+					1729
+					Accum Depre for Improve and Infras
+					171
+					11
+					 
+					N
+					C
+					 
+					
+					17299
+					Accum Depre for Improve and Infras
+					1729
+					11
+					 
+					Y
+					C
+					 
+					
+					1730
+					Buildings
+					171
+					11
+					 
+					N
+					D
+					 
+					
+					17300
+					Buildings
+					1730
+					11
+					 
+					Y
+					D
+					 
+					
+					1739
+					Accum Depreciation for Buildings
+					171
+					11
+					 
+					N
+					C
+					 
+					
+					17399
+					Accum Depreciation for Buildings
+					1739
+					11
+					 
+					Y
+					C
+					 
+					
+					1740
+					Equipment
+					171
+					11
+					 
+					N
+					D
+					 
+					
+					17400
+					Equipment
+					1740
+					11
+					 
+					Y
+					D
+					 
+					
+					1749
+					Accum Depreciation for Equipment
+					171
+					11
+					 
+					N
+					C
+					 
+					
+					17499
+					Accum Depreciation for Equipment
+					1749
+					11
+					 
+					Y
+					C
+					 
+					
+					1750
+					Library Holdings
+					171
+					11
+					 
+					N
+					D
+					 
+					
+					17500
+					Library Holdings
+					1750
+					11
+					 
+					Y
+					D
+					 
+					
+					1759
+					Accum Depre for Library Holdings
+					171
+					11
+					 
+					N
+					C
+					 
+					
+					17599
+					Accum Depre for Library Holdings
+					1759
+					11
+					 
+					Y
+					C
+					 
+					
+					1760
+					Intangible Assets
+					171
+					11
+					 
+					N
+					D
+					 
+					
+					17600
+					Intangible Assets
+					1760
+					11
+					 
+					Y
+					D
+					 
+					
+					1769
+					Accum Amortization for Software
+					171
+					11
+					 
+					N
+					C
+					 
+					
+					17699
+					Accum Amortization for Software
+					1769
+					11
+					 
+					Y
+					C
+					 
+					
+					1770
+					Construction in Progress
+					171
+					11
+					 
+					N
+					D
+					 
+					
+					17700
+					Construction in Progress
+					1770
+					11
+					 
+					Y
+					D
+					 
+					
+					1780
+					Works of Art and similar assets
+					171
+					11
+					 
+					N
+					D
+					 
+					
+					17800
+					Works of Art and similar assets
+					1780
+					11
+					 
+					Y
+					D
+					 
+					
+					1789
+					Accum Depr for Works of Art
+					171
+					11
+					 
+					N
+					C
+					 
+					
+					17899
+					Accum Depr for Works of Art
+					1789
+					11
+					 
+					Y
+					C
+					 
+					
+					17A
+					Noncurrent Pledges Receivable
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					180
+					Other Assets
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					1800
+					Other Assets
+					180
+					11
+					 
+					N
+					D
+					 
+					
+					18000
+					Other Assets
+					1800
+					11
+					 
+					Y
+					D
+					 
+					
+					18100
+					On Deposit With State
+					1800
+					11
+					 
+					Y
+					D
+					 
+					
+					18200
+					On Deposit With TSSBA
+					1800
+					11
+					 
+					Y
+					D
+					 
+					
+					18300
+					On Deposit With Other
+					1800
+					11
+					 
+					Y
+					D
+					 
+					
+					18A
+					Noncurrent Other Assets
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					190
+					Accrued Interest Receivable
+					 
+					11
+					 
+					N
+					D
+					 
+					
+					1900
+					Accrued Interest Receivable
+					190
+					11
+					 
+					N
+					D
+					 
+					
+					19000
+					Accrued Interest Receivable
+					1900
+					11
+					 
+					Y
+					D
+					 
+					
+					19001
+					Other Accrued Receivable
+					1900
+					11
+					 
+					Y
+					D
+					 
+					
+					19009
+					YE Accrued Receivables
+					1900
+					11
+					 
+					Y
+					D
+					 
+					
+					1910
+					Acc Decr in FV of Hedge Derivative
+					19A
+					12
+					 
+					N
+					D
+					 
+					
+					19100
+					Acc Decr in FV of Hedge Derivative
+					1910
+					12
+					 
+					Y
+					D
+					 
+					
+					1920
+					Deferred Loss on Debt Refunding
+					19B
+					12
+					 
+					N
+					D
+					 
+					
+					19200
+					Deferred Loss on Debt Refunding
+					1920
+					12
+					 
+					Y
+					D
+					 
+					
+					1930
+					Othr Deferred Outflows of Resources
+					19C
+					12
+					 
+					N
+					D
+					 
+					
+					19300
+					Othr Deferred Outflows of Resources
+					1930
+					12
+					 
+					Y
+					D
+					 
+					
+					1940
+					Deferred Outflow related to pension
+					19D
+					12
+					 
+					N
+					D
+					 
+					
+					19400
+					Deferred Outflow related to pension
+					1940
+					12
+					 
+					Y
+					D
+					 
+					
+					19A
+					Acc Decr in FV of Hedge Derivative
+					 
+					12
+					 
+					N
+					D
+					 
+					
+					19B
+					Deferred Loss on Debt Refunding
+					 
+					12
+					 
+					N
+					D
+					 
+					
+					19C
+					Othr Deferred Outflows of Resources
+					 
+					12
+					 
+					N
+					D
+					 
+					
+					19D
+					Deferred Outflow related to pension
+					 
+					12
+					 
+					N
+					D
+					 
+					20000
+					CODE
+					TITLE
+					AP
+					ATC
+					AP
+					DE
+					NB
+					CA
+					
+					210
+					Accounts Payable
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2100
+					Accounts Payable
+					210
+					21
+					 
+					N
+					C
+					 
+					
+					21000
+					AP Vendors
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					21010
+					AP Staples
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					21020
+					AP Regions Bank
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					21030
+					AP WH Tax
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					21040
+					AP Unclaimed Check
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					21050
+					AP Unclaimed Payroll Checks
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					21060
+					Alien Student Fin Aid WH
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					21070
+					AP Natl Student Exchange Prog
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					21080
+					AP Acc Pers Svcs
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					21090
+					AP Parcel Post
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					21100
+					Prior Year Accounts Payable
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					21200
+					Sales Tax Payable
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					21300
+					Other Payable
+					2100
+					21
+					 
+					Y
+					C
+					 
+					
+					220
+					Accrued Liabilities
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2200
+					Payroll Withholdings
+					220
+					21
+					 
+					N
+					C
+					 
+					
+					22000
+					AP Social Security
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22010
+					AP FICA Medicare
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22020
+					AP Withholding Tax
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22030
+					FICA Match Tiaa
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22040
+					AP Med Fica
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22050
+					AP Group Insurance
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22053
+					Payflex HSA employee
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					22055
+					GA Church Health Center
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22060
+					AP Universal Life
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22070
+					Perma Plan
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22080
+					Optional Life & Accd
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22090
+					AP Dental Insurance
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22095
+					AP Vision Insurance
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22100
+					HMO Prucare
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22120
+					AP United Way
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22130
+					AP Amer Cancer Society
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22140
+					AP Community Health
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22150
+					AP Uncf
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22155
+					AP Tennessee Wildlife Federation
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22160
+					AP Tax Deferred Annuity
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22170
+					AP 401K Deferred Compensation
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22175
+					AP ROTH 401K
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22180
+					AP 457 Deferred Compensation
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22190
+					401K Loan Repayment
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22200
+					AP UOM Foundation
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22210
+					AP Garnishments
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22220
+					AP Matcu
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22230
+					AP TIAA Ltd Insurance
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22240
+					Provident Opt Term
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22250
+					ITT Hartford Ltd
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22260
+					AP Medical Exp Remb
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22261
+					A/P Med Exp Reimb-PayFlex
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22265
+					AP Dependent Daycare
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22266
+					A/P Dep Daycare Reimb-PayFlex
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22270
+					Medamerica Ltd Insurance
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22280
+					AP Cancer Insurance
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22290
+					AP US Savings Bonds
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22295
+					AP Books From Birth
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22296
+					AP American Heart Association
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22297
+					AP National Craniofacial Assoc
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22298
+					AP Change is Possible
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22299
+					AP You Have the Power
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22300
+					AP AAUP
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22301
+					AP Special Kids Inc
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22310
+					AP TSEA Dues
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22320
+					AP Best Prepaid Tuition
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22330
+					AP TIS Refunds
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22340
+					AP Employee Nonbilled
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22350
+					AP Retirement Match TIAA
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22360
+					AP Benefits No Charge
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					22370
+					AP Earned Income Credit
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22380
+					AP Community Shares
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22390
+					AP SAFE
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22395
+					AP State of TN Vision
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22400
+					AP Automatic Deposit Checking
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22410
+					AP Automatic Deposit Savings
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22420
+					AP TBCH Charity
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22430
+					Employee Contributions - TCRS
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22431
+					Employee Contributions - TIAA
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22432
+					Employee Contributions - Valic
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22433
+					Employee Contributions - Ing
+					2200
+					21
+					 
+					Y
+					C
+					 
+					
+					22A
+					Noncurrent Accrued Liabilities
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2300
+					Payroll Payable Employers Share
+					220
+					21
+					 
+					N
+					C
+					 
+					
+					23000
+					AP Social Security
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23010
+					AP FICA Medicare
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23020
+					Retire Match TIAA
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23030
+					Retire Match ING
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23040
+					Retire Match Valic
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23050
+					AP Group Insurance
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23053
+					Payflex HSA employer
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23055
+					GA Church Health Center - Employer
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23060
+					Retire Match TCRS
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23070
+					Benefits No Charge
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23080
+					AP 401K Match
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23090
+					AP Death Benefits
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23100
+					AP TIS Refunds
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23110
+					FICA Match-TIAA
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					23120
+					AP Dental Insurance
+					2300
+					21
+					 
+					Y
+					C
+					 
+					
+					2400
+					Accrued Payroll Salary
+					220
+					21
+					 
+					N
+					C
+					 
+					
+					24000
+					Accrued Payroll Salary
+					2400
+					21
+					 
+					Y
+					C
+					 
+					
+					24001
+					Accrued Payroll Salary Manual
+					2400
+					21
+					 
+					Y
+					C
+					 
+					
+					2420
+					Accrued Benefits
+					220
+					21
+					 
+					N
+					C
+					 
+					
+					24200
+					Accrued Benefits
+					2420
+					21
+					 
+					Y
+					C
+					 
+					
+					2430
+					Accrued Interest 
+					220
+					21
+					 
+					N
+					C
+					 
+					
+					24301
+					Accrued Interest
+					2430
+					21
+					 
+					Y
+					C
+					 
+					
+					2490
+					Other Accrued Liabilities
+					220
+					21
+					 
+					N
+					C
+					 
+					
+					24900
+					Other Accrued Liabilities
+					2490
+					21
+					 
+					Y
+					C
+					 
+					
+					250
+					Student Deposits
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2500
+					Student Deposits
+					250
+					21
+					 
+					N
+					C
+					 
+					
+					25000
+					Student Deposits
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25001
+					Art Inter Deposits
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25002
+					Adv Student Fees
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25003
+					Special Deposits
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25004
+					Miscellaneous Deposits
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25005
+					Key Deposit
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25006
+					Debit Card Deposits
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25007
+					Special Psy Deposits
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25008
+					Law School Seat Deposits
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25009
+					Learning Plus Test
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25010
+					Child Care Deposits
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25011
+					Tiger Funds Gift Card
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25012
+					Dual Enrollment Deposits
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25013
+					Dining Dollars
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					25014
+					Textbook Scholarship Deposit
+					2500
+					21
+					 
+					Y
+					C
+					 
+					
+					2540
+					Other Deposits
+					250
+					21
+					 
+					N
+					C
+					 
+					
+					25400
+					Deposits Payable
+					2540
+					21
+					 
+					Y
+					C
+					 
+					
+					260
+					Long Term Debt
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2600
+					Notes Payable
+					260
+					21
+					 
+					N
+					C
+					 
+					
+					26000
+					Notes Payable
+					2600
+					21
+					 
+					Y
+					C
+					 
+					
+					2610
+					Lease Payable
+					260
+					21
+					 
+					N
+					C
+					 
+					
+					26100
+					Lease Payable
+					2610
+					21
+					 
+					Y
+					C
+					 
+					
+					2620
+					Bonds Payable
+					260
+					21
+					 
+					N
+					C
+					 
+					
+					26200
+					Bonds Payable
+					2620
+					21
+					 
+					Y
+					C
+					 
+					
+					2630
+					Commercial Paper Payable
+					260
+					21
+					 
+					N
+					C
+					 
+					
+					26300
+					Commercial Paper Payable
+					2630
+					21
+					 
+					Y
+					C
+					 
+					
+					2640
+					Loans Payable
+					260
+					21
+					 
+					N
+					C
+					 
+					
+					26400
+					Loans Payable
+					2640
+					21
+					 
+					Y
+					C
+					 
+					
+					2650
+					Other Long Term Debt
+					260
+					21
+					 
+					N
+					C
+					 
+					
+					26500
+					Other Long Term Debt
+					2650
+					21
+					 
+					Y
+					C
+					 
+					
+					2660
+					Bond Premiums/Discounts
+					260
+					21
+					 
+					N
+					C
+					 
+					
+					26600
+					Bond Premiums/Discounts
+					2660
+					21
+					 
+					Y
+					C
+					 
+					
+					26A
+					Current Portion Long Term Debt
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					270
+					Due to Grantors
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2700
+					Due to Grantors
+					270
+					21
+					 
+					N
+					C
+					 
+					
+					27000
+					Due to Grantors
+					2700
+					21
+					 
+					Y
+					C
+					 
+					
+					271
+					Net Pension Liability
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2710
+					Net Pension Liability
+					271
+					21
+					 
+					N
+					C
+					 
+					
+					27100
+					Net Pension Liability
+					2710
+					21
+					 
+					Y
+					C
+					 
+					
+					275
+					Net Pension Liability
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2750
+					Net Pension Liability
+					275
+					21
+					 
+					N
+					C
+					 
+					
+					27A
+					Noncurrent Due to Grantors
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					280
+					Unearned Revenue
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2800
+					Unearned Revenue
+					280
+					21
+					 
+					N
+					C
+					 
+					
+					28000
+					Unearned Revenue
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28010
+					Unearn Rev Tax Season Ticket Sales
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28020
+					Unearned Rev Taxable Event Sales
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28030
+					Unearned Rev Sales Tax Paid
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28040
+					Unearned Rev Non-Taxable Parking
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28050
+					Unearned Non Taxable Misc Revenues
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28100
+					Def Rev-Undistributed Cash Receipts
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28110
+					Unearned Revenue - Fixed Fee
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28120
+					HHS Letter of Credit-Undist Receipt
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28130
+					NSF Letter of Credit-Undist Receipt
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28140
+					ED Letter of Credit-Undist Receipt
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28150
+					USGS Ltr of Credit-Undist Receipt
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28160
+					NARC Ltr of Credit-Undist Receipt
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28170
+					DOE Letter of Credit-Undist Receipt
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28180
+					NGSC Ltr of Credit-Undist Receipt
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28190
+					UofM Foundation-Undist Receipts
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28200
+					Unapplied Travel Payments
+					2800
+					21
+					 
+					Y
+					C
+					 
+					
+					28A
+					Noncurrent Unearned Revenue
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					290
+					Compensated Absences
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2900
+					Compensated Absences
+					290
+					21
+					 
+					N
+					C
+					 
+					
+					29000
+					Compensated Absences
+					2900
+					21
+					 
+					Y
+					C
+					 
+					
+					29100
+					Accrued Interest Payable
+					2A00
+					21
+					 
+					Y
+					C
+					 
+					
+					29200
+					Other Liabilities
+					2B00
+					21
+					 
+					Y
+					C
+					 
+					
+					29201
+					Accounts Payable Clearing
+					2B00
+					21
+					 
+					Y
+					C
+					 
+					
+					29202
+					Grant Payment Suspense
+					2B00
+					21
+					 
+					Y
+					C
+					 
+					
+					29203
+					Accrued OPEB Liability
+					2B00
+					21
+					 
+					Y
+					C
+					 
+					
+					29300
+					Deposits Held in Custody for Others
+					2C00
+					21
+					 
+					Y
+					C
+					 
+					
+					29A
+					Noncurrent Compensated Absences
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2A0
+					Accrued Interest Payable
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2A00
+					Accrued Interest Payable
+					2A0
+					21
+					 
+					N
+					C
+					 
+					
+					2B0
+					Other Liabilities
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2B00
+					Other Liabilities
+					2B0
+					21
+					 
+					N
+					C
+					 
+					
+					2BA
+					Noncurrent Other Liabilities
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2C0
+					Deposits Held in Custody for Others
+					 
+					21
+					 
+					N
+					C
+					 
+					
+					2C00
+					Deposits Held in Custody for Others
+					2C0
+					21
+					 
+					N
+					C
+					 
+					
+					29400
+					Accum Inc in FV of Hedge Derivative
+					2D00
+					22
+					 
+					Y
+					C
+					 
+					
+					29450
+					Deferred SCA Receipts
+					2E00
+					22
+					 
+					Y
+					C
+					 
+					
+					29500
+					Deferred Gain on Debt Refunding
+					2F00
+					22
+					 
+					Y
+					C
+					 
+					
+					29550
+					Deferred Nonexchange Recipts
+					2G00
+					22
+					 
+					Y
+					C
+					 
+					
+					29600
+					Other Deferred Inflows of Resources
+					2H00
+					22
+					 
+					Y
+					C
+					 
+					
+					29700
+					Deferred Inflows related to pension
+					2I00
+					22
+					 
+					Y
+					C
+					 
+					
+					2D0
+					Accum Inc in FV of Hedge Derivative
+					 
+					22
+					 
+					N
+					C
+					 
+					
+					2D00
+					Accum Inc in FV of Hedge Derivative
+					2D0
+					22
+					 
+					N
+					C
+					 
+					
+					2E0
+					Deferred SCA Receipts
+					 
+					22
+					 
+					N
+					C
+					 
+					
+					2E00
+					Deferred SCA Receipts
+					2E0
+					22
+					 
+					N
+					C
+					 
+					
+					2F0
+					Deferred Gain on Debt Refunding
+					 
+					22
+					 
+					N
+					C
+					 
+					
+					2F00
+					Deferred Gain on Debt Refunding
+					2F0
+					22
+					 
+					N
+					C
+					 
+					
+					2G0
+					Deferred Nonexchange Receipts
+					 
+					22
+					 
+					N
+					C
+					 
+					
+					2G00
+					Deferred Nonexchange Receipts
+					2G0
+					22
+					 
+					N
+					C
+					 
+					
+					2H0
+					Other Deferred Inflows of Resources
+					 
+					22
+					 
+					N
+					C
+					 
+					
+					2H00
+					Othr Deferred Inflows of Resources
+					2H0
+					22
+					 
+					N
+					C
+					 
+					
+					2I0
+					Deferred Inflows related to pension
+					 
+					22
+					 
+					N
+					C
+					 
+					
+					2I00
+					Deferred Inflows related to pension
+					2I0
+					22
+					 
+					N
+					C
+					 
+					30000
+					CODE
+					TITLE
+					AP
+					ATC
+					AP
+					DE
+					NB
+					CA
+					
+					3011
+					Revenue Control
+					310
+					31
+					 
+					N
+					C
+					 
+					
+					3012
+					Prior Year Revenue Control
+					310
+					31
+					 
+					N
+					C
+					 
+					
+					3013
+					Budgeted Revenue Control
+					310
+					31
+					 
+					N
+					D
+					 
+					
+					3014
+					Prior Yr Budgeted Revenue Control
+					310
+					31
+					 
+					N
+					D
+					 
+					
+					3021
+					Expenditure Control
+					310
+					31
+					 
+					N
+					D
+					 
+					
+					3022
+					Prior Year Expenditure Control
+					310
+					31
+					 
+					N
+					D
+					 
+					
+					3023
+					Budgeted Expenditure Control
+					310
+					31
+					 
+					N
+					C
+					 
+					
+					3024
+					Prior Year Budget Expend Control
+					310
+					31
+					 
+					N
+					C
+					 
+					
+					3031
+					Transfer Control
+					310
+					31
+					 
+					N
+					D
+					 
+					
+					3032
+					Prior Year Transfer Control
+					310
+					31
+					 
+					N
+					D
+					 
+					
+					3033
+					Budgeted Transfer Control
+					310
+					31
+					 
+					N
+					C
+					 
+					
+					3034
+					Prior Year Budget Transfer Control
+					310
+					31
+					 
+					N
+					C
+					 
+					
+					3041
+					Encumbrance Control
+					310
+					31
+					 
+					N
+					D
+					 
+					
+					3042
+					Prior Year Encumbrance Control
+					310
+					31
+					 
+					N
+					D
+					 
+					
+					3043
+					Reserve for Encumbrances
+					310
+					31
+					 
+					N
+					C
+					 
+					
+					3044
+					Prior Year Reserve for Encumb Ctrl
+					310
+					31
+					 
+					N
+					C
+					 
+					
+					3048
+					Reservation Control
+					310
+					31
+					 
+					N
+					D
+					 
+					
+					3049
+					Reserve for Reservations
+					310
+					31
+					 
+					N
+					C
+					 
+					
+					3051
+					Budgeted Change to Net Assets
+					310
+					31
+					 
+					N
+					D
+					 
+					
+					3052
+					Prior Yr Budget Chg Net Asset Ctl
+					310
+					31
+					 
+					N
+					D
+					 
+					
+					310
+					Control Accounts
+					 
+					31
+					 
+					N
+					C
+					 
+					40000
+					CODE
+					TITLE
+					AP
+					ATC
+					AP
+					DE
+					NB
+					CA
+					
+					400
+					Net Investment in Capital Assets
+					 
+					41
+					 
+					Y
+					C
+					 
+					
+					4000
+					Capitalized Equity Account
+					400
+					41
+					 
+					Y
+					C
+					 
+					
+					410
+					Restricted Net Assets
+					 
+					41
+					 
+					N
+					C
+					 
+					
+					4100
+					Restricted Non Expendable
+					410
+					41
+					 
+					N
+					C
+					 
+					
+					41100
+					Scholarships and Fellowships
+					4100
+					41
+					 
+					Y
+					C
+					 
+					
+					41200
+					Research
+					4100
+					41
+					 
+					N
+					C
+					 
+					
+					41250
+					Instructional Department Uses
+					4100
+					41
+					 
+					N
+					C
+					 
+					
+					41300
+					Other
+					4100
+					41
+					 
+					Y
+					C
+					 
+					
+					4200
+					Restricted Expendable
+					410
+					41
+					 
+					N
+					C
+					 
+					
+					42100
+					Scholarships and Fellowships
+					4200
+					41
+					 
+					Y
+					C
+					 
+					
+					42200
+					Research
+					4200
+					41
+					 
+					Y
+					C
+					 
+					
+					42300
+					Instructional Department Uses
+					4200
+					41
+					 
+					Y
+					C
+					 
+					
+					42400
+					Loans
+					4200
+					41
+					 
+					Y
+					C
+					 
+					
+					42500
+					Capital Projects
+					4200
+					41
+					 
+					Y
+					C
+					 
+					
+					42600
+					Debt Service
+					4200
+					41
+					 
+					Y
+					C
+					 
+					
+					42700
+					Other
+					4200
+					41
+					 
+					Y
+					C
+					 
+					
+					490
+					Unrestricted Net Position
+					 
+					41
+					 
+					Y
+					C
+					 
+					50000
+					CODE
+					TITLE
+					AP
+					ATC
+					AP
+					DE
+					NB
+					CA
+					
+					510
+					Mandatory Fees
+					 
+					51
+					 
+					N
+					C
+					 
+					
+					5100
+					In State Tuition
+					510
+					51
+					 
+					N
+					C
+					 
+					
+					5100A
+					In State Tuition Regular Term
+					5100
+					51
+					 
+					N
+					C
+					 
+					
+					5100B
+					In State Tuition Summer Term
+					5100
+					51
+					 
+					N
+					C
+					 
+					
+					5100C
+					In State Tuition RODP
+					5100
+					51
+					 
+					N
+					C
+					 
+					
+					5100D
+					Institution Online Tuition Fees
+					5100
+					51
+					 
+					N
+					C
+					 
+					
+					51011
+					In State UG Tuition Regular Term
+					5100A
+					51
+					 
+					Y
+					C
+					 
+					
+					51012
+					In State GR Tuition Regular Term
+					5100A
+					51
+					 
+					Y
+					C
+					 
+					
+					51013
+					In State Law Tuition Regular Term
+					5100A
+					51
+					 
+					Y
+					C
+					 
+					
+					51015
+					In State UG Tuition Reg Term Waived
+					5100A
+					51
+					 
+					Y
+					C
+					 
+					
+					51017
+					In State Law Tuition Reg Term Waive
+					5100A
+					51
+					 
+					Y
+					C
+					 
+					
+					51018
+					Remedial Development Contra Regular
+					5100A
+					51
+					 
+					Y
+					D
+					 
+					
+					51020
+					In State GR Tuition Pre Season
+					5100B
+					51
+					 
+					Y
+					C
+					 
+					
+					51021
+					In State UG Tuition Summer Term
+					5100B
+					51
+					 
+					Y
+					C
+					 
+					
+					51022
+					In State GR Tuition Summer Term
+					5100B
+					51
+					 
+					Y
+					C
+					 
+					
+					51023
+					In State Law Tuition Summer Term
+					5100B
+					51
+					 
+					Y
+					C
+					 
+					
+					51025
+					In State UG Tuition Sum Term Waived
+					5100B
+					51
+					 
+					Y
+					C
+					 
+					
+					51028
+					Remedial Development Contra Summer
+					5100B
+					51
+					 
+					Y
+					D
+					 
+					
+					51029
+					In State UG Tuition Pre Session
+					5100B
+					51
+					 
+					Y
+					C
+					 
+					
+					51030
+					In State GR Tuition Pre Session
+					5100B
+					51
+					 
+					Y
+					C
+					 
+					
+					51031
+					In State UG Tuition RODP Regular
+					5100C
+					51
+					 
+					Y
+					C
+					 
+					
+					51032
+					In State GR Tuition RODP Regular
+					5100C
+					51
+					 
+					Y
+					C
+					 
+					
+					51035
+					In State UG Tuition RODP Summer
+					5100C
+					51
+					 
+					Y
+					C
+					 
+					
+					51036
+					In State GR Tuition RODP Summer
+					5100C
+					51
+					 
+					Y
+					C
+					 
+					
+					51041
+					UMOnline UG Tuition Regular
+					5100D
+					51
+					 
+					Y
+					C
+					 
+					
+					51042
+					UMOnline GR Tuition Regular
+					5100D
+					51
+					 
+					Y
+					C
+					 
+					
+					51043
+					UMOnline UG Tuition Summer
+					5100D
+					51
+					 
+					Y
+					C
+					 
+					
+					51044
+					UMOnline GR Tuition Summer
+					5100D
+					51
+					 
+					Y
+					C
+					 
+					
+					5105
+					Out of State Tuition
+					510
+					51
+					 
+					N
+					C
+					 
+					
+					51051
+					Out of State UG Tuition Regular
+					5105A
+					51
+					 
+					Y
+					C
+					 
+					
+					51052
+					Out of State GR Tuition Regular
+					5105A
+					51
+					 
+					Y
+					C
+					 
+					
+					51053
+					Out of State Law Tuition Regular
+					5105A
+					51
+					 
+					Y
+					C
+					 
+					
+					51055
+					Out of State UG Tuition Reg Waived
+					5105A
+					51
+					 
+					Y
+					C
+					 
+					
+					51056
+					Out of State GR Tuition Reg Waived
+					5105A
+					51
+					 
+					Y
+					C
+					 
+					
+					5105A
+					Out of State Tuition Regular Term
+					5105
+					51
+					 
+					N
+					C
+					 
+					
+					5105B
+					Out of State Tuition Summer Term
+					5105
+					51
+					 
+					N
+					C
+					 
+					
+					5105C
+					Out of State Tuition RODP
+					5105
+					51
+					 
+					N
+					C
+					 
+					
+					5105D
+					Out of State Tuition eRate
+					5105
+					51
+					 
+					N
+					C
+					 
+					
+					51061
+					Out of State UG Tuition Summer
+					5105B
+					51
+					 
+					Y
+					C
+					 
+					
+					51062
+					Out of State GR Tuition Summer
+					5105B
+					51
+					 
+					Y
+					C
+					 
+					
+					51063
+					Out of State Law Tuition Summer
+					5105B
+					51
+					 
+					Y
+					C
+					 
+					
+					51065
+					Out of State UG Tuition Sum Waived
+					5105B
+					51
+					 
+					Y
+					C
+					 
+					
+					51066
+					Out of State GR Tuition Sum Waived
+					5105B
+					51
+					 
+					Y
+					C
+					 
+					
+					51071
+					Out of State Tuition RODP Regular
+					5105C
+					51
+					 
+					Y
+					C
+					 
+					
+					51075
+					Out of State Tuition RODP Summer
+					5105C
+					51
+					 
+					Y
+					C
+					 
+					
+					51081
+					Out of State UG eRate Regular
+					5105D
+					51
+					 
+					Y
+					C
+					 
+					
+					51082
+					Out of State GR eRate Regular
+					5105D
+					51
+					 
+					Y
+					C
+					 
+					
+					51083
+					Out of State UG eRate Summer
+					5105D
+					51
+					 
+					Y
+					C
+					 
+					
+					51084
+					Out of State GR eRate Summer
+					5105D
+					51
+					 
+					Y
+					C
+					 
+					
+					51085
+					Out of State RODP eRate Regular
+					5105D
+					51
+					 
+					Y
+					C
+					 
+					
+					51086
+					Out of State RODP eRate Summer
+					5105D
+					51
+					 
+					Y
+					C
+					 
+					
+					5110
+					Debt Service Fees
+					510
+					51
+					 
+					N
+					C
+					 
+					
+					51101
+					Debt Service Fees Regular Term
+					5110A
+					51
+					 
+					Y
+					C
+					 
+					
+					51102
+					Debt Service Fees Summer Term
+					5110A
+					51
+					 
+					Y
+					C
+					 
+					
+					5110A
+					Debt Service Fees
+					5110
+					51
+					 
+					N
+					C
+					 
+					
+					5115
+					Program Service Fee
+					510
+					51
+					 
+					N
+					C
+					 
+					
+					51151
+					Program Access Fees Regular Term
+					5115A
+					51
+					 
+					Y
+					C
+					 
+					
+					51152
+					Program Service Fees Summer Term
+					5115A
+					51
+					 
+					Y
+					C
+					 
+					
+					5115A
+					Program Service Fee
+					510
+					51
+					 
+					N
+					C
+					 
+					
+					5120
+					Technology Access Fees
+					510
+					51
+					 
+					N
+					C
+					 
+					
+					51201
+					Technology Access Fees Regular Term
+					5120A
+					51
+					 
+					Y
+					C
+					 
+					
+					51202
+					Technology Access Fees Summer Term
+					5120A
+					51
+					 
+					Y
+					C
+					 
+					
+					5120A
+					Technology Access Fees
+					5120
+					51
+					 
+					N
+					C
+					 
+					
+					5125
+					Student Activity Fees
+					510
+					51
+					 
+					N
+					C
+					 
+					
+					51251
+					Student Activity Fees Regular Term
+					5125A
+					51
+					 
+					Y
+					C
+					 
+					
+					51252
+					Student Activity Fees Summer Term
+					5125A
+					51
+					 
+					Y
+					C
+					 
+					
+					5125A
+					Student Activity Fees
+					5125
+					51
+					 
+					N
+					C
+					 
+					
+					5131
+					Facilities Fee
+					510
+					51
+					 
+					N
+					C
+					 
+					
+					51311
+					Facilities Fee Regular Term
+					5131A
+					51
+					 
+					Y
+					C
+					 
+					
+					51312
+					Facilities Fee Summer Term
+					5131A
+					51
+					 
+					Y
+					C
+					 
+					
+					51316
+					Sustainable Campus Fee Regular Term
+					5132A
+					51
+					 
+					Y
+					C
+					 
+					
+					51317
+					Sustainable Campus Fee Summer Term
+					5132A
+					51
+					 
+					Y
+					C
+					 
+					
+					5131A
+					Facilities Fee
+					5131
+					51
+					 
+					N
+					C
+					 
+					
+					5132
+					Sustainable Campus Fee
+					510
+					51
+					 
+					N
+					C
+					 
+					
+					51321
+					International Educ Fee Regular Term
+					5133A
+					51
+					 
+					Y
+					C
+					 
+					
+					51322
+					International Educ Fee Summer Term
+					5133A
+					51
+					 
+					Y
+					C
+					 
+					
+					5132A
+					Sustainable Campus Fee
+					5132
+					51
+					 
+					N
+					C
+					 
+					
+					5133
+					International Education Fee
+					510
+					51
+					 
+					Y
+					C
+					 
+					
+					5133A
+					International Education Fee
+					5133
+					51
+					 
+					Y
+					C
+					 
+					
+					515
+					Nonmandatory Fees
+					 
+					51
+					 
+					N
+					C
+					 
+					
+					5150
+					Institution Online Course Fees
+					515
+					51
+					 
+					N
+					C
+					 
+					
+					51501
+					UMOnline UG Course Fees Reg
+					5150A
+					51
+					 
+					Y
+					C
+					 
+					
+					51502
+					UMOnline UG Course Fees Sum
+					5150A
+					51
+					 
+					Y
+					C
+					 
+					
+					51503
+					UMOnline GR Course Fees Reg
+					5150A
+					51
+					 
+					Y
+					C
+					 
+					
+					51504
+					UMOnline GR Course Fees Sum
+					5150A
+					51
+					 
+					Y
+					C
+					 
+					
+					5150A
+					Institution Online Course Fees
+					5150
+					51
+					 
+					N
+					C
+					 
+					
+					51511
+					UMOnline UG Maintenance Regular
+					5150A
+					51
+					 
+					Y
+					C
+					 
+					
+					51512
+					UMOnline UG Maintenance Summer
+					5150A
+					51
+					 
+					Y
+					C
+					 
+					
+					51513
+					UMOnline GR Maintenance Regular
+					5150A
+					51
+					 
+					Y
+					C
+					 
+					
+					51514
+					UMOnline GR Maintenance Summer
+					5150A
+					51
+					 
+					Y
+					C
+					 
+					
+					5155
+					RODP Fees
+					515
+					51
+					 
+					N
+					C
+					 
+					
+					51551
+					RODP Fees Regular Term
+					5155A
+					51
+					 
+					Y
+					C
+					 
+					
+					51555
+					RODP Fees Summer Term
+					5155A
+					51
+					 
+					Y
+					C
+					 
+					
+					5155A
+					RODP Fees
+					5155
+					51
+					 
+					N
+					C
+					 
+					
+					5160
+					CEU Student Fees
+					515
+					51
+					 
+					N
+					C
+					 
+					
+					51601
+					Non credit Fees
+					5160A
+					51
+					 
+					Y
+					C
+					 
+					
+					51602
+					Non credit Fees
+					5160A
+					51
+					 
+					Y
+					C
+					 
+					
+					51603
+					Non credit Fees
+					5160A
+					51
+					 
+					Y
+					C
+					 
+					
+					51604
+					Contracted Training
+					5160A
+					51
+					 
+					Y
+					C
+					 
+					
+					51605
+					Non credit Fees ROCE
+					5160A
+					51
+					 
+					Y
+					C
+					 
+					
+					51606
+					ROCE Online Course Fees
+					5160A
+					51
+					 
+					Y
+					C
+					 
+					
+					51607
+					Third Party Billing
+					5160A
+					51
+					 
+					Y
+					C
+					 
+					
+					51608
+					Community Music Summer
+					5160A
+					51
+					 
+					Y
+					C
+					 
+					
+					51609
+					Community Music Fall
+					5160A
+					51
+					 
+					Y
+					C
+					 
+					
+					5160A
+					CEU Student Fees
+					5160
+					51
+					 
+					N
+					C
+					 
+					
+					51610
+					Community Music Spring
+					5160A
+					51
+					 
+					Y
+					C
+					 
+					
+					5165
+					Specialized Academic Course Fees
+					515
+					51
+					 
+					N
+					C
+					 
+					
+					51651
+					FCBE UG Course Fees Regular Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51652
+					FCBE GR Course Fees Regular Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51653
+					PerfArts UG Course Fee Regular Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51654
+					PerfArts GR Course Fee Regular Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51655
+					FCBE UG Course Fees Summer Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51656
+					FCBE GR Course Fees Summer Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51657
+					CSD Acad Course Fees - Regular Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51658
+					CSD Acad Course Fees - Summer Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51659
+					PerfArts UG Course Fee Summer Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					5165A
+					Specialized Academic Course Fees
+					5165
+					51
+					 
+					N
+					C
+					 
+					
+					51660
+					Engr Acad Course Fees Regular Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51661
+					Engr Acad Course Fees Summer Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51662
+					Broadcast and Film Course Fees Reg
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51663
+					Broadcast and Film Course Fees Sum
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51664
+					PerfArts GR Course Fee Summer Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51665
+					Nursing Acad Course Fees-Reg Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51666
+					Nursing Acad Course Fees-Sum Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51667
+					Educ Acad Course Fees Regular Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51668
+					Educ Acad Course Fees - Summer Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51672
+					KWS UG Course Fee Regular Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51673
+					KWS GR Course Fee Regular Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51674
+					KWS UG Course Fee Summer Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51675
+					KWS GR Course Fee Summer Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51680
+					Law Library Fees Regular Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					51681
+					Law Library Fees Summer Term
+					5165A
+					51
+					 
+					Y
+					C
+					 
+					
+					5170
+					Application Fees
+					515
+					51
+					 
+					N
+					C
+					 
+					
+					51701
+					Undergraduate Admission Fees
+					5170A
+					51
+					 
+					Y
+					C
+					 
+					
+					51702
+					UG Admission Processing Charge
+					5170A
+					51
+					 
+					Y
+					D
+					 
+					
+					5170A
+					Application Fees
+					5170
+					51
+					 
+					N
+					C
+					 
+					
+					51710
+					Graduate Admission Fees
+					5170A
+					51
+					 
+					Y
+					C
+					 
+					
+					51715
+					GR Admission Processing Charge
+					5170A
+					51
+					 
+					Y
+					D
+					 
+					
+					51720
+					Law Application Fees
+					5170A
+					51
+					 
+					Y
+					C
+					 
+					
+					51725
+					Law Application Processing Charge
+					5170A
+					51
+					 
+					Y
+					D
+					 
+					
+					51726
+					Application Fees
+					5170A
+					51
+					 
+					Y
+					C
+					 
+					
+					5175
+					Late Registration Fees
+					515
+					51
+					 
+					N
+					C
+					 
+					
+					51751
+					Late Registration Fees
+					5175A
+					51
+					 
+					Y
+					C
+					 
+					
+					5175A
+					Late Registration Fees
+					5175
+					51
+					 
+					N
+					C
+					 
+					
+					5180
+					Other Nonmandatory Fees
+					515
+					51
+					 
+					N
+					C
+					 
+					
+					51801
+					Material Fees Regular Term
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51802
+					Material Fees Summer Term
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51803
+					Late Payment Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51804
+					Installment Plan Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51805
+					Installment Plan Late Payment Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51806
+					U Of M Diplomas
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51807
+					Returned Check Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51808
+					EXMBA Course Fees Regular Term
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51809
+					IMBA Prog Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					5180A
+					Other Nonmandatory Fees
+					5180
+					51
+					 
+					N
+					C
+					 
+					
+					51810
+					Processing Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51811
+					Testing Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51812
+					Other Student Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51813
+					Natl Student Exchange Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51814
+					Library Fines
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51815
+					Lost Book Replacement
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51816
+					Locker Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51817
+					Music Instrument
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51818
+					Clinical Practicum
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51819
+					Add On Teacher Endrs
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51820
+					Nte Ppst Test Scores
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51821
+					Applied Music Fee Regular Term
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51822
+					Applied Music Fee Summer Term
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51823
+					Dissertation Microfilming Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51824
+					Credit Evaluation UG
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51825
+					Intl Processing Fee
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51826
+					Compass Retest Fee
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51827
+					Mous Cert Exam
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51828
+					Credit By Exam Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51829
+					Placement Exam Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51830
+					Mail Shipping and Handling Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51831
+					Law Library Fees Regular Term
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51832
+					Law Library Fees Summer Term
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51833
+					Washington Internship Program Fee
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51834
+					Executive MSN Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51835
+					Education Practicum Supervision Fee
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51836
+					Credit Evaluation GR
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51837
+					Recital Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51838
+					Tiger Bikes Programs Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51839
+					Bicycle/Accessories Replac Fees
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51840
+					Late Fee for Accessories
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51841
+					Late Fee for Bicycle
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51842
+					TigerLIFE Program Fee
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51843
+					EXMBA Course Fees Summer Term
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51844
+					Graduate Document Late Process Fee
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51845
+					Nursing Exam Fee
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51846
+					Nursing Health Assessment Fee
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51847
+					Memphis Leadership Scholars Fee Reg
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					51848
+					Memphis Leadership Scholars Fee Sum
+					5180A
+					51
+					 
+					Y
+					C
+					 
+					
+					520
+					State Appropriation
+					 
+					52
+					 
+					N
+					C
+					 
+					
+					5200
+					State Appropriation
+					520
+					52
+					 
+					N
+					C
+					 
+					
+					52000
+					State Appropriation for Operations
+					5200A
+					52
+					 
+					Y
+					C
+					 
+					
+					5200A
+					State Appropriation for Operations
+					5200
+					52
+					 
+					N
+					C
+					 
+					
+					5200B
+					State Appropriation for Capital
+					5200
+					52
+					 
+					N
+					C
+					 
+					
+					52010
+					State Appropriation for Capital
+					5200B
+					52
+					 
+					Y
+					C
+					 
+					
+					530
+					Federal Grants and Contracts
+					 
+					53
+					 
+					N
+					C
+					 
+					
+					5300
+					Federal Grants and Contracts
+					530
+					53
+					 
+					N
+					C
+					 
+					
+					53000
+					Federal Grants and Contracts
+					5300A
+					53
+					 
+					Y
+					C
+					 
+					
+					5300A
+					Federal Grants and Contracts
+					5300
+					53
+					 
+					N
+					C
+					 
+					
+					5300B
+					Indirect Cost Recovery
+					5300
+					53
+					 
+					N
+					C
+					 
+					
+					53100
+					Federal Program Administration
+					5300A
+					53
+					 
+					Y
+					C
+					 
+					
+					53200
+					Federal Direct Program Support
+					5300A
+					53
+					 
+					Y
+					C
+					 
+					
+					53300
+					Federal Residual Balance
+					5300A
+					53
+					 
+					Y
+					C
+					 
+					
+					53500
+					Indirect Cost Recovery - Federal
+					5300B
+					53
+					 
+					Y
+					C
+					 
+					
+					540
+					State Grants and Contracts
+					 
+					54
+					 
+					N
+					C
+					 
+					
+					5400
+					State Grants and Contracts
+					540
+					54
+					 
+					N
+					C
+					 
+					
+					54000
+					State Grants and Contracts
+					5400A
+					54
+					 
+					Y
+					C
+					 
+					
+					5400A
+					State Grants and Contracts
+					5400
+					54
+					 
+					N
+					C
+					 
+					
+					5400B
+					Indirect Cost Recovery
+					5400
+					54
+					 
+					N
+					C
+					 
+					
+					54100
+					State Program Administration
+					5400A
+					54
+					 
+					Y
+					C
+					 
+					
+					54200
+					State Direct Program Support
+					5400A
+					54
+					 
+					Y
+					C
+					 
+					
+					54300
+					State Residual Balance
+					5400A
+					54
+					 
+					Y
+					C
+					 
+					
+					54500
+					Indirect Cost Recovery - State
+					5400B
+					54
+					 
+					Y
+					C
+					 
+					
+					550
+					Local Grants and Contracts
+					 
+					55
+					 
+					N
+					C
+					 
+					
+					5500
+					Local Grants and Contracts
+					550
+					55
+					 
+					N
+					C
+					 
+					
+					55000
+					Local Grants and Contracts
+					5500A
+					55
+					 
+					Y
+					C
+					 
+					
+					5500A
+					Local Grants and Contracts
+					5500
+					55
+					 
+					N
+					C
+					 
+					
+					5500B
+					Indirect Cost Recovery
+					5500
+					55
+					 
+					N
+					C
+					 
+					
+					55100
+					Local Program Administration
+					5500A
+					55
+					 
+					Y
+					C
+					 
+					
+					55200
+					Local Direct Program Support
+					5500A
+					55
+					 
+					Y
+					C
+					 
+					
+					55300
+					Local Residual Balance
+					5500A
+					55
+					 
+					Y
+					C
+					 
+					
+					55500
+					Indirect Cost Recovery - Local
+					5500B
+					55
+					 
+					Y
+					C
+					 
+					
+					560
+					Private Grants and Contracts
+					 
+					56
+					 
+					N
+					C
+					 
+					
+					5600
+					Private Grants and Contracts
+					560
+					56
+					 
+					N
+					C
+					 
+					
+					56000
+					Private Grants and Contracts
+					5600A
+					56
+					 
+					Y
+					C
+					 
+					
+					5600A
+					Private Grants and Contracts
+					5600
+					56
+					 
+					N
+					C
+					 
+					
+					5600B
+					Indirect Cost Recovery
+					5600
+					56
+					 
+					N
+					C
+					 
+					
+					56100
+					Private Program Administration
+					5600A
+					56
+					 
+					Y
+					C
+					 
+					
+					56200
+					Private Direct Program Support
+					5600A
+					56
+					 
+					Y
+					C
+					 
+					
+					56300
+					Private Residual Balance
+					5600A
+					56
+					 
+					Y
+					C
+					 
+					
+					56500
+					Indirect Cost Recovery - Private
+					5600B
+					56
+					 
+					Y
+					C
+					 
+					
+					570
+					Private Gifts
+					 
+					57
+					 
+					N
+					C
+					 
+					
+					5700
+					Private Gifts
+					570
+					57
+					 
+					N
+					C
+					 
+					
+					5700A
+					Private Cash Gifts 
+					5700
+					57
+					 
+					N
+					C
+					 
+					
+					5700B
+					Private Inkind Gifts 
+					5700
+					57
+					 
+					N
+					C
+					 
+					
+					5700C
+					Private Noncash Gifts 
+					5700
+					57
+					 
+					N
+					C
+					 
+					
+					57011
+					Cash Gifts Alumni
+					5700A
+					57
+					 
+					Y
+					C
+					 
+					
+					57012
+					Cash Gifts Other Individuals
+					5700A
+					57
+					 
+					Y
+					C
+					 
+					
+					57013
+					Cash Gifts Foundations
+					5700A
+					57
+					 
+					Y
+					C
+					 
+					
+					57014
+					Cash Gifts Corporations
+					5700A
+					57
+					 
+					Y
+					C
+					 
+					
+					57015
+					Cash Gifts Other Sources
+					5700A
+					57
+					 
+					Y
+					C
+					 
+					
+					57016
+					Cash Gifts Research Foundation
+					5700A
+					57
+					 
+					Y
+					C
+					 
+					
+					57501
+					GIK Alumni
+					5700B
+					57
+					 
+					Y
+					C
+					 
+					
+					57502
+					GIK Other Individuals
+					5700B
+					57
+					 
+					Y
+					C
+					 
+					
+					57503
+					GIK Foundations
+					5700B
+					57
+					 
+					Y
+					C
+					 
+					
+					57504
+					GIK Corporations
+					5700B
+					57
+					 
+					Y
+					C
+					 
+					
+					57505
+					GIK Other Sources
+					5700B
+					57
+					 
+					Y
+					C
+					 
+					
+					57701
+					Noncash Gifts Alumni
+					5700C
+					57
+					 
+					Y
+					C
+					 
+					
+					57702
+					Noncash Gifts Other Individuals
+					5700C
+					57
+					 
+					Y
+					C
+					 
+					
+					57703
+					Noncash Gifts Foundations
+					5700C
+					57
+					 
+					Y
+					C
+					 
+					
+					57704
+					Noncash Gifts Corporations
+					5700C
+					57
+					 
+					Y
+					C
+					 
+					
+					57705
+					Noncash Gifts Other Sources
+					5700C
+					57
+					 
+					Y
+					C
+					 
+					
+					580
+					Sales and Services of Education Act
+					 
+					58
+					 
+					N
+					C
+					 
+					
+					5820
+					Sales and Services of Education Act
+					580
+					58
+					 
+					N
+					C
+					 
+					
+					5820A
+					Sales and Services of Education Act
+					5820
+					58
+					 
+					N
+					C
+					 
+					
+					58360
+					Sales and Services Non Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58361
+					Sales and Services A Non Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58362
+					Sales and Services B Non Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58363
+					Sales and Services C Non Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58364
+					Sales and Services D Non Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58365
+					Sales and Services E Non Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58366
+					Sales and Services F Non Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58367
+					Sales and Services G Non Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58368
+					Sales and Services H Non Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58369
+					Sales and Services I Non Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58370
+					Laboratory Fees
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58371
+					Prescription Drugs
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58372
+					Hearing Aids
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58380
+					Speech and Language Diagnostics
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58381
+					Speech and Language Therapy
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58382
+					Pre School Therapy
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58383
+					Aphasia Therapy
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58384
+					Fluency Therapy
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58385
+					Esophogeal Voice
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58386
+					Aural Rehab Therapy
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58387
+					Earmolds
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58388
+					Audiology Diagnostics
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58389
+					Medicaid Write offs
+					5820A
+					58
+					 
+					Y
+					D
+					 
+					
+					58390
+					UOM Student Write offs
+					5820A
+					58
+					 
+					Y
+					D
+					 
+					
+					58391
+					Insurance Adjustments
+					5820A
+					58
+					 
+					Y
+					D
+					 
+					
+					58392
+					Special Project Write Offs
+					5820A
+					58
+					 
+					Y
+					D
+					 
+					
+					58393
+					Bookstore Financial Aid Advance
+					5820A
+					58
+					 
+					Y
+					D
+					 
+					
+					58394
+					Faculty Staff Write offs
+					5820A
+					58
+					 
+					Y
+					D
+					 
+					
+					58440
+					Sales and Services Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58441
+					Sales Tax Paid
+					5820A
+					58
+					 
+					Y
+					D
+					 
+					
+					58442
+					Sales and Services A Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58443
+					Sales and Services B Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58444
+					Sales and Services C Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58445
+					Sales and Services D Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58446
+					Sales and Services E Taxable
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58450
+					Orchestra
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58451
+					Opera
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58452
+					Wind Ensemble
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58453
+					Faculty Ensemble
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58454
+					Jazz Ensemble
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58455
+					Sound Fuzion
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58490
+					Commission Earned
+					5820A
+					58
+					 
+					Y
+					C
+					 
+					
+					58800
+					Interest Income
+					5A00A
+					5A
+					 
+					Y
+					C
+					 
+					
+					58801
+					Dividends Income
+					5A00A
+					5A
+					 
+					Y
+					C
+					 
+					
+					58802
+					Other Investment Income
+					5A00A
+					5A
+					 
+					Y
+					C
+					 
+					
+					58803
+					Endowment Income
+					5A00A
+					5A
+					 
+					Y
+					C
+					 
+					
+					58804
+					Interest Allocation
+					5A00A
+					5A
+					 
+					Y
+					C
+					 
+					
+					58810
+					Investment Expense
+					5A00B
+					5A
+					 
+					Y
+					C
+					 
+					
+					58820
+					Realized Gains and Losses
+					5A00C
+					5A
+					 
+					Y
+					C
+					 
+					
+					58830
+					Unrealized Gains and Losses
+					5A00D
+					5A
+					 
+					Y
+					C
+					 
+					
+					5A0
+					Investment Income
+					 
+					5A
+					 
+					N
+					C
+					 
+					
+					5A00
+					Investment Income
+					5A0
+					5A
+					 
+					N
+					C
+					 
+					
+					5A00A
+					Investment Income
+					5A00
+					5A
+					 
+					N
+					C
+					 
+					
+					5A00B
+					Investment Expense
+					5A00
+					5A
+					 
+					N
+					C
+					 
+					
+					5A00C
+					Realized Gains and Losses
+					5A00
+					5A
+					 
+					N
+					C
+					 
+					
+					5A00D
+					Unrealized Gains and Losses
+					5A00
+					5A
+					 
+					N
+					C
+					 
+					
+					58900
+					Loan Fund Additions
+					5B00A
+					5B
+					 
+					Y
+					C
+					 
+					
+					5B0
+					Loan Fund Additions
+					 
+					5B
+					 
+					N
+					C
+					 
+					
+					5B00
+					Loan Fund Additions
+					5B0
+					5B
+					 
+					N
+					C
+					 
+					
+					5B00A
+					Loan Fund Additions
+					5B00
+					5B
+					 
+					N
+					C
+					 
+					
+					59001
+					USC Routine Rental
+					5C10A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59002
+					USC Bookstore Commission
+					5C10A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59003
+					USC Other Commission
+					5C10A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59100
+					Food Services Commission
+					5C20A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59200
+					Routine Rental
+					5C30A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59201
+					Deposit Forfeiture
+					5C30A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59202
+					Damage Charges
+					5C30A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59203
+					Coke Commission
+					5C30A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59204
+					Canteen Commission
+					5C30A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59205
+					Special Rental University
+					5C30A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59206
+					Special Term Rental
+					5C30A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59207
+					FR 1st Rental
+					5C30A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59208
+					Installment Plan Fee
+					5C30A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59209
+					Installment Plan Late Payment Fee
+					5C30A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59210
+					Special Rental Non University
+					5C30A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59300
+					Parking Decals for Faculty Staff
+					5C40A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59301
+					Parking Garage for Faculty Staff
+					5C40A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59302
+					Parking Garage Daily
+					5C40A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59303
+					Parking Decals 
+					5C40A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59304
+					Parking Meters
+					5C40A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59305
+					Parking Fines
+					5C40A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59306
+					Parking TVs
+					5C40A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59307
+					Parking Revenue Refund
+					5C40A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59308
+					Parking Garage Daily
+					5C40A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59399
+					Parking Sales Tax
+					5C40A
+					5C
+					 
+					Y
+					D
+					 
+					
+					59400
+					Vending Beverage Commission
+					5C50A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59401
+					Vending Snacks Commission
+					5C50A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59402
+					Vending Beverage Sponsorship
+					5C50A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59450
+					Vending Copier
+					5C50A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59460
+					Vending Copier Taxable
+					5C50A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59469
+					Sales Tax Paid
+					5C50A
+					5C
+					 
+					Y
+					D
+					 
+					
+					59701
+					Property Rental
+					5C90A
+					5C
+					 
+					Y
+					C
+					 
+					
+					59702
+					Late Payment Fees
+					5C90A
+					5C
+					 
+					Y
+					C
+					 
+					
+					5C1
+					University Service Court
+					 
+					5C
+					 
+					N
+					C
+					 
+					
+					5C10
+					University Service Court
+					5C1
+					5C
+					 
+					N
+					C
+					 
+					
+					5C10A
+					University Service Court
+					5C10
+					5C
+					 
+					N
+					C
+					 
+					
+					5C2
+					Food Service
+					 
+					5C
+					 
+					N
+					C
+					 
+					
+					5C20
+					Food Services
+					5C2
+					5C
+					 
+					N
+					C
+					 
+					
+					5C20A
+					Food Services
+					5C20
+					5C
+					 
+					N
+					C
+					 
+					
+					5C3
+					Student Housing
+					 
+					5C
+					 
+					N
+					C
+					 
+					
+					5C30
+					Student Housing
+					5C3
+					5C
+					 
+					N
+					C
+					 
+					
+					5C30A
+					Student Housing
+					5C30
+					5C
+					 
+					N
+					C
+					 
+					
+					5C4
+					Parking
+					 
+					5C
+					 
+					N
+					C
+					 
+					
+					5C40
+					Parking
+					5C4
+					5C
+					 
+					N
+					C
+					 
+					
+					5C40A
+					Parking
+					5C40
+					5C
+					 
+					N
+					C
+					 
+					
+					5C5
+					Vending
+					 
+					5C
+					 
+					N
+					C
+					 
+					
+					5C50
+					Vending
+					5C5
+					5C
+					 
+					N
+					C
+					 
+					
+					5C50A
+					Vending
+					5C50
+					5C
+					 
+					N
+					C
+					 
+					
+					5C9
+					Other
+					 
+					5C
+					 
+					N
+					C
+					 
+					
+					5C90
+					Rental Properties
+					5C9
+					5C
+					 
+					N
+					C
+					 
+					
+					5C90A
+					Rental Properties
+					5C90
+					5C
+					 
+					N
+					C
+					 
+					
+					5D1
+					Nonoperating Grants and Contracts
+					 
+					5D
+					 
+					N
+					C
+					 
+					
+					5E1
+					Capital Grants and Gifts
+					 
+					5E
+					 
+					N
+					C
+					 
+					
+					5F1
+					Additions to Permanent Endowments
+					 
+					5F
+					 
+					N
+					C
+					 
+					
+					5G1
+					Nonoperating Gifts
+					 
+					5G
+					 
+					N
+					C
+					 
+					
+					5H1
+					Nonoperating Other Revenue Sources
+					 
+					5H
+					 
+					N
+					C
+					 
+					
+					5J1
+					Other Capital Revenues
+					 
+					5J
+					 
+					N
+					C
+					 
+					
+					5800
+					Intercollegiate Athletics
+					5K1
+					5K
+					 
+					N
+					C
+					 
+					
+					58000
+					Season Ticket Sales Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58001
+					Individual Ticket Sales Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58002
+					Individual Event Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58003
+					Parking Permits
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58004
+					Other Taxable Services
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58005
+					Post Season Tickets Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58006
+					Season Ticket Comps Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					5800A
+					Ticket Sales
+					5800
+					5K
+					 
+					N
+					C
+					 
+					
+					5800B
+					Game Guarantees
+					5800
+					5K
+					 
+					N
+					C
+					 
+					
+					5800C
+					Conference Distributions
+					5800
+					5K
+					 
+					N
+					C
+					 
+					
+					5800D
+					Radio TV Special Event Revenues
+					5800
+					5K
+					 
+					N
+					C
+					 
+					
+					5800E
+					Other Collegiate Athletics
+					5800
+					5K
+					 
+					N
+					C
+					 
+					
+					5800F
+					Student Athletic Fees
+					5800
+					5K
+					 
+					N
+					C
+					 
+					
+					58010
+					Sales Tax Paid - Athletics
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58050
+					Individual Event Non Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58051
+					Season Ticket Comps Non Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58052
+					Individual Game Comps
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58053
+					Individual Event Comps
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58054
+					Post Season Tickets
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58055
+					Other Sales - Non Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58056
+					Other Sales A - Non Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58057
+					Other Sales B - Non Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58058
+					Other Sales C - Non Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58059
+					Other Sales D - Non Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58060
+					Other Sales E - Non Taxable
+					5800A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58100
+					Game Guarantees
+					5800B
+					5K
+					 
+					Y
+					C
+					 
+					
+					58101
+					Post Season Guarantees
+					5800B
+					5K
+					 
+					Y
+					C
+					 
+					
+					58150
+					Conference Distributions
+					5800C
+					5K
+					 
+					Y
+					C
+					 
+					
+					58151
+					Conference RadioTV Distributions
+					5800C
+					5K
+					 
+					Y
+					C
+					 
+					
+					58152
+					NCAA Proceeds
+					5800C
+					5K
+					 
+					Y
+					C
+					 
+					
+					58200
+					Radio Revenues
+					5800D
+					5K
+					 
+					Y
+					C
+					 
+					
+					58201
+					TV Revenues
+					5800D
+					5K
+					 
+					Y
+					C
+					 
+					
+					58202
+					Post Season TV
+					5800D
+					5K
+					 
+					Y
+					C
+					 
+					
+					58203
+					Media Guides
+					5800D
+					5K
+					 
+					Y
+					C
+					 
+					
+					58204
+					Athletic Advertising Revenues
+					5800D
+					5K
+					 
+					Y
+					C
+					 
+					
+					58205
+					Athletic Other Sponsorships
+					5800D
+					5K
+					 
+					Y
+					C
+					 
+					
+					58250
+					Postage Handling Charges
+					5800E
+					5K
+					 
+					Y
+					C
+					 
+					
+					58260
+					Athletics Licensing Revenue
+					5800E
+					5K
+					 
+					Y
+					C
+					 
+					
+					58300
+					Athletics Access Fees
+					5800E
+					5K
+					 
+					Y
+					C
+					 
+					
+					58349
+					Student Athletic Fees
+					5800F
+					5K
+					 
+					Y
+					C
+					 
+					
+					5850
+					Child Care Center
+					5K1
+					5K
+					 
+					N
+					C
+					 
+					
+					5850A
+					Child Care Center
+					5850
+					5K
+					 
+					N
+					C
+					 
+					
+					5860
+					Sales and Services of Other Act
+					5K1
+					5K
+					 
+					N
+					C
+					 
+					
+					5860A
+					Sales and Services of Other Act
+					5860
+					5K
+					 
+					N
+					C
+					 
+					
+					58840
+					Child Care Fees
+					5850A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58841
+					Late Pickup Fees
+					5850A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58859
+					Holiday Inn-FEC Rental Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58860
+					Licensing Royalty Revenues
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58861
+					Other Sales Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58862
+					Other Sales A - Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58863
+					Other Sales B - Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58864
+					Other Sales C - Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58865
+					Univ Facilities Rental Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58866
+					Conference Fees Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58867
+					Equipment Rental Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58868
+					Vendor Fees Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58869
+					Technical Service Fees Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58870
+					Parking Fees Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58871
+					WCCG Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58872
+					Admissions Non Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58873
+					USPS Service Station Rental NonTax
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58874
+					PO Box Rental NonTax
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58875
+					Key Replacement NonTax
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58876
+					3rd Party Agreement
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58877
+					Salvage Sales
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58878
+					Other Sales - Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58879
+					Other Sales A - Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58880
+					Other Sales B - Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58881
+					Other Sales C - Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58882
+					Sales Tax Paid
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58883
+					Univ Facilities Rental Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58884
+					Equipment Rental Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58885
+					Vendor Fees Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58886
+					Technical Service Fees Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58887
+					Parking Fees Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58888
+					WCCG Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58889
+					Local Telephone Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58890
+					Long Distance Telephone Taxable
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58891
+					Chucalissa Apparel Revenue
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58892
+					Chucalissa Book Revenue
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58893
+					Chucalissa Jewelry Revenue
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58894
+					Chucalissa Music Revenue
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58895
+					Chucalissa Other Revenue
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58896
+					Chucalissa Consignment Sales
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58897
+					Advertising Revenues
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58898
+					Other Sponsorships
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					58899
+					Other Commissions Earned
+					5860A
+					5K
+					 
+					Y
+					C
+					 
+					
+					5K1
+					Sales and Services of Other Activit
+					 
+					5K
+					 
+					N
+					C
+					 
+					60000
+					CODE
+					TITLE
+					AP
+					ATC
+					AP
+					DE
+					NB
+					CA
+					
+					610
+					Salaries 
+					 
+					61
+					 
+					N
+					D
+					 
+					
+					6110
+					Administrative Salaries
+					610
+					61
+					 
+					N
+					D
+					 
+					
+					61103
+					Administrative Housing Allowance
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61110
+					Administrative
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61111
+					Prior Project Administrative
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61112
+					Administrative FacultyChairs
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61113
+					Administrative Executives
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61120
+					Non Budget Salaries, AdminProf
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61140
+					Administrative VBP
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61150
+					Support Pay AdminProf
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61151
+					Interim Pay Administrative
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61155
+					Summer Other Compensation
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61160
+					Budget Advances AdminProf Salaries
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61161
+					Salary Lapse AdminProf
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61165
+					Grants Recovery AdminProf
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61166
+					Undistributed Salary Budget
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61170
+					Administrative Cell Phone Allowance
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61171
+					Administrative Automobile Stipend
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61172
+					Administrative Moving Allowance
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61173
+					Administrative Allowance
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61180
+					Longevity AdminProf
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61181
+					One Time Bonus
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61182
+					Contract Severance
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61185
+					Admin Salary Payment Prior Year
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61195
+					Other Adjustment AdminProf
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61196
+					AdminProf Salary Deceased Emp
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					61199
+					One Time Payment Suspense
+					6110
+					61
+					 
+					Y
+					D
+					 
+					
+					6120
+					Faculty and Academic Salaries
+					610
+					61
+					 
+					N
+					D
+					 
+					
+					61210
+					Academic Faculty
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61211
+					Prior Project Academic
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61212
+					Academic Faculty Chairs
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61215
+					RODP Academic
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61220
+					Non Budgeted Salaries, Academic 
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61240
+					Academic Faculty VBP
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61250
+					Support Pay Academic
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61251
+					Interim Pay Academic
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61252
+					Temporary Instructor Non Credit
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61253
+					Temporary Instructor Credit
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61254
+					Summer Other
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61255
+					Summer Administrative Pay
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61256
+					Summer Credit Instruction
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61257
+					Academic Masters Graduate Assistant
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61258
+					Academic Doctoral Graduate Assist
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61260
+					Budget Advances Academic Salaries
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61261
+					Salary Lapse Academic
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61265
+					Grants Recovery Academic
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61266
+					Undistributed Salary Budget
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61270
+					Academic Cell Phone Allowance
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61271
+					Academic Automobile Stipend
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61272
+					Academic Moving Allowance
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61275
+					Academic Temporary Post Retirement
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61280
+					Longevity Academic
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61281
+					One Time Bonus
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61285
+					Academic Salary Prior Year
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61295
+					Other Adjustments Academic
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					61296
+					Academic Salary Deceased Employee
+					6120
+					61
+					 
+					Y
+					D
+					 
+					
+					6130
+					Support and Clerical Salaries
+					610
+					61
+					 
+					N
+					D
+					 
+					
+					61310
+					Support Clerical Salaries
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61311
+					Prior Project Support Clerical
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61312
+					Monthly Support Clerical
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61320
+					Non Budget Sal Clerical Support
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61340
+					Support Clerical VBP/RIF
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61350
+					Support Pay Support Clerical
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61351
+					Interim Pay Support Clerical
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61360
+					Budget Advances Clerical Salaries
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61361
+					Salary Lapse SupportClerical
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61365
+					Grants Recovery SupportClerical
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61366
+					Undistributed Salary Budget
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61370
+					Support Cell Phone Allowance
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61371
+					Support Automobile Stipend
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61372
+					Support Moving Allowance
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61373
+					Shift Differential
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61374
+					Overtime Support Clerical
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61375
+					Support Temporary Employee
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61380
+					Longevity Support Clerical
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61381
+					One Time Bonus
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61385
+					Support Clerical Salary Prior Year
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61395
+					Other Adj Support Clerical
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					61396
+					Support Clerical Deceased Employee
+					6130
+					61
+					 
+					Y
+					D
+					 
+					
+					6140
+					Student Salaries and Wages
+					610
+					61
+					 
+					N
+					D
+					 
+					
+					61410
+					Student Assistants Hourly
+					6140
+					61
+					 
+					Y
+					D
+					 
+					
+					61415
+					Student Assistants Monthly
+					6140
+					61
+					 
+					Y
+					D
+					 
+					
+					61420
+					Non Budgeted Salaries Students
+					6140
+					61
+					 
+					Y
+					D
+					 
+					
+					61485
+					Student Salary Payment Prior Year
+					6140
+					61
+					 
+					Y
+					D
+					 
+					
+					61495
+					Other Adj Student Assistants
+					6140
+					61
+					 
+					Y
+					D
+					 
+					
+					6160
+					Professional Support Salaries
+					610
+					61
+					 
+					N
+					D
+					 
+					
+					61601
+					Other Miscellaneous Earnings
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61602
+					Employee Awards
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61603
+					Housing
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61605
+					Charges to be Moved to Operating
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61610
+					Professional Support
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61611
+					Prior Project Professional Support
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61612
+					Professional Support BW
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61620
+					Non Budget Salary Prof Support
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61630
+					Coaches
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61635
+					Assistant Coaches
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61640
+					Professional Support VBP/RIF
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61650
+					Support Pay Professional Support
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61651
+					Interim Pay Professional Support
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61657
+					Admin Masters Graduate Assistants
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61658
+					Admin Doctoral Graduate Assistants
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61660
+					Budget Advance Professional Support
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61661
+					Salary Lapse Professional Support
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61665
+					Grants Recovery Prof Support
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61666
+					Undistributed Salary Budget
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61670
+					Professional Cell Phone Allowance
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61671
+					Professional Automobile Stipend
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61672
+					Professional Moving Allowance
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61675
+					Prof Support Temporary Employees
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61680
+					Longevity Professional Support
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61681
+					One Time Bonus
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61682
+					Computer Support Salary Allocation
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61685
+					Prof Support Salary Prior Year
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61695
+					Other Adj Prof Support
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					61696
+					Prof Support Deceased Employee
+					6160
+					61
+					 
+					Y
+					D
+					 
+					
+					6190
+					Other Salaries
+					610
+					61
+					 
+					N
+					D
+					 
+					
+					61900
+					Salary Allocations
+					6190
+					61
+					 
+					Y
+					D
+					 
+					
+					620
+					Employee Benefits 
+					 
+					62
+					 
+					N
+					D
+					 
+					
+					6200
+					Employee Benefits Budget 
+					620
+					62
+					 
+					N
+					D
+					 
+					
+					62000
+					Employee Benefits Budget Pool
+					6200
+					62
+					 
+					B
+					D
+					 
+					
+					62001
+					Benefits Clearing
+					6200
+					62
+					62000
+					Y
+					D
+					 
+					
+					62002
+					Computer Support Benefit Allocation
+					6200
+					62
+					62000
+					Y
+					D
+					 
+					
+					62025
+					TCRS Hybrid - Defined Contribution
+					6225
+					62
+					62000
+					Y
+					D
+					 
+					
+					62026
+					TCRS Hybrid - Defined Benefit
+					6225
+					62
+					62000
+					Y
+					D
+					 
+					
+					62028
+					TCRS Hybrid Stabilization Rate
+					6225
+					62
+					62000
+					Y
+					D
+					 
+					
+					621
+					Retirement
+					 
+					62
+					 
+					N
+					D
+					 
+					
+					6210
+					TCRS Retirement 
+					621
+					62
+					 
+					N
+					D
+					 
+					
+					62100
+					TCRS Retirement
+					6210
+					62
+					62000
+					Y
+					D
+					 
+					
+					62150
+					TCRS Pension Expense
+					6210
+					62
+					62000
+					Y
+					D
+					 
+					
+					6220
+					ORP Retirement 
+					621
+					62
+					 
+					N
+					D
+					 
+					
+					62200
+					ORP Retirement - Noncontributory
+					6220
+					62
+					62000
+					Y
+					D
+					 
+					
+					62210
+					ORP Retirement - Contributory
+					6220
+					62
+					62000
+					Y
+					D
+					 
+					
+					6225
+					TCRS Hybrid Retirement
+					621
+					62
+					 
+					N
+					D
+					 
+					
+					623
+					FICA
+					 
+					62
+					 
+					N
+					D
+					 
+					
+					6230
+					FICA
+					623
+					62
+					 
+					N
+					D
+					 
+					
+					62300
+					FICA
+					6230
+					62
+					62000
+					Y
+					D
+					 
+					
+					6240
+					Medicare FICA 
+					623
+					62
+					 
+					N
+					D
+					 
+					
+					62400
+					Medicare FICA
+					6240
+					62
+					62000
+					Y
+					D
+					 
+					
+					625
+					Group Insurance
+					 
+					62
+					 
+					N
+					D
+					 
+					
+					6250
+					Group Insurance
+					625
+					62
+					 
+					N
+					D
+					 
+					
+					62500
+					Group Insurance
+					6250
+					62
+					62000
+					Y
+					D
+					 
+					
+					62511
+					Group Health Ins Temp Empl
+					6250
+					62
+					62000
+					Y
+					D
+					 
+					
+					62590
+					Other Insurance
+					6250
+					62
+					62000
+					Y
+					D
+					 
+					
+					626
+					Unemployment Compensation
+					 
+					62
+					 
+					N
+					D
+					 
+					
+					6260
+					Unemployment Compensation
+					626
+					62
+					 
+					N
+					D
+					 
+					
+					62600
+					Unemployment Compensation
+					6260
+					62
+					62000
+					Y
+					D
+					 
+					
+					627
+					Employee Scholarships
+					 
+					62
+					 
+					N
+					D
+					 
+					
+					6270
+					Employee Scholarships
+					627
+					62
+					 
+					N
+					D
+					 
+					
+					62700
+					PC191 UOM
+					6270
+					62
+					62000
+					Y
+					D
+					 
+					
+					62710
+					Emp Discounts UOM Spouse Dependent
+					6270
+					62
+					62000
+					Y
+					D
+					 
+					
+					62720
+					Emp Disc Other Inst Spouse Depend
+					6270
+					62
+					62000
+					Y
+					D
+					 
+					
+					62730
+					Staff Scholarship
+					6270
+					62
+					62000
+					Y
+					D
+					 
+					
+					62740
+					VBP Tuition Assistance
+					6270
+					62
+					62000
+					Y
+					D
+					 
+					
+					62750
+					Masters GA Fee Waivers
+					6270
+					62
+					62000
+					Y
+					D
+					 
+					
+					62760
+					Doctoral GA Fee Waivers
+					6270
+					62
+					62000
+					Y
+					D
+					 
+					
+					628
+					Compensated Absences
+					 
+					62
+					 
+					N
+					D
+					 
+					
+					6288
+					Compensated Absences
+					628
+					62
+					 
+					N
+					D
+					 
+					
+					62880
+					Compensated Absences
+					6288
+					62
+					62000
+					Y
+					D
+					 
+					
+					629
+					Other Employee Benefits
+					 
+					62
+					 
+					N
+					D
+					 
+					
+					6290
+					Other Employee Benefits
+					629
+					62
+					 
+					N
+					D
+					 
+					
+					62900
+					401K Match
+					6290
+					62
+					62000
+					Y
+					D
+					 
+					
+					62910
+					Other Benefits
+					6290
+					62
+					62000
+					Y
+					D
+					 
+					
+					62920
+					Privilege Tax
+					6290
+					62
+					62000
+					Y
+					D
+					 
+					
+					62930
+					Post-Retirement Health Insurance
+					6290
+					62
+					62000
+					Y
+					D
+					 
+					
+					62940
+					Church Health Center
+					6290
+					62
+					62000
+					Y
+					D
+					 
+					
+					62950
+					Benefits and Deductions Suspense
+					6290
+					62
+					62000
+					Y
+					D
+					 
+					
+					62980
+					Fringe Benefits Allocation
+					6290
+					62
+					62000
+					Y
+					D
+					 
+					
+					62990
+					Fringe Benefits Expense
+					6290
+					62
+					62000
+					Y
+					D
+					 
+					
+					62991
+					Fringe Benefits Expense Over Short
+					6290
+					62
+					62000
+					Y
+					D
+					 
+					
+					62995
+					Fringe Benefits Terminal Leave
+					6290
+					62
+					62000
+					Y
+					D
+					 
+					
+					62999
+					Budget Control Benefits
+					6290
+					62
+					62000
+					Y
+					D
+					 
+					70000
+					CODE
+					TITLE
+					AP
+					ATC
+					AP
+					DE
+					NB
+					CA
+					
+					730
+					Travel
+					 
+					71
+					 
+					N
+					D
+					 
+					
+					7300
+					Travel Budget 
+					730
+					71
+					 
+					N
+					D
+					 
+					
+					73000
+					Travel Budget Pool
+					7300
+					71
+					 
+					B
+					D
+					 
+					
+					7310
+					Individual Instate Travel
+					730
+					71
+					 
+					N
+					D
+					 
+					
+					73100
+					Individual Instate Travel
+					7310
+					71
+					73000
+					Y
+					D
+					 
+					
+					7320
+					Individual Out of State Travel
+					730
+					71
+					 
+					N
+					D
+					 
+					
+					73200
+					Individual Out of State Travel
+					7320
+					71
+					73000
+					Y
+					D
+					 
+					
+					73250
+					Individual Out of Country Travel
+					7320
+					71
+					73000
+					Y
+					D
+					 
+					
+					7330
+					Teams or Groups Instate Travel
+					730
+					71
+					 
+					N
+					D
+					 
+					
+					73300
+					Teams or Groups Instate Travel
+					7330
+					71
+					73000
+					Y
+					D
+					 
+					
+					7340
+					Teams or Groups Out of State Travel
+					730
+					71
+					 
+					N
+					D
+					 
+					
+					73400
+					Teams or Groups Out of State Travel
+					7340
+					71
+					73000
+					Y
+					D
+					 
+					
+					73450
+					Team or Group Out of Country Travel
+					7340
+					71
+					73000
+					Y
+					D
+					 
+					
+					7350
+					Visitors Instate Travel
+					730
+					71
+					 
+					N
+					D
+					 
+					
+					73500
+					Visitors Instate Travel
+					7350
+					71
+					73000
+					Y
+					D
+					 
+					
+					7360
+					Visitors Out of State Travel
+					730
+					71
+					 
+					N
+					D
+					 
+					
+					73600
+					Visitors Out of State Travel
+					7360
+					71
+					73000
+					Y
+					D
+					 
+					
+					73650
+					Visitors Out of Country Travel
+					7360
+					71
+					73000
+					Y
+					D
+					 
+					
+					7370
+					Moving Expenses
+					730
+					71
+					 
+					N
+					D
+					 
+					
+					73700
+					Moving Expenses
+					7370
+					71
+					73000
+					Y
+					D
+					 
+					
+					7380
+					Athletic Recruitment Travel
+					730
+					71
+					 
+					N
+					D
+					 
+					
+					73800
+					Athletic Recruitment Travel
+					7380
+					71
+					73000
+					Y
+					D
+					 
+					
+					73850
+					Athletic Recruitment Out of Country
+					7380
+					71
+					73000
+					Y
+					D
+					 
+					
+					7390
+					Other Travel
+					730
+					71
+					 
+					N
+					D
+					 
+					
+					73900
+					Other Travel
+					7390
+					71
+					73000
+					Y
+					D
+					 
+					
+					740
+					Operating Expenses
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7400
+					Operating Expense Budget 
+					740
+					74
+					 
+					N
+					D
+					 
+					
+					74000
+					Operating Expense Budget Pool
+					7400
+					74
+					 
+					B
+					D
+					 
+					
+					741
+					Printing Duplicating and Film Proc
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7411
+					Printing of Supplies by UOM
+					741
+					74
+					 
+					N
+					D
+					 
+					
+					74110
+					Printing of Supplies by UOM
+					7411
+					74
+					74000
+					Y
+					D
+					 
+					
+					7412
+					Printing of Supplies Outside UOM
+					741
+					74
+					 
+					N
+					D
+					 
+					
+					74120
+					Printing of Supplies Outside UOM
+					7412
+					74
+					74000
+					Y
+					D
+					 
+					
+					7413
+					Duplicating and Copying by UOM
+					741
+					74
+					 
+					N
+					D
+					 
+					
+					74130
+					Duplicating and Copying by UOM
+					7413
+					74
+					74000
+					Y
+					D
+					 
+					
+					7414
+					Duplicating and Copying Outside UOM
+					741
+					74
+					 
+					N
+					D
+					 
+					
+					74140
+					Duplicating and Copying Outside UOM
+					7414
+					74
+					74000
+					Y
+					D
+					 
+					
+					7415
+					Film Processing
+					741
+					74
+					 
+					N
+					D
+					 
+					
+					74150
+					Film Processing
+					7415
+					74
+					74000
+					Y
+					D
+					 
+					
+					7416
+					Printing of Publications by UOM
+					741
+					74
+					 
+					N
+					D
+					 
+					
+					74160
+					Printing of Publications by UOM
+					7416
+					74
+					74000
+					Y
+					D
+					 
+					
+					7417
+					Printing of Publication Outside UOM
+					741
+					74
+					 
+					N
+					D
+					 
+					
+					74170
+					Printing of Publication Outside UOM
+					7417
+					74
+					74000
+					Y
+					D
+					 
+					
+					7419
+					Other Printing Duplic and Film Proc
+					741
+					74
+					 
+					N
+					D
+					 
+					
+					74190
+					Other Printing Duplic and Film Proc
+					7419
+					74
+					74000
+					Y
+					D
+					 
+					
+					742
+					Communications and Shipping Costs
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7421
+					Communications and Shipping Costs
+					742
+					74
+					 
+					N
+					D
+					 
+					
+					74210
+					Telephone Local Charges
+					7421
+					74
+					74000
+					Y
+					D
+					 
+					
+					74212
+					Cellphone
+					7421
+					74
+					74000
+					Y
+					D
+					 
+					
+					74214
+					Cellphone Overage
+					7421
+					74
+					74000
+					Y
+					D
+					 
+					
+					7422
+					Telephone Long Distance
+					742
+					74
+					 
+					N
+					D
+					 
+					
+					74220
+					Telephone Long Distance
+					7422
+					74
+					74000
+					Y
+					D
+					 
+					
+					74222
+					Cellphone Long Distance
+					7422
+					74
+					74000
+					Y
+					D
+					 
+					
+					7423
+					Postal Charges
+					742
+					74
+					 
+					N
+					D
+					 
+					
+					74230
+					Postal Charges
+					7423
+					74
+					74000
+					Y
+					D
+					 
+					
+					7424
+					Freight and Express Charges
+					742
+					74
+					 
+					N
+					D
+					 
+					
+					74240
+					Freight and Express Charges
+					7424
+					74
+					74000
+					Y
+					D
+					 
+					
+					7425
+					Cable Television
+					742
+					74
+					 
+					N
+					D
+					 
+					
+					74250
+					Cable Television
+					7425
+					74
+					74000
+					Y
+					D
+					 
+					
+					7426
+					Telephone Installation
+					742
+					74
+					 
+					N
+					D
+					 
+					
+					74260
+					Telephone Installation
+					7426
+					74
+					74000
+					Y
+					D
+					 
+					
+					7429
+					Other Comm and Shipping Costs
+					742
+					74
+					 
+					N
+					D
+					 
+					
+					74290
+					Other Comm and Shipping Costs
+					7429
+					74
+					74000
+					Y
+					D
+					 
+					
+					743
+					Maintenance Repairs by Others
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7431
+					Equipment Maintenance
+					743
+					74
+					 
+					N
+					D
+					 
+					
+					74310
+					Equipment Maintenance
+					7431
+					74
+					74000
+					Y
+					D
+					 
+					
+					7432
+					Building Maintenance
+					743
+					74
+					 
+					N
+					D
+					 
+					
+					74320
+					Building Maintenance
+					7432
+					74
+					74000
+					Y
+					D
+					 
+					
+					7433
+					Maintenance of Grounds
+					743
+					74
+					 
+					N
+					D
+					 
+					
+					74330
+					Grounds Infrastructure Maintenance
+					7433
+					74
+					74000
+					Y
+					D
+					 
+					
+					74340
+					Utilities Maintenance
+					7433
+					74
+					74000
+					Y
+					D
+					 
+					
+					7439
+					Other Maintenance and Repairs
+					743
+					74
+					 
+					N
+					D
+					 
+					
+					74390
+					Other Maintenance and Repairs
+					7439
+					74
+					74000
+					Y
+					D
+					 
+					
+					74391
+					PP Direct Charge Utilities
+					7439
+					74
+					74000
+					Y
+					D
+					 
+					
+					74392
+					PP Direct Charge Maintenance Repair
+					7439
+					74
+					74000
+					Y
+					D
+					 
+					
+					74393
+					PP Direct Charge Grounds
+					7439
+					74
+					74000
+					Y
+					D
+					 
+					
+					74394
+					PP Direct Charge Custodial
+					7439
+					74
+					74000
+					Y
+					D
+					 
+					
+					744
+					Prof and Admin Services
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7443
+					Software Maintenance
+					744
+					74
+					 
+					N
+					D
+					 
+					
+					74430
+					Computer Software
+					7443
+					74
+					74000
+					Y
+					D
+					 
+					
+					74431
+					Software Maintenance
+					7443
+					74
+					74000
+					Y
+					D
+					 
+					
+					74432
+					Software Leases
+					7443
+					74
+					74000
+					Y
+					D
+					 
+					
+					7444
+					Consulting Services
+					744
+					74
+					 
+					N
+					D
+					 
+					
+					74440
+					Consulting Services
+					7444
+					74
+					74000
+					Y
+					D
+					 
+					
+					74441
+					Temporary Agency Services
+					7444
+					74
+					74000
+					Y
+					D
+					 
+					
+					7445
+					Medical Services
+					744
+					74
+					 
+					N
+					D
+					 
+					
+					74450
+					Medical Services
+					7445
+					74
+					74000
+					Y
+					D
+					 
+					
+					7446
+					Legal Services
+					744
+					74
+					 
+					N
+					D
+					 
+					
+					74460
+					Legal Services
+					7446
+					74
+					74000
+					Y
+					D
+					 
+					
+					74461
+					Legal Settlement
+					7446
+					74
+					74000
+					Y
+					D
+					 
+					
+					7447
+					Advertising Services
+					744
+					74
+					 
+					N
+					D
+					 
+					
+					74470
+					Advertising Services
+					7447
+					74
+					74000
+					Y
+					D
+					 
+					
+					7448
+					Dues and Subscriptions
+					744
+					74
+					 
+					N
+					D
+					 
+					
+					74480
+					Membership Dues
+					7448
+					74
+					74000
+					Y
+					D
+					 
+					
+					74481
+					Subscriptions
+					7448
+					74
+					74000
+					Y
+					D
+					 
+					
+					7449
+					Other Professional Admin Services
+					744
+					74
+					 
+					N
+					D
+					 
+					
+					74490
+					Other Professional Admin Services
+					7449
+					74
+					74000
+					Y
+					D
+					 
+					
+					74491
+					Athletic Game Officials
+					7449
+					74
+					74000
+					Y
+					D
+					 
+					
+					74492
+					Hazardous Waste Disposal
+					7449
+					74
+					74000
+					Y
+					D
+					 
+					
+					74493
+					Credit Card Fees
+					7449
+					74
+					74000
+					Y
+					D
+					 
+					
+					74494
+					Banking Service Fees
+					7449
+					74
+					74000
+					Y
+					D
+					 
+					
+					74495
+					Collection Costs
+					7449
+					74
+					74000
+					Y
+					D
+					 
+					
+					74496
+					Teacher Quality Initiative
+					7449
+					74
+					74000
+					Y
+					D
+					 
+					
+					74497
+					TBR Administrative Charges
+					7449
+					74
+					74000
+					Y
+					D
+					 
+					
+					74498
+					Appraisals
+					7449
+					74
+					74000
+					Y
+					D
+					 
+					
+					745
+					Supplies
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7450
+					Supplies
+					745
+					74
+					 
+					N
+					D
+					 
+					
+					74500
+					Supplies
+					7450
+					74
+					74000
+					Y
+					D
+					 
+					
+					74501
+					Medical Supplies
+					7450
+					74
+					74000
+					Y
+					D
+					 
+					
+					74502
+					Athletic Uniforms
+					7450
+					74
+					74000
+					Y
+					D
+					 
+					
+					74503
+					Athletic Supplies
+					7450
+					74
+					74000
+					Y
+					D
+					 
+					
+					74504
+					Controlled Equip under $1,500
+					7450
+					74
+					74000
+					Y
+					D
+					17400
+					
+					74505
+					Animal Care Charges
+					7450
+					74
+					74000
+					Y
+					D
+					 
+					
+					74506
+					Technology Supplies
+					7450
+					74
+					74000
+					Y
+					D
+					 
+					
+					74507
+					Instructional Supplies
+					7450
+					74
+					74000
+					Y
+					D
+					 
+					
+					74510
+					Sensitive Equipment ($1,500-$4,999)
+					7450
+					74
+					74000
+					Y
+					D
+					17400
+					
+					74511
+					Computers ($1,500 - $4,999)
+					7450
+					74
+					74000
+					Y
+					D
+					17400
+					
+					74513
+					Buildings (under $100,000)
+					7450
+					74
+					74000
+					Y
+					D
+					 
+					
+					746
+					Rental and Insurance
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7461
+					Operating Leases for Real Property
+					746
+					74
+					 
+					N
+					D
+					 
+					
+					74610
+					Operating Leases for Land
+					7461
+					74
+					74000
+					Y
+					D
+					 
+					
+					74611
+					Operating Leases for Space
+					7461
+					74
+					74000
+					Y
+					D
+					 
+					
+					7462
+					Operating Leases for Equipment
+					746
+					74
+					 
+					N
+					D
+					 
+					
+					74620
+					Operating Leases for Equipment
+					7462
+					74
+					74000
+					Y
+					D
+					 
+					
+					7463
+					Rentals
+					746
+					74
+					 
+					N
+					D
+					 
+					
+					74630
+					Rental of Equipment
+					7463
+					74
+					74000
+					Y
+					D
+					 
+					
+					74631
+					Rental of Software
+					7463
+					74
+					74000
+					Y
+					D
+					 
+					
+					74632
+					Rental of Space
+					7463
+					74
+					74000
+					Y
+					D
+					 
+					
+					74633
+					Rental of Music
+					7463
+					74
+					74000
+					Y
+					D
+					 
+					
+					7465
+					Insurance
+					746
+					74
+					 
+					N
+					D
+					 
+					
+					74650
+					Insurance Property
+					7465
+					74
+					74000
+					Y
+					D
+					 
+					
+					74651
+					Insurance Other
+					7465
+					74
+					74000
+					Y
+					D
+					 
+					
+					7466
+					Capital Leases
+					746
+					74
+					 
+					N
+					D
+					 
+					
+					74660
+					Capital Leases Real Property
+					7466
+					74
+					74000
+					Y
+					D
+					 
+					
+					74661
+					Capital Leases Equipment
+					7466
+					74
+					74000
+					Y
+					D
+					 
+					
+					747
+					Awards and Indemnities
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7476
+					Awards to Employees
+					747
+					74
+					 
+					N
+					D
+					 
+					
+					74760
+					Awards to Employees
+					7476
+					74
+					74000
+					Y
+					D
+					 
+					
+					7479
+					Other Awards and Indemnities
+					747
+					74
+					 
+					N
+					D
+					 
+					
+					74790
+					Other Awards and Indemnities
+					7479
+					74
+					74000
+					Y
+					D
+					 
+					
+					74791
+					Miscellaneous Awards to Students
+					7479
+					74
+					74000
+					Y
+					D
+					 
+					
+					74792
+					Death Benefits
+					7479
+					74
+					74000
+					Y
+					D
+					 
+					
+					74793
+					Flexible Benefits
+					7479
+					74
+					74000
+					Y
+					D
+					 
+					
+					74794
+					Contractual Severance Pay
+					7479
+					74
+					74000
+					Y
+					D
+					 
+					
+					748
+					Grants and Subsidies
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7481
+					Grant and Subsidie to Organizations
+					748
+					74
+					 
+					N
+					D
+					 
+					
+					74810
+					Grant and Subsidie to Organizations
+					7481
+					74
+					74000
+					Y
+					D
+					 
+					
+					7482
+					Grants and Subsidies to Individuals
+					748
+					74
+					 
+					N
+					D
+					 
+					
+					74820
+					Grants and Subsidies to Individuals
+					7482
+					74
+					74000
+					Y
+					D
+					 
+					
+					7483
+					Training Costs for Employees
+					748
+					74
+					 
+					N
+					D
+					 
+					
+					74830
+					Training Costs for Employees
+					7483
+					74
+					74000
+					Y
+					D
+					 
+					
+					7488
+					Other Grants and Subsidies
+					748
+					74
+					 
+					N
+					D
+					 
+					
+					74880
+					Housing Allowances
+					7488
+					74
+					74000
+					Y
+					D
+					 
+					
+					74881
+					Dependency Allowance
+					7488
+					74
+					74000
+					Y
+					D
+					 
+					
+					74882
+					Grant Overruns
+					7488
+					74
+					74000
+					Y
+					D
+					 
+					
+					74883
+					Grants Non-Sponsor Revenue
+					7488
+					74
+					74000
+					Y
+					D
+					 
+					
+					749
+					Other Services and Expenses
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7491
+					Cash Short and Over
+					749
+					74
+					 
+					N
+					D
+					 
+					
+					74910
+					Cash Short and Over
+					7491
+					74
+					74000
+					Y
+					D
+					 
+					
+					7492
+					Bad Debts
+					749
+					74
+					 
+					N
+					D
+					 
+					
+					74920
+					Bad Debts
+					7492
+					74
+					74000
+					Y
+					D
+					 
+					
+					7493
+					Gain Loss on Disposal Fixed Asset
+					749
+					74
+					 
+					N
+					D
+					 
+					
+					74930
+					Gain Loss on Disposal Fixed Asset
+					7493
+					74
+					 
+					Y
+					D
+					 
+					
+					7498
+					Miscellaneous Unclassified
+					749
+					74
+					 
+					N
+					D
+					 
+					
+					74980
+					Guarantees Paid
+					7498
+					74
+					74000
+					Y
+					D
+					 
+					
+					74981
+					Entry Fees
+					7498
+					74
+					74000
+					Y
+					D
+					 
+					
+					74982
+					Publications and Reports
+					7498
+					74
+					74000
+					Y
+					D
+					 
+					
+					74983
+					Meals and Food Services
+					7498
+					74
+					74000
+					Y
+					D
+					 
+					
+					74984
+					Non Catalogued Books Periodicals
+					7498
+					74
+					74000
+					Y
+					D
+					 
+					
+					74985
+					Complimentary Athletic Tickets
+					7498
+					74
+					74000
+					Y
+					D
+					 
+					
+					74986
+					Other Services and Expenses
+					7498
+					74
+					74000
+					Y
+					D
+					 
+					
+					74987
+					Study Abroad Fees
+					7498
+					74
+					74000
+					Y
+					D
+					 
+					
+					74988
+					Periodicals
+					7498
+					74
+					74000
+					Y
+					D
+					 
+					
+					7499
+					Late Payment Charges 
+					749
+					74
+					 
+					N
+					D
+					 
+					
+					74990
+					InterestLate Payment Penalties
+					7499
+					74
+					74000
+					Y
+					D
+					 
+					
+					74991
+					Microformat - Periodicals
+					7498
+					74
+					74000
+					Y
+					D
+					 
+					
+					74992
+					Parking Spaces/Decals
+					7498
+					74
+					74000
+					Y
+					D
+					 
+					
+					74993
+					Royality Payments
+					7498
+					74
+					74000
+					Y
+					D
+					 
+					
+					751
+					Utilities and Fuel
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7510
+					Utility Expense Budget
+					751
+					74
+					 
+					N
+					D
+					 
+					
+					75100
+					Utility Expense Budget Pool
+					7510
+					74
+					 
+					B
+					D
+					 
+					
+					7511
+					Electricity
+					751
+					74
+					 
+					N
+					D
+					 
+					
+					75110
+					Electricity
+					7511
+					74
+					75100
+					Y
+					D
+					 
+					
+					7512
+					Water and Sewage
+					751
+					74
+					 
+					N
+					D
+					 
+					
+					75120
+					Water
+					7512
+					74
+					75100
+					Y
+					D
+					 
+					
+					75121
+					Sewage
+					7512
+					74
+					75100
+					Y
+					D
+					 
+					
+					75122
+					Water Evaporation Credit
+					7512
+					74
+					75100
+					Y
+					D
+					 
+					
+					7513
+					Natural Gas
+					751
+					74
+					 
+					N
+					D
+					 
+					
+					75130
+					Natural Gas
+					7513
+					74
+					75100
+					Y
+					D
+					 
+					
+					7514
+					Coal
+					751
+					74
+					 
+					N
+					D
+					 
+					
+					75140
+					Coal
+					7514
+					74
+					75100
+					Y
+					D
+					 
+					
+					7515
+					Fuel Oil
+					751
+					74
+					 
+					N
+					D
+					 
+					
+					75150
+					Fuel Oil
+					7515
+					74
+					75100
+					Y
+					D
+					 
+					
+					7519
+					Other Utilities and Fuel
+					751
+					74
+					 
+					N
+					D
+					 
+					
+					75190
+					City Service Fee
+					7519
+					74
+					75100
+					Y
+					D
+					 
+					
+					75191
+					Garbage Waste Disposal
+					7519
+					74
+					75100
+					Y
+					D
+					 
+					
+					75192
+					Recycle Waste Disposal
+					7519
+					74
+					75100
+					Y
+					D
+					 
+					
+					752
+					Motor Vehicle Operation
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7521
+					Motor Fuel Oil Lubricants
+					752
+					74
+					 
+					N
+					D
+					 
+					
+					75210
+					Motor Fuel Oil Lubricants
+					7521
+					74
+					74000
+					Y
+					D
+					 
+					
+					7522
+					Tires and Tubes
+					752
+					74
+					 
+					N
+					D
+					 
+					
+					75220
+					Tires and Tubes
+					7522
+					74
+					74000
+					Y
+					D
+					 
+					
+					7523
+					Accessories and Parts
+					752
+					74
+					 
+					N
+					D
+					 
+					
+					75230
+					Accessories and Parts
+					7523
+					74
+					74000
+					Y
+					D
+					 
+					
+					7524
+					Repairs by Noninstitutional Agency
+					752
+					74
+					 
+					N
+					D
+					 
+					
+					75240
+					Repairs by Noninstitutional Agency
+					7524
+					74
+					74000
+					Y
+					D
+					 
+					
+					7529
+					Other Motor Vehicle Operation
+					752
+					74
+					 
+					N
+					D
+					 
+					
+					75290
+					Other Motor Vehicle Operation
+					7529
+					74
+					74000
+					Y
+					D
+					 
+					
+					753
+					Allocated Charges
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7530
+					Allocated Charges Budget
+					753
+					74
+					 
+					N
+					D
+					 
+					
+					75300
+					Allocated Charges Budget Pool
+					7530
+					74
+					 
+					B
+					D
+					 
+					
+					7531
+					Prof and Admin Services by UOM Dept
+					753
+					74
+					 
+					N
+					D
+					 
+					
+					75310
+					Prof and Admin Services Allocation
+					7531
+					74
+					74000
+					Y
+					D
+					 
+					
+					75311
+					Liability Claims Adjustment
+					7531
+					74
+					74000
+					Y
+					D
+					 
+					
+					75312
+					Property Insurance
+					7531
+					74
+					74000
+					Y
+					D
+					 
+					
+					75315
+					Worker's Compensation Insurance
+					7531
+					74
+					74000
+					Y
+					D
+					 
+					
+					7532
+					Data Processing Allocations
+					753
+					74
+					 
+					N
+					D
+					 
+					
+					75320
+					Data Processing Allocations
+					7532
+					74
+					74000
+					Y
+					D
+					 
+					
+					7533
+					Renewal and Replacement Charges
+					753
+					74
+					 
+					N
+					D
+					 
+					
+					75330
+					Renewal and Replacement Charges
+					7533
+					74
+					74000
+					Y
+					D
+					 
+					
+					7534
+					Prorata Allocations
+					753
+					74
+					 
+					N
+					D
+					 
+					
+					75340
+					Plant Allocations Utilities
+					7534
+					74
+					74000
+					Y
+					D
+					 
+					
+					75341
+					Plant Allocations Grounds
+					7534
+					74
+					74000
+					Y
+					D
+					 
+					
+					75342
+					Plant Allocations Custodial
+					7534
+					74
+					74000
+					Y
+					D
+					 
+					
+					75343
+					Plant Allocations HVAC Steam Chill
+					7534
+					74
+					74000
+					Y
+					D
+					 
+					
+					75344
+					Plant Allocations HVAC Other
+					7534
+					74
+					74000
+					Y
+					D
+					 
+					
+					75345
+					Institutional Support Allocation
+					7534
+					74
+					74000
+					Y
+					D
+					 
+					
+					75346
+					Residence Life Allocation
+					7534
+					74
+					74000
+					Y
+					D
+					 
+					
+					7535
+					Other Allocations
+					753
+					74
+					 
+					N
+					D
+					 
+					
+					75350
+					Cost Sharing
+					7535
+					74
+					74000
+					Y
+					D
+					 
+					
+					760
+					Stores for Resale Reissue or Manuf
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7610
+					Stores for Resale Reissue or Manuf
+					760
+					74
+					 
+					N
+					D
+					 
+					
+					76100
+					Stores for Resale Reissue or Manuf
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76101
+					Stores for Resale A
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76102
+					Stores for Resale B
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76103
+					Stores for Resale C
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76104
+					Stores for Resale D
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76105
+					Stores for Resale E
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76109
+					Constructed Equipment
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76110
+					PS Operator Supplies
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76111
+					Partial Outsource
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76112
+					Complete Outsource
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76115
+					Corel Word Perfect
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76116
+					Software Licenses
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76120
+					Local Telephone
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76121
+					Long Distance Telephone
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76122
+					Billed Leased Inventory
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76123
+					Commodity Internet
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76124
+					Cellular
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76125
+					CableVision
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76126
+					Local Telephone Chargeback
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76127
+					Long Distance Chargeback
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76128
+					Outsourced Services
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76129
+					Prepaid Calling
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76130
+					Pager Services
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76141
+					Apparel Purchases
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76142
+					Book Purchases
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76143
+					Jewelry Purchases
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76144
+					Music Purchases
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					76145
+					Other Purchases
+					7610
+					74
+					74000
+					Y
+					D
+					 
+					
+					770
+					Grants and Contracts Operating Exp
+					 
+					74
+					 
+					N
+					D
+					 
+					
+					7710
+					Grants and Contracts Operating Exp
+					770
+					74
+					 
+					N
+					D
+					 
+					
+					77100
+					GC Pool Print Duplic and Film Proc
+					7710
+					74
+					 
+					B
+					D
+					 
+					
+					77110
+					GC Printing Duplicating by UOM
+					7710
+					74
+					77100
+					Y
+					D
+					 
+					
+					77120
+					GC Printing Duplicating outside UOM
+					7710
+					74
+					77100
+					Y
+					D
+					 
+					
+					77130
+					GC Printing Duplic Film Proc Other
+					7710
+					74
+					77100
+					Y
+					D
+					 
+					
+					7720
+					GC Communication and Shipping Costs
+					770
+					74
+					 
+					N
+					D
+					 
+					
+					77200
+					GC Pool Comm and Shipping Costs
+					7720
+					74
+					 
+					B
+					D
+					 
+					
+					77210
+					GC Telephone Local
+					7720
+					74
+					77200
+					Y
+					D
+					 
+					
+					77220
+					GC Telephone Long Distance
+					7720
+					74
+					77200
+					Y
+					D
+					 
+					
+					77230
+					GC Telephone Moves and Changes
+					7720
+					74
+					77200
+					Y
+					D
+					 
+					
+					77240
+					GC Cellphone Base Charge
+					7720
+					74
+					77200
+					Y
+					D
+					 
+					
+					77250
+					GC Cellphone Overage
+					7720
+					74
+					77200
+					Y
+					D
+					 
+					
+					77260
+					GC Cellphone Long Distance
+					7720
+					74
+					77200
+					Y
+					D
+					 
+					
+					77270
+					GC Postage
+					7720
+					74
+					77200
+					Y
+					D
+					 
+					
+					7730
+					GC Maintenance and Repairs
+					770
+					74
+					 
+					N
+					D
+					 
+					
+					77300
+					GC Pool Maintenance and Repairs
+					7730
+					74
+					 
+					B
+					D
+					 
+					
+					77310
+					GC Maintenance and Repairs
+					7730
+					74
+					77300
+					Y
+					D
+					 
+					
+					7740
+					GC Professional and Admin Services
+					770
+					74
+					 
+					N
+					D
+					 
+					
+					77400
+					GC Pool Prof and Admin Services
+					7740
+					74
+					 
+					B
+					D
+					 
+					
+					77410
+					GC Prof and Admin Services
+					7740
+					74
+					77400
+					Y
+					D
+					 
+					
+					77420
+					GC Computer Software
+					7740
+					74
+					77400
+					Y
+					D
+					 
+					
+					77430
+					GC Consulting Services
+					7740
+					74
+					77400
+					Y
+					D
+					 
+					
+					77440
+					GC Advertising Services
+					7740
+					74
+					77400
+					Y
+					D
+					 
+					
+					77450
+					GC Subscriptions
+					7740
+					74
+					77400
+					Y
+					D
+					 
+					
+					77460
+					GC Other Prof Admin Services
+					7740
+					74
+					77400
+					Y
+					D
+					 
+					
+					7750
+					GC Supplies
+					770
+					74
+					 
+					N
+					D
+					 
+					
+					77500
+					GC Pool Supplies
+					7750
+					74
+					 
+					B
+					D
+					 
+					
+					77510
+					GC Supplies
+					7750
+					74
+					77500
+					Y
+					D
+					 
+					
+					7760
+					GC Rental and Insurance
+					770
+					74
+					 
+					N
+					D
+					 
+					
+					77600
+					GC Pool Rental and Insurance
+					7760
+					74
+					 
+					B
+					D
+					 
+					
+					77610
+					GC Rent or Lease of Space
+					7760
+					74
+					77600
+					Y
+					D
+					 
+					
+					77620
+					GC Rent or Lease of Land
+					7760
+					74
+					77600
+					Y
+					D
+					 
+					
+					7770
+					GC Awards and Indemnities
+					770
+					74
+					 
+					N
+					D
+					 
+					
+					77700
+					GC Pool Awards and Indemnities
+					7770
+					74
+					 
+					B
+					D
+					 
+					
+					77710
+					GC Grants Payments to Individuals
+					7770
+					74
+					77700
+					Y
+					D
+					 
+					
+					77720
+					GC Grants Payments to Organizations
+					7770
+					74
+					77700
+					Y
+					D
+					 
+					
+					77730
+					GC Pell Grants
+					7770
+					74
+					77700
+					Y
+					D
+					 
+					
+					77740
+					GC Direct Loan Program
+					7770
+					74
+					77700
+					Y
+					D
+					 
+					
+					7780
+					GC Other Services and Expenses
+					770
+					74
+					 
+					N
+					D
+					 
+					
+					77800
+					GC Pool Other Services and Expenses
+					7780
+					74
+					 
+					B
+					D
+					 
+					
+					77810
+					GC Publications and Reports
+					7780
+					74
+					77800
+					Y
+					D
+					 
+					
+					77820
+					GC Meals and Food Service
+					7780
+					74
+					77800
+					Y
+					D
+					 
+					
+					77830
+					GC Subcontracts under $25,000
+					7780
+					74
+					77800
+					Y
+					D
+					 
+					
+					77840
+					GC Subcontracts over $25,000
+					7780
+					74
+					77800
+					Y
+					D
+					 
+					
+					7790
+					GC Utilities and Fuel
+					770
+					74
+					 
+					N
+					D
+					 
+					
+					77900
+					GC Pool Utilities and Fuel
+					7790
+					74
+					 
+					B
+					D
+					 
+					
+					77910
+					GC Utilities
+					7790
+					74
+					77900
+					Y
+					D
+					 
+					
+					77920
+					GC Motor Vehicle 
+					7790
+					74
+					77900
+					Y
+					D
+					 
+					
+					754
+					Departmental Revenues
+					 
+					75
+					 
+					N
+					C
+					 
+					
+					7540
+					Departmental Revenues Budget
+					754
+					75
+					 
+					N
+					C
+					 
+					
+					75400
+					Departmental Revenue Budget Pool
+					7540
+					75
+					 
+					B
+					C
+					 
+					
+					7541
+					Departmental Revenues
+					754
+					75
+					 
+					N
+					C
+					 
+					
+					75410
+					Departmental Revenues
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75411
+					Dept Revenues A Non Taxable
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75412
+					Dept Revenues B Non Taxable
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75413
+					Dept Revenues C Non Taxable
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75414
+					Dept Revenues D Non Taxable
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75415
+					Dept Revenues E Non Taxable
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75416
+					Dept Sales and Services A Non Tax
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75417
+					Dept Sales and Services B Non Tax
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75418
+					Dept Sales and Services C Non Tax
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75419
+					Dept Sales and Services D Non Tax
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75420
+					Dept Sales and Services E Non Tax
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75421
+					Departmental Local Telephone
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75422
+					Departmental Long Distance
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75423
+					Departmental Sales and Services
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75424
+					Departmental Leases
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75425
+					Departmental Cellular
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75426
+					Departmental Cable Vision
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75427
+					Departmental Chargeback
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75430
+					Univ Facilities Rental Non Taxable
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75431
+					Conference Fees Non Taxable
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75432
+					Equipment Rental Non Taxable
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75433
+					Vendor Fees Non Taxable
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75434
+					Technical Service Fees Non Tax
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75435
+					Parking Fees - Non Tax
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75436
+					Departmental WCCG
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75437
+					Dept Catering - Other
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75440
+					Rats
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75441
+					Rabbits
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75442
+					Mice Voles
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75443
+					Hamsters
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75444
+					Warm Blooded Creatures
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75445
+					Pigs
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75450
+					Corel Word Perfect Revenue
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75451
+					Software Licenses Revenue
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75460
+					Dept PP Direct Charge Utilities
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75461
+					Dept PP Direct Charge Maint Repair
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75462
+					Dept PP Direct Charge Grounds
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75463
+					Dept PP Direct Charge Custodial
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75464
+					Dept PP Direct Charge Motor Fuel
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75470
+					Grants Non-Sponsor Revenue
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					75490
+					Student Activity Fee Allocations
+					7541
+					75
+					75400
+					Y
+					C
+					 
+					
+					780
+					Capital Expense Budget Pool
+					 
+					78
+					 
+					N
+					D
+					 
+					
+					7800
+					Capital Expense Budget Pool
+					780
+					78
+					 
+					N
+					D
+					 
+					
+					78000
+					Capital Expense Budget Pool
+					7800
+					78
+					 
+					B
+					D
+					 
+					
+					781
+					Equipment
+					 
+					78
+					 
+					N
+					D
+					 
+					
+					7811
+					Office Equipment
+					781
+					78
+					 
+					N
+					D
+					 
+					
+					78110
+					Office Equipment
+					7811
+					78
+					78000
+					Y
+					D
+					17400
+					
+					78111
+					Furniture and Fixtures
+					7811
+					78
+					78000
+					Y
+					D
+					17400
+					
+					7812
+					Operational Equipment
+					781
+					78
+					 
+					N
+					D
+					 
+					
+					78120
+					Operational Equipment
+					7812
+					78
+					78000
+					Y
+					D
+					17400
+					
+					7813
+					Instructional Equipment
+					781
+					78
+					 
+					N
+					D
+					 
+					
+					78130
+					Instructional Equipment
+					7813
+					78
+					78000
+					Y
+					D
+					17400
+					
+					7819
+					Other Equipment
+					781
+					78
+					 
+					N
+					D
+					 
+					
+					78190
+					Other Equipment
+					7819
+					78
+					78000
+					Y
+					D
+					17400
+					
+					78195
+					Works of Art
+					7819
+					78
+					78000
+					Y
+					D
+					17400
+					
+					782
+					Land
+					 
+					78
+					 
+					N
+					D
+					 
+					
+					7821
+					Purchase of Land
+					782
+					78
+					 
+					N
+					D
+					 
+					
+					78210
+					Purchase of Land
+					7821
+					78
+					78000
+					Y
+					D
+					 
+					
+					7822
+					Site Development and Improvement
+					782
+					78
+					 
+					N
+					D
+					 
+					
+					78220
+					Site Development and Improvement
+					7822
+					78
+					78000
+					Y
+					D
+					 
+					
+					7829
+					Other Land Costs
+					782
+					78
+					 
+					N
+					D
+					 
+					
+					78290
+					Appraisals
+					7829
+					78
+					78000
+					Y
+					D
+					 
+					
+					78291
+					Legal Administrative Fees
+					7829
+					78
+					78000
+					Y
+					D
+					 
+					
+					78292
+					Other Land Costs
+					7829
+					78
+					78000
+					Y
+					D
+					 
+					
+					783
+					Buildings
+					 
+					78
+					 
+					N
+					D
+					 
+					
+					7831
+					Puchase of Buildings
+					783
+					78
+					 
+					N
+					D
+					 
+					
+					78310
+					Purchase of Buildings
+					7831
+					78
+					78000
+					Y
+					D
+					 
+					
+					78311
+					Other Building Costs
+					7829
+					78
+					78000
+					Y
+					D
+					 
+					
+					7832
+					Construction of Buildings
+					783
+					78
+					 
+					N
+					D
+					 
+					
+					78320
+					Construction Contracts
+					7832
+					78
+					78000
+					Y
+					D
+					 
+					
+					78321
+					Architectural Services
+					7832
+					78
+					78000
+					Y
+					D
+					 
+					
+					78322
+					Engineering Services
+					7832
+					78
+					78000
+					Y
+					D
+					 
+					
+					78323
+					Concrete Testing
+					7832
+					78
+					78000
+					Y
+					D
+					 
+					
+					78324
+					Stationary Equipment
+					7832
+					78
+					78000
+					Y
+					D
+					 
+					
+					78325
+					Topographical Surveys
+					7832
+					78
+					78000
+					Y
+					D
+					 
+					
+					78326
+					Legal Administrative Fees
+					7832
+					78
+					78000
+					Y
+					D
+					 
+					
+					78327
+					Contingency
+					7832
+					78
+					78000
+					Y
+					D
+					 
+					
+					78328
+					Other Construction Costs
+					7832
+					78
+					78000
+					Y
+					D
+					 
+					
+					784
+					Improvements and Infrastructure
+					 
+					78
+					 
+					N
+					D
+					 
+					
+					7841
+					Parking Lots Streets Walks etc
+					784
+					78
+					 
+					N
+					D
+					 
+					
+					78410
+					Construction Contracts
+					7841
+					78
+					78000
+					Y
+					D
+					 
+					
+					78411
+					Architectural Engineering Services
+					7841
+					78
+					78000
+					Y
+					D
+					 
+					
+					78412
+					Legal Administrative Fees
+					7841
+					78
+					78000
+					Y
+					D
+					 
+					
+					78413
+					Landscaping and Paving
+					7841
+					78
+					78000
+					Y
+					D
+					 
+					
+					78414
+					Electrical Work
+					7841
+					78
+					78000
+					Y
+					D
+					 
+					
+					78415
+					Safety Items
+					7841
+					78
+					78000
+					Y
+					D
+					 
+					
+					78416
+					Topographical Surveys
+					7841
+					78
+					78000
+					Y
+					D
+					 
+					
+					78417
+					Contingency
+					7841
+					78
+					78000
+					Y
+					D
+					 
+					
+					78418
+					Other Parking Street Costs
+					7841
+					78
+					78000
+					Y
+					D
+					 
+					
+					7842
+					Utility System MaintenanceOper
+					784
+					78
+					 
+					N
+					D
+					 
+					
+					78420
+					Construction Contracts
+					7842
+					78
+					78000
+					Y
+					D
+					 
+					
+					78421
+					Architectural Engineering Services
+					7842
+					78
+					78000
+					Y
+					D
+					 
+					
+					78422
+					LegalAdministrative Fees
+					7842
+					78
+					78000
+					Y
+					D
+					 
+					
+					78423
+					Landscaping and Paving
+					7842
+					78
+					78000
+					Y
+					D
+					 
+					
+					78424
+					Electrical Work
+					7842
+					78
+					78000
+					Y
+					D
+					 
+					
+					78425
+					Safety Items
+					7842
+					78
+					78000
+					Y
+					D
+					 
+					
+					78426
+					Topographical Surveys
+					7842
+					78
+					78000
+					Y
+					D
+					 
+					
+					78427
+					Contingency
+					7842
+					78
+					78000
+					Y
+					D
+					 
+					
+					78428
+					Other Utility System Maint Costs
+					7842
+					78
+					78000
+					Y
+					D
+					 
+					
+					7849
+					Other Improvements
+					784
+					78
+					 
+					N
+					D
+					 
+					
+					78490
+					Construction Contracts
+					7849
+					78
+					78000
+					Y
+					D
+					 
+					
+					78491
+					Architectural Engineering Services
+					7849
+					78
+					78000
+					Y
+					D
+					 
+					
+					78492
+					Legal Administrative Fees
+					7849
+					78
+					78000
+					Y
+					D
+					 
+					
+					78493
+					Landscaping and Paving
+					7849
+					78
+					78000
+					Y
+					D
+					 
+					
+					78494
+					Electrical Work
+					7849
+					78
+					78000
+					Y
+					D
+					 
+					
+					78495
+					Safety Items
+					7849
+					78
+					78000
+					Y
+					D
+					 
+					
+					78496
+					Topographical Surveys
+					7849
+					78
+					78000
+					Y
+					D
+					 
+					
+					78497
+					Contingency
+					7849
+					78
+					78000
+					Y
+					D
+					 
+					
+					78498
+					Other Improvements
+					7849
+					78
+					78000
+					Y
+					D
+					 
+					
+					785
+					Library Books and Binding
+					 
+					78
+					 
+					N
+					D
+					 
+					
+					7851
+					Books
+					785
+					78
+					 
+					N
+					D
+					 
+					
+					78510
+					Books
+					7851
+					78
+					78000
+					Y
+					D
+					 
+					
+					78511
+					Books Freight
+					7851
+					78
+					78000
+					Y
+					D
+					 
+					
+					78512
+					Books Standing Orders
+					7851
+					78
+					78000
+					Y
+					D
+					 
+					
+					7852
+					Periodicals
+					785
+					78
+					 
+					N
+					D
+					 
+					
+					78520
+					Periodicals
+					7852
+					78
+					78000
+					Y
+					D
+					 
+					
+					7853
+					Binding
+					785
+					78
+					 
+					N
+					D
+					 
+					
+					78530
+					Binding
+					7853
+					78
+					78000
+					Y
+					D
+					 
+					
+					7854
+					Films
+					785
+					78
+					 
+					N
+					D
+					 
+					
+					78540
+					Films
+					7854
+					78
+					78000
+					Y
+					D
+					 
+					
+					7855
+					Microform
+					785
+					78
+					 
+					N
+					D
+					 
+					
+					78550
+					Microformat - Books
+					7855
+					78
+					78000
+					Y
+					D
+					 
+					
+					7858
+					Other Library
+					785
+					78
+					 
+					N
+					D
+					 
+					
+					78580
+					Other Library Holdings
+					7858
+					78
+					78000
+					Y
+					D
+					 
+					
+					786
+					Capitalized Software
+					 
+					78
+					 
+					N
+					D
+					 
+					
+					7861
+					Capitalized Software
+					786
+					78
+					 
+					N
+					D
+					 
+					
+					78610
+					Capitalized Software
+					7861
+					78
+					78000
+					Y
+					D
+					 
+					
+					790
+					Scholarships and Fellowships
+					 
+					79
+					 
+					N
+					D
+					 
+					
+					7900
+					Scholarships and Fellowships Budget
+					790
+					79
+					 
+					N
+					D
+					 
+					
+					79000
+					Scholarships and Fellow Budget Pool
+					7900
+					79
+					 
+					B
+					D
+					 
+					
+					791
+					Scholarships and Fellowships
+					 
+					79
+					 
+					N
+					D
+					 
+					
+					7971
+					Scholarships
+					791
+					79
+					 
+					N
+					D
+					 
+					
+					79710
+					Scholarships
+					7971
+					79
+					79000
+					Y
+					D
+					 
+					
+					79711
+					Scholarships Credits
+					7971
+					79
+					79000
+					Y
+					C
+					 
+					
+					79712
+					Scholarships Out of State
+					7971
+					79
+					79000
+					Y
+					D
+					 
+					
+					79713
+					Fee Remissions Graduate Assist
+					7971
+					79
+					79000
+					Y
+					D
+					 
+					
+					79714
+					Fee Remissions Credits
+					7971
+					79
+					79000
+					Y
+					C
+					 
+					
+					79715
+					Fee Remissions Miscellaneous
+					7971
+					79
+					79000
+					Y
+					D
+					 
+					
+					79716
+					Scholarships Computers
+					7971
+					79
+					79000
+					Y
+					D
+					 
+					
+					79717
+					Scholarships Other
+					7971
+					79
+					79000
+					Y
+					D
+					 
+					
+					79718
+					Scholarships National Merit Housing
+					7971
+					79
+					79000
+					Y
+					D
+					 
+					
+					7972
+					Fellowships
+					791
+					79
+					 
+					N
+					D
+					 
+					
+					79720
+					Fellowships
+					7972
+					79
+					79000
+					Y
+					D
+					 
+					
+					7973
+					Athletic Scholarships
+					791
+					79
+					 
+					N
+					D
+					 
+					
+					79730
+					Athletic Scho Tuition Instate
+					7973
+					79
+					79000
+					Y
+					D
+					 
+					
+					79731
+					Athletic Scho Tuition Out of State
+					7973
+					79
+					79000
+					Y
+					D
+					 
+					
+					79732
+					Athletic Scholarship Meals
+					7973
+					79
+					79000
+					Y
+					D
+					 
+					
+					79733
+					Athletic Scho BoardSupport
+					7973
+					79
+					79000
+					Y
+					D
+					 
+					
+					79734
+					Athletic Scholarship Books
+					7973
+					79
+					79000
+					Y
+					D
+					 
+					
+					79735
+					Athletic Scholarship Non Athlete
+					7973
+					79
+					79000
+					Y
+					D
+					 
+					
+					79736
+					Athletic Fee Remiss Graduate Assist
+					7973
+					79
+					79000
+					Y
+					D
+					 
+					
+					7974
+					Sponsored Projects Fee Remissions
+					791
+					79
+					 
+					N
+					D
+					 
+					
+					79740
+					GC Fee Remissions
+					7974
+					79
+					79000
+					Y
+					D
+					 
+					
+					79741
+					GC Fee Remissions Graduate Assist
+					7974
+					79
+					79000
+					Y
+					D
+					 
+					
+					79742
+					GC Other Awards and Indemnities
+					7974
+					79
+					79000
+					Y
+					D
+					 
+					
+					79743
+					GC Application Fee Waiver Program
+					7974
+					79
+					79000
+					Y
+					D
+					 
+					
+					7975
+					Statutory Fee Remissions 
+					791
+					79
+					 
+					N
+					D
+					 
+					
+					79750
+					PC 191 TBR Institutions
+					7975
+					79
+					79000
+					Y
+					D
+					 
+					
+					79751
+					PC 191 Non TBR Institutions
+					7975
+					79
+					79000
+					Y
+					D
+					 
+					
+					79752
+					PC 191 Out of State
+					7975
+					79
+					79000
+					Y
+					D
+					 
+					
+					79753
+					State Employee ChildDependent
+					7975
+					79
+					79000
+					Y
+					D
+					 
+					
+					79754
+					Teacher ChildDependent
+					7975
+					79
+					79000
+					Y
+					D
+					 
+					
+					79755
+					VBP/RIF Tuition Assistance
+					7975
+					79
+					79000
+					Y
+					D
+					 
+					
+					79759
+					Statutory Fee Remissions Credits
+					7975
+					79
+					79000
+					Y
+					C
+					 
+					
+					7A0
+					Depreciation Expense
+					 
+					7A
+					 
+					N
+					D
+					 
+					
+					7A10
+					Equipment Depreciation
+					7A0
+					7A
+					 
+					N
+					D
+					 
+					
+					7A100
+					Equipment Depreciation
+					7A10
+					7A
+					 
+					Y
+					D
+					 
+					
+					7A20
+					Buildings Depreciation 
+					7A0
+					7A
+					 
+					N
+					D
+					 
+					
+					7A200
+					Buildings Depreciation 
+					7A20
+					7A
+					 
+					Y
+					D
+					 
+					
+					7A30
+					Improve and Infras Depreciation
+					7A0
+					7A
+					 
+					N
+					D
+					 
+					
+					7A300
+					Improve and Infras Depreciation
+					7A30
+					7A
+					 
+					Y
+					D
+					 
+					
+					7A40
+					Library Holdings Depreciation 
+					7A0
+					7A
+					 
+					N
+					D
+					 
+					
+					7A400
+					Library Holdings Depreciation 
+					7A40
+					7A
+					 
+					Y
+					D
+					 
+					
+					7A50
+					Software Amortization
+					7A0
+					7A
+					 
+					N
+					D
+					 
+					
+					7A500
+					Software Amortization
+					7A50
+					7A
+					 
+					Y
+					D
+					 
+					
+					79800
+					Indirect Cost Expense
+					7B10
+					7B
+					 
+					Y
+					D
+					 
+					
+					79820
+					Refund to Grantors
+					7B20
+					7B
+					 
+					Y
+					D
+					 
+					
+					79840
+					Expired Grants
+					7B30
+					7B
+					 
+					Y
+					D
+					 
+					
+					79860
+					Cost Sharing Expense
+					7B40
+					7B
+					 
+					Y
+					D
+					 
+					
+					7B0
+					Grant Related Expense Items
+					 
+					7B
+					 
+					N
+					D
+					 
+					
+					7B10
+					Indirect Cost Expense
+					7B0
+					7B
+					 
+					N
+					D
+					 
+					
+					7B20
+					Refund to Grantors
+					7B0
+					7B
+					 
+					N
+					D
+					 
+					
+					7B30
+					Expired Grants
+					7B0
+					7B
+					 
+					N
+					D
+					 
+					
+					7B40
+					Cost Sharing Expense
+					7B0
+					7B
+					 
+					N
+					D
+					 
+					
+					79880
+					Interest on Capital Asset Debt
+					7C10
+					7C
+					 
+					Y
+					D
+					 
+					
+					79900
+					Bond Issuance Cost
+					7C20
+					7C
+					 
+					Y
+					D
+					 
+					
+					79920
+					Other Capital
+					7C30
+					7C
+					 
+					Y
+					D
+					 
+					
+					79925
+					Gain / Loss on Refinancing
+					7C30
+					7C
+					 
+					Y
+					D
+					 
+					
+					79930
+					Trust Fees and Other Admin Costs
+					7C30
+					7C
+					 
+					Y
+					D
+					 
+					
+					7C0
+					Other Nonoperating Expense Items
+					 
+					7C
+					 
+					N
+					D
+					 
+					
+					7C10
+					Interest on Capital Asset Debt
+					7C0
+					7C
+					 
+					N
+					D
+					 
+					
+					7C20
+					Bond Issuance Cost
+					7C0
+					7C
+					 
+					N
+					D
+					 
+					
+					7C30
+					Other Capital
+					7C0
+					7C
+					 
+					N
+					D
+					 
+					
+					79940
+					Loan Fund Deductions
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79941
+					Repayment of Federal Advances
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79942
+					Repayment of Institutional Advances
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79943
+					Defense Principal Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79944
+					Defense Interest Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79945
+					Perkins Principal Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79946
+					Perkins Interest Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79947
+					Nursing Principal Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79948
+					Nursing Interest Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79949
+					Death Principal Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79950
+					Death Interest Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79951
+					Disability Principal Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79952
+					Disability Interest Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79953
+					Bankruptcy Principal Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79954
+					Bankruptcy Interest Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79955
+					Military Principal Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79956
+					Military Interest Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79957
+					Law Enforcement Principal Cancel
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79958
+					Law Enforcement Interest Cancel
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79959
+					Med Tech Principal Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79960
+					Med Tech Interest Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79961
+					Special Ed Principal Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79962
+					Special Ed Interest Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79963
+					Other Principal Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79964
+					Other Interest Cancellation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79965
+					Perkins Prin Assign US Dept of ED
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79966
+					Perkins Int Assign US Dept of ED
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79980
+					Bad Debt Expense
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79981
+					Nursing Principal Write Off
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79982
+					Nursing Interest Write Off
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79983
+					Uncollectible Principal Write Off
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79984
+					Uncollectible Interest Write Off
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79990
+					Administrative Costs
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79991
+					Cost of Litigation
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79992
+					Other Collection Costs
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					79993
+					Recovered Collection Costs
+					7D10
+					7D
+					 
+					Y
+					D
+					 
+					
+					7D0
+					Loan Fund Deductions
+					 
+					7D
+					 
+					N
+					D
+					 
+					
+					7D10
+					Loan Fund Deductions
+					7D0
+					7D
+					 
+					N
+					D
+					 
+					80000
+					CODE
+					TITLE
+					AP
+					ATC
+					AP
+					DE
+					NB
+					CA
+					
+					810
+					Mandatory Transfers
+					 
+					81
+					 
+					N
+					D
+					 
+					
+					8110
+					Retirement of Indebtedness
+					810
+					81
+					 
+					N
+					D
+					 
+					
+					81100
+					Transfers from Other Funds
+					8110
+					81
+					 
+					Y
+					D
+					 
+					
+					81110
+					Transfer to Renewal and Replacement
+					8110
+					81
+					 
+					Y
+					D
+					 
+					
+					8120
+					Renewal and Replacements
+					810
+					81
+					 
+					N
+					D
+					 
+					
+					81200
+					Renewal and Replacements
+					8120
+					81
+					 
+					Y
+					D
+					 
+					
+					8130
+					Loan Fund Matching
+					810
+					81
+					 
+					N
+					D
+					 
+					
+					81300
+					Loan Fund Matching
+					8130
+					81
+					 
+					Y
+					D
+					 
+					
+					8140
+					Unexpended Plant Funds
+					810
+					81
+					 
+					N
+					D
+					 
+					
+					81400
+					Unexpended Plant Funds
+					8140
+					81
+					 
+					Y
+					D
+					 
+					
+					820
+					Nonmandatory Transfers
+					 
+					81
+					 
+					N
+					D
+					 
+					
+					8210
+					Transfers to Unexpended Plant
+					820
+					81
+					 
+					N
+					D
+					 
+					
+					82100
+					Transfers to Unexpended Plant
+					8210
+					81
+					 
+					Y
+					D
+					 
+					
+					82109
+					Transfer to Unexp Plant Set-a-Side
+					8210
+					81
+					 
+					Y
+					D
+					 
+					
+					8220
+					Transfer to Renewal and Replacement
+					820
+					81
+					 
+					N
+					D
+					 
+					
+					82200
+					Transfer to Renewal and Replacement
+					8220
+					81
+					 
+					Y
+					D
+					 
+					
+					82209
+					Transfer to R&R Set-a-Side Future
+					8220
+					81
+					 
+					Y
+					D
+					 
+					
+					8230
+					Transfers to Other Funds
+					820
+					81
+					 
+					N
+					D
+					 
+					
+					82300
+					Transfers to Other Funds
+					8230
+					81
+					 
+					Y
+					D
+					 
+					
+					82309
+					Transfer to Other Funds Set-a-Side
+					8230
+					81
+					 
+					Y
+					D
+					 
+					
+					8240
+					Transfers from Unexpended Plant
+					820
+					81
+					 
+					N
+					C
+					 
+					
+					82400
+					Transfers from Unexpended Plant
+					8240
+					81
+					 
+					Y
+					C
+					 
+					
+					82409
+					Transfer from UnexpPlant Set-a-Side
+					8240
+					81
+					 
+					Y
+					C
+					 
+					
+					8250
+					Transfers from Renewal and Replace
+					820
+					81
+					 
+					N
+					C
+					 
+					
+					82500
+					Transfers from Renewal and Replace
+					8250
+					81
+					 
+					Y
+					C
+					 
+					
+					82509
+					Transfer from R&R Set-a-Side Future
+					8250
+					81
+					 
+					Y
+					C
+					 
+					
+					8260
+					Transfers from Other Funds
+					820
+					81
+					 
+					N
+					C
+					 
+					
+					82600
+					Transfers from Other Funds
+					8260
+					81
+					 
+					Y
+					C
+					 
+					
+					82609
+					Transfer from OtherFunds Set-a-Side
+					8260
+					81
+					 
+					Y
+					C
+					 
+					
+					82610
+					Interfund Transfers
+					8260
+					81
+					 
+					Y
+					D
+					 
+					
+					82615
+					Intrafund Transfers (Same Fund)
+					8260
+					81
+					 
+					Y
+					D
+					 
+					90000
+					CODE
+					TITLE
+					AP
+					ATC
+					AP
+					DE
+					NB
+					CA
+					
+					940
+					Fund Additions
+					 
+					94
+					 
+					N
+					C
+					 
+					
+					9400
+					Fund Additions
+					940
+					94
+					 
+					N
+					C
+					 
+					
+					94510
+					Current Funds
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94520
+					Restricted Funds
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94525
+					Contribution from US Government
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94527
+					Addition to Permanent Endowment
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94530
+					Unexpended Funds
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94540
+					Renewal and Replacement
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94550
+					Retirement of Indebtedness
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94560
+					Investment in Plant
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94630
+					Equipment Usage Charge
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94640
+					TSSBA Borrowing
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94650
+					Other Borrowing 
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94660
+					Principal Collected
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94690
+					Other Additions
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94691
+					Other Additions
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					94692
+					Prior Period Adjustment
+					9400
+					94
+					 
+					Y
+					C
+					 
+					
+					95410
+					Capitalized Expended for Plant 
+					9600
+					96
+					 
+					Y
+					D
+					 
+					
+					95420
+					Disposal or Sale of Assets
+					9600
+					96
+					 
+					Y
+					D
+					 
+					
+					95430
+					Cumulative Chg in Acctg Principle
+					9600
+					96
+					 
+					Y
+					D
+					 
+					
+					95510
+					Principal Pmts for Long Term Debt
+					9600
+					96
+					 
+					Y
+					D
+					 
+					
+					95520
+					Principal Pmts for Capital Leases
+					9600
+					96
+					 
+					Y
+					D
+					 
+					
+					95530
+					Incr or Decr in Designated Alloc
+					9600
+					96
+					 
+					Y
+					D
+					 
+					
+					95550
+					Increase in Indebtedness
+					9600
+					96
+					 
+					Y
+					D
+					 
+					
+					95690
+					Other Fund Deductions
+					9600
+					96
+					 
+					Y
+					D
+					 
+					
+					95691
+					Other Fund Deductions
+					9600
+					96
+					 
+					Y
+					D
+					 
+					
+					960
+					Fund Deductions
+					 
+					96
+					 
+					N
+					D
+					 
+					
+					9600
+					Fund Deductions
+					960
+					96
+					 
+					N
+					D
+					 
+						Narrow results displayed by entering any part of the account code number or title below.                        
+	
+	 
+	                        
+	
+	
+
+
+
+
+  Comments & Suggestions
+   | 
+  Important Notice
+   | 
+  U of M Home
+
+Site maintained by Division of Business & Finance
+Last update: 01/08/2014
+
+
+
+
+
+
+
+
+
+http://bf.memphis.edu/spectrum/codes.php

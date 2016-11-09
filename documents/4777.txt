@@ -1,0 +1,341 @@
+http://blogs.memphis.edu/cio/2015/03/
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+			
+
+        
+
+
+
+
+
+
+    
+        Main menu
+        Skip to content
+        
+        Home Sample Page
+        
+    
+
+	
+    
+	
+	    
+    
+      
+		
+			Office of the CIO
+			News from Information Technology Services
+			
+				
+					Search for:
+					
+					
+				
+					
+      
+	
+    
+        
+        
+
+			
+				
+					
+						Monthly Archives: March 2015					
+				
+
+				
+								
+					
+
+		
+    	
+            Mar
+            24
+            2015
+        
+		Reminder – 2015 ECAR Student Technology Survey
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		Dear University of Memphis Student:
+Recently you received an email from Dr. Robert Jackson regarding an opportunity to provide feedback in this year’s ECAR Student Technology Survey.  If you already responded, please accept my thanks, and you may disregard this email.  If you haven’t had a chance to response yet, please consider participating. The University is interested in improving student experiences with information technology, and your response is very important to us.  Your participation in the study is voluntary, and your responses will be completely confidential.
+You still have time to participate but act quickly because the survey closes March 27, 2015 !
+Is technology being effectively used in your classes?  How can technology help you become more effective?  How useful are online early-alert or intervention notifications?  How does the University of Memphis compare against other institutions with these and other issues?  Participate in the 2015 ECAR Student Technology Survey to help us learn more!
+It will take approximately 15-30 minutes to complete the survey. Please click this link to complete the survey: https://www.surveygizmo.com/s3/1971183/ECAR-Student-Study-2015-us?eid=9257 .
+Thank you in advance for your participation.  If you have any questions, please feel free to contact Dr. Jackson at rjax@memphis.edu.
+Ellen
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+					
+
+		
+    	
+            Mar
+            16
+            2015
+        
+		ECAR Faculty Technology Survey
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		Dear Faculty Members,
+Please see the invitation below from Dr. Robert Jackson regarding this year’s ECAR Faculty Technology Survey invitation. ITS reviews the survey responses and compares our institution’s responses to peer institutions to inform our decision-making process.  The survey closes March 20, 2015.
+I encourage you to participate in this survey to help us identify current uses of technology and potential future endeavors.
+Regards,
+Ellen
+———————————————————————————-
+Dear University of Memphis Faculty Member:
+You have been selected to participate in a national survey that will help us learn how to provide you with better technology services at The University of Memphis.
+The University is interested in improving faculty experiences with information technology, and your response is very important to us. Your participation in the study is voluntary, and your responses will be completely confidential.
+This faculty survey about technology experiences is being conducted by ECAR, the EDUCAUSE Center for Analysis and Research. The survey is similar to the ECAR Student Technology Survey in which the University has historically participated. ECAR will provide the University with both national data for comparison, and aggregated, de-identified local data that we can use directly.
+It will take approximately 15-30 minutes to complete the survey. The last day to complete the survey will be March 20, 2015. Please click this link to complete the survey: https://www.surveygizmo.com/s3/1950444/ECAR-Faculty-Study-2015-us?eid=9257
+Thank you in advance for your participation.  If you have any questions, please feel free to contact me at my email address, rjax@memphis.edu .
+Sincerely,
+Robert Jackson, Ed.D.
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+					
+
+		
+    	
+            Mar
+            09
+            2015
+        
+		Password Length Expanded to 30 Characters
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		In a continued effort to follow best security practices, ITS has expanded the maximum character length of passwords to 30 characters.  Users will not be required to have that many characters in their passwords, but they can be changed up to that number if desired.  This may help people use phrases as passwords, which may be more mnemonic than a string of characters.   The minimum password length will remain at 12.  Also, remember that the University requires that passwords for all UUID accounts  be changed every 6 months.  For more information regarding password security, visit the ITS webpage on this topic.
+Thank you,
+Ellen
+ 
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+					
+
+		
+    	
+            Mar
+            09
+            2015
+        
+		“FREAK” Browser Vulnerability
+
+				
+			Posted by  Jude		
+			
+    
+    
+
+		
+		IT Services would like to alert the campus community of a recently announced vulnerability that affects a number of web browsers and operating systems. The “FREAK” vulnerability is one that enables SSL Man-in-the-Middle attacks by forcing browsers to downgrade the cipher suites used in SSL/TLS connections.
+Microsoft, Google and Apple have announced that patches will be released to correct the vulnerability. Individuals should ensure that they are running the latest version of their browser to mitigate “FREAK”.
+If you have any questions regarding this vulnerability, please contact the University’s Service Desk at ext. 8888.
+Thank you,
+Ellen
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+				
+			
+         
+
+        		
+        
+        	            
+            
+				                
+                 
+                   
+                                                			
+            
+			
+				
+					Search for:
+					
+					
+				
+							Recent Posts		
+					
+				The University of Memphis Boosts Cybersecurity with Duo
+						
+					
+				Welcome!  An Important Message about IT Services and Security
+						
+					
+				ITS Service Catalog
+						
+					
+				ITS Strategic Planning
+						
+					
+				Ransomware
+						
+				
+				Archives		
+			October 2016
+	August 2016
+	March 2016
+	February 2016
+	January 2016
+	December 2015
+	November 2015
+	October 2015
+	August 2015
+	July 2015
+	June 2015
+	April 2015
+	March 2015
+	January 2015
+	December 2014
+	November 2014
+	September 2014
+	August 2014
+	July 2014
+	June 2014
+	May 2014
+	April 2014
+	March 2014
+	February 2014
+	January 2014
+	December 2013
+	November 2013
+	October 2013
+	September 2013
+	August 2013
+		
+		Categories		
+	Uncategorized
+
+		
+Meta			
+						Log in
+			Entries RSS
+			Comments RSS
+			blogs.memphis.edu
+						
+		
+
+     
+        
+
+	
+		
+			
+			© Office of the CIO                        
+		
+	
+
+
+	
+	
+        
+
+        
+
+
+
+
+		
+							Skip to toolbar
+						
+				
+		University of Memphis
+		University Home		
+		Memphis Blogs		
+		Blogging Help				
+		Log In		
+		Search					
+					
+
+		
+
+http://blogs.memphis.edu/cio/2015/03/

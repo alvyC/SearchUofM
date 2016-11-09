@@ -1,0 +1,302 @@
+http://blogs.memphis.edu/cio/2016/02/
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+			
+
+        
+
+
+
+
+
+
+    
+        Main menu
+        Skip to content
+        
+        Home Sample Page
+        
+    
+
+	
+    
+	
+	    
+    
+      
+		
+			Office of the CIO
+			News from Information Technology Services
+			
+				
+					Search for:
+					
+					
+				
+					
+      
+	
+    
+        
+        
+
+			
+				
+					
+						Monthly Archives: February 2016					
+				
+
+				
+								
+					
+
+		
+    	
+            Feb
+            25
+            2016
+        
+		Ransomware
+
+				
+			Posted by  Bambi Lange		
+			
+    
+    
+
+		
+		The ITS Security team would like to make the campus community aware of a new piece of malware, called “Locky”, that is actively being circulated online.  Locky is part of a new breed of malicious software called ransomware, as its primary purpose is to encrypt or “lock” a user’s files and force the individual to pay a ransom to regain access to their files.  This malware is also doubly dangerous as it not only encrypts all of a user’s files on their local computer, but can also infect files on any networked file share that the user may share with others.
+Locky is currently being spread via email as an attached Word document.  When opened, the Word document will initially appear corrupt, but will prompt the user to enable macros in order to see the full content.  While macros are disabled in Word by default, clicking the prompt to enable macros will cause the computer to download and execute the malicious software that is responsible for encrypting all of the files.
+Please use caution when opening any attachment received via email if it is unexpected, from a sender unknown to you, or the language or content is suspicious in any other way.  If you receive an attachment that you are unsure of, you may report the content to abuse@memphis.edu  for further analysis.  If you do open an attachment that appears to be suspicious or malicious, please contact the ITS Service Desk by phone at (901) 678-8888, via email at umtech@memphis.edu , or your LSP for further assistance.
+For additional information regarding malware, phishing, and other online threats, please visit the ITS Security website at http://www.memphis.edu/its/security .
+ 
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+					
+
+		
+    	
+            Feb
+            23
+            2016
+        
+		Email Phishing Attempts
+
+				
+			Posted by  Bambi Lange		
+			
+    
+    
+
+		
+		Sophisticated email phishing attempts are being conducted in an effort to compromise University accounts.  These emails may contain content such as a request to reactivate your account, an unexpected invoice for a service, or a notice of a false court hearing.  Please use caution when opening any email attachments or clicking any links within suspicious emails.
+Information Technology Services (ITS) will never ask you for your username and password via email or over the phone.
+If you receive an email message that has a suspicious link or attachment, or asks you for account details such as your username and password, you can report the message to ITS staff via email at  abuse@memphis.edu  or over the phone by calling the ITS Service Desk at (901) 678-8888.  If you mistakenly opened an attachment or provided your account details via email or to a non-UofM website, please contact the ITS Service Desk for further assistance.
+Additional information regarding keeping your University account safe can be found at  http://www.memphis.edu/its/security /.
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+					
+
+		
+    	
+            Feb
+            01
+            2016
+        
+		Information Security Training Session
+
+				
+			Posted by  Bambi Lange		
+			
+    
+    
+
+		
+		ITS is once again offering a training session in Information Security on February 8th, 2015, from 12:00 p.m. – 1:00 p.m in UC 261. We encourage all faculty and staff, especially those with administrative roles, to attend this session to learn more about what you can do to help protect the University’s systems and resources.
+Registration for the Information Security session is via the Learning Curve website at http://learningcurve.memphis.edu .
+Steps to register:
+
+Visit the site and click “ Manage your training”
+Login with your user name and password
+Under Registration on left menu, click “class schedule/registration”
+Select “View All” in the category dropdown box
+Scroll down to the Information Security session and click “Register”
+
+Please report any problems registering to the ITS Service Desk at extension 8888.
+			
+	
+	
+					
+					
+				Leave a comment
+		 | 
+		
+			
+
+
+				
+				
+			
+         
+
+        		
+        
+        	            
+            
+				                
+                 
+                   
+                                                			
+            
+			
+				
+					Search for:
+					
+					
+				
+							Recent Posts		
+					
+				The University of Memphis Boosts Cybersecurity with Duo
+						
+					
+				Welcome!  An Important Message about IT Services and Security
+						
+					
+				ITS Service Catalog
+						
+					
+				ITS Strategic Planning
+						
+					
+				Ransomware
+						
+				
+				Archives		
+			October 2016
+	August 2016
+	March 2016
+	February 2016
+	January 2016
+	December 2015
+	November 2015
+	October 2015
+	August 2015
+	July 2015
+	June 2015
+	April 2015
+	March 2015
+	January 2015
+	December 2014
+	November 2014
+	September 2014
+	August 2014
+	July 2014
+	June 2014
+	May 2014
+	April 2014
+	March 2014
+	February 2014
+	January 2014
+	December 2013
+	November 2013
+	October 2013
+	September 2013
+	August 2013
+		
+		Categories		
+	Uncategorized
+
+		
+Meta			
+						Log in
+			Entries RSS
+			Comments RSS
+			blogs.memphis.edu
+						
+		
+
+     
+        
+
+	
+		
+			
+			© Office of the CIO                        
+		
+	
+
+
+	
+	
+        
+
+        
+
+
+
+
+		
+							Skip to toolbar
+						
+				
+		University of Memphis
+		University Home		
+		Memphis Blogs		
+		Blogging Help				
+		Log In		
+		Search					
+					
+
+		
+
+http://blogs.memphis.edu/cio/2016/02/

@@ -1,0 +1,427 @@
+http://libguides.memphis.edu/technology/gaming
+=======================================================================================
+
+
+	
+        
+        
+        
+        
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+        
+        
+            
+        
+        
+        
+            
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	   
+		        
+        	
+    
+	
+		Skip to main content                
+                
+        
+  		
+            
+                
+			
+				
+					
+						University of Memphis Libraries
+						
+					
+					
+						LibGuides
+						
+					
+					
+						Technology @ University Libraries
+						
+					
+					Gaming
+					
+			            
+			
+				
+					
+				
+					
+						
+							
+							Search this Guide
+							
+								Search
+							
+						
+					
+								
+							
+            
+                Technology @ University Libraries
+                
+                    Find information about the technology lending program @ University Libraries.
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                        
+                            
+				
+					
+						Welcome
+					
+				
+				
+					
+						Breadboard
+					
+				
+				
+					
+						Flip Camera
+					
+				
+				
+					
+						GoPro Camera
+					
+				
+				
+					
+						Gaming
+					
+				
+				
+					
+						Microsoft Bands
+					
+				
+				
+					
+						Multimeter
+					
+				
+				
+					
+						Oculus Rift
+					
+				
+				
+					
+						Sensors
+					
+				
+				
+					
+						Soldering
+					
+				
+				
+					
+						Touch Screens
+					
+				
+				
+					
+						Zoom H4n Recorder
+					
+				
+                            
+				
+					
+						
+						
+							
+					
+						
+							Game Development Titles
+                                
+							
+								
+									
+                            
+                            
+			
+				
+					
+				
+					
+					Gaming in Academic Libraries
+					 by Amy Harris; Scott E. Rice
+					ISBN: 9780838984819 Publication Date: 2008-10-01
+			
+                            
+                            
+			
+				
+					
+				
+					
+					Handbook of Research on Effective Electronic Gaming in Education
+					 by Richard E. Ferdig (Editor)
+					ISBN: 9781599048116 Publication Date: 2008-07-31
+			
+                            
+                            
+			
+				
+					
+				
+					
+					Gaming for Classroom-Based Learning
+					 by Youngkyun Baek
+					ISBN: 9781615207138 Publication Date: 2010-05-31
+			
+                            
+                            
+			
+				
+					
+				
+					
+					Gaming
+					 by Alexander R. Galloway
+					ISBN: 9780816648511 Publication Date: 2006-05-27
+			
+                            
+                                
+                                
+								
+								
+							
+						
+					
+							
+						
+					
+				                        
+                    
+                
+                
+                    
+                        
+                            
+    
+                
+					
+						
+							Game On !
+                                
+							
+								
+									
+			
+				We have two consoles available in the Technology Sandbox: the WiiU and the XBoxONE.  Controllers, GamePad, and headsets can be checked out at the McWherter Library circulation desk.
+		   
+			
+		   
+								
+								
+							
+						
+					
+					
+						
+							The U of M Gaming Resources
+                                
+							
+								
+									
+			
+				   
+
+
+	
+		
+			
+			Emerging Technologies at the McWherter Library is one of several Campus resources  available for researching and learning about gaming.  Our availa ble resources include hardware that can be  accessed within the Technology Sandbox or checked out.   
+		
+	
+
+
+ 
+
+   
+
+
+	
+		
+			
+			
+			 
+
+			The Computer science Department also has available gaming resources.  They currently offer a course (COMP 1100) on game development.  The class is currently structured around the  GameMaker engine.  A syllabus is available on our website  at  http ://www.memphis.edu/cs/courses/index.php .    
+			 
+			
+		
+	
+
+
+ 
+
+ 
+
+   
+
+
+	
+		
+			
+			
+			 
+
+			The  Association for Computing  Machinery  (ACM)  is the worlds largest educational and computing society. They have access to research papers as well as a rich diverse community of experts spanning many focuses including gaming.   The U of M ACM student chapter has more information on their website at  http://www.memphis.edu/cs/student_resources/acm.php .    
+			 
+			
+		
+	
+
+
+ 
+
+ 
+
+   
+
+
+	
+		
+			
+			Many students, alumini  and faculty of the university are involved in community resources devoted to gaming.  Memphis Game Developers   are a local Unity Users Group.  Unity is a game engine used for game design.  They attend conferences such as Unite15, host workshops on video game development as well as participate in Game Jams like GGJ and Ludum Dare.   They are doing development work with the Occulus Rift and Leap Motion devices.  They also work with Project Tango devices from Google which looks to be a very promising technology.  they meet off campus at Midsouth Makers.    
+			 
+		
+	
+
+
+ 
+
+
+
+
+
+
+		   
+								
+								
+							
+						
+					
+					
+						
+							Circulation Rules
+                                
+							
+								
+									
+			
+				EVERYTHING YOU NEED IS HERE
+
+The systems are available in the Library Technology Sandbox on a first come, first serve basis. We circulate games as well as equipment, both can be checked out for 4 hours.
+
+Only One Game, Controller, and Headset per ID
+
+Note: Halo and Super Mario 3D world are loaded onto their respective consoles and cannot be checked out.
+		   
+								
+								
+							
+						
+					
+        
+    
+                        
+                    
+                    
+				
+					
+					<< Previous: GoPro Camera
+					
+					
+					Next: Microsoft Bands >>
+					
+				                
+            
+        
+        
+        
+            
+                
+                    
+                        Last Updated: Oct 18, 2016 10:28 AM                    
+                    
+                        URL: http://libguides.memphis.edu/technology                    
+                    
+                    	 Print Page                    	
+                    
+                
+                    Login to LibApps                
+            
+            
+                
+                    Report a problem 
+                
+                
+                    
+                    Subjects: 
+                    Help/How-To Guides , Technology
+                                    
+                
+                    
+                    Tags: 
+                    emerging technology
+                                    
+            
+        
+        
+        
+			
+				
+					
+					  
+					  
+					
+				
+			        
+                            
+                               
+                
+                
+
+		
+	
+
+http://libguides.memphis.edu/technology/gaming

@@ -1,0 +1,331 @@
+http://libguides.memphis.edu/technology/soldering
+=======================================================================================
+
+
+	
+        
+        
+        
+        
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+        
+        
+            
+        
+        
+        
+            
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	   
+		        
+        	
+    
+	
+		Skip to main content                
+                
+        
+  		
+            
+                
+			
+				
+					
+						University of Memphis Libraries
+						
+					
+					
+						LibGuides
+						
+					
+					
+						Technology @ University Libraries
+						
+					
+					Soldering
+					
+			            
+			
+				
+					
+				
+					
+						
+							
+							Search this Guide
+							
+								Search
+							
+						
+					
+								
+							
+            
+                Technology @ University Libraries
+                
+                    Find information about the technology lending program @ University Libraries.
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                        
+                            
+				
+					
+						Welcome
+					
+				
+				
+					
+						Breadboard
+					
+				
+				
+					
+						Flip Camera
+					
+				
+				
+					
+						GoPro Camera
+					
+				
+				
+					
+						Gaming
+					
+				
+				
+					
+						Microsoft Bands
+					
+				
+				
+					
+						Multimeter
+					
+				
+				
+					
+						Oculus Rift
+					
+				
+				
+					
+						Sensors
+					
+				
+				
+					
+						Soldering
+					
+				
+				
+					
+						Touch Screens
+					
+				
+				
+					
+						Zoom H4n Recorder
+					
+				
+                            
+				
+					
+						
+						
+						
+					
+				                        
+                    
+                
+                
+                    
+                        
+                            
+    
+                
+					
+						
+							Soldering: What is it?
+                                
+							
+								
+									
+			
+				Soldering is the joining of two metal surfaces using a filler metal (solder) to connect the materials at the joint. The filler metal will have a lower melting point than the adjoining metals.
+
+Isn't that welding?
+
+Welding requires that you melt the pieces that you wish to join. Soldering is the melting of an intermediary metal to make the connection (like metal glue).
+		   
+								
+								
+							
+						
+					
+					
+						
+							How to Solder Electronics
+                                
+							
+								
+									
+			
+		   
+			
+		   
+								
+								
+							
+						
+					
+					
+						
+							Important Information
+                                
+							
+								
+									
+			
+				Please note:
+
+The University Libraries, the University bookstore, or any department on campus does not have solder available at this time. Solder is available at most major local retailers (Home Depot, Radio Shack, Etc). 
+
+As a student at University of Memphis you are eligible for 10% off if you shop at: 
+
+RadioShack
+
+
+Eastgate Shopping Center
+
+5066 Park Ave
+
+Memphis, TN 38117, United States
+
+		   
+								
+								
+							
+						
+					
+					
+						
+							Interested in more?
+                                
+							
+								
+									
+			
+				If you are interested in degree programs that allow you to work with soldering, check out the following departments at the University of Memphis: 
+
+Engineering Technology
+
+Other opportunities to learn can be found at:
+
+Midsouth Makers
+
+Forge Memphis
+
+ 
+		   
+								
+								
+							
+						
+					
+        
+    
+                        
+                    
+                    
+				
+					
+					<< Previous: Sensors
+					
+					
+					Next: Touch Screens >>
+					
+				                
+            
+        
+        
+        
+            
+                
+                    
+                        Last Updated: Oct 18, 2016 10:28 AM                    
+                    
+                        URL: http://libguides.memphis.edu/technology                    
+                    
+                    	 Print Page                    	
+                    
+                
+                    Login to LibApps                
+            
+            
+                
+                    Report a problem 
+                
+                
+                    
+                    Subjects: 
+                    Help/How-To Guides , Technology
+                                    
+                
+                    
+                    Tags: 
+                    emerging technology
+                                    
+            
+        
+        
+        
+			
+				
+					
+					  
+					  
+					
+				
+			        
+                            
+                               
+                
+                
+
+		
+	
+
+http://libguides.memphis.edu/technology/soldering

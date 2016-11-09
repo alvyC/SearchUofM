@@ -1,0 +1,311 @@
+http://cybersummit.memphis.edu/2013
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+   
+    Cyber Security Expo | October 18, 2013
+   
+   
+    
+     
+      Home
+      Speakers
+      Sponsors
+      Agenda
+      
+     
+      Arrival
+      Gallery
+     
+    
+   
+
+  
+  
+
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+    
+    
+    
+    
+   
+
+  
+  
+
+
+  
+  
+
+home This year's theme: Cyber Espionage and IP Issues
+The University of Memphis Center for Information Assurance hosted the 6 th Annual Cyber Security Expo at the FedEx
+Institute of Technology on October 18th, 2013. Information
+Assurance and Cyber Security experts will be onsite for presentations
+and networking to address current issues of cyber security.
+
+
+
+
+
+Topics may include:
+
+Intellectual Property(IP) Thefts
+Advanced Persistent Threats
+BYOD & Mobile Device Security
+Cloud & Big Data Security
+Social Media Threats
+Virtual Supply Chain Security
+
+
+
+
+
+
+
+The speakers include:
+
+
+	
+		
+		Abel Sanchez
+		Executive Director, MIT Geospatial Data Center
+		Title of Talk: Simulation, Analysis, and Visualization
+	
+	
+		Bio
+		
+		Abel Sanchez is the Executive Director of the MIT Geospatial Data Center. He holds a Ph.D. from the Massachusetts Institute of Technology (MIT). His areas of expertise include the Internet of Things (IOT), Radio Frequency Identification (RFID), Simulation, and Engineering Complex Software Systems. Sanchez teaches graduate courses in Software Construction, Information Engineering, and Software Architecture. For the past six years, his research has focused on architecting large scale distributed simulation systems. Recent projects include Grid/Agent Computing, simulating the U.S. critical infrastructure at the National Infrastructure Simulation and Analysis Center (NISAC), and architecting the cyber physical Internet, addressing the 4Ws (What, Where, When, and Why). In the field of computational health research, in partnership with the Harvard Medical School, Sanchez is working on Reminder Technologies. Presently, Sanchez is a Principal Investigator in research projects with SAP, Phillip Morris International, Schlumberger, Ford Motor Company, Dassault, Microsoft, and IARPA. Some of the research topics are Big Data, Multicore, Geospatial, and Cyber Security. Sanchez' software systems are used by Samsung, NEC, NTT, Hitachi, Motorola, SAP, IBM, and Microsoft. Sanchez consults to companies in the U.S., Europe, Asia, and Latin America.
+
+		
+	
+
+
+
+	
+		
+		Asif Iqbal
+		Sr. Engineering Program Manager
+		Apple Corporation
+		Title of Talk: Understanding IC Security Threats
+	
+	
+		Bio
+		
+			Asif Iqbal is a graduate from System Design and Management Program at the Massachusetts Institute of Technology (MIT). His areas of expertise include Digital Design, System Architecture, Modeling and Simulation of electronic systems. Asif holds Seven patents in the areas of Cellular Communications, high-speed digital design and signal processing. His research interests include Cyber Security, High Performance Architecture, Product and Innovation Management. Asif currently works for Apple as a power and performance program manager. His recent projects include the newly released 2013 Macbook Air and the recently announced Mac Pro.
+		
+	
+
+
+
+	
+		
+		Mark Burnette, CPA, CISA, CISSP, CISM, CGEIT, QSA
+		Partner, LBMC Security and Risk Services
+		Title of Talk: Tales From The Trenches: How We Break Into Computer Systems
+	
+
+
+
+                Bio
+                  Mark has 17 years of experience in information security and risk management.
+                        His background includes extensive experience in security program strategy and development, regulatory compliance,
+                        security policies and procedures, risk assessment and management, penetration testing, and security function design, development,
+                        and staffing. During his decorated career, Mark has served as the President and Global Practice Leader for a national
+                        information security consulting company, has built and led information security functions for two major publicly-traded
+                        corporations and worked for several years in key leadership roles with two of the Big 6 accounting firms where he specialized
+                        in developing, implementing, assessing, and securing information technology solutions for companies in the healthcare, retail,
+                        manufacturing, banking, and insurance industries.  In 2005, while serving as the Global Information Security Officer for
+                        international insurance broker The Willis Group, Mark was named the Information Security Executive of the Year at the ISE
+                        Southeast Awards. In 2008, while serving as the Executive Director of IT Operations and Security for hotelier Gaylord
+                        Entertainment Company, he was named one of Information Security Magazine's "Security 7" top seven security leaders, and
+                        he was chosen by ComputerWorld Magazine as one of the Premier 100 IT Leaders for 2009.  In January 2011, the Information
+                        Systems Security Association (ISSA) named Mark a Fellow. This prestigious honor, which has only been granted to a handful
+                        of individuals worldwide, is bestowed by the ISSA Fellow Program for distinguished accomplishments in the field of information
+                        security, leadership, and future service to the association and profession.  Mark's unique background allows him to bring
+                        a "walk a mile in the shoes" perspective to all of LBMC's security engagements, and his experience building and running
+                        information security functions allows him to develop solutions that are relevant, practical, and actionable.
+
+                  
+
+                 Mark earned his Bachelor of Science degree in Accounting from Carson-Newman College,
+                 where he graduated Summa Cum Laude while serving as a placekicker for C-N's nationally ranked NCAA Division II college football team.
+                  He earned his Master of Accountancy degree from the University of Tennessee at Knoxville, where he served as a graduate teaching assistant.
+                  Mark also serves as an Adjunct Professor of Accounting at Belmont University, where he teaches Accounting Information Systems.
+
+
+        
+
+
+
+
+
+
+	
+	
+	Bob Du Charme
+	Principal Professional Services Consultant
+	Ixia, BreakingPoint Professional Services
+	http://www.ixiacom.com
+	Title of Talk: Cyber Range - The Next Frontier
+	
+	
+		Bio
+		
+		Bob Du Charme is a Principal Professional Services Engineer with Ixia. He was hired by BreakingPoint Systems in May 2012 and Ixia soon acquired BreakingPoint. In this position, Bob has responsibilities for training and professional services for all Security related activities for customers of Ixia. Prior to working at Ixia, Bob was employed by Cisco Systems from June 1998-July 2011. Bob had multiple positions while at Cisco, including training, security services, and working with higher education. Bob trained all of Cisco's security products for thousands of customers and partners. He also was a speaker at many industry conferences, including Cisco's customer conference Cisco Live on 5 different occasions. While at Cisco, Bob trained hundreds of higher education professors and instructors on practical implementations of security technology. Bob also managed a program that donated millions of dollars of Cisco equipment to colleges and universities to enhance their students learning experiences.
+Bob also worked for the United States Federal Courts at their technical support center in San Antonio TX. Bob retired from the United States Air Force after serving for 17 years in various roles.
+		
+	
+
+
+
+	
+		
+		Gregory White
+		Director of Center for Infrastructure Assurance and Security and Associate Professor
+		The University of Texas at San Antonio (UTSA)
+		Title of Talk: The National Cybersecurity Preparedness Consortium
+	
+	
+		Bio
+		
+Gregory White has been involved in computer and network security since 1986.  He spent 30 years with the Air Force and Air Force Reserves.  He obtained his Ph.D. in Computer Science from Texas A&M University in 1995 conducting research in the area of Computer Network Intrusion Detection and he continues to conduct research in this area today.  He currently serves as the Director of the Center for Infrastructure Assurance and Security (CIAS) and is an Associate Professor of Computer Science at The University of Texas at San Antonio (UTSA).
+
+
+ White has been involved in security instruction for many years.  He taught at the U.S. Air Force Academy for seven years where he developed and taught courses on Computer Security and Information Warfare. He helped build the nation's first undergraduate information warfare laboratory while at the Academy and twice received the Academy's Computer Science Research Excellence Award. At UTSA White continues to develop and teach courses on computer and network security.  He has also been very active in the development and presentation of cyber security exercises for states and communities around the nation and with the development of training designed to help states and communities develop viable and sustainable cyber security programs.  He very active in development of cyber security competitions and was instrumental in the development of the National Collegiate Cyber Defense Competition and the CyberPatriot National High School Cyber Defense Competition.
+
+		
+	
+
+
+
+	
+		
+		Philip T. Susmann
+		Norwich University Applied Research Institute(NUARI)
+		Northfield, VT 0563
+		Title of Talk: Norwich University Applied Research Institutes Cyber Security Education/Training and Exercises
+	
+	
+		Bio
+		
+		 Philip T. Susmann started at Norwich University in the Spring of 1987 and was promoted and tenured in 1994 as an Associate Professor of Information Systems and Department Chair of the Computer Information Systems Department. Selected as the University's first Chief Information Officer in 1994, he oversaw the implementation of an enterprise resource planning system, development of online educational practices, and a ubiquitous university network. Philip was the driving force behind the University's Information Assurance program and designation as an NSA center of excellence. Promoted to Vice President of Information Technology and Strategic Partnerships in 2002, Philip was charged with the responsibility of supporting and developing new business initiatives, corporate and business partnerships with the University and government relations. Philip was a founding board member of Norwich University Applied Research Institutes in 2003 and became its President in 2005. Today he holds the dual role of President of NUARI, a $5M research and development non-profit, and Vice President for Strategic Partnerships for Norwich University. Philip graduated from Norwich University in 1981 and Clarkson University with an MBA in 1983.
+
+	
+	
+
+
+	
+		
+		Bill Gibbons
+		Comissioner, Department of Safety and Homeland Security
+		Tennessee
+		
+		Bio
+		
+		Bill Gibbons was born in El Dorado, Arkansas, he holds both undergraduate and law degrees from Vanderbilt University.
+		Bill joined Governer Bill Haslam's cabinet as Commissioner for the Department of Safety and Homeland Security in January of 2011. Prior to his appointment as Commissioner, Gibbons served as Shelby County District Attorney General for approximately 14 years.
+	As Commissioner, Gibbons oversees the agency's law enforcement, driver licensing, and homeland security responsibilities. His major priorities include reducing traffic fatalities through data-driven DUI and seat belt enforcement, interdiction of drug trafficking on our interstates, providing customer-focused driver license services professionally and efficiently, and providing training and other support to local law enforcement on homeland security matters.
+
+		
+		
+		
+	
+
+
+
+	 
+		
+		Nageswara S. V. Rao
+		Oak Ridge National Laboratory
+		Title of Talk: Control-Plane Software Methods for High-Performance Network Experiments: UltraScience Net Case Study
+		
+		Bio
+		
+		Nageswara S. V. Rao is a Corporate Fellow in Computer Science and Mathematics Division, Oak Ridge National Laboratory, where he joined in 1993. He was on assignment at Missile Defense Agency as the Technical Director, C2BMC Knowledge Center during 2008-2010.  He received B.Tech from National Institute of Technology, Warangal, India in Electronics and Communications Engineering in 1982, M.E. in Computer Science and Automation from Indian Institute of Science, Bangalore, India in 1984, and PhD in Computer Science from Louisiana State University in 1988. He published more than 350 technical conference and journal papers in the areas of sensor networks, information fusion and high-performance networking. He is a Fellow of IEEE, and received 2005 IEEE Technical Achievement Award for his contributions to information fusion area. His research projects have been funded by multiple federal agencies including National Science Foundation, Department of Energy, Department of Defense, Domestic Nuclear Detection Office, and Defense Advanced Research Projects Agency.
+		
+		
+		
+	
+
+
+
+	
+		
+		Scott E. Augenbaum
+		Supervisory Special Agent, Cyber Crime Squad, Federal Bureau of Investigation
+		
+			Bio
+			
+				Scott E. Augenbaum, of the Federal Bureau of Investigation (FBI), started his career with the FBI in the New York Field Office in 1988 as a support employee in the Financial Management Section and became a Special Agent in 1994. He was first assigned to the Syracuse, New York Office, where he worked domestic terrorism, white collar and hate crimes, and all computer crime investigations. In October 2003, he was promoted to SSA at FBI Headquarters, Washington D.C in the Cyber Division, Cyber Task Force Unit and was responsible for managing the FBI's Cyber Task Force Program as well as the Cyber Crime and Intellectual Property Rights Program. In 2006, he was transferred to Nashville, TN and manages the FBI Memphis Division Computer Intrusion/Counterintelligence Squad and manages a staff of seven investigators.  Over the past seven years, he provided hundreds of computer intrusion threat briefings with the goal of educating the community on emerging computer intrusion threats and how to not to be the victim of a data breach.
+		
+			
+		
+	
+
+
+
+	
+		
+		Corey Allert
+		Technical Principal
+		FedEx Services
+		Title of Talk: BYOD and Mobile access
+		
+			Bio
+			
+			As an Information Security Professional with fifteen years of  experience with FedEx Corey has designed and deployed firewalls  to  protect e-commerce applications, extranet,  B2B connectivity, security services to provide global IDS, 802.1x Radius, VPN and 2 factor authentication services.  He has also consulted on and implemented processes to support PCI, SOX and HIPAA compliance efforts, and has had input on the BYOD efforts in place at FedEx.
+
+
+			
+		
+	
+
+
+
+
+Questions?
+University of Memphis Cyber Expo
+(901) 678-5440 OR (901) 678-3916
+cyberexpo@memphis.edu
+
+Thank you for your support!
+
+
+  
+  
+
+
+Copyright © 2013 by the University of Memphis.
+ Important Notice
+  
+
+ 
+ 
+ 
+
+
+
+http://cybersummit.memphis.edu/2013

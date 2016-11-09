@@ -1,0 +1,567 @@
+http://policies.memphis.edu/UM1507.htm
+=======================================================================================
+
+
+
+
+
+
+
+
+    
+        The University of Memphis
+        Procurement and Contract Services
+    
+    
+        
+            
+            
+            POLICIES
+            
+        
+        
+            
+                Issued: 
+                October 20, 2016
+            
+            
+                Responsible Official: 
+                Vice President for Business & Finance
+            
+            
+                Responsible Office: 
+                Procurement and Contract Services
+            
+        
+        
+
+
+
+    
+        
+        Policy Statement
+    
+
+
+
+
+    
+        Purpose
+        Purchases made with University funds must adhere to sound, ethical business practices.  No financial commitment may be made by any employee of the University without specific written authority of the President.  University officials authorized to approve purchases of goods and services must exercise prudent judgment when expending funds or determining if an expenditure is appropriate.
+            PRINCIPLES
+            
+                The purchase must comply with this policy, the laws of the State of Tennessee, and  TBR Policy 4:02:10:00, Purchasing Policy and Procedures for the purchase of goods and services.
+                Employees of the University serve the interests of the State of Tennessee and must comply with  TBR Policy 1:02:03:10 Conflict of Interest . The purchase must support the mission and purpose of the University.
+                The purchase must not be personal in nature.
+                The amount expended should be reasonable.
+            
+            The President of the University has delegated authority to the Director of Procurement and Contract Services to make purchase commitments and sign contracts for the University that do not exceed $249,999. This includes any contract that requires a signed University-approved agreement (expenditure, non-expenditure, and revenue-generating). No employee has authority to make any purchase commitment, enter into any contract for goods or services, or otherwise take action with respect to third parties which may be construed as financially binding to the University except through the authority of Procurement and Contract Services, unless specifically authorized by other applicable University policy or in writing by the President.  This policy applies to all expenditures of funds. Specific procedures related to signatory authority are available in  University Policy UM1571 Contracts and Signatory Authority .
+            The TBR Council of Buyers Minimum General Bid Conditions and the TBR Code of Ethics in Procurement and Contracting are adopted as minimum standards in the procurement of goods and services.
+            The following agreements and contracts shall be expressly subject to the approval of the Chancellor or designee:  the purchase, disposal or lease (for more than 5 years or more than $150,000 per year) of real property; insurance or agreements providing insurance or other benefits; all capital outlay projects; personal, professional or consultant services over $249,999; agreements in which TBR is a named party; and data processing equipment or other agreements required to be submitted to TBR for approval pursuant to TBR Policy 1:03:02:10 Approval of Agreements .
+            No employee of the University responsible for initiating or approving requisitions shall accept or receive, directly or indirectly, from any person, firm or corporation to whom any contract may be awarded, by rebate, gift or otherwise, any money or anything of value whatsoever, or any promise, obligation or contract for future awards or compensation.  Whenever any contract/purchase order is awarded contrary to this provision, the contract/purchase order shall be void and of no effect, and if the violation was intentional, the employee responsible for the purchase shall be liable for any state funds paid contrary to this provision.
+    
+
+
+
+
+    
+        
+        Purpose
+    
+
+
+
+
+    
+         
+        This policy provides standards for the effective and economical procurement of goods and services necessary to support the mission, goals and objectives of The University of Memphis while ensuring that all relevant laws, policies and guidelines are followed.
+    
+
+
+
+
+    
+        
+        Contents
+    
+
+
+
+    
+        
+    
+        
+        Definitions
+    
+    
+        
+        
+                Conflict of Interest
+                Banner Finance System
+                Tigerbuy System
+                SciQuest Higher Markets
+                Small, Minority, Service-Disabled Veteran, and Woman-Owned Business
+                Surplus Property
+                Non-Competitive Purchases and Contracts
+                Financial Manager
+                Designee
+                Approver
+                Tigerbuy Requester (requester)
+                Tigerbuy Receiver (receiver)
+            
+    
+    
+        
+        Procedures
+    
+    
+        
+        
+                Prohibited Transactions
+                Planning a Purchase
+                Procedures for Appointing Tigerbuy User Roles
+                Purchase Requisition and Approval Procedures
+                Additional Purchasing Methods
+                Competitive Bidding and Specifications
+                Non-Competitive Purchases
+                Emergency Purchases
+                Contracts and Agreements
+                Receiving
+                Disposal of Surplus Personal Property
+            
+    
+    
+        
+        Related Forms
+    
+    
+        
+        
+                Request for B&F System Access
+            
+    
+    
+        
+        FAQs
+    
+    
+        
+        
+                Whom do I contact with further questions?
+                What is the current dollar threshold for bidding goods or services?
+            
+    
+    
+        
+        Links
+    
+    
+        
+        
+                Procurement and Contract Services Web Site
+                BFGuide to Purchasing Goods and Services
+                Tigerbuy Training Materials
+                Finance Program Guide
+                University UM1571 Contracts and Signatory Authority
+                University UM1772 Policy Equipment Inventory
+                TBR Policy 4:02:10:00 Purchasing Policies and Procedures
+                TBR Guideline G-030 Contracts and Agreements
+                TBR Policy 1:03:02:10 Approval of Agreements
+                TBR Policy 1:02:03:10 Conflict of Interest
+                TBR Policy 4:02:20:00 Disposal of Surplus Personal Property
+                Tennessee Code Annotated (TCA)
+            
+    
+
+
+
+    
+        
+        Definitions
+    
+
+
+
+
+    
+        Conflict of Interest
+        A “conflict of interest” occurs when the personal interests, financial or otherwise, of a person who owes a duty to the Tennessee Board of Regents (TBR) and University (all employees) actually or potentially diverge with the person’s professional obligations to and the best interests of the TBR and University.  (TBR Policy 1-02-03-10).  It is the policy of the University of Memphis that no employee shall use his/her employment for personal benefit.  Any appearance of favoritism or influence in doing business is prohibited.
+            It is unlawful for any employee to “bid on, sell, or offer for sale, any merchandise, equipment or material, or similar commodity, to the state of Tennessee” or “to have any interest in the selling of the same to the state” during that person’s term of employment and for six months thereafter.   Disclosure of any such transaction by an employee or member of the employee’s family or by a business in which an employee or member of the employee’s family has any significant (more than 4%) ownership interest or for which an employee or employee family member serves as an officer is required by this policy.  (TCA 12-4-103)
+            It is a conflict of interest for any person or any company with whom such person is an officer, a director, or an equity owner of greater than 1% interest to bid on any public contract for products or services for a governmental entity if such person or a relative of such person is a member of a board or commission having responsibility for letting or approving such contract.  For purposes of this section only, "relative" means spouse, parent, sibling, or child.  (TCA 12-3-106(b)(2003)
+    
+
+
+
+    
+        Banner Finance System
+        A computerized on-line system used to produce and maintain the University's financial records for the Tigerbuy System.  The Banner Finance System is the official system of record for all procurement transactions created in Tigerbuy.
+    
+
+
+
+    
+        Tigerbuy System
+        A computerized eProcurement system used to manage the University's procurement process online.  The Tigerbuy application includes modules that address each step in the procurement process:  sourcing/negotiated contracts, shop and compare, create requisition, requisition approval process, create and distribute purchase order, and receive and settle (payment).  
+    
+
+
+
+    
+        SciQuest Higher Markets
+        The University’s eProcurement software vendor that hosts the Tigerbuy System.
+    
+
+
+
+    
+        Small, Minority, Service-Disabled Veteran, and Woman-Owned Business
+        Small business – A business which is independently owned and operated, in accordance with the provisions of T.C.A § 12-3-802, and is not dominant in its field of operation.
+            Minority-owned business – A continuing, independent, for profit business which performs a commercially useful function and is at least 51% owned and controlled by one or more minority individuals who are impeded from normal entry into the economic mainstream because of past practices of discrimination based on race or ethnic background in accordance with the provisions of T.C.A § 12-3-802. 
+            Service Disabled veteran business - Tennessee service-disabled veteran means any person who served honorably on active duty in the Armed Forces of the United States with at least a twenty percent (20%) disability that is service-connected meaning that such disability was incurred or aggravated in the line of duty in the active military, naval or air service. "Tennessee service disabled veteran owned business" means a service-disabled veteran owned business that is a continuing, independent, for profit business located in the state of Tennessee that performs a commercially useful function, and is at least 51% owned and controlled by one (1) or more service-disabled veterans in accordance with the provisions of T.C.A § 12-3-802.
+            Woman-owned business – A women owned business that is a continuing, independent, for profit business which performs a commercially useful function, and is at least 51% owned and controlled by one or more women; or, in the case of any publicly owned business, at least 51% of the stock of which is owned and controlled by one or more women and whose management and daily business operations are under the control of one or more women in accordance with the provisions of T.C.A § 12-3-802. 
+    
+
+
+
+    
+        Surplus Property
+        Any University property such as movable equipment or supplies (as opposed to real property such as land or buildings) a department determines to be excess to its needs and for which the department has no foreseeable requirement. 
+    
+
+
+
+    
+        Non-Competitive Purchases and Contracts
+        Purchases and contracts made when items or services are unique and possess specific characteristics that can be filled by only one source.  
+    
+
+
+
+    
+        Financial Manager
+        An individual designated by his or her position title to be responsible for the financial activity of his or her assigned organization(s).  Authority is granted to create or approve, and monitor financial transactions in Banner and Tigerbuy.  A financial manager is expected to give careful consideration to appointing designees, approvers, requesters and receivers to act on his or her behalf and to oversee their activities.  A financial manager is strongly encouraged to attend Tigerbuy training.
+    
+
+
+
+    
+        Designee
+        An individual appointed by a financial manager to act on his or her behalf when creating and approving financial transactions in Banner and Tigerbuy.  A designee is strongly encouraged to attend Tigerbuy training.
+    
+
+
+
+    
+        Approver
+        An individual appointed by a financial manager to approve financial transactions in Banner and requisitions up to $5,000 in Tigerbuy.  An approver is strongly encouraged to attend Tigerbuy training.
+    
+
+
+
+    
+        Tigerbuy Requester (requester)
+        An individual appointed by a financial manager to create purchase requisitions in Tigerbuy.  A requester must attend Tigerbuy training before access is granted to create requisitions.
+    
+
+
+
+    
+        Tigerbuy Receiver (receiver)
+        An individual appointed by a financial manager to create receipts of goods and services in Tigerbuy.  A receiver is strongly encouraged to attend Tigerbuy training.
+    
+
+
+
+
+    
+        
+        Procedures
+    
+
+
+
+
+    
+        Prohibited Transactions
+        No personal items shall be purchased through the University or from funds of the University for any employee of the University or any relative of any employee. Whenever any contract/purchase order is awarded to the contrary to this provision, the contract/purchase order shall be void and of no effect, and if the violation was intentional, the approver responsible for the purchase shall be liable for any state funds paid contrary to this provision.
+            Vendor Rebates and Incentives - The University discourages participation in incentive programs, such as rebate cash cards, debit cards, point award programs where points can be redeemed for merchandise, hotel accommodations, conference registrations, gift cards, etc., from vendors.  Instead, the lowest possible purchase price should be achieved in coordination with Procurement and Contract Services.  However, when vendors offer such incentives, employees of the University should request the cash value of the incentive be sent to the University Accounting Office in the form of a check.  Rebates in the form of checks are normally processed by the Accounting Office with credits applied to the originating department.  Where alternative cash equivalent and non-cash incentive programs exist with vendors (such as those described above), University employees are required to contact the Director, Procurement and Contract; Controller; or Manager, General Accounting or designees to ensure that the provisions of these procedures have been met.
+    
+
+
+
+    
+        Planning a Purchase
+        In preparation of the purchase of goods and services, a clear description of the requirements or specifications is the basis for assuring that departmental needs will be met.  The approver from the ordering department must assure that funds have been appropriated and are available for the purchase of materials, supplies, equipment or services prior to award of a contract and approval of a requisition.  The approver is responsible for determining that all items to be purchased are necessary and for official use in support of the University's mission.
+            Departmental personnel may contact sources of supply for preliminary information concerning price, quality, or usage of equipment, supplies, etc., in which it is interested. Procurement and Contract Services will assist in the development of specifications and provide capable suppliers upon request. Such preliminary contacts by departments are for information only. Information relative to desired purchases received by a department from sources of supply should be forwarded to Procurement and Contract Services through the Tigerbuy system with the original purchase requisition. Procurement and Contract Services will solicit and receive bids and negotiate with vendors.
+    
+
+
+
+    
+        Procedures for Appointing Tigerbuy User Roles
+        A financial manager is expected to give careful consideration to appointing designees, approvers, requesters and receivers to act on his or her behalf and to oversee their activities.  To authorize Tigerbuy system access to approvers, requesters and receivers, the Request for B&F System Access form shall be filled out, signed by the user and approved by the appropriate financial manager.  Once the form is completed, submit to Information Technology System and Support (ITSAS), 311 Scates Hall, or email a scanned copy to itsas@memphis.edu or fax to 678-3061.  User certifies that any data and materials accessed through the Tigerbuy system shall be treated in a professional and confident manner.  Financial managers shall notify ITSAS when an employee leaves the department, has a change in employment status or a change in job responsibilities.
+    
+
+
+
+    
+        Purchase Requisition and Approval Procedures
+        Purchase requisitions should be submitted on-line by accessing the Tigerbuy system.  To provide for the segregation of duties in initiating and approving requisitions, the individual creating the requisition (requester) cannot be the same person who approves the requisition (approver). 
+            A requester in Tigerbuy may be a financial manager, designee, approver or receiver.  Electronic approvals are established by the financial manager of the Organization associated with the purchase.  Additional approval authority is provided through the approval hierarchy in the Banner Finance System.  See Finance Program Guide for more information. 
+            Purchase requisitions are submitted by the requester and authorized by the approver and forwarded electronically through the Tigerbuy system to Procurement and Contract Services to process and approve a request for quotation/proposal or a purchase order.  Certain purchase orders do not require review and approval by Procurement and Contract Services and are submitted directly to the vendor.
+            When purchase requisition approval is provided, the approver is authorizing the expenditure of funds when goods or services are receipted in Tigerbuy.
+            Note on Internal Controls .   A key element of an organization's internal control over purchases is the monthly review of financial transactions by the responsible financial manager.  Reports are available through eprint, Banner, and/or Tigerbuy.  Refer to University Policy UM1303 Authorized Signature for Financial Transactions or the Finance Program Guide .
+            The purchase requisition should include, but not be limited to the following:
+            
+                Information describing the purpose of the acquisition, technical requirements, bidder qualifications, and any other information considered relevant to the goods or services being acquired.  Whenever possible, all specifications for materials, supplies, equipment and services shall be worded or designed so as to permit open and competitive bidding.  If available, furnish with the purchase requisition such specifications, catalog pages, brochures, or other data as will provide an adequate basis for determining the quality and functional capabilities of the products being requested.
+                The quantity or amount of articles or services required
+                The approximate time of delivery
+                The estimated cost of goods or services
+                Capital or sensitive minor equipment items must be coded as an equipment account code in order for the Fixed Asset System to identify items required to be tagged, as defined in University Policy 1772 Equipment Inventory .  Refer to the Financial Reporting website for an account code listing .
+            
+            Specific procedures related to entering and approving purchase requisitions in the Tigerbuy system are available in the BF Guide to Purchasing Goods and Services and the  Tigerbuy Training Materials .  The Request for B&F System Access form , along with user training and other finance information is available within the Finance Program Guide .
+    
+
+
+
+    
+        Additional Purchasing Methods
+        In addition to the purchase requisition, other purchasing methods, such as the Purchasing Card and Contract Purchases are described in the  BFGuide to Purchasing Goods and Services .
+    
+
+
+
+    
+        Competitive Bidding and Specifications
+        All purchases shall be based upon the principles of competitive bidding except as provided herein or within the  BFGuide to Purchasing Goods and Services .  Whenever possible, all specifications for materials, supplies, equipment and services shall be worded or designed so as to permit open and competitive bidding for the supplying of the articles, commodities or services to which they apply.  Bid thresholds are set by the State of Tennessee and the Tennessee Board of Regents to establish the minimum dollar amount for which any purchase of goods or services must be competitively bid by Procurement and Services.  Currently the bid threshold is $10,000.  Refer to the BFGuide to Purchasing Goods and Services for specific procedures to be followed.
+            The University shall actively solicit bids from small, minority, service-disabled veteran, and woman-owned businesses in order to obtain a fair proportion of goods and services from such businesses, whenever possible.  Procurement and Contract Services can provide a list of qualified small, minority, service-disabled veteran, and woman-owned businesses to ordering departments.
+    
+
+
+
+    
+        Non-Competitive Purchases
+        Goods and services may be procured without competitive bidding only if such purchases are justified in writing and approved by the President or Director of Procurement and Contract Services or designee. Specific procedures related to non-competitive purchases are available in the BFGuide to Purchasing Goods and Services.
+    
+
+
+
+    
+        Emergency Purchases
+        Requests for purchases of specific materials, supplies, equipment, or services may be made in the open market for immediate delivery only to meet bona fide emergencies arising from any unforeseen cause. The President or Director of Procurement and Contract Services or designee must approve all bona fide emergency purchase requests, and a written report on the circumstances of any such emergency justifying the purchase shall be prepared by the ordering department and maintained by the University. All emergency purchases shall, if practicable, be made on the basis of competitive bids.
+    
+
+
+
+    
+        Contracts and Agreements
+        All contracts and agreements will be in conformance with TBR Policy 1:03:02:10, Approval of Agreements and TBR Guideline G-030, Contracts and Agreements .  Specific procedures related to contracting thresholds and the use of appropriate forms are available in the BF Guide to Purchasing Goods and Services .
+            Contracts for Services in the amount of $5,000 or more require the signature of the Director of Procurement and Contract Services.
+            For personal, professional or consulting service contracts where the fee is less than $5,000, the Request for Payment to Individual or Contractor form may be utilized and forwarded to the Accounting Office. Contracts in excess of $249,999 require approval by the President and Chancellor. Specific procedures related to signatory authority are available in the University Policy UM1571 Contracts and Signatory Authority .
+            Non-competitive contracts of $250,000 or more and for a term greater than one (1) year require approval by the President, TBR and Fiscal Review Committee.  (Allow a minimum of 75 days prior to the effective date of the agreement).
+    
+
+
+
+    
+        Receiving
+        A receiver in the ordering department is responsible for receipting the items received or services performed into the Tigerbuy system.  Through the receipt process, the receiver is confirming the supplies, materials, or equipment received or services performed are equal in quality and quantity to those requisitioned.  This is a vital step in the procurement process that in connection with receipt of an invoice initiates payment for goods or services received.  Packing slips, if available, may be attached to a receipt in Tigerbuy to substantiate the receiving record.  The receiver may be any authorized Tigerbuy user in the ordering department.  Specific receiving guidelines are provided in the BF Guide to Purchasing Goods and Services .
+    
+
+
+
+    
+        Disposal of Surplus Personal Property
+        Surplus property is personal property owned by the University which has been determined by a department to be obsolete, outmoded, unusable or no longer needed for which future needs do not justify the cost of maintenance and/or storage.  Disposal of such property must be in accordance with this policy, TBR Policy 4:02:20:00 Disposal of Surplus Personal Property and University BF Guide to Purchasing Goods and Services . Departmental personnel shall declare usable items as surplus by entering the items into the Fixed Asset Workflow System, in accordance with University Policy UM1772 Equipment Inventory .
+             
+    
+
+
+
+
+    
+        
+        Related Forms
+    
+
+
+
+
+    
+        Request for B&F System Access
+        http://bf.memphis.edu/forms/tech/bf_access_request.htm
+    
+
+
+
+
+    
+        
+        FAQs
+    
+
+
+
+
+    
+        Whom do I contact with further questions?
+        Procurement and Contract Services maintains a web page with a listing of staff and their phone numbers at:   http://bf.memphis.edu/procurement/staff.php
+    
+
+
+
+    
+        What is the current dollar threshold for bidding goods or services?
+        The current dollar threshold for bidding is $10,000. Specific bid procedures are available in the  BFGuide to Purchasing Goods and Services .
+    
+
+
+
+
+    
+        
+        Links
+    
+
+
+
+
+    
+        Procurement and Contract Services Web Site
+        http://bf.memphis.edu/procurement/
+    
+
+
+
+    
+        BFGuide to Purchasing Goods and Services
+        http://bf.memphis.edu/bfguide/pur.php
+    
+
+
+
+    
+        Tigerbuy Training Materials
+        http://www.memphis.edu/procurement/tigerbuy/materials.php
+    
+
+
+
+    
+        Finance Program Guide
+        http://bf.memphis.edu/spectrum    
+    
+
+
+
+    
+        University UM1571 Contracts and Signatory Authority
+        http://policies.memphis.edu/UM1571.htm
+    
+
+
+
+    
+        University UM1772 Policy Equipment Inventory
+        http://umwa.memphis.edu/umpolicies/UM1772.htm
+    
+
+
+
+    
+        TBR Policy 4:02:10:00 Purchasing Policies and Procedures
+        https://policies.tbr.edu/policies/business-and-finance-policies
+    
+
+
+
+    
+        TBR Guideline G-030 Contracts and Agreements
+          http://www.tbr.edu/policies/default.aspx?id=1722   
+    
+
+
+
+    
+        TBR Policy 1:03:02:10 Approval of Agreements
+        http://www.tbr.edu/policies/default.aspx?id=4836
+    
+
+
+
+    
+        TBR Policy 1:02:03:10 Conflict of Interest
+        http://www.tbr.edu/policies/default.aspx?id=4844
+    
+
+
+
+    
+        TBR Policy 4:02:20:00 Disposal of Surplus Personal Property
+        https://policies.tbr.edu/policies/business-and-finance-policies
+    
+
+
+
+    
+        Tennessee Code Annotated (TCA)
+          http://www.michie.com/tennessee/lpext.dll?f=templates&fn=main-h.htm&cp = 
+    
+
+
+
+
+    
+        
+        Revision Dates
+    
+
+
+
+
+    
+         
+        
+        
+            UM1507 -- revised October 20, 2016
+            UM1507 -- revised June 30, 2015
+            UM1507 -- revised April 28, 2015
+            UM1507 -- revised November 7, 2013
+            UM1507 -- issued October 12, 2012
+    
+
+
+
+
+    
+        
+        Subject Areas:
+    
+
+
+
+    
+        Academic
+        Finance
+        General
+        Human Resources
+        Information Technology
+        Research
+        Student Affairs
+    
+    
+         
+        
+         
+         
+         
+         
+         
+    
+
+
+
+
+
+
+http://policies.memphis.edu/UM1507.htm

@@ -1,0 +1,1180 @@
+http://www.memphis.edu/hpc/configuration.php
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+   
+   
+   
+   
+   		
+   	
+   		
+   
+   
+   		
+   		
+   
+   
+   	
+   
+
+
+   
+   
+   
+
+
+                              
+                                                      
+                           
+                              
+                                  
+                                    
+                                    
+                                 
+                                                            
+                              
+                                 
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"Continue to positively impact American education so every student recieves optimal teaching and learning, every day."
+READ MORE (fa fa-angle-right)
+
+
+
+
+                              
+                              
+                           
+                        
+                                          
+                     
+                        
+                           
+                              
+                                 eNews and Signup 
+                                 Stay up-to-date with the UofM.
+                              
+                              
+                                 Parent and Family Events 
+                                 Join us for events held just for you!
+                              
+                              
+                                 FAQs 
+                                 Have a question? We have answers!
+                              
+                              
+                                 Connect With Us 
+                                 We are here to help you help your student.
+                              
+                           
+                           
+                              
+                                 Scholarships & Financial Aid 
+                                 We can help your student attend the UofM.
+                              
+                              
+                                 Student Services 
+                                 Resources to help your student succeed.
+                              
+                              
+                                 Campus Card 
+                                 Add money to your student's card for books and food.
+                              
+                              
+                                 Give to UofM 
+                                 Your gift to the Parent Fund makes the UofM a better place.
+                              
+                           
+
+                           
+                              
+                                  
+                                 
+                              
+                              
+                                  
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"Continue to positively impact American education so every student recieves optimal teaching and learning, every day."
+READ MORE (fa fa-angle-right)
+
+
+
+
+                              
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              
+							     Join Now 
+                                 Be True Blue and join the Alumni Association.
+                              
+                              
+                                 Update Your Information 
+                                 Receive University updates and the Memphis magazine.
+                              
+                              
+                                 Clubs and Chapters 
+                                 Get involved and stay connected to the UofM.
+                              
+                              
+                                 Make a Gift 
+                                 Your contribution can make a difference.
+                              
+                           
+                           
+                              
+                                 Lambuth Chapter 
+                                 Lambuth Graduates: Reconnect with fellow alumni.
+                              
+                              
+                                 Upcoming Events 
+                                 Mark your calendar for these upcoming events.
+                              
+                              
+                                 Photo Gallery 
+                                 View annual collections of the Alumni Association Photo Gallery.
+                              
+                              
+                                 News 
+                                 Stay up-to-date with Memphis Matters.
+                              
+                                                      
+                           
+                           
+                              
+                                  
+                                    
+                                    
+                                 
+                              
+                               
+                                  
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"Continue to positively impact American education so every student recieves optimal teaching and learning, every day."
+READ MORE (fa fa-angle-right)
+
+
+
+
+                              
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              
+                                 Veterans Resource Center 
+                                 Supporting the transition from military life to civilian life.
+                              
+                              
+                                 Veterans Benefits and Certifications 
+                                 Learn about Veterans Educational Benefits and Certifications.
+                              
+                              
+                                 Get Credits Toward your Degree 
+                                 Receive college credit for military experience, skills, and training.
+                              
+                              
+                                 Online Degree Programs 
+                                 Top provider of more than 50 online degree programs.
+                              
+                           
+                           
+                              
+                                 
+                                    
+                                       
+                                          
+                                          
+                                          
+                                          See his story: Vietnam veteran Michael Sasseen completed his degree by earning Experiential Learning Credit (ELC) from his past experiences authoring a book and working with war veterans with PTSD.
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+   
+
+      
+      
+         
+   
+      
+         
+            
+               
+                  
+                     
+                           			High Performance Computing
+                           	
+                  
+               
+            
+         
+      
+      
+         
+            
+               
+                  
+                     
+                        About
+                        Current Faculty
+                        Computational Research
+                        Configuration
+                        News
+                     
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     
+                        Home
+                        
+                              	High Performance Computing
+                              	
+                         Configuration
+                     
+                  
+                  
+                     
+                     
+                     
+                     		
+                     
+                     
+                     Configuration
+                     
+                     University of Memphis Network services supporting research
+                     
+                     Infrastructure
+                     
+                     The University of Memphis operates a state of the art communications network with
+                        over 18,000 nodes which provides connectivity across the main and regional campuses
+                        and facilities, on-campus residences, the Internet, and high-performance national
+                        research networks (e.g. I2). The campus network infrastructure standard provides switched
+                        1Gbps service to the desktop. Optional switched 10 Gbps service to the desktop is
+                        available to support specialized research needs. Wireless data service (currently
+                        802.11N) is available in all buildings and public areas on the main campus, and in
+                        all regional locations. The University of Memphis has dual redundant internet connections
+                        through 2 different Tier 1 providers with a total of more than 20 gigabit per second
+                        (Gbps) of commodity Internet service.
+                     
+                     
+                      Research connectivity
+                     
+                     The University of Memphis is the State of Tennessee Connector site for the Internet2 research network . Internet2 is a consortium of over 200 U.S. universities working
+                        in partnership with industry and government to develop and deploy advanced network
+                        applications and technologies to support education and research. The University of
+                        Memphis, in partnership with the University of Tennessee , Education Networks of America (ENA) , and NetTn , provides statewide access into Internet2 through Internet2's SEGP (Sponsored Education
+                        Group Participant) program, to K-12 school districts throughout the state as well
+                        as other higher education and research institutions in Tennessee.
+                     
+                     
+                     The University of Memphis is a founding member of the Memphis Coalition for Advanced Networking (MCAN) . MCAN is a regional optical network providing very high speed connectivity at 10
+                        gigabits per second among the researchers and facilities of its local members, including
+                        St. Jude Children's Research Hospital , the University of Memphis, the University of Tennessee Health Science Center , as well as Memphis BioWorks Foundation .
+                     
+                     
+                     MCAN is dedicated to the development of Tennessee's knowledge and innovation economy
+                        by providing reliable and cost-effective very high speed communications for its members.
+                        The organization plays an active role in developing research partnerships on behalf
+                        of its members. MCAN serves education, research, public service, and economic development
+                        initiatives. MCAN establishes communication connections with other initiatives in
+                        Tennessee to form a statewide high speed research backbone. Further, MCAN connects
+                        the Memphis region with national and international research and scientific networks,
+                        enabling Memphis and Tennessee a significant competitive advantage in research-driven
+                        economic development. MCAN is working with other regional research network partners
+                        in Arkansas, Louisiana, and Mississippi to promote regional connectivity in the mid-south.
+                     
+                     
+                     
+                     
+                      
+                     
+                     Hardware
+                     
+                     Summary
+                     
+                     The University of Memphis High Performance Computing cluster, provided by Penguin
+                        Computing, consists of 4 racks of hardware which contain a total of 50 server nodes
+                        (97 compute nodes), 3360 Opteron 6274cores, 12288 NVIDIA Tesla M2090 GPU cores, and
+                        a total of 15136GB {14+(25/32)TB} of RAM; distributed in the following manner:
+                     
+                     
+                     
+                        
+                        Master Nodes
+                        
+                        Login Nodes
+                        
+                        Compute Nodes
+                           
+                           
+                              
+                              Thin n[1-10] {thin-short} n[11-67] {default,thin}
+                              
+                              GPU n[68-79] {GPU,CUDA}
+                              
+                              Scratch n[80-82] {scratch,scratch-short}
+                              
+                              XL-Scratch n[83-86] {XL-scratch}
+                              
+                              L-Scratch n[87-91] {L-scratch}
+                              
+                              Fat n[92-95] {RAM_512GB,fat}
+                              
+                              XL-Fat n[96] {RAM_1TB,XL-fat}
+                              
+                           
+                           
+                        
+                        
+                        Storage
+                        
+                        Backup Storage
+                        
+                        Network Switches
+                        
+                     
+                     
+                     
+                     
+                     Master Nodes
+                     
+                     
+                        
+                        2x Master Nodes (Altus 2850GTi) {head0/head1}
+                        
+                        Dual Opteron 6274 16C, 2.2GHz
+                        
+                        128GB, DDR3-1333 (16x 8GB)
+                        
+                        1862GB, RAID 1 (2x 2TB SATA2)
+                        
+                        LSI 9260-8i
+                        
+                        Qlogic QLE7340 (QDR) IB to PCIe x8 adapter 32 Gbps
+                        
+                     
+                     
+                     Login Nodes
+                     
+                     
+                        
+                        2x Login Nodes (Altus 1850i) {login0/login1}
+                        
+                        Opteron 6274 16C, 2.2GHz
+                        
+                        16GB, DDR3-1333 (4x 4GB)
+                        
+                        465GB, RAID 1 (2x 500GB SATA2)
+                        
+                        Qlogic QLE7340 (QDR) IB to PCIe x8 adapter 32 Gbps
+                        
+                     
+                     
+                     Compute Nodes
+                     
+                     1. Thin n[1-10] {thin-short} n[11-67] {default,thin}
+                     
+                     
+                        
+                        17x Altus 2840Server (4 compute nodes each)
+                        
+                        4x Dual Opteron 6274 16C, 2.2GHz
+                        
+                        4x 128GB, DDR3-1333 (64x 8GB)
+                        
+                        4x 500GB, SATA2
+                        
+                        4x Qlogic QLE7340 (QDR) IB to PCIe x8 adapter 32 Gbps
+                        
+                     
+                     
+                     2. GPU n[68-79] {GPU,CUDA}
+                     
+                     
+                        
+                        12x Altus 2850GTiServer
+                        
+                        Dual Opteron 6274 16C, 2.2GHz
+                        
+                        128GB, DDR3-1333 (16x 8GB)
+                        
+                        2TB, SATA2
+                        
+                        2x NVIDIA Tesla M2090
+                        
+                        Qlogic QLE7340 (QDR) IB to PCIe x8 adapter 32 Gbps
+                        
+                     
+                     
+                     3. Scratch n[80-82] {scratch,scratch-short}
+                     
+                     
+                        
+                        3x Altus 1850iServer
+                        
+                        Dual Opteron 6274 16C, 2.2GHz
+                        
+                        128GB, DDR3-1333 (16x 8GB)
+                        
+                        2793GB, RAID 0 (3x 1TB SATA2)
+                        
+                        Qlogic QLE7340 (QDR) IB to PCIe x8 adapter 32 Gbps
+                        
+                     
+                     
+                     4. XL-Scratch n[83-86] {XL-scratch}
+                     
+                     
+                        
+                        4x Altus 2850GTiServer
+                        
+                        Dual Opteron 6274 16C, 2.2GHz
+                        
+                        128GB, DDR3-1333 (16x 8GB)
+                        
+                        14901GB RAID 0 (8x 2TB SATA2)
+                        
+                        Qlogic QLE7340 (QDR) IB to PCIe x8 adapter 32 Gbps
+                        
+                     
+                     
+                     5. L-Scratch n[87-91] {L-scratch}
+                     
+                     
+                        
+                        5x Altus 1850iServer
+                        
+                        Dual Opteron 6274 16C, 2.2GHz
+                        
+                        128GB, DDR3-1333 (16x 8GB)
+                        
+                        7450GB RAID 0 (4x 2TB SATA2)
+                        
+                        Qlogic QLE7340 (QDR) IB to PCIe x8 adapter 32 Gbps
+                        
+                     
+                     
+                     6. Fat n[92-95] {RAM_512GB,fat}
+                     
+                     
+                        
+                        4x Altus 1804iServer
+                        
+                        Quad Opteron 6274 16C, 2.2GHz
+                        
+                        512GB, DDR3-1066 (32x 16GB)
+                        
+                        2TB SATA2
+                        
+                        Qlogic QLE7340 (QDR) IB to PCIe x8 adapter 32 Gbps
+                        
+                     
+                     
+                     7. XL-Fat n[96] {RAM_1TB,XL-fat}
+                     
+                     
+                        
+                        Altus 1804iServer
+                        
+                        Quad Opteron 6274 16C, 2.2GHz
+                        
+                        1TB, DDR3-1066 (32x 32GB)
+                        
+                        2TB SATA2
+                        
+                        Qlogic QLE7340 (QDR) IB to PCIe x8 adapter 32 Gbps
+                        
+                     
+                     
+                     Storage
+                     
+                     
+                        
+                        Panasas ActiveStor 11High Performance Parallel Storage and File System
+                        
+                        5x 60TB Storage Shelf
+                        
+                     
+                     
+                     Backup Storage
+                     
+                     
+                        
+                        IceBreaker 4736Server
+                        
+                        Dual Xeon E5620 2.40GHz
+                        
+                        72GB, DDR3-1333 (6x 8GB + 6x 4GB)
+                        
+                        LSI 9750-8i
+                        
+                        55GB, RAID 1 (2x 60GB MLC SSD)
+                        
+                        22351GB, RAID 5 (9x 3TB SATA2)
+                        
+                        2x IceBreaker 4745Server Expansion Enclosure
+                        
+                        4x 22351GB, RAID 5 (9x 3TB SATA2)
+                        
+                     
+                     
+                     Network Switches
+                     
+                     
+                        
+                        Qlogic 12800 Infiniband Switch
+                        
+                        Force10 4810 10 Gigabit Ethernet Switch
+                        
+                     
+                     
+                      
+                     
+                     
+                     
+                      
+                     
+                     Software 
+                     
+                      
+                     
+                     
+                        
+                        
+                           
+                           
+                              
+                              ABySS
+                              
+                              LASTZ
+                              
+                           
+                           
+                           
+                              
+                              ACML
+                              
+                              LIBSVM
+                              
+                           
+                           
+                           
+                              
+                              ADF
+                              
+                              MATLAB
+                              
+                           
+                           
+                           
+                              
+                              ALLPATHS-LG
+                              
+                              MOE
+                              
+                           
+                           
+                           
+                              
+                              Amber
+                              
+                              Molpro
+                              
+                           
+                           
+                           
+                              
+                              ANSYS (Fluent)
+                              
+                              MOPAC
+                              
+                           
+                           
+                           
+                              
+                              APBS
+                              
+                              MrBayes
+                              
+                           
+                           
+                           
+                              
+                              ATLAS
+                              
+                              NAMD
+                              
+                           
+                           
+                           
+                              
+                              AutoDock
+                              
+                              NCL
+                              
+                           
+                           
+                           
+                              
+                              AutoDock Vina
+                              
+                              NEdit
+                              
+                           
+                           
+                           
+                              
+                              BEAGLE
+                              
+                              NetCDF
+                              
+                           
+                           
+                           
+                              
+                              beagle-lib
+                              
+                              NWChem
+                              
+                           
+                           
+                           
+                              
+                              BEAST
+                              
+                              OpenBUGS
+                              
+                           
+                           
+                           
+                              
+                              BLAS
+                              
+                              OpenCV
+                              
+                           
+                           
+                           
+                              
+                              BLAST
+                              
+                              OpenFOAM
+                              
+                           
+                           
+                           
+                              
+                              Boost
+                              
+                              PGI (C and FORTRAN)
+                              
+                           
+                           
+                           
+                              
+                              Charm
+                              
+                              Picard
+                              
+                           
+                           
+                           
+                              
+                              CNS
+                              
+                              pigz
+                              
+                           
+                           
+                           
+                              
+                              Comsol
+                              
+                              PSI
+                              
+                           
+                           
+                           
+                              
+                              ESPRESSO
+                              
+                              Pylith
+                              
+                           
+                           
+                           
+                              
+                              FFTW
+                              
+                              Python
+                              
+                           
+                           
+                           
+                              
+                              G95
+                              
+                              R
+                              
+                           
+                           
+                           
+                              
+                              GAMESS
+                              
+                              RAxML
+                              
+                           
+                           
+                           
+                              
+                              Garli
+                              
+                              Rosetta
+                              
+                           
+                           
+                           
+                              
+                              Gaussian
+                              
+                              SAC
+                              
+                           
+                           
+                           
+                              
+                              Gcc
+                              
+                              SAMtools
+                              
+                           
+                           
+                           
+                              
+                              GMT
+                              
+                              SAS
+                              
+                           
+                           
+                           
+                              
+                              GSL
+                              
+                              SIMULIA (Abaqus)
+                              
+                           
+                           
+                           
+                              
+                              HDF
+                              
+                              SparseHash
+                              
+                           
+                           
+                           
+                              
+                              IMSL
+                              
+                              Sphinx
+                              
+                           
+                           
+                           
+                              
+                              Intel (C and FORTRAN)
+                              
+                              Tachyon
+                              
+                           
+                           
+                           
+                              
+                              Java
+                              
+                              Velvet
+                              
+                           
+                           
+                           
+                              
+                              LAM-MPI
+                              
+                              VMD
+                              
+                           
+                           
+                           
+                              
+                              LAMMPS
+                              
+                              Weka
+                              
+                           
+                           
+                           
+                              
+                              LAPACK
+                              
+                              wxWidgets
+                              
+                           
+                           
+                           
+                              
+                               
+                              
+                               
+                              
+                           
+                           
+                           
+                              
+                               
+                              
+                               
+                              
+                           
+                           
+                        
+                        
+                     
+                     
+                     
+                     	
+                     
+                  
+               
+               
+                  
+                     
+                     
+                        
+                           
+                              HPC Upgrade
+                              Learn more about the Summer 2015 HPC upgrade!
+                           
+                           
+                              Request Consultation
+                              Request Consultation with HPC Team
+                           
+                        
+                     
+                  
+                  
+               
+               
+            
+            
+         
+         
+      
+   
+   
+   
+      
+      
+      
+
+   
+      
+         
+            
+               Full sitemap 
+            
+            
+               
+                  
+                     Admissions
+                     
+                        
+                           Prospective Students
+                           Undergraduate
+                           Graduate
+                           Law School
+                           International
+                           Parents
+                           Scholarship & Financial Aid
+                           Tuition & Fee Payment
+                           FAQs
+                           About UofM
+                        
+                     
+                  
+                  
+                     Academics
+                     
+                        
+                           Provost's Office
+                           Libraries
+                           Transcripts
+                           Undergraduate Catalog
+                           Graduate Catalog
+                           Academic Calendar
+                           Course Schedule
+                           Financial Aid
+                           Graduation
+                           Honors Program
+						   eCourseware
+                        
+                     
+                  
+                  
+                     Athletics
+                     
+                        
+                           Gotigersgo.com
+                           Ticket Information
+                           Intramural Sports
+                           Recreation Center
+                           Athletic Academic Support
+                           Former Tigers
+                           Facilities
+                           Tiger Scholarship Fund
+                           Media
+                        
+                     
+                  
+				  
+                  
+                     Research
+                     
+                        
+                           Sponsored Programs
+                           Research Resources
+                           Centers & Institutes
+                           Chairs of Excellence
+                           FedEx Institute of Technology
+                           Libraries
+                           Grants Accounting
+                           Environmental Health
+                           Office of Institutional Research
+                        
+                     
+                  
+                  
+                     Support UofM
+                     
+                        
+                           Make a Gift
+                           Alumni Association
+                           Year of Service
+                        
+                     
+                  
+                  
+                     Administrative Support
+                     
+                        
+                           President's Office
+                           Academic Affairs
+                           Business & Finance
+                           Career Opportunities
+                           Conference & Event Services
+                           Corporate Partnerships
+Development Office
+                           Government Relations
+                           Information Technology Services
+                           Media and Marketing
+                           Student Affairs
+                        
+                     
+                  
+               
+            
+         
+         
+            
+               
+                  
+                  
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+               
+            
+            
+               
+                  Follow UofM Online
+                  Facebook Twitter YouTube
+                  
+                  
+                  Instagram Pinterest LinkedIn
+               
+            
+             
+                  
+                      
+                  
+               
+      
+         
+      
+   
+
+
+      
+      
+      
+      
+         
+            
+               
+                  
+                     
+                        
+                           
+                              
+                                 
+                                 
+                                 
+Print
+Got a Question? Ask TOM
+Copyright 2016 University of Memphis
+Important Notice
+
+                                 
+                                 
+                                 
+                                 
+                                    Last Updated: 10/9/15
+                                 
+                                 
+                                 
+                                 
+University of Memphis
+Memphis, TN 38152
+Phone: 901.678.2000
+
+The University of Memphis does not discriminate against students, employees, or applicants for admission or employment on the basis of race, color, religion, creed, national origin, sex, sexual orientation, gender identity/expression, disability, age, status as a protected veteran, genetic information, or any other legally protected class with respect to all employment, programs and activities sponsored by the University of Memphis. The following person has been designated to handle inquiries regarding non-discrimination policies: Michael Washington, Director for Institutional Equity.  For more information see University of Memphis Equal Opportunity and Affirmative Action .
+
+Title IX of the Education Amendments of 1972 protects people from discrimination based on sex in education programs or activities which receive Federal financial assistance. Title IX states: "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance..." 20 U.S.C. § 1681 - To Learn More Click Here .
+
+
+ 
+
+                                 
+                                 
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+http://www.memphis.edu/hpc/configuration.php

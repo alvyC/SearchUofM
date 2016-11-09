@@ -1,0 +1,665 @@
+http://www.memphis.edu/hpc/current-faculty.php
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+   
+   
+   
+   
+   		
+   	
+   		
+   
+   
+   		
+   		
+   
+   
+   	
+   
+
+
+   
+   
+   
+
+
+                              
+                                                      
+                           
+                              
+                                  
+                                    
+                                    
+                                 
+                                                            
+                              
+                                 
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"Continue to positively impact American education so every student recieves optimal teaching and learning, every day."
+READ MORE (fa fa-angle-right)
+
+
+
+
+                              
+                              
+                           
+                        
+                                          
+                     
+                        
+                           
+                              
+                                 eNews and Signup 
+                                 Stay up-to-date with the UofM.
+                              
+                              
+                                 Parent and Family Events 
+                                 Join us for events held just for you!
+                              
+                              
+                                 FAQs 
+                                 Have a question? We have answers!
+                              
+                              
+                                 Connect With Us 
+                                 We are here to help you help your student.
+                              
+                           
+                           
+                              
+                                 Scholarships & Financial Aid 
+                                 We can help your student attend the UofM.
+                              
+                              
+                                 Student Services 
+                                 Resources to help your student succeed.
+                              
+                              
+                                 Campus Card 
+                                 Add money to your student's card for books and food.
+                              
+                              
+                                 Give to UofM 
+                                 Your gift to the Parent Fund makes the UofM a better place.
+                              
+                           
+
+                           
+                              
+                                  
+                                 
+                              
+                              
+                                  
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"Continue to positively impact American education so every student recieves optimal teaching and learning, every day."
+READ MORE (fa fa-angle-right)
+
+
+
+
+                              
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              
+							     Join Now 
+                                 Be True Blue and join the Alumni Association.
+                              
+                              
+                                 Update Your Information 
+                                 Receive University updates and the Memphis magazine.
+                              
+                              
+                                 Clubs and Chapters 
+                                 Get involved and stay connected to the UofM.
+                              
+                              
+                                 Make a Gift 
+                                 Your contribution can make a difference.
+                              
+                           
+                           
+                              
+                                 Lambuth Chapter 
+                                 Lambuth Graduates: Reconnect with fellow alumni.
+                              
+                              
+                                 Upcoming Events 
+                                 Mark your calendar for these upcoming events.
+                              
+                              
+                                 Photo Gallery 
+                                 View annual collections of the Alumni Association Photo Gallery.
+                              
+                              
+                                 News 
+                                 Stay up-to-date with Memphis Matters.
+                              
+                                                      
+                           
+                           
+                              
+                                  
+                                    
+                                    
+                                 
+                              
+                               
+                                  
+                                    
+                                    
+                                 
+                              
+                              
+                              
+"Continue to positively impact American education so every student recieves optimal teaching and learning, every day."
+READ MORE (fa fa-angle-right)
+
+
+
+
+                              
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              
+                                 Veterans Resource Center 
+                                 Supporting the transition from military life to civilian life.
+                              
+                              
+                                 Veterans Benefits and Certifications 
+                                 Learn about Veterans Educational Benefits and Certifications.
+                              
+                              
+                                 Get Credits Toward your Degree 
+                                 Receive college credit for military experience, skills, and training.
+                              
+                              
+                                 Online Degree Programs 
+                                 Top provider of more than 50 online degree programs.
+                              
+                           
+                           
+                              
+                                 
+                                    
+                                       
+                                          
+                                          
+                                          
+                                          See his story: Vietnam veteran Michael Sasseen completed his degree by earning Experiential Learning Credit (ELC) from his past experiences authoring a book and working with war veterans with PTSD.
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+   
+
+      
+      
+         
+   
+      
+         
+            
+               
+                  
+                     
+                           			High Performance Computing
+                           	
+                  
+               
+            
+         
+      
+      
+         
+            
+               
+                  
+                     
+                        About
+                        Current Faculty
+                        Computational Research
+                        Configuration
+                        News
+                     
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     
+                        Home
+                        
+                              	High Performance Computing
+                              	
+                        Current Faculty 
+                     
+                  
+                  
+                     
+                     
+                     
+                     		
+                     
+                     
+                     Information for Current Faculty
+                     
+                     This page contains information to assist faculty with getting started with High Performance
+                        Computing (HPC).  To begin, faculty members should send an email to hpcadmins@memphis.edu .
+                     
+                     
+                     Getting Started
+                     
+                     If you have not yet acquired an account with the HPC, please email the HPC Administrators with your full name. To receive an account, you must be an enrolled student, faculty,
+                        or conducting research affiliated with a department within the University of Memphis.
+                        If the latter case applies, then we must have verification from the department which
+                        will sponsor your time on our resources and we may discuss this on a case by case
+                        basis.
+                     
+                     
+                     Logging In
+                     
+                     Once you have acquired a [username] you may open up a s(ecure)sh(ell) to 1 of 2 login
+                        nodes (login0-1) by opening up a Terminal window (Unix/Linux/Mac) and submitting the
+                        following command:
+                     
+                     
+                     $ssh [username]@penguin.memphis.edu
+                     
+                     Windows users will most likely need to install an application such as PuTTY , a SSH client which offers a graphical user interface where you can input the necessary
+                        login information, such as your username, password, and the the host name for our
+                        login node penguin.memphis.edu (or just penguin). An SFTP(Secure File Transfer Protocol)
+                        client such as WinSCP or Tunnelier will also be necessary for uploading to, and/or
+                        downloading from, your share on the cluster. Please read the paragraph directly below
+                        for information on how to connect to the cluster from off campus, keep in mind that
+                        if you are able to secure an off campus connection you will need to appropriately
+                        configure whichever third party application(s) you decide to use. The node you log into is determined by a "round-robin" scheme which will distribute
+                        users evenly among our login nodes. Also, please note, access to the cluster is restricted
+                        to connections within the University of Memphis's LAN (assuming that you are trying
+                        to ssh within the LAN, you can drop the ".memphis.edu" tag and merely use $ssh [username]@penguin
+                        ).
+                     
+                     
+                     If you wish to access the HPC from outside the University's LAN you must secure an
+                        account on a host within the LAN that does allow for an off campus connection and
+                        log into their server before logging into the HPC cluster. It is the users responsibility
+                        to secure an account on a host server outside the HPC. One method for students and
+                        faculty is the University's Virtual Private Network (VPN), which only requires your
+                        UUID and password. Detailed information regarding installation and usage, as well
+                        as a comprehensive FAQs, can be found at the University's VPN site.
+                     
+                     
+                     Passwords
+                     
+                     If you are logging into the cluster for the first time, you will need to immediately
+                        change the temporary password initially given to you. This process should begin automatically
+                        when you login for the first time. If not, or if you would like to change your password
+                        at any other point in time, you can use the command:
+                     
+                     
+                     $yppasswd
+                     
+                     If you cannot remember your password, please email the HPC Administrators and it will be reset for you.
+                     
+                     
+                     Submitting Jobs
+                     
+                     ALL jobs must be submitted to the job scheduler as either Batch (through a submission
+                        script) or Interactively. Through the links below a number of batch templates are provided with explanations
+                        on how to modify them for use. A selection of optional commands are also available
+                        for customization
+                     
+                     
+                     Batch Scripts (Templates for batch jobs with explanations on how to modify)
+                     
+                     Interactive Submission (Without GUI and with GUI information)
+                     
+                     Scheduler Control Commands (A selection of optional commands available for customization)
+                     
+                     Useful Links
+                     
+                     Resources
+                     
+                     Penguin Computing's Onsite Training
+                     
+                     Intel Compiler Directives for C++ and Fortran
+                     
+                     Links
+                     
+                     Job Scheduler Control Commands and Environmental Variables
+                     
+                     CUDA Documentation
+                     
+                     
+                     	
+                     
+                  
+               
+               
+                  
+                     
+                     
+                        
+                           
+                              HPC Upgrade
+                              Learn more about the Summer 2015 HPC upgrade!
+                           
+                           
+                              Request Consultation
+                              Request Consultation with HPC Team
+                           
+                        
+                     
+                  
+                  
+               
+               
+            
+            
+         
+         
+      
+   
+   
+   
+      
+      
+      
+
+   
+      
+         
+            
+               Full sitemap 
+            
+            
+               
+                  
+                     Admissions
+                     
+                        
+                           Prospective Students
+                           Undergraduate
+                           Graduate
+                           Law School
+                           International
+                           Parents
+                           Scholarship & Financial Aid
+                           Tuition & Fee Payment
+                           FAQs
+                           About UofM
+                        
+                     
+                  
+                  
+                     Academics
+                     
+                        
+                           Provost's Office
+                           Libraries
+                           Transcripts
+                           Undergraduate Catalog
+                           Graduate Catalog
+                           Academic Calendar
+                           Course Schedule
+                           Financial Aid
+                           Graduation
+                           Honors Program
+						   eCourseware
+                        
+                     
+                  
+                  
+                     Athletics
+                     
+                        
+                           Gotigersgo.com
+                           Ticket Information
+                           Intramural Sports
+                           Recreation Center
+                           Athletic Academic Support
+                           Former Tigers
+                           Facilities
+                           Tiger Scholarship Fund
+                           Media
+                        
+                     
+                  
+				  
+                  
+                     Research
+                     
+                        
+                           Sponsored Programs
+                           Research Resources
+                           Centers & Institutes
+                           Chairs of Excellence
+                           FedEx Institute of Technology
+                           Libraries
+                           Grants Accounting
+                           Environmental Health
+                           Office of Institutional Research
+                        
+                     
+                  
+                  
+                     Support UofM
+                     
+                        
+                           Make a Gift
+                           Alumni Association
+                           Year of Service
+                        
+                     
+                  
+                  
+                     Administrative Support
+                     
+                        
+                           President's Office
+                           Academic Affairs
+                           Business & Finance
+                           Career Opportunities
+                           Conference & Event Services
+                           Corporate Partnerships
+Development Office
+                           Government Relations
+                           Information Technology Services
+                           Media and Marketing
+                           Student Affairs
+                        
+                     
+                  
+               
+            
+         
+         
+            
+               
+                  
+                  
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+               
+            
+            
+               
+                  Follow UofM Online
+                  Facebook Twitter YouTube
+                  
+                  
+                  Instagram Pinterest LinkedIn
+               
+            
+             
+                  
+                      
+                  
+               
+      
+         
+      
+   
+
+
+      
+      
+      
+      
+         
+            
+               
+                  
+                     
+                        
+                           
+                              
+                                 
+                                 
+                                 
+Print
+Got a Question? Ask TOM
+Copyright 2016 University of Memphis
+Important Notice
+
+                                 
+                                 
+                                 
+                                 
+                                    Last Updated: 10/9/15
+                                 
+                                 
+                                 
+                                 
+University of Memphis
+Memphis, TN 38152
+Phone: 901.678.2000
+
+The University of Memphis does not discriminate against students, employees, or applicants for admission or employment on the basis of race, color, religion, creed, national origin, sex, sexual orientation, gender identity/expression, disability, age, status as a protected veteran, genetic information, or any other legally protected class with respect to all employment, programs and activities sponsored by the University of Memphis. The following person has been designated to handle inquiries regarding non-discrimination policies: Michael Washington, Director for Institutional Equity.  For more information see University of Memphis Equal Opportunity and Affirmative Action .
+
+Title IX of the Education Amendments of 1972 protects people from discrimination based on sex in education programs or activities which receive Federal financial assistance. Title IX states: "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance..." 20 U.S.C. § 1681 - To Learn More Click Here .
+
+
+ 
+
+                                 
+                                 
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+http://www.memphis.edu/hpc/current-faculty.php

@@ -1,0 +1,355 @@
+http://libguides.memphis.edu/technology/sensor
+=======================================================================================
+
+
+	
+        
+        
+        
+        
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+        
+        
+            
+        
+        
+        
+            
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	   
+		        
+        	
+    
+	
+		Skip to main content                
+                
+        
+  		
+            
+                
+			
+				
+					
+						University of Memphis Libraries
+						
+					
+					
+						LibGuides
+						
+					
+					
+						Technology @ University Libraries
+						
+					
+					Sensors
+					
+			            
+			
+				
+					
+				
+					
+						
+							
+							Search this Guide
+							
+								Search
+							
+						
+					
+								
+							
+            
+                Technology @ University Libraries
+                
+                    Find information about the technology lending program @ University Libraries.
+                
+            
+        
+        
+        
+        
+            
+                
+                    
+                        
+                            
+				
+					
+						Welcome
+					
+				
+				
+					
+						Breadboard
+					
+				
+				
+					
+						Flip Camera
+					
+				
+				
+					
+						GoPro Camera
+					
+				
+				
+					
+						Gaming
+					
+				
+				
+					
+						Microsoft Bands
+					
+				
+				
+					
+						Multimeter
+					
+				
+				
+					
+						Oculus Rift
+					
+				
+				
+					
+						Sensors
+					
+				
+				
+					
+						Soldering
+					
+				
+				
+					
+						Touch Screens
+					
+				
+				
+					
+						Zoom H4n Recorder
+					
+				
+                            
+				
+					
+						
+						
+							
+					
+						
+							Leap Motion
+                                
+							
+								
+									
+			
+				
+		   
+								
+								
+							
+						
+					
+							
+							
+					
+						
+							EyeTribe
+                                
+							
+								
+									
+			
+				
+		   
+								
+								
+							
+						
+					
+							
+							
+					
+						
+							Raspberry Pi
+                                
+							
+								
+									
+			
+				
+		   
+								
+								
+							
+						
+					
+							
+						
+					
+				                        
+                    
+                
+                
+                    
+                        
+                            
+    
+                
+					
+						
+							Welcome to the Sensor and Device Guide
+                                
+							
+								
+									
+			
+				As part of the circulating technologies program, the University of Memphis provides sensor-based technologies for students and faculty to conduct research and collect data. All items have a 3-day check-out period with no consecutive checkouts or renewals. Only 1 sensor may be checked out at a time.
+		   
+								
+								
+							
+						
+					
+					
+						
+							What Sensors and Devices do we offer?
+                                
+							
+								
+									
+			
+				     A sensor is an electronic device used to detect or measure an attribute of its environment.  If you are interested in weather and wind-speed there are sensors that are specifically designed for that.  If your interest is webpage saliency, there are sensors for that too.  We aim to provide a wide array of sensors to aide in your research and education; some of them have multiple capabilities. We currently provide Leap Motion for hand motion tracking and  the Eye Tribe for eye tracking.
+		   
+								
+								
+							
+						
+					
+					
+						
+							Motion Tracking Equipment
+                                
+							
+								
+									
+			
+				    The Leap Motion sensor is analogous to a mouse.  It plugs into the USB port and allows you to use your hands and fingers to interact with a computer application as a kind of touch-less mouse.  It is designed to be set face up on the desktop or mounted face forward on a device or the body.  It uses two infrared cameras and three infrared light emitting diodes.  The technology is similar to the Microsoft Kinect.  It is nearly plug and play, so the driver downloads automatically when the device is plugged into the USB port.   The Leap motion installs a control panel on plugin.  The panel can be used to configure and diagnose the sensor.  There is also a setup download that  ru ns  the installer and gives you access to the app sore via an app home application.   There is a troubleshoot guide to help solve any problems. It is not the best layout but it is very handy.  There is a support number you can call for support during weekday business hours and an email address.
+
+      The Leap Motion controller also offers an online  APP store for downloads.  There are many free games available amongst the ones that are available for purchase.   The developer portal offers an Software Development Kit for those who would like to create Leap Motion Applications.  The sensor can be interfaced with Oculus Rift for a VR/AR mashup.  
+		   
+								
+								
+							
+						
+					
+					
+						
+							Eye Tracking Technology
+                                
+							
+								
+									
+			
+				The Eyetribe eye tracker is largely for development purposes and is not yet supported by an app store.  There are a few applications that you may use to test if the device is working.  There is also an application that allows you to use your eyes to operate a web-browser.  You must establish an account in order to access the Eyetribe software.
+		   
+								
+								
+							
+						
+					
+        
+    
+                        
+                    
+                    
+				
+					
+					<< Previous: Oculus Rift
+					
+					
+					Next: Soldering >>
+					
+				                
+            
+        
+        
+        
+            
+                
+                    
+                        Last Updated: Oct 18, 2016 10:28 AM                    
+                    
+                        URL: http://libguides.memphis.edu/technology                    
+                    
+                    	 Print Page                    	
+                    
+                
+                    Login to LibApps                
+            
+            
+                
+                    Report a problem 
+                
+                
+                    
+                    Subjects: 
+                    Help/How-To Guides , Technology
+                                    
+                
+                    
+                    Tags: 
+                    emerging technology
+                                    
+            
+        
+        
+        
+			
+				
+					
+					  
+					  
+					
+				
+			        
+                            
+                               
+                
+                
+
+		
+	
+
+http://libguides.memphis.edu/technology/sensor

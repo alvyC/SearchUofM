@@ -1,0 +1,317 @@
+http://cybersummit.memphis.edu/2014
+=======================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+Mid-South  
+ 
+    Cyber Security Summit | October 17, 2014
+   
+   
+    
+     
+      Home
+      Speakers
+      Sponsors
+      Agenda
+      
+     
+      Arrival
+      Gallery
+      
+       
+      
+     
+    
+   
+
+  
+  
+
+   
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+    
+    
+     
+     
+     
+     
+     
+    
+
+
+  
+  
+
+
+  
+  
+
+home This year's theme: Mobile Security, Online Fraud, and Insider Threat
+The University of Memphis Center for Information Assurance will
+
+be hosting the 7 th Annual Cyber Security Summit (previously called cyber expo) at the FedEx
+Institute of Technology on October 17th, 2014. Information
+Assurance and Cyber Security experts will be onsite for presentations
+and networking to address current issues of cyber security.
+
+
+
+
+
+Topics may include:
+
+Bring Your Own Device (BYOD)
+Health Information Security
+Cloud Security
+Social Engineering Attacks
+Internet of Things
+Organized Cyber Crime
+
+
+
+Door Prizes Include:
+
+USB Storage
+Wireless Mouse
+Andriod Media Player
+And More...
+
+
+
+
+
+
+
+The speakers include:
+
+
+	
+		
+		Ben Scribner
+		Program Director, Department of Homeland Security (DHS)
+		Title of Talk: Current initiatives & issues with DHS cybersecurity
+	
+	
+		Bio
+		Ben Scribner is the Program Director for the Department of Homeland Security, or DHS, National Cybersecurity Professionalization and Workforce Development program. He has ten years of experience leading coalitions of United States federal departments and agencies to develop resources for cybersecurity professionals. He led the establishment of the Federal Virtual Training Environment and Training Events program. Mr. Scribner now supervises DHS leadership of the National Initiative for Cybersecurity Education, or NICE, and the National Initiative for Cybersecurity Careers and Studies, also known as NICCS.
+	
+
+
+	
+		
+		R. Corby Hovis
+		Program Director, Education and Human Resources, National Science Foundation (NSF)
+		Title of Talk: NSF/Federal Initiatives in Cyber Security Education and Awareness
+	
+	
+		Bio
+		Dr. Corby Hovis is a program director at the National Science Foundation (NSF) in Arlington, Virginia, where he oversees the NSF-wide Research Experiences for Undergraduates (REU) program and co-manages several grant programs in NSF's Directorate for Education and Human Resources. In particular, he has worked for many years in two programs supporting cybersecurity education: the CyberCorps: Scholarship for Service (SFS) Program, which provides scholarships and supports other activities to build strong educational programs in cybersecurity at colleges and universities; and the Advanced Technological Education (ATE) Program, which funds efforts to improve and expand technician education, including IT and cybersecurity education, at community colleges around the nation.
+
+Before joining NSF, Dr. Hovis served on the faculty of Valparaiso University and, at the same time, as science editor at Encyclopædia Britannica in Chicago. He earned his graduate degrees (Ph.D., M.S., M.A.) from Cornell University and his undergraduate degree from Wake Forest University.
+	
+
+
+        
+                
+                Richard A. "Rick" Raines
+                Cyber Portfolio Manager, Oak Ridge National Laboratory (ORNL)
+                Title of Talk: Cyber Threats, Challenges, and R&D Way Ahead
+        
+        
+                Bio
+                
+Dr. Richard A. “Rick” Raines, is the Cyber Portfolio Manager, Oak Ridge National Laboratory (ORNL), Oak Ridge Tennessee. Prior to joining ORNL in March 2013, he served as the Director, Air Force Cyberspace Technical Center of Excellence (AF CyTCoE), DoD Force Transformation Chair, and Professor of Electrical Engineering, at the Air Force Institute of Technology (AFIT), Wright Patterson Air Force Base, Ohio. The mission of the AF CyTCoE is to promote collaboration between cyberspace education, training, and research organizations within the AF and across the nation, and to advocate for their advancement in support of national security objectives; while developing Air Force and DoD leaders in cyber operations expert in the use of doctrine, techniques, and technologies ensuring dominance and superiority in cyberspace.
+
+Dr. Raines earned a Bachelor of Science degree in Electrical Engineering from The Florida State University, with honors. He earned a Master of Science degree in Computer Engineering from AFIT, and a Ph.D. in Electrical Engineering from Virginia Polytechnic Institute and State University.
+
+Dr. Raines was the founding Director of the Center for Cyberspace Research (CCR), a National Security Agency and Department of Homeland Security Center of Academic Excellence, Air Force designated Cyberspace Technical Center of Excellence, and a National Science Foundation CyberCorp institution. Dr. Raines has served as a Senior Mentor to the Commander, Air Force Cyberspace Command (Provisional), served on the U.S. Government Interagency Coordinating Committee representing 30 academic institutions conducting cyber security education and research, and serves on numerous federal cybersecurity working groups. He has authored or co-authored more than 150 technical and strategic publications in the areas of computer and satellite communications, communications theory, vulnerabilities of communication systems, and cyber security. In 2007, he was inducted into the Association of Old Crows’ Hall of Fame for significant and lasting contributions to Information Operations. He was the 2008 recipient of the Air Force Science and Engineering Educator of the Year award.  Dr. Raines is a retired Air Force officer.  He is a Senior Member of the Institute of Electronics and Electrical Engineers (IEEE) and a member of Eta Kappa Nu and Tau Beta Pi engineering honor societies.
+                
+        
+
+
+	
+		
+		Justin Zhan
+		Professor and Director of ILAB
+		North Carolina A&T State University
+		Title of Talk: "Privacy issues in health informatics"
+	
+	
+		Bio
+		Dr. Justin Zhan is the director of ILAB. He is a faculty member at Department of Computer Science, College of Engineering, North Carolina A&T State University. He has previously been a faculty member at Carnegie Mellon University and National Center for the Protection of Financial Infrastructure in South Dakota State. His research interests include Big Data, Information Assurance, Social Computing, and Health Science. He is a steering chair of ASE/IEEE International Conference on Social Computing (SocialCom), ASE/IEEE International Conference on Privacy, Security, Risk and Trust (PASSAT), and ASE/IEEE International Conference on BioMedical Computing (BioMedCom). He is currently an editor-in-chief of International Journal of Privacy, Security and Integrity, International Journal of Social Computing and Cyber-Physical Systems, and managing editor of SCIENCE journal and HUMAN Journal. He has served as a conference general chair, a program chair, a publicity chair, a workshop chair, or a program committee member for 160 international conferences and an editor-in-chief, an editor, an associate editor, a guest editor, an editorial advisory board member, or an editorial board member for 30 journals. In recent years, he has published 150 articles in peer-reviewed journals and conferences and delivered above 30 keynote speeches and invited talks.
+	
+
+
+
+	
+		
+		A. Todd McCall
+		Special Agent in Charge, FBI - Memphis Division
+		Title of Talk: TBA
+	
+	
+		Bio
+		
+		Entered on duty as a Special Agent with the Federal Bureau in Investigation (FBI) in November, 1990.  After attending the FBI Academy, was assigned to the Dallas Division.
+		In August 1991, he was appointed to the Dallas Evidence Response Team (ERT) and has been involved in the management of a number of high profile major crime scene investigations to include: 
+		
+			The fire at the Branch Davidian Compound, Waco, Texas, 1993
+			The bombing of the Alfred P. Murrah Federal Building, Oklahoma City, Oklahoma, 1995
+			The bombing of the United States Embassy, Dar es Salaam, Tanzania, Africa, 1998
+			The War Crimes Investigation of Slobodan Milosevic in Kosovo, June, 1999
+			The crash of United Air Lines Flight 93, Shanksville, Pennsylvania, September 11, 2001
+			He also coordinated and managed all the federal crime scene investigation assets for the 2002 Winter Olympic Games in Salt Lake City, Utah
+			Most recently McCall coordinated Digital Evidence assets and response for the Boston Marathon Bombing case
+		
+
+In May, 1999, McCall was promoted to Supervisory Special Agent at the FBI Laboratory.  He was then promoted to Unit Chief of the Photographic Operations & Imaging Services Unit in December, 2003.
+In June, 2005, McCall reported to the Memphis Division, Jackson, Tennessee, Resident Agency to serve as the Supervisory Senior Resident Agent (SSRA).
+
+In September, 2010, McCall was promoted to Assistant Special Agent in Charge - Memphis Division, where he was responsible for all Criminal Programs and Administrative matters.
+
+In February, 2012, McCall reported to the Operational Technology Division as Section Chief of the Digital Forensics & Analysis Section.  There he was responsible for all computer and digital evidence forensic matters for the FBI.  This included working with several FBIHQ divisions in developing the Director’s Next Generation Cyber priority initiative.
+
+In March, 2013, McCall was appointed to the position of Special Agent in Charge of the Memphis Division of the FBI by Director Robert Mueller.  
+
+	
+
+
+
+	
+		
+		Philip T. Susmann
+		Norwich University Applied Research Institute(NUARI)
+		Title of Talk: "Cyber Exercise: Quantum Dawn 2"
+	
+	
+		Bio
+		
+		 Philip T. Susmann started at Norwich University in the Spring of 1987 and was promoted and tenured in 1994 as an Associate Professor of Information Systems and Department Chair of the Computer Information Systems Department. Selected as the University's first Chief Information Officer in 1994, he oversaw the implementation of an enterprise resource planning system, development of online educational practices, and a ubiquitous university network. Philip was the driving force behind the University's Information Assurance program and designation as an NSA center of excellence. Promoted to Vice President of Information Technology and Strategic Partnerships in 2002, Philip was charged with the responsibility of supporting and developing new business initiatives, corporate and business partnerships with the University and government relations. Philip was a founding board member of Norwich University Applied Research Institutes in 2003 and became its President in 2005. Today he holds the dual role of President of NUARI, a $5M research and development non-profit, and Vice President for Strategic Partnerships for Norwich University. Philip graduated from Norwich University in 1981 and Clarkson University with an MBA in 1983.
+
+	
+	
+
+
+
+        
+                
+               James Cotter
+                Supervisory Intelligence Officer, Co-Director - Tennessee Fusion Center
+                Title of Talk: Tennessee Fusion Centers role in Cyber Security
+        
+        
+                Bio
+                
+		James Cotter has over 20 years of law enforcement experience, the last 15 in the state of Tennessee. In 2000, he became a Certified Intelligence Analyst and one of Tennessee’s first Terrorism Liaison Officers. He worked with the ATF in the areas of explosives and extremist groups and became a regular guest instructor on the subject of post blast investigation at the National Center for Explosive Testing and Research at Redstone Arsenal in Huntsville, AL. In 2008, James joined the Tennessee Department of Safety and Homeland Security as a Regional Advisor. He was promoted in 2012 to Supervisory Intelligence Officer and Co-Director of the Tennessee Fusion Center. He is also the outreach liaison officer for the many Muslim communities across the state. James is a graduate of the Naval Post Graduate School Fusion Center Leaders Program, the South East Command and Leadership Academy, the Institute of Police Technology and Management, and LEAD Tennessee. He is a veteran of the United States Marine Corps with numerous deployments to theaters of operation in the Middle East, Africa, South and Central America. 
+
+        
+
+Industry Track
+
+        
+                
+                Julia Fink
+                Senior Operations Manager for DIA Programs, Blue Canopy Group,LLC
+                Title of Talk: "INSIDER THREATS"
+        
+        
+                Bio
+                
+Ms. Fink is a success oriented problem solver with years of extensive combined government and
+contractor DoD/IC experience in Information Assurance Management, Certification & Accreditation (C&A)
+Management, Cloud Security Management, Enterprise Architecture Solutions, Cryptology Intelligence
+Analysis, Organizational Growth, Team Building, Technical Support, Strategic Planning, and Execution.
+Ms. Fink is currently serving as the Senior Operations Program Manager for the US owned company Blue
+Canopy and is managing a $15M Department of Defense (DoD) program delivering a web-based
+application that provides smart data discovery, community collaboration, and facilitates data storage and
+retrieval built on the Defense Intelligence Agency (DIA) ORION platform. Ms. Fink also co-founded the
+Blue Canopy C&A Center of Excellence where she leads a team of C&A SME’s through all phases of the
+Intelligence Community (IC) testing events.
+Ms. Fink recently earned her Graduate Certificate in, Systems Engineering from George Washington
+University. She is also a graduate of the University of Maryland University College and has her Bachelor
+of Science (B.S.), Management Studies. Ms. Fink was most recently accepted to attend Harvard Kennedy
+School of Executive Education for a program on Cyber Security.
+
+                
+        
+
+
+
+
+        
+                
+                Bryant G. Tow
+                Chief Security Officer, Vaco Risk Solutions
+                Title of Talk: How to build a long term cyber security strategy
+        
+        
+                Bio
+                
+Bryant has nearly 25 years of experience in the IT industry both as an entrepreneur and senior
+executive. Bryant currently serves as the Chief Security Officer of Vaco, LLC and Partner at Vaco Risk
+Solutions. Additionally, he serves clients as an executive trusted advisor and CSO working to integrate
+security into business strategy and operations as well as speaking at industry events, working with
+industry analyst, media outlets and law enforcement. Bryant has held several leadership positions in the
+security industry including the DHS-IT Sector Coordinating Council and InfraGard National Members
+Alliance; an FBI public/private alliance program boasting over fifty-five thousand members where he is
+currently serving as a Vice President. Bryant is also currently recognized as a Distinguished Fellow at the
+Ponemon Institute, the industry’s leading industry research organization. Previously Bryant was Chief
+Security Officer for CSC‘s Financial Services Group (FSG), Global Security Competency Lead for Unisys
+Corp. and Global Security Director for Nortel. Over the years he has published several books and articles
+on cyber security topics and has received several awards including "Governor's Office of Homeland
+Security Award for Exceptional Contribution in Recognition of Outstanding Support of Tennessee's
+Counter Terrorism Program.
+ 
+                
+        
+
+
+
+
+
+
+Questions?
+University of Memphis Cyber Summit
+(901) 678-5440 OR (901) 678-3916
+cybersummit@memphis.edu
+
+Thank you for your support!
+
+
+  
+  
+
+
+Copyright © 2014 by the University of Memphis.
+ Important Notice
+  
+
+ 
+ 
+ 
+
+
+
+http://cybersummit.memphis.edu/2014
