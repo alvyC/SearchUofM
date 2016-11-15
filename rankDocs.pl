@@ -1,33 +1,52 @@
 #!/opt/local/bin/perl
 
+use strict;
+use warnings;
+
 my $totalNoDocs = 8393;
 my $processedFileLocation = "./processed_documents/";
 my $fileExtension = ".txt";
 my %invertedIndex;
 my %idf;
-
-&createInvertedIndex;
+my @queryWords;
 
 sub createInvertedIndex {
   my $documentNo = 1;
-  foreach my $file (@fileList) {
-    my $docName = "./processed_documents/";
-    $docName = $docName . $documentNo . $fileExtension;
-    if (open(INFILE, $file) || die("Can't open ", $file, " for reading")) {
+  while ($documentNo <= $totalNoDocs) {
+    my @array;
+    my $docName = $documentNo . $fileExtension;
+    my $fullPath = $processedFileLocation . $docName;
+    if (open(INFILE, $fullPath) || die("Can't open ", $fullPath, " for reading")) {
       @array = <INFILE>;
     }
     close(INFILE);
 
     my $i = 0;
     while($i < @array) {
-      my @words = split(" ", $array[$i]);
-      foreach my $word (@words) {
-        $invertedIndex{$word}{$docName}++;
-      }
+      if ($i > 1) { # ignore the first two line which are metadata
+        my @words = split(" ", $array[$i]);
+        foreach my $word (@words) {
+          $invertedIndex{$word}{$docName}++;
+        }
+      } # if
       $i++;
     } # while @array
     $documentNo++;
-  } # foreach @fileList
+  } # while
+}
+
+sub printInvertedIndex {
+  open(OUTFILE, ">inverted-index.txt");
+  print OUTFILE ("   Word (idf) ----> Document No | Term Frequency\n");
+  print OUTFILE ("----------------------------------------------\n");
+  foreach my $word (sort keys %invertedIndex) {
+    print OUTFILE ($word, " (");
+    print OUTFILE ($idf{$word}, ") ---> ");
+    foreach my $doc (keys %{$invertedIndex{$word}}) {
+      print OUTFILE ($doc, "|", $invertedIndex{$word}{$doc}, "; ");
+    }
+    print OUTFILE ("\n");
+  }
 }
 
 # df = keys %invertedIndex;
@@ -41,8 +60,8 @@ sub createInvertedIndex {
 sub computeIdf {
   foreach my $word (sort keys %invertedIndex) {
     my $df = keys %invertedIndex;
-    my $tf = keys %invertedIndex{$word};
-    my $idf{$word} = log($totalNoDocs/$df);
+    my $tf = keys %{$invertedIndex{$word}};
+    $idf{$word} = log($totalNoDocs/$df);
 
     foreach my $doc (keys %{$invertedIndex{$word}}) {
       # do nothing for now
@@ -51,6 +70,6 @@ sub computeIdf {
   }
 }
 
-
-print log(2/ 2);
-print ("\n");
+&createInvertedIndex;
+&computeIdf;
+&printInvertedIndex;

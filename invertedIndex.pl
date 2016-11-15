@@ -22,9 +22,9 @@ my @fileList;
 my %invertedIndex;
 
 
-&crawlBaseUrl($baseUrl);
-&initStopWordHash;
-&preProcessContent;
+#&crawlBaseUrl($baseUrl);
+#&initStopWordHash;
+#&preProcessContent;
 &createInvertedIndex;
 &printInvertedIndex;
 

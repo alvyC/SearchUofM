@@ -1,0 +1,3 @@
+http://blogs.memphis.edu/cio/wp-json/
+=======================================================================================
+ nameoffic ciodescriptionnew inform technologi servicesurlhttpcionamespacesoembedauthenticationroutesnamespacemethodsgetendpointsmethodsgetargscontextrequiredfalsedefaultviewlinksselfhttpciowpjsonoembednamespaceoembedmethodsgetendpointsmethodsgetargsnamespacerequiredfalsedefaultoembedcontextrequiredfalsedefaultviewlinksselfhttpciowpjsonoembedoembedembednamespaceoembedmethodsgetendpointsmethodsgetargsurlrequiredtrueformatrequiredfalsedefaultjsonmaxwidthrequiredfalsedefaultlinksselfhttpciowpjsonoembedembedlinkshelphrefhttpvwpjson

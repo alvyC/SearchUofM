@@ -1,0 +1,3 @@
+http://onlegalgrounds.law.memphis.edu/wordpress/wp-content/themes/Hueman-Child/style.css?ver=4.5.4
+=======================================================================================
+ theme hueman child theme uri descript author meredith aden author uri templat hueman version licens gnu gener public licens licens uri html import urlhuemanstylecss add style thi line divwidgetsonpag ul li liststylenon backgroundnon contentthemeshuemanchildstylecssv

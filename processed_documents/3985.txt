@@ -1,0 +1,3 @@
+https://umwa.memphis.edu/clearinghouse/ch-login.php
+=======================================================================================
+ httpsloginphp

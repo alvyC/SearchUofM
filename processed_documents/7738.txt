@@ -1,0 +1,3 @@
+http://blogs.memphis.edu/provost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fblogs.memphis.edu%2Fprovost%2F2015%2F03%2F20%2Fnew-graduate-student-professional-development-certificate-program%2F
+=======================================================================================
+ versionprovidernameth univers memphi provost blogproviderurlhttpprovostauthornamelisa sikkinkauthorurlhttpprovostauthorlsikkinktitlenew graduat student profession develop certif programtyperichwidthheighthtml graduat student profession develop certif program nhttpjsonoembedembedurlhttpaffprovostffffnewgraduatestudentprofessionaldevelopmentcertificateprogramf
