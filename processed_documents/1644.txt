@@ -1,3 +1,0 @@
-http://bf.memphis.edu/tigermaps/policephones.php
-=======================================================================================
- thi web browser doe support frame click open polic servic map httpphp

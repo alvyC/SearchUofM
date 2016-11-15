@@ -1,3 +1,0 @@
-http://www.memphis.edu/msci/style.css
-=======================================================================================
- degplan bordercollaps collaps width degplan tddegplan border px solid black pad px degplan backgroundcolorcf degplan thfirstchilddegplan tdfirstchild width degplan thnthchildndegplan tdnthchildn width ppic floatleftverticalaligntopmarginpx px px px sched td paddingpx px px pxverticalaligntop iframeifr marginpt paddingpt bordernon width summari cursorpoint summarybefor color contentf fontweight fontsizepx fontfamilyfontawesom paddingrightpx open summarybefor contentf paddingrightpx detail notsummari displaynon open displayblock import httpcss

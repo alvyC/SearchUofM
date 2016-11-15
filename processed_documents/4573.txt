@@ -1,3 +1,0 @@
-http://blogs.memphis.edu/president/wp-content/themes/memphis-edu/favicons/android-chrome-manifest.json
-=======================================================================================
- icon src androidchromexpng size type imagepng densiti src androidchromexpng size type imagepng densiti src androidchromexpng size type imagepng densiti src androidchromexpng size type imagepng densiti src androidchromexpng size type imagepng densiti src androidchromexpng size type imagepng densiti httpcontentthemesmemphisedufaviconsandroidchromemanifestjson

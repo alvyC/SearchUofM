@@ -1,3 +1,0 @@
-http://blogs.memphis.edu/cio/wp-content/mu-plugins/campus-files/plugins-mods/ultimate-branding/assets/admin-bar-public.css?ver=20150323
-=======================================================================================
- wpadminbarwdcabroot displayblock import wpadminbarwdcabroot img position rel pad verticalalign middl margin px px float displai inlin import widthpx lineheightpx marginpx px media screen maxwidthpx wpadminbarwdcabroot img widthpx contentmupluginscampusfilespluginsmodsultimatebrandingassetsadminbarpubliccssv

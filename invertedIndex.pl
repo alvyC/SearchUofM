@@ -188,8 +188,8 @@ sub createInvertedIndex {
 
 sub printInvertedIndex {
   open(OUTFILE, ">inverted-index.txt");
-  print OUTFILE ("Word --> Document No | Term Frequency\n");
-  print OUTFILE ("-----------------------------------------\n");
+  print OUTFILE (" Word ----> Document No | Term Frequency\n");
+  print OUTFILE ("----------------------------------------------\n");
   foreach my $word (sort keys %invertedIndex) {
     print OUTFILE ($word, " --> ");
     foreach my $doc (keys %invertedIndex{$word}) {

@@ -1,3 +1,0 @@
-http://blogs.memphis.edu/president/wp-json/
-=======================================================================================
- nameth univers memphi presid blogdescriptionth univers memphi presid blogurlhttppresidentnamespacesoembedauthenticationroutesnamespacemethodsgetendpointsmethodsgetargscontextrequiredfalsedefaultviewlinksselfhttppresidentwpjsonoembednamespaceoembedmethodsgetendpointsmethodsgetargsnamespacerequiredfalsedefaultoembedcontextrequiredfalsedefaultviewlinksselfhttppresidentwpjsonoembedoembedembednamespaceoembedmethodsgetendpointsmethodsgetargsurlrequiredtrueformatrequiredfalsedefaultjsonmaxwidthrequiredfalsedefaultlinksselfhttppresidentwpjsonoembedembedlinkshelphrefhttpvwpjson

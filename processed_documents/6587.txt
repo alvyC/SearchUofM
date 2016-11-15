@@ -1,3 +1,0 @@
-http://www.memphis.edu/bioinformatics/requirements/bioinformatics_application.doc
-=======================================================================================
- applicationdoc

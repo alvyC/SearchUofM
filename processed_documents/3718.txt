@@ -1,3 +1,0 @@
-http://www.memphis.edu/accounting/xls/uofm_wire_transfer.xlsx
-=======================================================================================
- pkwiretransferxlsx

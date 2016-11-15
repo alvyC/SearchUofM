@@ -1,3 +1,0 @@
-http://blogs.memphis.edu/provost/wp-json/
-=======================================================================================
- nameth univers memphi provost blogdescriptiondr karen weddlewest provosturlhttpprovostnamespacesoembedauthenticationroutesnamespacemethodsgetendpointsmethodsgetargscontextrequiredfalsedefaultviewlinksselfhttpprovostwpjsonoembednamespaceoembedmethodsgetendpointsmethodsgetargsnamespacerequiredfalsedefaultoembedcontextrequiredfalsedefaultviewlinksselfhttpprovostwpjsonoembedoembedembednamespaceoembedmethodsgetendpointsmethodsgetargsurlrequiredtrueformatrequiredfalsedefaultjsonmaxwidthrequiredfalsedefaultlinksselfhttpprovostwpjsonoembedembedlinkshelphrefhttpvwpjson

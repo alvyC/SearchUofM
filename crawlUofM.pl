@@ -14,7 +14,7 @@ use open ':std', ':encoding(UTF-8)';
 mkdir("documents", 0755);
 mkdir("processed_documents", 0755);
 
-my $baseUrl = "http://www.memphis.edu";                       # where the crawling will start
+my $baseUrl = "http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/";                       # where the crawling will start
 my $fileLocation = "./documents/";                            # web documents will be stored in this directory
 my $processedFileLocation = "./processed_documents/";         # processed web documents will be stored in this directory
 my $fileExtension = ".txt";                                   # web documents will be stored as text files
@@ -22,7 +22,7 @@ my %stopWordHash;                                             # hash for stop wo
 my $totalDocument;                                            # total # of web documents stored
 my @fileList;                                                 # it has name of all the preprocessed files/ documents
 my %invertedIndex;                                            # word to document matrix
-my $maxNoOfWebDocs = 5000;                                     # maximum number of documents that will be crawled by the crawler
+my $maxNoOfWebDocs = 6000;                                     # maximum number of documents that will be crawled by the crawler
 
 &crawlBaseUrl($baseUrl);
 &initStopWordHash;
