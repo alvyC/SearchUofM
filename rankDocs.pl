@@ -16,7 +16,9 @@ my $fileExtension = ".txt";
 my %invertedIndex;
 my %idf;
 my %stopWordHash;
-my $query = "Muktadir Chowdhury Computer Science";
+#my $query = "Muktadir Chowdhury Computer Science";
+my $cgi = CGI->new;
+my $query = $cgi->param("firstnamer");
 my %docVectorLength;
 my @outputLinks;
 
@@ -156,3 +158,37 @@ sub computeDocumentVectorLength {
   }
   #print "\n";
 }
+
+
+
+#Html Code
+print $cgi->header( "text/html" );
+  print "<HTML><HEAD><TITLE>Search Result<\/TITLE><\/HEAD><body background=\"cgi-bin\Image.jpg\">
+  <DIV id=\"loginContent\" style=\"text-align:center;\">
+         <div id=\"loginResult\" style=\"display:none;\"></div>";
+  print "
+  <form id=\"loginForm\" name=\"loginForm\" method=\"post\" action=\"cgi-bin\Assgnt.pl\">
+        <fieldset>
+            <legend><b><font size=\"6\">Search Engine</font></legend>
+            <p>
+            <label for=\"firstname\"><b><font size=\"3\">Enter Query</font></b></label>
+            <br>
+            <input type=\"text\" id=\"firstname\" name=\"firstname\" class=\"text\" size=\"50\" />
+            </p>
+            <p>
+            <button type=\"submit\" class=\"button positive\">
+             Bravo Tiger
+            </button>
+            </p>
+        </fieldset>
+        </form>
+  ";
+
+  print "<table border=\"1\" align=\"center\">";
+  print "<tr><th>Scores</th><th>Links</th></tr>";
+  for($s=0; $s < @outputLinks; $s++) {
+           print "<tr><td>$outputLinks[$s]</td>";
+           print "<td><a href=\"$outputLinks[$s]\">$outputLinks[$s]</a></td></tr>";
+      }
+         print "</table>";
+print "<\/DIV><\/body><\/HTML>";
