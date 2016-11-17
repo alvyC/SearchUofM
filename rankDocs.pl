@@ -159,8 +159,6 @@ sub computeDocumentVectorLength {
   #print "\n";
 }
 
-
-
 #Html Code
 print $cgi->header( "text/html" );
   print "<HTML><HEAD><TITLE>Search Result<\/TITLE><\/HEAD><body background=\"cgi-bin\Image.jpg\">
