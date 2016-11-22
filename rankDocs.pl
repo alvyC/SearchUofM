@@ -16,9 +16,9 @@ my $fileExtension = ".txt";
 my %invertedIndex;
 my %idf;
 my %stopWordHash;
-#my $query = "Muktadir Chowdhury Computer Science";
+my $query = "Muktadir Chowdhury Computer Science";
 my $cgi = CGI->new;
-my $query = $cgi->param("firstnamer");
+#my $query = $cgi->param("firstname");
 my %docVectorLength;
 my @outputLinks;
 
@@ -79,71 +79,79 @@ sub computeIdf {
   }
 }
 
-# sub initStopWordHash {
-#   my $stopWords = get("http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/papers/english.stopwords.txt") || die "Cannot get stopwordSite" ;
-#   my @stopWordList = split("\n", $stopWords);
-#   foreach my $stopWord (@stopWordList) {
-#     $stopWordHash{$stopWord} = 1;
-#   }
-# }
+sub initStopWordHash {
+  my $stopWords = get("http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/papers/english.stopwords.txt") || die "Cannot get stopwordSite" ;
+  my @stopWordList = split("\n", $stopWords);
+  foreach my $stopWord (@stopWordList) {
+    $stopWordHash{$stopWord} = 1;
+  }
+}
 
-# sub removeStopWordsAndStem {
-#   my ($line) = @_;
-#   my @words = split(" ", $line);
+sub removeStopWordsAndStem {
+  my ($line) = @_;
+  my @words = split(" ", $line);
 
-#   my $stemmed_words = Lingua::Stem::En::stem({-words => \@words,
-#                                               -locale => 'en',
-#                                               -exceptions => \%exceptions});
-#   my $processedLine = "";
-#   foreach my $word(@$stemmed_words) {
-#     if ($stopWordHash{$word} == 0) {
-#       $processedLine = $processedLine . " " . $word;
-#     }
-#   }
+  my $stemmed_words = Lingua::Stem::En::stem({-words => \@words,
+                                              -locale => 'en',
+                                              -exceptions => \%exceptions});
+  my $processedLine = "";
+  foreach my $word(@$stemmed_words) {
+    if ($stopWordHash{$word} == 0) {
+      $processedLine = $processedLine . " " . $word;
+    }
+  }
 
-#   return $processedLine;
-# }
+  return $processedLine;
+}
 
-# sub processQuery {
-#   my ($line) = @_;
+sub processQueryString {
+  my ($line) = @_;
 
-#   &initStopWordHash;
+  &initStopWordHash;
 
-#   $line =~ s/((?<=[^a-zA-Z0-9])(?:https?\:\/\/|[a-zA-Z0-9]{1,}\.{1}|\b)(?:\w{1,}\.{1}){1,5}(?:com|org|edu|gov|uk|net|ca|de|jp|fr|au|us|ru|ch|it|nl|se|no|es|mil|iq|io|ac|ly|sm){1}(?:\/[a-zA-Z0-9]{1,})*)//g; # Remove HTML/HTTP or any kind of URL type lines.
-#   $line =~ s/[[:punct:]]//g; # Remove punctuations
-#   $line =~ s/\d//g;          # Remove digits
-#   $line =~ s/^\s+//;         # Remove leading whitespaces
-#   $line = lc $line;          # Convert uppercases to lowercases
+  $line =~ s/((?<=[^a-zA-Z0-9])(?:https?\:\/\/|[a-zA-Z0-9]{1,}\.{1}|\b)(?:\w{1,}\.{1}){1,5}(?:com|org|edu|gov|uk|net|ca|de|jp|fr|au|us|ru|ch|it|nl|se|no|es|mil|iq|io|ac|ly|sm){1}(?:\/[a-zA-Z0-9]{1,})*)//g; # Remove HTML/HTTP or any kind of URL type lines.
+  $line =~ s/[[:punct:]]//g; # Remove punctuations
+  $line =~ s/\d//g;          # Remove digits
+  $line =~ s/^\s+//;         # Remove leading whitespaces
+  $line = lc $line;          # Convert uppercases to lowercases
 
-#   $line = &removeStopWordsAndStem($line); # Remove stopwords and do stemming
+  $line = &removeStopWordsAndStem($line); # Remove stopwords and do stemming
 
-#   return $line;
-# }
+  return $line;
+}
 
 sub computeDocumentVectorLength {
   my ($query) = @_;
+  $query = &processQueryString($query);
+
   my @queryWords = split(" ", $query);
 
   my $i = 0;
-  foreach my $word (sort keys %invertedIndex) {
-    if (lc($queryWords[$i]) eq $word) {
-      #print $word, ": \n";
-      my $df = keys %{$invertedIndex{$word}};
-      my $idf = log($totalNoDocs/$df);
-      #print "df = ", $df, "\n";
-      foreach my $doc (keys %{$invertedIndex{$word}}) {
-        #print $doc, " | ";
-        my $tf = $invertedIndex{$word}{$doc};
-        #print $tf, ", ";
-        $docVectorLength{$doc} += ($tf * $idf)
-      }
-      #print "\n";
-      $i++;
-    }
+  # foreach my $word (sort keys %invertedIndex) {
+  #   if (lc($queryWords[$i]) eq $word) {
+  #     print $word, ": \n";
+  #     my $df = keys %{$invertedIndex{$word}};
+  #     my $idf = log($totalNoDocs/$df);
+  #     #print "df = ", $df, "\n";
+  #     foreach my $doc (keys %{$invertedIndex{$word}}) {
+  #       print $doc, " | ";
+  #       my $tf = $invertedIndex{$word}{$doc};
+  #       #print $tf, ", ";
+  #       $docVectorLength{$doc} += ($tf * $idf)
+  #     }
+  #     print "\n";
+  #     $i++;
+  #   }
 
-    if ($i == @queryWords) {
-      last;
-    }
+  #   if ($i == @queryWords) {
+  #     last;
+  #   }
+  # }
+
+  for($i = 0; $i < @queryWords; $i++) {
+    print $queryWords[$i], "(df) = ";
+    my $df = keys %{$invertedIndex{$queryWords[$i]}};
+    print $df, "\n";
   }
 
   foreach my $doc (sort keys %docVectorLength) {
@@ -154,39 +162,39 @@ sub computeDocumentVectorLength {
       @array = <INFILE>;
     }
     #print $array[0], "\n";
-    push(@outputLinks, $array[0]);
+    push(@outputLinks, $array[0]); # first line of the file is the link
   }
   #print "\n";
 }
 
 #Html Code
-print $cgi->header( "text/html" );
-  print "<HTML><HEAD><TITLE>Search Result<\/TITLE><\/HEAD><body background=\"cgi-bin\Image.jpg\">
-  <DIV id=\"loginContent\" style=\"text-align:center;\">
-         <div id=\"loginResult\" style=\"display:none;\"></div>";
-  print "
-  <form id=\"loginForm\" name=\"loginForm\" method=\"post\" action=\"cgi-bin\Assgnt.pl\">
-        <fieldset>
-            <legend><b><font size=\"6\">Search Engine</font></legend>
-            <p>
-            <label for=\"firstname\"><b><font size=\"3\">Enter Query</font></b></label>
-            <br>
-            <input type=\"text\" id=\"firstname\" name=\"firstname\" class=\"text\" size=\"50\" />
-            </p>
-            <p>
-            <button type=\"submit\" class=\"button positive\">
-             Bravo Tiger
-            </button>
-            </p>
-        </fieldset>
-        </form>
-  ";
+# print $cgi->header( "text/html" );
+#   print "<HTML><HEAD><TITLE>Search Result<\/TITLE><\/HEAD>
+#   <DIV id=\"loginContent\" style=\"text-align:center;\">
+#          <div id=\"loginResult\" style=\"display:none;\"></div>";
+#   print "
+#   <form id=\"loginForm\" name=\"loginForm\" method=\"post\" action=\"rankDocs.pl\">
+#         <fieldset>
+#             <legend><b><font size=\"6\">Search Engine</font></legend>
+#             <p>
+#             <label for=\"firstname\"><b><font size=\"3\">Enter Query</font></b></label>
+#             <br>
+#             <input type=\"text\" id=\"firstname\" name=\"firstname\" class=\"text\" size=\"50\" />
+#             </p>
+#             <p>
+#             <button type=\"submit\" class=\"button positive\">
+#              Bravo Tiger
+#             </button>
+#             </p>
+#         </fieldset>
+#         </form>
+#   ";
 
-  print "<table border=\"1\" align=\"center\">";
-  print "<tr><th>Scores</th><th>Links</th></tr>";
-  for($s=0; $s < @outputLinks; $s++) {
-           print "<tr><td>$outputLinks[$s]</td>";
-           print "<td><a href=\"$outputLinks[$s]\">$outputLinks[$s]</a></td></tr>";
-      }
-         print "</table>";
-print "<\/DIV><\/body><\/HTML>";
+#   print "<table border=\"1\" align=\"center\">";
+#   print "<tr><th>Scores</th><th>Links</th></tr>";
+#   for($s=0; $s < @outputLinks; $s++) {
+#            print "<tr><td>$outputLinks[$s]</td>";
+#            print "<td><a href=\"$outputLinks[$s]\">$outputLinks[$s]</a></td></tr>";
+#       }
+#          print "</table>";
+# print "<\/DIV><\/body><\/HTML>";
