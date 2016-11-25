@@ -16,7 +16,7 @@ my $fileExtension = ".txt";
 my %invertedIndex;
 my %idf;
 my %stopWordHash;
-my $query = "Muktadir Rahman Chowdhury";
+my $query = "software engineering research";
 my $cgi = CGI->new;
 #my $query = $cgi->param("firstname");
 my %docVectorLength;
@@ -69,6 +69,8 @@ sub printInvertedIndex {
 sub initStopWordHash {
   my $stopWords = get("http://www.cs.memphis.edu/~vrus/teaching/ir-websearch/papers/english.stopwords.txt") || die "Cannot get stopwordSite" ;
   my @stopWordList = split("\n", $stopWords);
+  push(@stopWordList, "memphis");
+  push(@stopWordList, "university");
   foreach my $stopWord (@stopWordList) {
     $stopWordHash{$stopWord} = 1;
   }
