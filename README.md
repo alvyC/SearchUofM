@@ -1,2 +1,2 @@
 # SearchUofM
-A Search Engine for the University of Memphis website.
+A Search Engine for the memphis.edu domain.
