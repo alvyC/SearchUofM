@@ -16,7 +16,7 @@ my $fileExtension = ".txt";
 my %invertedIndex;
 my %idf;
 my %stopWordHash;
-my $query = "Muktadir Chowdhury Computer Science";
+my $query = "Muktadir Rahman Chowdhury";
 my $cgi = CGI->new;
 #my $query = $cgi->param("firstname");
 my %docVectorLength;
@@ -63,19 +63,6 @@ sub printInvertedIndex {
       print OUTFILE ($doc, "|", $invertedIndex{$word}{$doc}, "; ");
     }
     print OUTFILE ("\n");
-  }
-}
-
-sub computeIdf {
-  foreach my $word (sort keys %invertedIndex) {
-    my $df = keys %invertedIndex;
-    my $tf = keys %{$invertedIndex{$word}};
-    $idf{$word} = log($totalNoDocs/$df);
-
-    foreach my $doc (keys %{$invertedIndex{$word}}) {
-      # do nothing for now
-
-    }
   }
 }
 
@@ -127,47 +114,33 @@ sub computeDocumentVectorLength {
   my @queryWords = split(" ", $query);
 
   my $i = 0;
-  # foreach my $word (sort keys %invertedIndex) {
-  #   if (lc($queryWords[$i]) eq $word) {
-  #     print $word, ": \n";
-  #     my $df = keys %{$invertedIndex{$word}};
-  #     my $idf = log($totalNoDocs/$df);
-  #     #print "df = ", $df, "\n";
-  #     foreach my $doc (keys %{$invertedIndex{$word}}) {
-  #       print $doc, " | ";
-  #       my $tf = $invertedIndex{$word}{$doc};
-  #       #print $tf, ", ";
-  #       $docVectorLength{$doc} += ($tf * $idf)
-  #     }
-  #     print "\n";
-  #     $i++;
-  #   }
-
-  #   if ($i == @queryWords) {
-  #     last;
-  #   }
-  # }
 
   for($i = 0; $i < @queryWords; $i++) {
     print $queryWords[$i], "(df) = ";
     my $df = keys %{$invertedIndex{$queryWords[$i]}};
-    print $df, "\n";
+    my $idf = log($totalNoDocs/ $df);
+
+    foreach my $doc (keys %{$invertedIndex{$queryWords[$i]}}) {
+      my $tf = $invertedIndex{$queryWords[$i]}{$doc};
+      $docVectorLength{$doc} += ($tf * $idf);
+    }
+    print $queryWords[$i], "(idf) = ", $idf, "\n";
   }
 
-  foreach my $doc (sort keys %docVectorLength) {
+  foreach my $doc (sort { $docVectorLength{$b} <=> $docVectorLength{$a} } keys %docVectorLength) {
     $docVectorLength{$doc} = sqrt($docVectorLength{$doc});
-    #print $doc, ": " ,$docVectorLength{$doc}, ", ";
+    print $doc, ": " ,$docVectorLength{$doc}, ", ";
     my @array;
     if (open(INFILE, $processedFileLocation . $doc) || die ("Can't open ", $doc, " for reading.")) {
       @array = <INFILE>;
     }
-    #print $array[0], "\n";
+    print $array[0], "\n";
     push(@outputLinks, $array[0]); # first line of the file is the link
   }
   #print "\n";
 }
 
-#Html Code
+# #Html Code
 # print $cgi->header( "text/html" );
 #   print "<HTML><HEAD><TITLE>Search Result<\/TITLE><\/HEAD>
 #   <DIV id=\"loginContent\" style=\"text-align:center;\">
