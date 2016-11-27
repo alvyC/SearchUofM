@@ -1,45 +1,61 @@
-\title{A Search Engine for University of Memphis}
-\author{
-        Muktadir Chowdhury \\
-                Department of Computer Science\\
-        University of Memphis\\
-            \and
-        Yossi Gil\\
-        Department of Computer Science\\
-        Technion---Israel Institute of Technology\\
-        Technion City, Haifa 32000, \underline{Israel}
-}
-\date{\today}
+\documentclass[11pt]{article}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{setspace}
+\usepackage[breaklinks]{hyperref}
+\usepackage{url}
+\usepackage{breakurl}
+\usepackage{amsmath}
 
-\documentclass[12pt]{article}
+\ExecuteOptions{dvips}
+%%
+%% Page Size
+%%
+\oddsidemargin  0.0in
+
+\evensidemargin 0.0in
+
+\textwidth      6.5in
+
+\headheight     0.0in
+
+\textheight     9.1in
+
+\itemsep 0.0pt
+
+\topmargin -0.35in
+\topskip 0.0in
 
 \begin{document}
+\title{A Search Engine for memphis.edu domain}
+\author{
+{\rm Muktadir Chowdhury} \\
+mrchwdhr@memphis.edu \\
+Department of Computer Science \\
+University of Memphis\\
+}
 \maketitle
-
-\begin{abstract}
-This is the paper's abstract \ldots
-\end{abstract}
+\thispagestyle{empty}
 
 \section{Introduction}
-This is time for all good men to come to the aid of their party!
+\input{introduction}
 
-\paragraph{Outline}
-The remainder of this article is organized as follows.
-Section~\ref{previous work} gives account of previous work.
-Our new and exciting results are described in Section~\ref{results}.
-Finally, Section~\ref{conclusions} gives the conclusions.
+\section{Approach}
+\input{approach}
 
-\section{Previous work}\label{previous work}
-A much longer \LaTeXe{} example was written by Gil~\cite{Gil:02}.
+\section{Design}
+\input{design}
 
-\section{Results}\label{results}
-In this section we describe the results.
+\section{Implementation}
+\input{implementation}
 
-\section{Conclusions}\label{conclusions}
-We worked hard, and achieved very little.
+\section{Result}
+\input{results}
 
-\bibliographystyle{abbrv}
-\bibliography{main}
+\section{Future Work}
+\input{future_work}
+
+\bibliographystyle{plain}
+\bibliography{search}
 
 \end{document}
-This is never printed

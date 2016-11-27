@@ -1,0 +1,52 @@
+\label{sec:implementation}
+\subsection{Crawler}
+Crawler maintains two queues. Firstly, \textbf{queueUrls} contains all the URLs that need to be
+downloaded and parsed. Secondly, \textbf{visitedUrls} contains all the URLs that are visited and
+processed and has more than 50 tokens. If this array contains more than 10K unique URLs then
+crawlers job is done. \textbf{queueUrls} is initially seeded with two URL \textit{http://www.cs.memphis.edu/
+vrus/teaching/ir-websearch/} and \textit{http://www.memphis.edu/}. At first crawler pop an URL from
+\textbf{queueUrls}. This is a priority pop, giving priority to memphis.edu the most. Every time crawler visits a page, it finds all the URLs that are available in anchors. If an URL is in relative path format crawler converts it to absolute URL. If this absolute URL is already available in visitedUrls means that specific URL is already visited it should be discarded. Otherwise the URL controller path ending with .php, .htm, .html, or does not contain any dot, crawler consider
+it as html content type and push the URL in queueUrls to process in next iteration. Http content
+type is not used because it can be misleading due to poor implementation in server side code. If
+the URL controller ends with .pdf it is considered as pdf file, and ending with .txt it is considered as text file.
+
+\subsection{Preprocessing}
+HTML File Processing
+\begin{itemize}
+\item Remove html comments.
+\item Remove JavaScript snippet.
+\item Strip html tags.
+\item Remove URLs from html file.
+\item Replace html special characters like, “&nbsp;”, “&amp;” etc., special characters (\#, \$), and punctuations with spaces
+\end{itemize}
+
+
+Text Processing
+\begin{itemize}
+\item Each text file is preporcessed following some steps mentioned below in order.
+\item Remove URLs
+\item Remove numbers
+\item Remove punctuations, e.g., comma (,), semicolon (;), period (.), question (?), exclamatory
+sign (!)
+\item Remove stop words: Stop word list is downloaded from http://www.cs.memphis.edu/
+vrus/teaching/ir-websearch/papers/english.stopwords.txt and saved as stopwords.txt in
+the same directory of the script. Script needs this file to exclude all the words which is so
+frequent in the corpus that they do not contain significant information
+\item Convert each character to its lower case form.
+\item Remove special characters
+\item Apply stemming to find the morphological root form of the word. The Porter Stemming Algorithm is used.
+\end{itemize}
+
+\subsection{Inverted Index}
+Index is stored as a hash of hash where \textit{first level hash} is of \textbf{word} and \textit{second level} is \textbd{document id}. Value of the hash is term frequency (tf) of corresponding document. Term frequency is normalized by dividing tf by maximum tf of the document. Hash is stored in a file and everytime query program is run, this index file is loaded as hash of hash. The hash table is stored as a binary hash file, this reduces the running time of the search engine, since access time of binary hash file is very less.
+
+\subsection{Query Pre-processing}
+Query is treated same as a document. Each query token is preprocessed as described for the
+documents. However, weight calculation is little bit different which is discussed in the Design
+section. A perl script is written to show the relevant information. CGI-API is used to interface
+between the webserver and perl. An interface takes search query user and submit the form using
+HTTP GET method. The API calls the perl script, captures the output, and display results (as
+shown in Figure 3) in the page in descending order according to its relevance, that is in the
+descending order of the cosine score. Figure 2 depicts the view of the search engine. Document
+id should be linked to its URL. We also need maximum term frequency of document to
+normalize term frequency.

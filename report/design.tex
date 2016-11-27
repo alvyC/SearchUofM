@@ -1,0 +1,59 @@
+\label{sec:design}
+
+\subsection{Weight of Vector}
+Weight of document vector is defined as a product of term frequency, $tf$, and inverted document frequency, $idf$. Term frequency is defined as frequency of term in a document. However, term
+frequency is normalized by dividing it with maximum term frequency in the same document. On
+the other hand, document frequency, $df$, is defined as number of documents a term is found. If $df$ increases means that importance of the term is reduced. So it is logical to used N/df as idf, where N is the total number of documents in the corpus. However $N/df$ is a big number as compared to tf. So, $log_{10} (N/df)$ is used as $idf$ to dampen the effect relative to $tf$. So weight for a term $i$ in document $j$ is Equation~(\ref{eq:doc_val}).
+
+\begin{equation} \label{eq:doc_val}
+\begin{split}
+  w_{ij} & = tf_{ij} * idf_{ij} \\
+         & = tf_{ij} * log_{10} (N/df_i)
+\end{split}
+\end{equation}
+
+However, for query we are calculating weight using Equation~(\ref{eq:query_val})
+
+\begin{equation} \label{eq:query_val}
+\begin{split}
+  w_{iq} & = (0.5 + (0.5 * tf_{iq})) * log_{10} (N/df_i) \\
+         & = (0.5 + (0.5 * freq(i, q)/max_l(freq(l, q)))) * log_{10} (N/df_i)
+\end{split}
+\end{equation}
+
+\subsection{Similarity Measure}
+VSM utilizes similarity measures in order to rank the retrieved documents.
+
+\textbf{Euclidean Distance}: Euclidean distance between document vector ${d1}$ and query vector ${d2}$ is the length of vector, ${|d1 - d2|}$ Equation~(\ref{eq:euclid}).
+\begin{equation} \label{eq:euclid}
+\begin{split}
+  Euclidean Distance(X, Y) & = | X - Y| \\
+                           & = \sqrt{\sum_{i = 1}^{n} {(x_i - y_i)^2}}
+\end{split}
+\end{equation}
+It has the same limitation of Euclidean Distance, as it has lower limit of 0, but unlimited upper limit. So we are in need of a normalized version of score.
+
+\textbf{Inner Product}: Inner Product similarity between vectors for the document $d_i$ and query $q$ can be computed as the vector inner product. For binary vectors, the inner product is the number of matched query terms in the document (size of intersection). For weighted term vectors, it is the sum of the products of the weights of the matched terms.
+\begin{equation} \label{eq:inner_prod}
+\begin{split}
+  Inner Product(d_j, q) & = d_j \cdot q \\
+                           & = \sum_{i = 1}^{n} {|w_{ij} * w_{iq}|}
+\end{split}
+\end{equation}
+
+\textbf{Cosine Similarity}: Distance between document vector ${d1}$ and query vector ${d2}$ captured by the cosine of the angle ${x}$ between them. So it measures the similarity, not the distance. It is bounded between $0$ and $1$. So this is a normalized version of similarity score. So, longer documents do not get more weight. From Figure 1 we get the similarity between document vector ${D1}$ and query vector ${Q}$ is cosine of ${θ}$.
+
+\begin{equation}
+\begin{split}
+  Cosine Similarity(d_j, d_k) & = \frac{d_j \cdot d_k}{|d_j||d_k|} \\
+                              & = \frac{\sum_{i = 1}^{n} {w_{ij} * w_{ik}}}{\sqrt{\sum_{i = 1}^{n} w_{ij}^2}\sqrt{\sum_{i = 1}^{n} w_{ik}^2}}
+\end{split}
+\end{equation}
+
+\subsection{Morphological Variation}
+Words in the query may be a morphological variant of words in documents. Stemming [5] is a
+method to normalize all morphological variations to a canonical form, namely the base form of
+the word, aka stem. For example, \textbf{index} is the base form for \textbf{indexed} and \textbf{indexing}. The stem need not be identical to the morphological root of the word; it is usually sufficient that related
+words map to the same stem, even if this stem is not in itself a valid root. It reduces the number
+of distinct index terms and thus of the index. However, stemming is controversial from a
+performance point of view.
