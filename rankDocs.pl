@@ -16,16 +16,20 @@ my $fileExtension = ".txt";
 my %invertedIndex;
 my %idf;
 my %stopWordHash;
-my $query = "software engineering research";
+my $query = "Software Engineering Research";
 my $cgi = CGI->new;
 #my $query = $cgi->param("firstname");
 my %docVectorLength;
+my $queryVectorLength;
+my %score;
 my @outputLinks;
 
 &createInvertedIndex;
 #&computeIdf;
 #&printInvertedIndex;
-&computeDocumentVectorLength($query);
+&computeDocumentVectorLength();
+&rankDocs();
+print "\n";
 
 sub createInvertedIndex {
   my $documentNo = 1;
@@ -110,36 +114,80 @@ sub processQueryString {
 }
 
 sub computeDocumentVectorLength {
-  my ($query) = @_;
   $query = &processQueryString($query);
 
   my @queryWords = split(" ", $query);
 
-  my $i = 0;
-
-  for($i = 0; $i < @queryWords; $i++) {
-    print $queryWords[$i], "(df) = ";
+  for(my $i = 0; $i < @queryWords; $i++) {
     my $df = keys %{$invertedIndex{$queryWords[$i]}};
-    my $idf = log($totalNoDocs/ $df);
+    my $idf = log($totalNoDocs/ $df)/ log(10);
 
+    # compute document vector length
     foreach my $doc (keys %{$invertedIndex{$queryWords[$i]}}) {
-      my $tf = $invertedIndex{$queryWords[$i]}{$doc};
-      $docVectorLength{$doc} += ($tf * $idf);
+      my @array;
+      my $fullPath = $processedFileLocation . $doc;
+      #print $fullPath;
+      if (open(INFILE, $fullPath) || die("Can't open ", $fullPath, " for reading")) {
+        @array = <INFILE>;
+      }
+      close(INFILE);
+      #print @array;
+      my $j = 0;
+      while($j < @array) {
+        if ($j > 1) {
+          my @tokens = split(" ", $array[$j]);
+          foreach my $token (@tokens) {
+            my $tf = $invertedIndex{$token}{$doc};
+            #print "tf: ", $tf;
+            $docVectorLength{$doc} += (($tf * $idf)**2);
+          }
+        }
+        $j++;
+        #print "\n";
+      }
     }
-    print $queryWords[$i], "(idf) = ", $idf, "\n";
   }
 
-  foreach my $doc (sort { $docVectorLength{$b} <=> $docVectorLength{$a} } keys %docVectorLength) {
-    $docVectorLength{$doc} = sqrt($docVectorLength{$doc});
-    print $doc, ": " ,$docVectorLength{$doc}, ", ";
+  for(my $i = 0; $i < @queryWords; $i++) {
+    foreach my $doc (keys %{$invertedIndex{$queryWords[$i]}}) {
+      $docVectorLength{$doc} = sqrt($docVectorLength{$doc});
+      #print $docVectorLength{$doc}, " ";
+    }
+    #print "\n";
+  }
+}
+
+sub rankDocs {
+  @queryString = split(" ", $query);
+  foreach my $word (@queryString) {
+    my $df = keys %{$invertedIndex{$word}};
+    my $idf = log($totalNoDocs/ $df)/ log(10);
+    my $count = grep (/$word/, @queryString);
+    my $w = $count * $idf;
+    #print "w = ", $w, ", count = ", $count, ", idf: ", $idf;
+    foreach my $doc (keys %{$invertedIndex{$word}}) {
+      my $tf = $invertedIndex{$word}{$doc};
+      $score{$doc} += ($w * $idf * $tf);
+    }
+  }
+
+  print "\n";
+
+  foreach my $doc (%score) {
+    if ($docVectorLength{$doc}) {
+      $score{$doc} = $score{$doc}/ $docVectorLength{$doc};
+    }
+  }
+
+  foreach my $doc (sort { $score{$b} <=> $score{$a} } keys %score) {
     my @array;
     if (open(INFILE, $processedFileLocation . $doc) || die ("Can't open ", $doc, " for reading.")) {
       @array = <INFILE>;
     }
-    print $array[0], "\n";
+    print $array[0], "    score: ", $score{$doc}, "\n";
     push(@outputLinks, $array[0]); # first line of the file is the link
+    #$outputLinks{$array[0]} = $score{$doc};
   }
-  #print "\n";
 }
 
 # #Html Code
@@ -166,10 +214,10 @@ sub computeDocumentVectorLength {
 #   ";
 
 #   print "<table border=\"1\" align=\"center\">";
-#   print "<tr><th>Scores</th><th>Links</th></tr>";
-#   for($s=0; $s < @outputLinks; $s++) {
-#            print "<tr><td>$outputLinks[$s]</td>";
-#            print "<td><a href=\"$outputLinks[$s]\">$outputLinks[$s]</a></td></tr>";
-#       }
-#          print "</table>";
+#   print "<tr><th>scores</th><th>Links</th></tr>";
+#   for($s=0; $s < 50; $s++) {
+#     print "<tr><td>$outputLinks[$s]</td>";
+#     print "<td><a href=\"$outputLinks[$s]\">$outputLinks[$s]</a></td></tr>";
+#   }
+#   print "</table>";
 # print "<\/DIV><\/body><\/HTML>";

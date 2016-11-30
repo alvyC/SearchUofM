@@ -1,1 +1,19 @@
 \label{sec:results}
+Three evaluaton metrics have been used
+
+Precision
+\begin{equation}
+  P = \frac{{Number of Relevant document retrieved}}{{Total number of documents retrieved}}
+\end{equation}
+
+Recall
+\begin{equation}
+  R = \frac{{Number of Relevant document retrieved}}{{Total number of Relevant documents}}
+\end{equation}
+
+F-Measure (Harlmonic mean of recall and precision)
+\begin{equation}
+  F = \frac{2}{\frac{1}{P} + \frac{1}{R}}
+\end{equation}
+
+For obtaining a dependable recall, we have considered the google search for Memphis.edu as the gold standard for the total relevant documents retrieved. The table below describes the results obtained for each query. We have considered the top 50 (in descending order of cosine score) documents for evaluation. Relevant count column shows the total number of relevant documents retrieved by the search engine. The three metrics, precision, recall, f-measure are also shown for each of the 10 queries.
