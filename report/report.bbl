@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{info-retr-online}
+Frederick~Wilfrid Lancaster and Emily Gallup.
+\newblock Information retrieval on-line.
+\newblock Technical report, 1973.
+
+\bibitem{stem-algo}
+Julie~B Lovins.
+\newblock {\em Development of a stemming algorithm}.
+\newblock MIT Information Processing Group, Electronic Systems Laboratory
+  Cambridge, 1968.
+
+\bibitem{ext-boolean}
+Gerard Salton, Edward~A Fox, and Harry Wu.
+\newblock Extended boolean information retrieval.
+\newblock {\em Communications of the ACM}, 26(11):1022--1036, 1983.
+
+\bibitem{vector-space-model}
+Gerard Salton, Anita Wong, and Chung-Shu Yang.
+\newblock A vector space model for automatic indexing.
+\newblock {\em Communications of the ACM}, 18(11):613--620, 1975.
+
+\end{thebibliography}

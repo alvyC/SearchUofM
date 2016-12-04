@@ -11,17 +11,17 @@ type is not used because it can be misleading due to poor implementation in serv
 the URL controller ends with .pdf it is considered as pdf file, and ending with .txt it is considered as text file.
 
 \subsection{Preprocessing}
-HTML File Processing
+\subsubsection{HTML File Processing}
 \begin{itemize}
 \item Remove html comments.
 \item Remove JavaScript snippet.
 \item Strip html tags.
 \item Remove URLs from html file.
-\item Replace html special characters like, “&nbsp;”, “&amp;” etc., special characters (\#, \$), and punctuations with spaces
+\item Replace html special characters like, “\&nbsp;”, “\&amp;” etc., special characters (\#, \$), and punctuations with spaces
 \end{itemize}
 
 
-Text Processing
+\subsubsection{Text Processing}
 \begin{itemize}
 \item Each text file is preporcessed following some steps mentioned below in order.
 \item Remove URLs
@@ -38,7 +38,7 @@ frequent in the corpus that they do not contain significant information
 \end{itemize}
 
 \subsection{Inverted Index}
-Index is stored as a hash of hash where \textit{first level hash} is of \textbf{word} and \textit{second level} is \textbd{document id}. Value of the hash is term frequency (tf) of corresponding document. Term frequency is normalized by dividing tf by maximum tf of the document. Hash is stored in a file and everytime query program is run, this index file is loaded as hash of hash. The hash table is stored as a binary hash file, this reduces the running time of the search engine, since access time of binary hash file is very less.
+Index is stored as a hash of hash where \textit{first level hash} is of \textbf{word} and \textit{second level} is \textbf{document id}. Value of the hash is term frequency (tf) of corresponding document. Term frequency is normalized by dividing tf by maximum tf of the document. Hash is stored in a file and everytime query program is run, this index file is loaded as hash of hash. The hash table is stored as a binary hash file, this reduces the running time of the search engine, since access time of binary hash file is very less.
 
 \subsection{Query Pre-processing}
 Query is treated same as a document. Each query token is preprocessed as described for the

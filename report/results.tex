@@ -1,19 +1,46 @@
 \label{sec:results}
-Three evaluaton metrics have been used
+Precision, recall, and F-measure are used as evaluation matrics.
 
-Precision
+Precision, P (also called positive predictive value), is the fraction of retrieved instances that are relevant, while recall, R (also known as sensitivity), is the fraction of relevant instances that are retrieved. Both precision and recall are therefore based on an understanding and measure of relevance. F-Measure (F) is the harlmonic mean of recall and precision.
+
 \begin{equation}
-  P = \frac{{Number of Relevant document retrieved}}{{Total number of documents retrieved}}
+  P = \frac{{Number\ of\ Relevant\ document\ retrieved}}{{Total\ number\ of\ documents\ retrieved}}
 \end{equation}
 
-Recall
 \begin{equation}
-  R = \frac{{Number of Relevant document retrieved}}{{Total number of Relevant documents}}
+  R = \frac{{Number\ of\ Relevant\ document\ retrieved}}{{Total\ number\ of\ Relevant\ documents}}
 \end{equation}
 
-F-Measure (Harlmonic mean of recall and precision)
 \begin{equation}
   F = \frac{2}{\frac{1}{P} + \frac{1}{R}}
 \end{equation}
 
 For obtaining a dependable recall, we have considered the google search for Memphis.edu as the gold standard for the total relevant documents retrieved. The table below describes the results obtained for each query. We have considered the top 50 (in descending order of cosine score) documents for evaluation. Relevant count column shows the total number of relevant documents retrieved by the search engine. The three metrics, precision, recall, f-measure are also shown for each of the 10 queries.
+
+\begin{center}
+ \begin{tabular}{|p{0.5cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+ \hline
+   & \textbf{Query} & \textbf{Search Result} & \textbf{Relevant Count} & \textbf{Ground Truth (Google)} & \textbf{Precision} & \textbf{Recall} & \textbf{F-Measure} \\ [0.5ex]
+ \hline\hline
+ 1 & Career Service Memphis & 50 & 34 & 7500 & 0.68 & 0.005 & 0.01 \\
+ \hline
+ 2 & Software Engineering Research & 50 & 12 & 722 & 0.24 & 0.02 & 0.04 \\
+ \hline
+ 3 & Cookie & 16 & 15 & 65 & 0.94 & 0.23 & 0.37 \\
+ \hline
+ 4 & President of the University & 50 & 21 & 13100 & 0.42 & 0.002 & 0.004 \\
+ \hline
+ 5 & Computer Science Research Awards & 50 & 43 & 617 & 0.86 & 0.07 & 0.13 \\
+ \hline
+ 6 & Semantic Similarity & 50 & 25 & 92 & 0.5 & 0.27 & 0.35 \\
+ \hline
+ 7 & Tiger Bike's Current Offer & 50 & 15 & 71 & 0.3 & 0.21 & 0.25 \\
+ \hline
+ 8 & Tiger Bioinformatics Internship & 50 & 48 & 80 & 0.96 & 0.6 & 0.74 \\
+ \hline
+ 9 & How to graduate with honors? & 50 & 48 & 9130 & 0.96 & 0.005 & 0.01 \\
+ \hline
+ 10 & Who teaches web search? & 50 & 20 & 350 & 0.4 & 0.06 & 0.1 \\
+ \hline
+\end{tabular}
+\end{center}

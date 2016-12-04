@@ -6,7 +6,7 @@ the most appropriate one.
 
 \subsection{Boolean Model}
 \label{sec:boolean}
-Boolean model [2] depends on set operation. Documents are represented as a set of keywords.
+Boolean model \cite{info-retr-online} depends on set operation. Documents are represented as a set of keywords.
 User queries are expressed as Boolean expression of keywords connected by AND, OR, and
 NOT while brackets are used to indicate scope. For example a query is like below:
 
@@ -22,9 +22,9 @@ limitations:
 \item \textbf{Secondly}, it is difficult to express complex user queries for peoples
 with limited knowledge about set operation.
 \item \textbf{Thridly},  it is difficult to incorporate relevance feedback via query modification
-\item \textbf{Fourthly}, Basic Boolean Model does not support to order the search result according to the relevance score with search query. However, Boolean Model can be extended to support this ranking [3]. Given the limitation of Boolean Model we need to pick some model which can distinguish important words in a document for weighted comparison. We need a similarity measure between document and user query
+\item \textbf{Fourthly}, Basic Boolean Model does not support to order the search result according to the relevance score with search query. However, Boolean Model can be extended to support this ranking \cite{ext-boolean}. Given the limitation of Boolean Model we need to pick some model which can distinguish important words in a document for weighted comparison. We need a similarity measure between document and user query
 \item \textbf{Lastly}, we need a way to incorporate relevance feedback of user via
-query modification. This leads to Vector Space Model(Section~\ref{sssec:vsm-desc}).
+query modification. This leads to Vector Space Model.
 \end{itemize}
 
 \begin{figure}
@@ -36,7 +36,7 @@ query modification. This leads to Vector Space Model(Section~\ref{sssec:vsm-desc
 
 \subsection{Vector Space Model}
 \label{sec:vsm-desc}
-Vector Space Model [4] is also known as Term Vector Model. It is an algebraic model for
+Vector Space Model \cite{vector-space-model} is also known as Term Vector Model. It is an algebraic model for
 representing text documents as vectors of terms where a weight is associated with each term
 dimension. User query on the other hand is also represented as a vector of terms. A similarity
 score like, Euclidian Distance, Manhattan Distance, Inner Product, or Cosine can be used to
