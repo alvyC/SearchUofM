@@ -336,8 +336,11 @@ LaTeX Info: Redefining \nameref on input line 29.
 \openout3 = `report.out'.
 
  (./introduction.tex) (./approach.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
 
+LaTeX Warning: Citation `info-retr-online' on page 1 undefined on input line 9.
+
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
@@ -346,19 +349,38 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
  [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figures/vsm.png, id=89, 278.03876pt x 182.6825pt>
+
+LaTeX Warning: Citation `ext-boolean' on page 2 undefined on input line 25.
+
+
+LaTeX Warning: Reference `sssec:vsm-desc' on page 2 undefined on input line 27.
+
+
+<figures/vsm.png, id=78, 278.03876pt x 182.6825pt>
 File: figures/vsm.png Graphic file (type png)
  <use figures/vsm.png>
 Package pdftex.def Info: figures/vsm.png used on input line 32.
 (pdftex.def)             Requested size: 234.87749pt x 154.32751pt.
+
+
+LaTeX Warning: Citation `vector-space-model' on page 2 undefined on input line 
+39.
+
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-)
-(./design.tex [2 <./figures/vsm.png>]
+) (./design.tex [2 <./figures/vsm.png>]
 Missing character: There is no Œ in font cmr10!
 Missing character: There is no ∏ in font cmr10!
- [3]) (./implementation.tex
+ [3]
+
+LaTeX Warning: Citation `stem-algo' on page 4 undefined on input line 54.
+
+) (./implementation.tex
+! Undefined control sequence.
+l.14 \subsubsecton
+                  {HTML File Processing}
+? 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -371,7 +393,7 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [4]
+[4]
 Overfull \hbox (41.9756pt too wide) in paragraph at lines 31--35
 []\OT1/cmr/m/n/10.95 Remove stop words: Stop word list is down-loaded from http
 ://www.cs.memphis.edu/ vrus/teaching/ir-
@@ -423,28 +445,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
-\OT1/cmr/m/n/10.95 Sci-ence
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
-\OT1/cmr/m/n/10.95 Re-search
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-[]\OT1/cmr/m/n/10.95 Semantic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
-[]\OT1/cmr/m/n/10.95 Tiger
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
-\OT1/cmr/m/n/10.95 Bioin-for-
+Underfull \hbox (badness 10000) in pa/n/10.95 Bioin-for-
  []
 
 
@@ -482,31 +483,45 @@ Overfull \hbox (38.80989pt too wide) in paragraph at lines 21--46
  [] 
  []
 
-) (./future_work.tex [6]) (./report.bbl)
+) (./future_work.tex [6])
+No file report.bbl.
+
+! LaTeX Error: \begin{itemize} on input line 3 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{document}
+                   
+? 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
- [7]
+[7]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
- (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 61.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: CF8BBBCCF5D9B4D96A4E83431F14EBD1;1011.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 61.
- ) 
+ (./report.aux
+! Extra }, or forgotten \endgroup.
+l.50 }
+      {{5}{5}{Result}{section.5}{}}
+? 
+! Emergency stop.
+l.50 }
+      {{5}{5}{Result}{section.5}{}}
+End of file on the terminal!
+
+ 
 Here is how much of TeX's memory you used:
- 6165 strings out of 493117
- 89871 string characters out of 6135433
- 186752 words of memory out of 5000000
- 9507 multiletter control sequences out of 15000+600000
+ 6151 strings out of 493117
+ 89639 string characters out of 6135433
+ 186610 words of memory out of 5000000
+ 9502 multiletter control sequences out of 15000+600000
  10582 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
+ 30i,17n,35p,590b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
+ions out of 8191
  30i,17n,35p,590b,388s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+!  ==> Fatal error occurred, no output PDF file produced!
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
 sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 /local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
 ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc

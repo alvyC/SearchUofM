@@ -16,9 +16,9 @@ my $fileExtension = ".txt";
 my %invertedIndex;
 my %idf;
 my %stopWordHash;
-my $query = "Software Engineering Research";
 my $cgi = CGI->new;
-#my $query = $cgi->param("firstname");
+my $query = $cgi->param("firstname");
+#my $query = "Software Engineering Research";
 my %docVectorLength;
 my $queryVectorLength;
 my %score;
@@ -28,7 +28,7 @@ my @outputLinks;
 #&computeIdf;
 #&printInvertedIndex;
 &computeDocumentVectorLength();
-&rankDocs();
+&rankDoc();
 print "\n";
 
 sub createInvertedIndex {
@@ -157,7 +157,7 @@ sub computeDocumentVectorLength {
   }
 }
 
-sub rankDocs {
+sub rankDoc {
   @queryString = split(" ", $query);
   foreach my $word (@queryString) {
     my $df = keys %{$invertedIndex{$word}};
@@ -171,7 +171,7 @@ sub rankDocs {
     }
   }
 
-  print "\n";
+  #print "\n";
 
   foreach my $doc (%score) {
     if ($docVectorLength{$doc}) {
@@ -184,40 +184,38 @@ sub rankDocs {
     if (open(INFILE, $processedFileLocation . $doc) || die ("Can't open ", $doc, " for reading.")) {
       @array = <INFILE>;
     }
-    print $array[0], "    score: ", $score{$doc}, "\n";
+    #print $array[0], "    score: ", $score{$doc}, "\n";
     push(@outputLinks, $array[0]); # first line of the file is the link
     #$outputLinks{$array[0]} = $score{$doc};
   }
 }
 
-# #Html Code
-# print $cgi->header( "text/html" );
-#   print "<HTML><HEAD><TITLE>Search Result<\/TITLE><\/HEAD>
-#   <DIV id=\"loginContent\" style=\"text-align:center;\">
-#          <div id=\"loginResult\" style=\"display:none;\"></div>";
-#   print "
-#   <form id=\"loginForm\" name=\"loginForm\" method=\"post\" action=\"rankDocs.pl\">
-#         <fieldset>
-#             <legend><b><font size=\"6\">Search Engine</font></legend>
-#             <p>
-#             <label for=\"firstname\"><b><font size=\"3\">Enter Query</font></b></label>
-#             <br>
-#             <input type=\"text\" id=\"firstname\" name=\"firstname\" class=\"text\" size=\"50\" />
-#             </p>
-#             <p>
-#             <button type=\"submit\" class=\"button positive\">
-#              Bravo Tiger
-#             </button>
-#             </p>
-#         </fieldset>
-#         </form>
-#   ";
+  print "<html><head><title>Search Result<\/title><\/head><body>
+  <DIV id=\"loginContent\" style=\"text-align:center;\">
+         <div id=\"loginResult\" style=\"display:none;\"></div>";
+  print "
+    <form id=\"loginForm\" name=\"loginForm\" method=\"post\" action=\"rankDocs.pl\">
+        <fieldset>
+            <legend><b><font size=\"6\">Search UofM</font></legend>
+            <p>
+            <label for=\"firstname\"><b><font size=\"3\">Enter Query</font></b></label>
+            <br>
+            <input type=\"text\" id=\"firstname\" name=\"firstname\" class=\"text\" size=\"50\" />
+            </p>
+            <p>
+            <button type=\"submit\" class=\"button positive\">
+             Bravo Tiger
+            </button>
+            </p>
+        </fieldset>
+        </form>
+  ";
 
-#   print "<table border=\"1\" align=\"center\">";
-#   print "<tr><th>scores</th><th>Links</th></tr>";
-#   for($s=0; $s < 50; $s++) {
-#     print "<tr><td>$outputLinks[$s]</td>";
-#     print "<td><a href=\"$outputLinks[$s]\">$outputLinks[$s]</a></td></tr>";
-#   }
-#   print "</table>";
-# print "<\/DIV><\/body><\/HTML>";
+ print "<table border=\"1\" align=\"center\">";
+ print "<tr><th>Names</th><th>Links</th></tr>";
+ for($s=0; $s < @outputLinks; $s++) {
+    print "<tr><td>$outputLinks[$s]</td>";
+    print "<td><a href=\"$outputLinks[$s]\">$outputLinks[$s]</a></td></tr>";
+ }
+ print "</table>";
+ print "<\/DIV><\/body><\/html>";
