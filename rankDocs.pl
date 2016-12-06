@@ -22,7 +22,7 @@ my $query = $cgi->param("firstname");
 my %docVectorLength;
 my $queryVectorLength;
 my %score;
-my @outputLinks;
+my %outputLinks;
 
 &createInvertedIndex;
 #&computeIdf;
@@ -185,8 +185,8 @@ sub rankDoc {
       @array = <INFILE>;
     }
     #print $array[0], "    score: ", $score{$doc}, "\n";
-    push(@outputLinks, $array[0]); # first line of the file is the link
-    #$outputLinks{$array[0]} = $score{$doc};
+    #push(@outputLinks, $array[0]); # first line of the file is the link
+    $outputLinks{$array[0]} = $score{$doc};
   }
 }
 
@@ -212,10 +212,10 @@ sub rankDoc {
   ";
 
  print "<table border=\"1\" align=\"center\">";
- print "<tr><th>Names</th><th>Links</th></tr>";
- for($s=0; $s < @outputLinks; $s++) {
-    print "<tr><td>$outputLinks[$s]</td>";
-    print "<td><a href=\"$outputLinks[$s]\">$outputLinks[$s]</a></td></tr>";
+ print "<tr><th>Score</th><th>Links</th></tr>";
+ for my $link (keys %outputLinks) {
+    print "<tr><td>$outputLinks{$link}</td>";
+    print "<td><a href=\"$link\">$link</a></td></tr>";
  }
  print "</table>";
  print "<\/DIV><\/body><\/html>";
