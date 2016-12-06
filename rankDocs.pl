@@ -18,7 +18,7 @@ my %idf;
 my %stopWordHash;
 my $cgi = CGI->new;
 my $query = $cgi->param("firstname");
-#my $query = "Software Engineering Research";
+#my $query = "Muktadir Chowdhury";
 my %docVectorLength;
 my $queryVectorLength;
 my %score;
@@ -29,6 +29,7 @@ my %outputLinks;
 #&printInvertedIndex;
 &computeDocumentVectorLength();
 &rankDoc();
+
 print "\n";
 
 sub createInvertedIndex {
@@ -173,12 +174,13 @@ sub rankDoc {
 
   #print "\n";
 
-  foreach my $doc (%score) {
+  foreach my $doc (keys %score) {
     if ($docVectorLength{$doc}) {
       $score{$doc} = $score{$doc}/ $docVectorLength{$doc};
     }
   }
 
+  $noOflink = 1;
   foreach my $doc (sort { $score{$b} <=> $score{$a} } keys %score) {
     my @array;
     if (open(INFILE, $processedFileLocation . $doc) || die ("Can't open ", $doc, " for reading.")) {
@@ -187,35 +189,40 @@ sub rankDoc {
     #print $array[0], "    score: ", $score{$doc}, "\n";
     #push(@outputLinks, $array[0]); # first line of the file is the link
     $outputLinks{$array[0]} = $score{$doc};
+    $noOflink++;
+
+    if ($noOflink == 50) { # get the highest scored 50 links
+      last;
+    }
   }
 }
 
-  print "<html><head><title>Search Result<\/title><\/head><body>
-  <DIV id=\"loginContent\" style=\"text-align:center;\">
-         <div id=\"loginResult\" style=\"display:none;\"></div>";
-  print "
-    <form id=\"loginForm\" name=\"loginForm\" method=\"post\" action=\"rankDocs.pl\">
-        <fieldset>
-            <legend><b><font size=\"6\">Search UofM</font></legend>
-            <p>
-            <label for=\"firstname\"><b><font size=\"3\">Enter Query</font></b></label>
-            <br>
-            <input type=\"text\" id=\"firstname\" name=\"firstname\" class=\"text\" size=\"50\" />
-            </p>
-            <p>
-            <button type=\"submit\" class=\"button positive\">
-             Bravo Tiger
-            </button>
-            </p>
-        </fieldset>
-        </form>
-  ";
+print "<html><head><title>Search Result<\/title><\/head><body>
+<DIV id=\"loginContent\" style=\"text-align:center;\">
+       <div id=\"loginResult\" style=\"display:none;\"></div>";
+print "
+  <form id=\"loginForm\" name=\"loginForm\" method=\"post\" action=\"rankDocs.pl\">
+      <fieldset>
+          <legend><b><font size=\"6\">Search UofM</font></legend>
+          <p>
+          <label for=\"firstname\"><b><font size=\"3\">Enter Query</font></b></label>
+          <br>
+          <input type=\"text\" id=\"firstname\" name=\"firstname\" class=\"text\" size=\"50\" />
+          </p>
+          <p>
+          <button type=\"submit\" class=\"button positive\">
+           Search
+          </button>
+          </p>
+      </fieldset>
+      </form>
+";
 
- print "<table border=\"1\" align=\"center\">";
- print "<tr><th>Score</th><th>Links</th></tr>";
- for my $link (keys %outputLinks) {
-    print "<tr><td>$outputLinks{$link}</td>";
-    print "<td><a href=\"$link\">$link</a></td></tr>";
- }
- print "</table>";
- print "<\/DIV><\/body><\/html>";
+print "<table border=\"1\" align=\"center\">";
+print "<tr><th>Score</th><th>Links</th></tr>";
+foreach my $link (sort { $outputLinks{$b} <=> $outputLinks{$a} } keys %outputLinks) {
+  print "<tr><td>$outputLinks{$link}</td>";
+  print "<td><a href=\"$link\">$link</a></td></tr>";
+}
+print "</table>";
+print "<\/DIV><\/body><\/html>";
